@@ -1,0 +1,10 @@
+abilist=x86_64,arm64-v8a
+abilist32=[]
+zygote=zygote64
+/workspace/project/ca472fe0d86c46cea499aaeb79a65fd8/artifacts/Fireman_1.0.9_final.apk: 1 file pushed, 0 skipped. 40.2 MB/s (23583364 bytes in 0.560s)
+--- attempt 1 ---
+cmd: Can't find service: package
+--- attempt 2 ---
+Failure [INSTALL_FAILED_NO_MATCHING_ABIS: INSTALL_FAILED_NO_MATCHING_ABIS: Failed to extract native libraries, res=-113]
+RESULT: BLOCKED_NO_MATCHING_ABIS
+ONLY64 DONE

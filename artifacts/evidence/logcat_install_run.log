@@ -1,0 +1,10 @@
+restarting adbd as root
+Success
+artifacts/Fireman_1.0.9_final.apk: 1 file pushed, 0 skipped. 3.1 MB/s (23583364 bytes in 7.337s)
+Success
+--- install done ---
+    versionName=1.0.9
+    signatures=PackageSignatures{657fee0 version:3, signatures:[a5167191], past signatures:[]}
+Starting: Intent { cmp=com.magmamobile.game.Fireman/up.PluginActivity }
+t=60s pid=4576
+t=120s pid=4576

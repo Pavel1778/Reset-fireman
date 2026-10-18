@@ -1,0 +1,33 @@
+adbd is already running as root
+Package com.google.android.gms new state: disabled-user
+Package com.android.vending new state: disabled-user
+Package com.google.android.apps.nexuslauncher new state: disabled-user
+Package com.google.android.inputmethod.latin new state: disabled-user
+Package com.android.dialer new state: disabled-user
+Package com.google.android.googlequicksearchbox new state: disabled-user
+Package com.google.android.youtube new state: disabled-user
+Package com.google.android.apps.photos new state: disabled-user
+########## attempt 1 ##########
+Starting: Intent { cmp=com.magmamobile.game.Fireman/up.PluginActivity }
+pid= alive_streak=0
+########## attempt 2 ##########
+Starting: Intent { cmp=com.magmamobile.game.Fireman/up.PluginActivity }
+pid=13213 alive_streak=6
+/sdcard/a.png: 1 file pulled, 0 skipped. 3.0 MB/s (42274 bytes in 0.013s)
+--- crash scan ---
+10-18 17:00:16.984 13213 13213 W le.game.Firema: Unexpected CPU variant for X86 using defaults: x86_64
+10-18 17:00:17.021 13213 13213 I ndk_translation: Initialized NDK translation (armv7l), version 0.2.2
+10-18 17:00:21.068 13213 13228 I le.game.Firema: Background young concurrent copying GC freed 5586(344KB) AllocSpace objects, 0(0B) LOS objects, 93% free, 1713KB/25MB, paused 5.984ms total 80.767ms
+10-18 17:00:21.297 13213 13213 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-18 17:00:21.349 13213 13213 I le.game.Firema: The ClassLoaderContext is a special shared library.
+10-18 17:00:23.432 13213 13213 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-18 17:00:23.450 13213 13213 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-18 17:00:23.478 13213 13213 I MultiDex: VM with version 2.1.0 has multidex support
+10-18 17:00:23.478 13213 13213 I MultiDex: install
+10-18 17:00:23.478 13213 13213 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+10-18 17:00:23.518 13213 13213 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-18 17:00:23.968 13213 13213 I GAv4    : Google Analytics 9.8.77 is starting up. To enable debug logging on a device run:
+10-18 17:00:23.968 13213 13213 I GAv4    :   adb shell setprop log.tag.GAv4 DEBUG
+10-18 17:00:23.968 13213 13213 I GAv4    :   adb logcat -s GAv4
+10-18 17:00:25.023 13213 13240 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+RUN DONE

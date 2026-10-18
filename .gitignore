@@ -1,0 +1,21 @@
+# Build/tooling directories — not part of the project
+sdk/
+work/
+extracted/
+original/
+logs/
+Reset-fireman/
+
+# Local copies of build outputs: the verified APK is attached to the GitHub
+# Release, so it does not need to be committed again.
+artifacts/*.apk
+artifacts/*.zip
+artifacts/*.idsig
+artifacts/SHA256SUMS.txt
+Fireman_1.0.9_final.apk
+*.keystore
+
+# Scratch
+.agent_tmp/
+*.pyc
+__pycache__/

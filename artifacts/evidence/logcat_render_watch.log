@@ -1,0 +1,9 @@
+t=45s pid=13213 utime=7371 stime=9570 focus=  mCurrentFocus=Window{a9545cb u0 com.magmamobile.game.Fireman/up.PluginActivity}
+t=90s pid=13213 utime=10333 stime=14444 focus=  mCurrentFocus=Window{a9545cb u0 com.magmamobile.game.Fireman/up.PluginActivity}
+t=135s pid=13213 utime=13579 stime=20333 focus=  mCurrentFocus=Window{a9545cb u0 com.magmamobile.game.Fireman/up.PluginActivity}
+t=180s pid=13213 utime=16813 stime=26952 focus=  mCurrentFocus=Window{a9545cb u0 com.magmamobile.game.Fireman/up.PluginActivity}
+t=225s pid=13213 utime=21074 stime=33279 focus=  mCurrentFocus=Window{a9545cb u0 com.magmamobile.game.Fireman/up.PluginActivity}
+t=270s pid=13213 utime=24509 stime=38324 focus=  mCurrentFocus=Window{a9545cb u0 com.magmamobile.game.Fireman/up.PluginActivity}
+t=315s pid=13213 utime=27891 stime=43244 focus=  mCurrentFocus=Window{a9545cb u0 com.magmamobile.game.Fireman/up.PluginActivity}
+t=360s pid=13213 utime=31688 stime=48540 focus=  mCurrentFocus=Window{a9545cb u0 com.magmamobile.game.Fireman/up.PluginActivity}
+WATCH DONE
