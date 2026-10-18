@@ -1,0 +1,30 @@
+Three-way install test on a genuine 64-bit-only Android image
+==============================================================
+Device: Android 14 (API 34) emulator, abilist32 = (empty), ro.zygote = zygote64
+
+APK 1: Fireman_Install_Probe.apk    (NO native libraries, targetSdk 34)
+APK 2: Fireman_ABI_Check.apk        (NO native libraries, targetSdk 34)
+APK 3: Fireman_1.0.9_final.apk      (armeabi-v7a native libraries, targetSdk 27)
+
+Results:
+  APK 1 -> Performing Incremental Install / Success
+  APK 2 -> Success
+  APK 3 -> Failure [INSTALL_FAILED_NO_MATCHING_ABIS:
+           Failed to extract native libraries, res=-113]
+
+Interpretation
+--------------
+Two APKs with NO native code install fine on this 64-bit-only device, including
+one targeting SDK 34. So the platform does not block sideloading in general, and
+the targetSdk rule is not involved (the game targets 27, above the API 24 floor
+for Android 15/16).
+
+The only APK that fails is the one carrying armeabi-v7a libraries, and it fails
+with NO_MATCHING_ABIS. That isolates the cause completely: the device has no
+32-bit userspace, so a 32-bit-only APK cannot be installed.
+
+Consequence for a real phone showing "not compatible with your device":
+  - If Fireman_Install_Probe.apk INSTALLS on the phone -> the phone is simply
+    64-bit-only, and the game must run inside a 32-bit capable VM (VPhoneOS).
+  - If Fireman_Install_Probe.apk does NOT install -> the block is at firmware
+    level (Play Protect, Advanced Protection, or HiOS anti-tamper), not ABI.
