@@ -184,3 +184,33 @@ ARMv7-сборки упадёт с `INSTALL_FAILED_NO_MATCHING_ABIS` — как 
 - `scripts/run_game.sh`, `scripts/watch_render.sh`, `scripts/final_test.sh` —
   запуск и наблюдение за игрой на эмуляторе.
 - `scripts/test_only64.sh` — воспроизведение блокера на 64-бит-only образе.
+
+
+## Addendum: why the APK is rejected on a modern phone (decisive test)
+
+The user reported the APK would not install on a real device. A controlled test
+on a genuine 64-bit-only image settled the cause.
+
+Rule tested: Android 14 requires targetSdk >= 23, Android 15 and 16 require
+targetSdk >= 24 to install, otherwise the install fails with
+`INSTALL_FAILED_DEPRECATED_SDK_VERSION`. **Fireman 1.0.9 has targetSdkVersion 27,
+which is above the floor, so this rule does not apply to it.**
+
+On the 64-bit-only emulator (`abilist32=[]`, `ro.zygote=zygote64`, API 34):
+
+| Test | Result |
+|---|---|
+| `Fireman_ABI_Check.apk` (no native libraries) | **installs fine** |
+| `Fireman_1.0.9_final.apk` (armeabi-v7a) | fails: `INSTALL_FAILED_NO_MATCHING_ABIS ... res=-113` |
+| `--abi arm64-v8a` forced | same `NO_MATCHING_ABIS` failure |
+
+The error code is the proof. A targetSdk problem would report
+`DEPRECATED_SDK_VERSION`; we get `NO_MATCHING_ABIS`. And an APK with no native
+code installs on the very same device, which rules out any general block on old
+apps. Full log: `artifacts/evidence/why_apk_rejected_64bit_only.txt`.
+
+**Conclusion:** the blocker is the absent 32-bit userspace. No edit to the APK
+can change that. Practical fixes are in `SOLUTIONS.md`; the working no-root
+method is the VPhoneOS Android 7.1.2 virtual machine, which provides a 32-bit
+userspace inside the phone. `Fireman_ABI_Check.apk` lets a user confirm their
+own device in one step.

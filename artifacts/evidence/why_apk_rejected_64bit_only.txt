@@ -1,0 +1,69 @@
+Fireman 1.0.9 — why the APK was rejected: decisive test evidence
+================================================================
+
+Goal
+----
+Prove whether the install failure on a modern 64-bit-only phone is caused by
+(a) the ABI (32-bit-only native libraries), or
+(b) the Android 15/16 targetSdkVersion floor.
+
+Rule being tested (documented by Google / Jason Bayton's matrix):
+  Android 14  -> apps must target >= API 23 to install
+  Android 15  -> apps must target >= API 24
+  Android 16  -> apps must target >= API 24 (unchanged)
+  Failure is INSTALL_FAILED_DEPRECATED_SDK_VERSION.
+  Fireman 1.0.9 has targetSdkVersion = 27, which is >= 24,
+  so this rule CANNOT be the cause.
+
+Test device: Android 14 (API 34) emulator "only64", a genuine 64-bit-only image.
+------------------------------------------------------------------------------
+getprop ro.product.cpu.abilist    -> x86_64,arm64-v8a
+getprop ro.product.cpu.abilist32  -> (empty)
+getprop ro.zygote                 -> zygote64
+getprop ro.build.version.sdk      -> 34
+------------------------------------------------------------------------------
+
+TEST 1 - Diagnostic app, NO native libraries (Fireman_ABI_Check.apk)
+--------------------------------------------------------------------
+$ adb install -r Fireman_ABI_Check.apk
+Performing Incremental Install
+Success
+Install command complete in 109296 ms
+=> RESULT: PASS. An APK with no native code installs fine on a 64-bit-only
+   device. So the platform is not blocking installs in general, and targetSdk
+   is not the problem.
+
+TEST 2 - Fireman_1.0.9_final.apk (armeabi-v7a native libraries)
+---------------------------------------------------------------
+$ adb install Fireman_1.0.9_final.apk
+Performing Streamed Install
+adb: failed to install Fireman_1.0.9_final.apk: Failure
+[INSTALL_FAILED_NO_MATCHING_ABIS: INSTALL_FAILED_NO_MATCHING_ABIS:
+ Failed to extract native libraries, res=-113]
+=> RESULT: FAIL, and the error is NO_MATCHING_ABIS, NOT DEPRECATED_SDK_VERSION.
+
+TEST 3 - Force the 64-bit ABI explicitly
+----------------------------------------
+$ adb install --abi arm64-v8a Fireman_1.0.9_final.apk
+adb: failed to install Fireman_1.0.9_final.apk: Failure
+[INSTALL_FAILED_NO_MATCHING_ABIS: ... res=-113]
+=> Same result. The APK contains no arm64 libraries, so no arm64 install path
+   exists.
+
+CONCLUSION
+----------
+The failure is 100% caused by the missing 32-bit userspace (ABI), not by the
+targetSdkVersion rule. The error code proves it:
+  - targetSdk block would say INSTALL_FAILED_DEPRECATED_SDK_VERSION
+  - we get INSTALL_FAILED_NO_MATCHING_ABIS
+Also, an APK with no native libraries installs fine on the same device
+(TEST 1), which rules out a general "old app" block.
+
+Therefore NO modification of the APK can make it install on a 64-bit-only
+phone. The only fixes are to provide a 32-bit-capable environment (a device
+that supports armeabi-v7a, or a VM such as VPhoneOS), or to rebuild the game
+from source as 64-bit (impossible: no source, Unity 5.3.8f1 Mono has no
+Android ARM64 support).
+
+Reference: Android 15/16 minimum targetSdkVersion matrix
+https://bayton.org/android/android-minimum-targetsdk-matrix/
