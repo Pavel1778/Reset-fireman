@@ -1,0 +1,573 @@
+msgid "app_name"
+msgstr "Pompier"
+
+msgid "Share"
+msgstr "Îmi place joc %1s ! Am foarte recomandăm să vă descărcați : %2s"
+
+msgid "rate the game"
+msgstr "Dati o nota jocullui"
+
+msgid "You seem to be enjoying the game"
+msgstr "Se pare a se bucura de {0} la fel de mult ca ne-am bucurat în curs de dezvoltare o. Mulțumesc. Te-ar deranja ne ajută de a lua ceva timp pentru a adăuga un rating pozitiv în pagina de joc?"
+
+msgid "res_harder"
+msgstr "Încercați să joc în modul de greu!\nEsti gata pentru a reda...\ntoate nivelurile?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "Junglă"
+
+msgid "res_achiev12_title"
+msgstr "Senior Captain"
+
+msgid "res_quit"
+msgstr "Iesiti ?"
+
+msgid "res_rank_9"
+msgstr "Şef"
+
+msgid "res_shop_xpx2"
+msgstr "Dublu XP"
+
+msgid "res_achiev5_title"
+msgstr "Pompier!"
+
+msgid "res_talky_6"
+msgstr "Mergi pe cenuşă pentru a fi sigur că flăcările sunt stinse complet"
+
+msgid "res_inapp10_desc"
+msgstr "Dublează-ţi banii şi XP-ul câştigat în joc"
+
+msgid "res_mission"
+msgstr "Misiunea"
+
+msgid "res_achiev17_title"
+msgstr "10.000 litri de apă"
+
+msgid "res_rank_7"
+msgstr "Capitan"
+
+msgid "res_achiev3_desc"
+msgstr "Verifică şi celelalte jocuri "
+
+msgid "res_talky_10"
+msgstr "Hidranţii îţi permit să încarci rezervorul de apă"
+
+msgid "keywords"
+msgstr "foc, pompier, platformă, săritură, obstacole, ocolire, pompier, maşină de pompieri, apă, propulsator, monştri"
+
+msgid "res_credits"
+msgstr "Credite"
+
+msgid "res_arrows"
+msgstr "săgeţi"
+
+msgid "res_achiev13_title"
+msgstr "Şef"
+
+msgid "res_not_enough_money"
+msgstr "Nu sunt destui bani"
+
+msgid "res_talky_15"
+msgstr "Vei descoperi platforme mişcătoare pe drum pentru a te ajuta în încercarea ta"
+
+msgid "res_achiev7_title"
+msgstr "Senior Firefighter"
+
+msgid "res_skins"
+msgstr "Faţete"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Faţetă Doc"
+
+msgid "res_inapp1_title"
+msgstr "Dublu XP"
+
+msgid "res_rank_0"
+msgstr "Incepator"
+
+msgid "res_talky_3"
+msgstr "Salvează animalele de pluş!"
+
+msgid "res_achiev6_title"
+msgstr "Pompier clasa 1"
+
+msgid "res_achiev26_title"
+msgstr "Flame Hunter"
+
+msgid "res_achiev24_title"
+msgstr "Descoperitor"
+
+msgid "res_achiev24_desc"
+msgstr "Găseşte un obiect pierdut"
+
+msgid "res_achiev19_title"
+msgstr "Laş"
+
+msgid "res_inapp9_desc"
+msgstr "Un câine foarte loial care te urmează pretutindeni"
+
+msgid "res_achiev22_title"
+msgstr "Lumea 2"
+
+msgid "res_new_rank"
+msgstr "grad nou"
+
+msgid "res_achiev5_desc"
+msgstr "Deblocare poziţie de pompier"
+
+msgid "res_achiev11_desc"
+msgstr "Deblocare Captain rank"
+
+msgid "res_congratulations"
+msgstr "Ai reuşit. Felicitări! Ai reuşit să termini fiecare nivel al jocului. Foarte puţini au ajuns până aici. Bravo! Curând vom adăuga lumi noi de descoperit cu mai multe animale de companie de salvat şi mai multe obiecte ascunse de găsit. Stai pe aproape. Între timp, apreciem dacă vei evalua jocul la 5 Stele!"
+
+msgid "res_select"
+msgstr "selecteaza"
+
+msgid "res_achiev6_desc"
+msgstr "Deblocare poziţie Pompier clasa 1"
+
+msgid "res_shop_range"
+msgstr "Pistol cu apă nivel diversitate %s"
+
+msgid "res_talky_13"
+msgstr "Sunt mai multe feluri de inamici... Toţi sunt periculoşi!"
+
+msgid "res_inapp7_title"
+msgstr "Prieten Koala"
+
+msgid "res_achiev28_title"
+msgstr "Vânător Depuneri de lavă"
+
+msgid "res_shop_piecex2"
+msgstr "Dublează bani"
+
+msgid "res_achiev27_title"
+msgstr "Vânător Flameboy"
+
+msgid "res_achiev25_title"
+msgstr "Colector"
+
+msgid "res_achiev28_desc"
+msgstr "Stinge 100 Depuneri de lavă"
+
+msgid "res_inapp8_desc"
+msgstr "Un pui de urs frumos care te urmează pretutindeni"
+
+msgid "res_inapp2_desc"
+msgstr "Joacă cu uimitoarea faţetă Doc!"
+
+msgid "res_achievements"
+msgstr "Medalii"
+
+msgid "res_ask_login_gp"
+msgstr "Vrei să te conectezi la Google Plus?"
+
+msgid "res_achiev30_title"
+msgstr "Vânător de aruncător de flăcări"
+
+msgid "res_achiev22_desc"
+msgstr "Termină Lumea 2"
+
+msgid "res_shop_pet2"
+msgstr "Animal de companie 2"
+
+msgid "res_shop_pet3"
+msgstr "Animal de companie 3"
+
+msgid "res_achiev4_title"
+msgstr "Pregătire pompier"
+
+msgid "res_shop_pet1"
+msgstr "Animal de companie 1"
+
+msgid "res_loading"
+msgstr "Se incarca..."
+
+msgid "res_achiev8_desc"
+msgstr "Deblocare poziţie Master Firefighter"
+
+msgid "res_rank_4"
+msgstr "Master Firefighter"
+
+msgid "res_talky_21"
+msgstr "Apropo, eu sunt Talky, voi fi mereu aici ca să te ajut"
+
+msgid "res_inapp5_desc"
+msgstr "Deblocare nivel extra în Junglă"
+
+msgid "res_talky_8"
+msgstr "Odată ce este Stins, sari pe el pentru a-l elimina"
+
+msgid "res_talky_5"
+msgstr "Foloseşte pistolul cu apă pentru a stinge flăcările"
+
+msgid "res_inapp5_title"
+msgstr "Junglă nivel extra"
+
+msgid "res_achiev21_desc"
+msgstr "Termină Lumea 1"
+
+msgid "res_inapp4_desc"
+msgstr "Joacă cu uimitoarea faţetă Doc!"
+
+msgid "res_talky_12"
+msgstr "Există 3 animale de pluş de salvat pe fiecare nivel"
+
+msgid "res_rank_1"
+msgstr "Pompier"
+
+msgid "res_achiev20_desc"
+msgstr "Termină un nivel fără a pierde vieţi"
+
+msgid "res_inapp7_desc"
+msgstr "Un Koala dulce care te va urma pretutindeni"
+
+msgid "res_share"
+msgstr "Verifică %1s, este un joc grozav! Îl poţi descărca de aici: %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Vezi pagina Magma Mobile Facebook"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Vrei să ai acces la realitări super? O poţi face prin conectare la Google Play Services"
+
+msgid "res_achiev14_title"
+msgstr "Master Chief"
+
+msgid "res_inapp8_title"
+msgstr "Prieten pui de urs"
+
+msgid "res_inapp6_desc"
+msgstr "Deblocare nivel extra în Deşert"
+
+msgid "res_talky_7"
+msgstr "Ai grijă, este Flameboy! Stinge-l cu pistolul tău cu apă"
+
+msgid "res_achiev2_desc"
+msgstr "împarte jocul cu prietenii tăi"
+
+msgid "res_inapp3_title"
+msgstr "Faţetă2"
+
+msgid "res_inapp1_desc"
+msgstr "Dublează-ţi XP-ul câştigat în joc"
+
+msgid "res_talky_20"
+msgstr "Iată animalul tău de companie, te va urma pretutindeni"
+
+msgid "res_rangs"
+msgstr "Poziţii"
+
+msgid "res_credits_text"
+msgstr "Programator: Clément Slempkes\nGrafician: Sandra Ferragu\nConducător de proiect: Emmanuel Robles\nManager de proiect: Loïc Kempf"
+
+msgid "res_settings"
+msgstr "Setari"
+
+msgid "res_head_quarter"
+msgstr "Sediu central"
+
+msgid "res_achiev18_title"
+msgstr "Salvator"
+
+msgid "res_talky_1"
+msgstr "Apasă butonul drept pentru a sări."
+
+msgid "res_achiev15_title"
+msgstr "1.000 de litri de apă"
+
+msgid "res_achiev32_title"
+msgstr "Ochi de vultur"
+
+msgid "res_achiev18_desc"
+msgstr "Salvează 3 Animale de pluş într-un singur nivel"
+
+msgid "res_achiev25_desc"
+msgstr "Găseşte toate obiectele pierdute din joc"
+
+msgid "res_achiev16_desc"
+msgstr "Lansează 5.000 litri de apă"
+
+msgid "res_inapp10_title"
+msgstr "Pachet dublu"
+
+msgid "res_achiev7_desc"
+msgstr "Deblocare poziţie Senior Firefighter"
+
+msgid "res_rank_5"
+msgstr "Fire Officer"
+
+msgid "res_inapp0_desc"
+msgstr "Dublează-ţi banii câştigaţi în joc"
+
+msgid "res_achiev12_desc"
+msgstr "Deblocare poziţie Senior Captain"
+
+msgid "res_achiev16_title"
+msgstr "5.000 de litri de apă"
+
+msgid "res_required"
+msgstr "necesar"
+
+msgid "res_no_pets"
+msgstr "Fără animale de companie"
+
+msgid "res_pets"
+msgstr "Animale de companie"
+
+msgid "res_shop_extralevel1"
+msgstr "Junglă nivele extra"
+
+msgid "res_talky_23"
+msgstr "Pune cele două butoane dreapta unul peste altul pentru a folosi propulsatorul şi trage în acelaşi timp"
+
+msgid "res_talky_19"
+msgstr "XP îţi va permite să obţii poziţii noi"
+
+msgid "res_achiev32_desc"
+msgstr "Găseşte un Perete ascuns"
+
+msgid "res_achiev29_desc"
+msgstr "Distruge 100 de Bombardiere înainte de a exploda"
+
+msgid "res_buy"
+msgstr "Cumparati"
+
+msgid "res_shop_life"
+msgstr "%s Vieţi extra"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_achiev23_desc"
+msgstr "Termină Lumea 3"
+
+msgid "res_achiev29_title"
+msgstr "Vânător bombardiere"
+
+msgid "res_title_monde2"
+msgstr "Desert"
+
+msgid "res_achiev31_desc"
+msgstr "Stinge 100 de Fire Spiders"
+
+msgid "res_inapp0_title"
+msgstr "Dublează bani"
+
+msgid "res_sound"
+msgstr "Sunet"
+
+msgid "res_achiev26_desc"
+msgstr "Stinge 100 de flăcări"
+
+msgid "res_good_job"
+msgstr "FOARTE BINE!"
+
+msgid "res_shop"
+msgstr "magazin"
+
+msgid "res_jetpack"
+msgstr "Propulsator"
+
+msgid "res_achiev21_title"
+msgstr "Lume 1"
+
+msgid "res_inapp6_title"
+msgstr "Deşert nivel extra"
+
+msgid "res_talky_22"
+msgstr "Acum eşti pregătit, acum eşti cu adevărat un Pompier!"
+
+msgid "res_talky_18"
+msgstr "Banii îţi permit să cumperi articole şi actualizări din magazin"
+
+msgid "res_level_locked"
+msgstr "Nivel blocat"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Faţetă Firegirl"
+
+msgid "res_shop_reservoir"
+msgstr "Nivel capacitate rezervor propulsator %s"
+
+msgid "res_talky_17"
+msgstr "Teleportarea te va duce în alt loc..."
+
+msgid "res_rank_2"
+msgstr "Pompier clasa 1"
+
+msgid "res_talky_14"
+msgstr "Stalactitele sunt mortale!"
+
+msgid "res_talky_0"
+msgstr "Foloseşte săgeţile stânga şi dreapta pentru a te mişca."
+
+msgid "res_achiev30_desc"
+msgstr "Stinge 100 de Aruncătoare de flăcări"
+
+msgid "res_restorepurchases"
+msgstr "Restaurare achiziţii"
+
+msgid "res_achiev1_title"
+msgstr "Social"
+
+msgid "res_achiev3_title"
+msgstr "Mai multe jocuri"
+
+msgid "res_achiev23_title"
+msgstr "Lumea 3"
+
+msgid "res_moregames"
+msgstr "Mai multe jocuri"
+
+msgid "res_music"
+msgstr "Muzica"
+
+msgid "res_inapp4_title"
+msgstr "Faţeta 3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Vrei să concurezi cu alţi jucători din toată lumea? O poţi face conectându-te la Google Play Services"
+
+msgid "res_talky_2"
+msgstr "Ţine apăsat butonul drept pentru a utiliza propulsatorul."
+
+msgid "res_achiev19_desc"
+msgstr "Termină un nivel fără a salva un animal de pluş"
+
+msgid "res_achiev10_title"
+msgstr "Lieutenant"
+
+msgid "res_rank_10"
+msgstr "Master Chief"
+
+msgid "res_ask_logout_gp"
+msgstr "Vrei să te deconectezi de la Google Plus?"
+
+msgid "res_rank_8"
+msgstr "Senior Captain"
+
+msgid "res_achiev10_desc"
+msgstr "Deblocare poziţie Lieutenant"
+
+msgid "res_achiev17_desc"
+msgstr "Lansează 10.000 litri de apă"
+
+msgid "res_achiev2_title"
+msgstr "Raspanditi vestea"
+
+msgid "res_inapp3_desc"
+msgstr "Joacă cu uimitoarea faţetă Firegirl!"
+
+msgid "res_talky_16"
+msgstr "Fii atent...la pasaje secrete."
+
+msgid "res_achiev13_desc"
+msgstr "Deblocare poziţie Şef"
+
+msgid "res_inventory"
+msgstr "SC"
+
+msgid "res_inapp2_title"
+msgstr "Faţetă 1"
+
+msgid "res_shop_maxipack"
+msgstr "Dublează Bani + XP"
+
+msgid "res_rank_6"
+msgstr "Lieutenant"
+
+msgid "res_inapp9_title"
+msgstr "Prieten câine"
+
+msgid "res_achiev4_desc"
+msgstr "Termină tutorialul"
+
+msgid "res_specialitems"
+msgstr "Articole speciale"
+
+msgid "res_achiev31_title"
+msgstr "Vânător păianjen de foc"
+
+msgid "res_achiev11_title"
+msgstr "Capitan"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Faţetă Firegirl"
+
+msgid "res_lostfound"
+msgstr "Pierdut şi Găsit"
+
+msgid "res_shop_extralevel2"
+msgstr "Deşert nivele extra"
+
+msgid "res_rank_3"
+msgstr "Senior Firefighter"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Vrei să salvezi progresul din joc? O poţi face conectându-te la Google Play Services"
+
+msgid "res_achiev15_desc"
+msgstr "Lansează 1.000 litri de apă"
+
+msgid "res_talky_9"
+msgstr "Flăcările pot avea straturi variate"
+
+msgid "res_talky_11"
+msgstr "Hidranţii pot fi utilizaţi ca puncte de verificare dacă pierzi o viaţă"
+
+msgid "res_achiev9_title"
+msgstr "Fire Officer"
+
+msgid "res_achiev20_title"
+msgstr "Şmecher"
+
+msgid "res_achiev9_desc"
+msgstr "Deblochează poziţia Fire Officer"
+
+msgid "res_talky_4"
+msgstr "Şi fugi către ieşire!"
+
+msgid "res_achiev14_desc"
+msgstr "Deblocare poziţie Master Chief"
+
+msgid "res_achiev8_title"
+msgstr "Master Firefighter"
+
+msgid "res_achiev27_desc"
+msgstr "Stinge 100 Flameboys"
+
+msgid "res_pause"
+msgstr "Pauza"
+
+msgid "res_notif_1"
+msgstr "Joacă %1s azi!"
+
+msgid "res_notif_2"
+msgstr "Alătură-te nouă și joacă %1s azi!"
+
+msgid "res_notif_3"
+msgstr "Nu ai jucat %1s de ceva vreme!"
+
+msgid "res_notif_4"
+msgstr "Adu un pic de distracție în ziua asta. Joacă %1s acum!"
+
+
+
+
+
+
+

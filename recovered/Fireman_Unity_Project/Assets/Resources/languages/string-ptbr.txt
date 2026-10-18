@@ -1,0 +1,640 @@
+msgid "app_name"
+msgstr "Bombeiro"
+
+msgid "Share"
+msgstr "Eu curto jogar %1s ! E eu recomento o download dele : %2s"
+
+msgid "rate the game"
+msgstr "Avalie o jogo"
+
+msgid "You seem to be enjoying the game"
+msgstr "Você parece estar se divertindo {0}, tanto quanto nós apreciamos desenvolvê-lo. Obrigado. Você se importaria de nos ajudar, levando algum tempo para adicionar uma avaliação positiva na página do jogo?"
+
+msgid "res_title_monde1"
+msgstr "Selva"
+
+msgid "res_achiev12_title"
+msgstr "Senhor Capitão"
+
+msgid "res_quit"
+msgstr "Sair?"
+
+msgid "res_rank_9"
+msgstr "Chefe"
+
+msgid "res_shop_xpx2"
+msgstr "Duplo XP"
+
+msgid "res_achiev5_title"
+msgstr "Combatente de Incêndio!"
+
+msgid "res_talky_6"
+msgstr "Caminhe pelos escombros para ter certeza que as chamas foram extintas"
+
+msgid "res_inapp10_desc"
+msgstr "Duplique tanto o dinheiro quanto o XP que você ganha durante todo o jogo"
+
+msgid "res_mission"
+msgstr "Missão"
+
+msgid "res_achiev17_title"
+msgstr "10.000 litros de água"
+
+msgid "res_rank_7"
+msgstr "Capitão"
+
+msgid "res_achiev3_desc"
+msgstr "Veja nossos outros games"
+
+msgid "res_talky_10"
+msgstr "Hidrantes permitem que você recarregue seu tanque de água"
+
+msgid "keywords"
+msgstr "fogo,bombeiro,plataforma,pular,obstáculos,esquivar,bombeiro,caminhão de incêndio,água,combate incêndios,foguete,monstros"
+
+msgid "res_credits"
+msgstr "Créditos"
+
+msgid "res_arrows"
+msgstr "Setas"
+
+msgid "res_achiev13_title"
+msgstr "Chefe"
+
+msgid "res_not_enough_money"
+msgstr "Dinheiro insuficiente"
+
+msgid "res_talky_15"
+msgstr "Você vai encontrar plataformas móveis ao longo do caminho para ajudar em seu esforço"
+
+msgid "res_achiev7_title"
+msgstr "Brigada de incêndio sênior"
+
+msgid "res_skins"
+msgstr "Estilos"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doutor"
+
+msgid "res_inapp1_title"
+msgstr "Duplo XP"
+
+msgid "res_rank_0"
+msgstr "Iniciante"
+
+msgid "res_talky_3"
+msgstr "Salve os animais de pelúcia!"
+
+msgid "res_achiev6_title"
+msgstr "Brigada de 1ª classe"
+
+msgid "res_achiev26_title"
+msgstr "Caçador de chamas"
+
+msgid "res_achiev24_title"
+msgstr "Buscador"
+
+msgid "res_achiev24_desc"
+msgstr "Encontre um objeto perdido"
+
+msgid "res_achiev19_title"
+msgstr "Covarde"
+
+msgid "res_inapp9_desc"
+msgstr "Um cão muito leal que o seguira onde você for"
+
+msgid "res_achiev22_title"
+msgstr "Mundo 2"
+
+msgid "res_new_rank"
+msgstr "Nova classificação"
+
+msgid "res_achiev5_desc"
+msgstr "Libere o placar dos combatentes de incêndio"
+
+msgid "res_achiev11_desc"
+msgstr "Libere o placar de Capitão"
+
+msgid "res_congratulations"
+msgstr "Que você fez isso. Parabéns! Você conseguiu terminar cada nível do jogo. Muito poucos torná-lo tão longe. Muito bem! Em breve nos iremos adicionar novos mundos para descobrir com mais animais de estimação para resgatar e mais objetos escondidos para encontrar. Fique atento. Nesse meio tempo, nós realmente apreciaremos se você poder dar ao jogo uma classificação de 5 estrelas!"
+
+msgid "res_select"
+msgstr "Selecione"
+
+msgid "res_achiev6_desc"
+msgstr "Libere o placar de Brigada de Incêndio de 1ª classe"
+
+msgid "res_shop_range"
+msgstr "Pistola de água nível %s"
+
+msgid "res_talky_13"
+msgstr "Existem muitos tipos de inimigos ... Todos eles são perigosos!"
+
+msgid "res_inapp7_title"
+msgstr "Amigo Koala"
+
+msgid "res_achiev28_title"
+msgstr "Caçador de poços de lava"
+
+msgid "res_shop_piecex2"
+msgstr "Dinheiro em dobro"
+
+msgid "res_achiev27_title"
+msgstr "Caçador de brasas"
+
+msgid "res_achiev25_title"
+msgstr "Coletor"
+
+msgid "res_achiev28_desc"
+msgstr "Apague 100 poços de lava"
+
+msgid "res_inapp8_desc"
+msgstr "Um filhote de urso que o seguirá onde você for"
+
+msgid "res_inapp2_desc"
+msgstr "Jogue com o incrível Doc!"
+
+msgid "res_achievements"
+msgstr "Realizações"
+
+msgid "res_ask_login_gp"
+msgstr "Gostaria de logar no Google Plus?"
+
+msgid "res_achiev30_title"
+msgstr "Caçador de lança-chamas"
+
+msgid "res_achiev22_desc"
+msgstr "Complete o mundo 2"
+
+msgid "res_shop_pet2"
+msgstr "Animal 2"
+
+msgid "res_shop_pet3"
+msgstr "Animal 3"
+
+msgid "res_achiev4_title"
+msgstr "Treinamento de Bombeiro"
+
+msgid "res_shop_pet1"
+msgstr "Animal 1"
+
+msgid "res_loading"
+msgstr "Carregando..."
+
+msgid "res_achiev8_desc"
+msgstr "Libere o placar de Brigada de Incêndio Mestre "
+
+msgid "res_rank_4"
+msgstr "Brigada de Incêndio Mestre"
+
+msgid "res_talky_21"
+msgstr "A propósito, sou Talky, eu sempre vou estar lá para ajudá-lo"
+
+msgid "res_inapp5_desc"
+msgstr "Libere um nível extra na selva"
+
+msgid "res_talky_8"
+msgstr "Uma vez que esteja extinto, salte sobre ele para eliminá-lo"
+
+msgid "res_talky_5"
+msgstr "Use o botão da pistola de água para apagar as chamas"
+
+msgid "res_inapp5_title"
+msgstr "Nível extra de selva"
+
+msgid "res_achiev21_desc"
+msgstr "Complete o mundo 1"
+
+msgid "res_inapp4_desc"
+msgstr "Jogue com o incrível Doc!"
+
+msgid "res_talky_12"
+msgstr "Há 3 bichos de pelúcia para salvar em cada nível"
+
+msgid "res_rank_1"
+msgstr "Brigada de incêndio"
+
+msgid "res_achiev20_desc"
+msgstr "Complete um nível sem perder vidas"
+
+msgid "res_inapp7_desc"
+msgstr "Um amável urso coala que lhe segue por onde você for"
+
+msgid "res_share"
+msgstr "Dê uma olhada em %1s, este é um game legal! E você pode baixá-lo aqui: %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Veja a página da Magma Mobile no Facebook"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Gostaria de ter acesso a super-realizações? Você pode fazer isso com login na Google Play Services"
+
+msgid "res_achiev14_title"
+msgstr "Chefe Mestre"
+
+msgid "res_inapp8_title"
+msgstr "Filhote amigo urso"
+
+msgid "res_inapp6_desc"
+msgstr "Libere um nível extra no deserto"
+
+msgid "res_talky_7"
+msgstr "Atenção com as brasas! Elimine-as com sua pistola de água"
+
+msgid "res_achiev2_desc"
+msgstr "Compartilhe este jogo com seus amigos"
+
+msgid "res_inapp3_title"
+msgstr "Estilo 2"
+
+msgid "res_inapp1_desc"
+msgstr "Dobre o XP que você ganha durante o jogo"
+
+msgid "res_talky_20"
+msgstr "Este é o seu animal de estimação, ele vai segui-lo em todos os lugares"
+
+msgid "res_rangs"
+msgstr "Placares"
+
+msgid "res_credits_text"
+msgstr "Desenvolvedor: Clément Slempkes\nGráficos: Sandra Ferragu\n Líder de projeto: Emmanuel Roblès\nGerente de projeto: Loïc Kempf\n Tradução em Português: Clóvis Teodoro"
+
+msgid "res_settings"
+msgstr "Configurações"
+
+msgid "res_head_quarter"
+msgstr "Quartel General"
+
+msgid "res_achiev18_title"
+msgstr "Salvador"
+
+msgid "res_talky_1"
+msgstr "Pressione o botão direito para pular."
+
+msgid "res_achiev15_title"
+msgstr "1.000 litros de água"
+
+msgid "res_achiev32_title"
+msgstr "Olho de águia"
+
+msgid "res_achiev18_desc"
+msgstr "Salve 3 animais de pelúcia em um único nível"
+
+msgid "res_achiev25_desc"
+msgstr "Encontre todos os objetos perdidos no jogo"
+
+msgid "res_achiev16_desc"
+msgstr "Atire 5.000 litros de água"
+
+msgid "res_inapp10_title"
+msgstr "Pacote duplo"
+
+msgid "res_achiev7_desc"
+msgstr "Libere o placar dos combatentes de incêndio sênior"
+
+msgid "res_rank_5"
+msgstr "Oficial Bombeiro"
+
+msgid "res_inapp0_desc"
+msgstr "Duplique on dinheiro que ganhar durante o jogo"
+
+msgid "res_achiev12_desc"
+msgstr "Libere o placar de Senhor Capitão"
+
+msgid "res_achiev16_title"
+msgstr "5.000 litros de água"
+
+msgid "res_required"
+msgstr "requerido"
+
+msgid "res_no_pets"
+msgstr "Sem animais"
+
+msgid "res_pets"
+msgstr "Animais"
+
+msgid "res_shop_extralevel1"
+msgstr "Níveis extra de selva"
+
+msgid "res_talky_23"
+msgstr "Aperte os dois botões da direita um após o outro para usar o foguete e jogar água ao mesmo tempo"
+
+msgid "res_talky_19"
+msgstr "XP permite que você adquira novos placares"
+
+msgid "res_achiev32_desc"
+msgstr "Encontre uma parede escondida"
+
+msgid "res_achiev29_desc"
+msgstr "Elimine 100 bombas antes que elas esxplodam"
+
+msgid "res_buy"
+msgstr "Comprar"
+
+msgid "res_shop_life"
+msgstr "%s vidas extras"
+
+msgid "res_joystick"
+msgstr "Controlador"
+
+msgid "res_achiev23_desc"
+msgstr "Mundo 3 completo"
+
+msgid "res_achiev29_title"
+msgstr "Caçador de bombas"
+
+msgid "res_title_monde2"
+msgstr "Deserto"
+
+msgid "res_achiev31_desc"
+msgstr "Apague 100 aranhas de fogo"
+
+msgid "res_inapp0_title"
+msgstr "Dinheiro em dobro"
+
+msgid "res_sound"
+msgstr "Som"
+
+msgid "res_achiev26_desc"
+msgstr "Apague 100 chamas"
+
+msgid "res_good_job"
+msgstr "Bom Trabalho!"
+
+msgid "res_shop"
+msgstr "Shopping"
+
+msgid "res_jetpack"
+msgstr "Foguete"
+
+msgid "res_achiev21_title"
+msgstr "Mundo 1"
+
+msgid "res_inapp6_title"
+msgstr "Nível extra do deserto"
+
+msgid "res_talky_22"
+msgstr "Agora você está pronto, você é um verdadeiro bombeiro!"
+
+msgid "res_talky_18"
+msgstr "Dinheiro permite que você compre itens e atualizações"
+
+msgid "res_level_locked"
+msgstr "Nível bloqueado"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Bombeira"
+
+msgid "res_shop_reservoir"
+msgstr "Capacidade do tanque do foguete %s"
+
+msgid "res_talky_17"
+msgstr "Teletransporte o levará para outro lugar..."
+
+msgid "res_rank_2"
+msgstr "Brigada de 1ª classe"
+
+msgid "res_talky_14"
+msgstr "Estalactites são mortais!"
+
+msgid "res_talky_0"
+msgstr "Use as setas esquerda e direita para mover."
+
+msgid "res_achiev30_desc"
+msgstr "Elimine 100 lança-chamas"
+
+msgid "res_restorepurchases"
+msgstr "Restaurar compras"
+
+msgid "res_achiev1_title"
+msgstr "Social"
+
+msgid "res_achiev3_title"
+msgstr "Mais Jogos"
+
+msgid "res_achiev23_title"
+msgstr "Mundo 3"
+
+msgid "res_moregames"
+msgstr "Mais Jogos"
+
+msgid "res_music"
+msgstr "Música"
+
+msgid "res_inapp4_title"
+msgstr "Estilo 3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Gostaria de competir com outros jogadores ao redor do mundo? Você pode fazer isso logando no Google Play Services"
+
+msgid "res_talky_2"
+msgstr "Mantenha o botão direito para utilizar o foguete"
+
+msgid "res_achiev19_desc"
+msgstr "Complete um nível sem salvar nenhum bicho de pelúcia"
+
+msgid "res_achiev10_title"
+msgstr "Sargento"
+
+msgid "res_rank_10"
+msgstr "Chefe Mestre"
+
+msgid "res_ask_logout_gp"
+msgstr "Gostaria de efetuar logout do Google Plus?"
+
+msgid "res_rank_8"
+msgstr "Senhor Capitão"
+
+msgid "res_achiev10_desc"
+msgstr "Libere o placar de Tenente"
+
+msgid "res_achiev17_desc"
+msgstr "Lance 1.000 litros de água"
+
+msgid "res_achiev2_title"
+msgstr "Compartilhar"
+
+msgid "res_inapp3_desc"
+msgstr "Jogue com a incrível garota bombeira!"
+
+msgid "res_talky_16"
+msgstr "Mantenha os olhos bem abertos... para passagens secretas."
+
+msgid "res_achiev13_desc"
+msgstr "Libere o placar de Chefe"
+
+msgid "res_inventory"
+msgstr "HQ"
+
+msgid "res_inapp2_title"
+msgstr "Estilo 1"
+
+msgid "res_shop_maxipack"
+msgstr "Duplo dinheiro + XP"
+
+msgid "res_rank_6"
+msgstr "Sargento"
+
+msgid "res_inapp9_title"
+msgstr "Amigo cão"
+
+msgid "res_achiev4_desc"
+msgstr "Complete o tutorial"
+
+msgid "res_specialitems"
+msgstr "Itens especiais"
+
+msgid "res_achiev31_title"
+msgstr "Caçador de aranhas de fogo"
+
+msgid "res_achiev11_title"
+msgstr "Capitão"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Bombeira"
+
+msgid "res_lostfound"
+msgstr "Achados e perdidos"
+
+msgid "res_shop_extralevel2"
+msgstr "Níveis extra de Deserto"
+
+msgid "res_rank_3"
+msgstr "Brigada de incêndio sênior"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Gostaria de salvar o seu progresso neste jogo? Você pode fazer isso logando no Google Play Services"
+
+msgid "res_achiev15_desc"
+msgstr "Lance 1.000 litros de água"
+
+msgid "res_talky_9"
+msgstr "Chamas podem ter vários níveis"
+
+msgid "res_talky_11"
+msgstr "Hidrantes podem ser usados como checkpoints se perder uma vida."
+
+msgid "res_achiev9_title"
+msgstr "Oficial Bombeiro"
+
+msgid "res_achiev20_title"
+msgstr "Esquivo"
+
+msgid "res_achiev9_desc"
+msgstr "Libere o placar de Oficial Bombeiro"
+
+msgid "res_talky_4"
+msgstr "E vá para a saída!"
+
+msgid "res_achiev14_desc"
+msgstr "Libere o placar de Chefe"
+
+msgid "res_achiev8_title"
+msgstr "Brigada de Incêndio Mestre"
+
+msgid "res_achiev27_desc"
+msgstr "Elimine 100 brasas"
+
+msgid "res_pause"
+msgstr "Pausa"
+
+msgid "res_harder"
+msgstr "Experimente o jogo mais difícil na moda! \nVocê está pronto para repetir ... todos os níveis?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_shop_pet4_title"
+msgstr "Amigo ~ Lobo"
+
+msgid "res_shop_pet4_desc"
+msgstr "Um lobo inteligente que segue você em todos os lugares"
+
+msgid "res_shop_pet5_title"
+msgstr "Amigo ~ Urso polar"
+
+msgid "res_shop_pet5_desc"
+msgstr "Um urso polar forte que segue você em todos os lugares"
+
+msgid "res_shop_pet6_title"
+msgstr "Amigo ~ Rena"
+
+msgid "res_shop_pet6_desc"
+msgstr "Uma rena simpática que segue você em todos os lugares"
+
+msgid "res_shop_pet7_title"
+msgstr "Amigo ~ Raposa da neve"
+
+msgid "res_shop_pet7_desc"
+msgstr "Uma raposa da neve inteligente que segue você em todos os lugares"
+
+msgid "res_shop_pet8_title"
+msgstr "Amigo ~ Mamute"
+
+msgid "res_shop_pet8_desc"
+msgstr "Um mamute poderoso que segue você em todos os lugares"
+
+msgid "res_shop_skin3_title"
+msgstr "Tema ~ Esquimó"
+
+msgid "res_shop_skin3_desc"
+msgstr "Jogue com o incrível tema Esquimó!"
+
+msgid "res_shop_skin4_title"
+msgstr "Tema ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Jogue com o incrível tema Yeti!"
+
+msgid "res_shop_skin5_title"
+msgstr "Tema ~ Papai Noel"
+
+msgid "res_shop_skin5_desc"
+msgstr "Jogue com o incrível tema Papai Noel!"
+
+msgid "res_shop_skin6_title"
+msgstr "Tema ~ Menina tirolesa"
+
+msgid "res_shop_skin6_desc"
+msgstr "Jogue com o incrível tema Menina tirolesa!"
+
+msgid "res_title_monde3"
+msgstr "Montanha"
+
+msgid "res_shop_world3_title"
+msgstr "Níveis extra de Montanha"
+
+msgid "res_shop_world3_desc"
+msgstr "Desbloqueie todos os níveis secretos na Montanha"
+
+msgid "res_shop_all"
+msgstr "Desbloqueie tudo na loja, remova os anúncios e nos ajude a fazer jogos melhores!"
+
+msgid "res_notif_1"
+msgstr "Venha jogar %1s hoje!"
+
+msgid "res_notif_2"
+msgstr "Junte-se a nós jogando %1s hoje!"
+
+msgid "res_notif_3"
+msgstr "Faz tempo que você não joga %1s!"
+
+msgid "res_notif_4"
+msgstr "Traga um pouco de alegria para o seu dia. Jogue %1s agora!"
+
+
+
+
+
+
+
+

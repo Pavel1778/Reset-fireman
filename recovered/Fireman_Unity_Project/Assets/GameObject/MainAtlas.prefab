@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &147589
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 479954}
+  - 114: {fileID: 11409266}
+  m_Layer: 0
+  m_Name: MainAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &479954
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11409266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  material: {fileID: 2100000, guid: 30eb056fb5799ee47ae078f81295cab6, type: 2}
+  sprites:
+  - name: fantasy06
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 5
+      width: 19
+      height: 19
+    inner:
+      serializedVersion: 2
+      x: 6
+      y: 11
+      width: 7
+      height: 7
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fantasy01
+    outer:
+      serializedVersion: 2
+      x: 20
+      y: 25
+      width: 19
+      height: 19
+    inner:
+      serializedVersion: 2
+      x: 26
+      y: 31
+      width: 7
+      height: 7
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fantasy05
+    outer:
+      serializedVersion: 2
+      x: 20
+      y: 45
+      width: 19
+      height: 19
+    inner:
+      serializedVersion: 2
+      x: 26
+      y: 51
+      width: 7
+      height: 7
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fantasy03
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 45
+      width: 19
+      height: 19
+    inner:
+      serializedVersion: 2
+      x: 5
+      y: 50
+      width: 9
+      height: 9
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fantasy04
+    outer:
+      serializedVersion: 2
+      x: 40
+      y: 45
+      width: 19
+      height: 19
+    inner:
+      serializedVersion: 2
+      x: 48
+      y: 53
+      width: 3
+      height: 3
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fantasy02
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 25
+      width: 19
+      height: 19
+    inner:
+      serializedVersion: 2
+      x: 6
+      y: 31
+      width: 7
+      height: 7
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 147589}
+  m_IsPrefabParent: 1

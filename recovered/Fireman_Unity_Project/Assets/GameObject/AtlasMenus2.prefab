@@ -1,0 +1,490 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &147589
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 479954}
+  - 114: {fileID: 11409266}
+  m_Layer: 0
+  m_Name: AtlasMenus2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &479954
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11409266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  material: {fileID: 2100000, guid: 2a0085ebe993c984a8f24b8b4e5dca79, type: 2}
+  sprites:
+  - name: Shop_09_Tab_Foreground
+    outer:
+      serializedVersion: 2
+      x: 622
+      y: 868
+      width: 326
+      height: 156
+    inner:
+      serializedVersion: 2
+      x: 622
+      y: 868
+      width: 326
+      height: 156
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_08_Tab_Upgrades_Yellow
+    outer:
+      serializedVersion: 2
+      x: 326
+      y: 724
+      width: 294
+      height: 300
+    inner:
+      serializedVersion: 2
+      x: 326
+      y: 724
+      width: 294
+      height: 300
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_07_Tab_Custom_Yellow
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 251
+      width: 254
+      height: 366
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 251
+      width: 254
+      height: 366
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_06_Tab_Worlds_Yellow
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 619
+      width: 324
+      height: 405
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 619
+      width: 324
+      height: 405
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_Button_MyMoney
+    outer:
+      serializedVersion: 2
+      x: 542
+      y: 432
+      width: 172
+      height: 76
+    inner:
+      serializedVersion: 2
+      x: 542
+      y: 432
+      width: 172
+      height: 76
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_Button_Get
+    outer:
+      serializedVersion: 2
+      x: 270
+      y: 137
+      width: 31
+      height: 35
+    inner:
+      serializedVersion: 2
+      x: 270
+      y: 137
+      width: 31
+      height: 35
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_Button_Coins
+    outer:
+      serializedVersion: 2
+      x: 229
+      y: 133
+      width: 39
+      height: 39
+    inner:
+      serializedVersion: 2
+      x: 229
+      y: 133
+      width: 39
+      height: 39
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_Button_ReelPrice
+    outer:
+      serializedVersion: 2
+      x: 622
+      y: 771
+      width: 192
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 622
+      y: 771
+      width: 192
+      height: 95
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_Button_CoinsPrice
+    outer:
+      serializedVersion: 2
+      x: 326
+      y: 44
+      width: 192
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 326
+      y: 44
+      width: 192
+      height: 95
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_02_DocArm1
+    outer:
+      serializedVersion: 2
+      x: 256
+      y: 457
+      width: 55
+      height: 160
+    inner:
+      serializedVersion: 2
+      x: 256
+      y: 457
+      width: 55
+      height: 160
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_04_DocMouth2
+    outer:
+      serializedVersion: 2
+      x: 256
+      y: 343
+      width: 51
+      height: 36
+    inner:
+      serializedVersion: 2
+      x: 256
+      y: 343
+      width: 51
+      height: 36
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_03_DocHead
+    outer:
+      serializedVersion: 2
+      x: 326
+      y: 303
+      width: 214
+      height: 205
+    inner:
+      serializedVersion: 2
+      x: 326
+      y: 303
+      width: 214
+      height: 205
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_03_DocBody
+    outer:
+      serializedVersion: 2
+      x: 326
+      y: 141
+      width: 128
+      height: 160
+    inner:
+      serializedVersion: 2
+      x: 326
+      y: 141
+      width: 128
+      height: 160
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_02_DocArm2
+    outer:
+      serializedVersion: 2
+      x: 716
+      y: 438
+      width: 138
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 716
+      y: 438
+      width: 138
+      height: 70
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_04_DocMouth3
+    outer:
+      serializedVersion: 2
+      x: 256
+      y: 305
+      width: 51
+      height: 36
+    inner:
+      serializedVersion: 2
+      x: 256
+      y: 305
+      width: 51
+      height: 36
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_04_DocMouth4
+    outer:
+      serializedVersion: 2
+      x: 256
+      y: 419
+      width: 51
+      height: 36
+    inner:
+      serializedVersion: 2
+      x: 256
+      y: 419
+      width: 51
+      height: 36
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_04_DocMouth1
+    outer:
+      serializedVersion: 2
+      x: 256
+      y: 381
+      width: 51
+      height: 36
+    inner:
+      serializedVersion: 2
+      x: 256
+      y: 381
+      width: 51
+      height: 36
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_Button_Gris
+    outer:
+      serializedVersion: 2
+      x: 816
+      y: 771
+      width: 192
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 816
+      y: 771
+      width: 192
+      height: 95
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_Button_Coins2
+    outer:
+      serializedVersion: 2
+      x: 256
+      y: 264
+      width: 39
+      height: 39
+    inner:
+      serializedVersion: 2
+      x: 256
+      y: 264
+      width: 39
+      height: 39
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Logo_motion2
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 37
+      width: 227
+      height: 212
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 37
+      width: 227
+      height: 212
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Logo_motion1
+    outer:
+      serializedVersion: 2
+      x: 555
+      y: 510
+      width: 227
+      height: 212
+    inner:
+      serializedVersion: 2
+      x: 555
+      y: 510
+      width: 227
+      height: 212
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Logo_motion4
+    outer:
+      serializedVersion: 2
+      x: 784
+      y: 510
+      width: 227
+      height: 212
+    inner:
+      serializedVersion: 2
+      x: 784
+      y: 510
+      width: 227
+      height: 212
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Logo_motion3
+    outer:
+      serializedVersion: 2
+      x: 326
+      y: 510
+      width: 227
+      height: 212
+    inner:
+      serializedVersion: 2
+      x: 326
+      y: 510
+      width: 227
+      height: 212
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Pet_None
+    outer:
+      serializedVersion: 2
+      x: 229
+      y: 174
+      width: 75
+      height: 75
+    inner:
+      serializedVersion: 2
+      x: 229
+      y: 174
+      width: 75
+      height: 75
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 147589}
+  m_IsPrefabParent: 1

@@ -1,0 +1,653 @@
+
+msgid "app_name"
+msgstr "Požárník"
+
+msgid "Share"
+msgstr "Miluji hru %1s! Velmi doporučuji si ji stáhnout: %2s"
+
+msgid "rate the game"
+msgstr "Ohodnotit hru"
+
+msgid "You seem to be enjoying the game"
+msgstr "Zdá se, že se vám {0} líbí, stejně jako nám, když jsme ji vyvíjeli. Děkujeme vám. Mohli byste nám pomoci tím, že nám věnujete nějaký čas a přidáte pozitivní hodnocení na stránku této hry?"
+
+msgid "res_harder"
+msgstr "Zkuste hru v těžším režimu!\nJste připraveni přehrát ...\nna všech úrovních?"
+
+msgid "res_difficulty"
+msgstr "Obtížnost"
+
+msgid "res_notif_1"
+msgstr "Pojď si zahrát %1s ještě dnes!"
+
+msgid "res_notif_2"
+msgstr "Připoj se do hry %1s ještě dnes!"
+
+msgid "res_notif_3"
+msgstr "Už dlouho jsme tě ve hře %1s neviděli!"
+
+msgid "res_notif_4"
+msgstr "Vnes do svého dne trochu zábavy. Zahraj si %1s hned teď!"
+
+
+
+
+msgid "res_difficulty_normal"
+msgstr "Normální"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extremní"
+
+msgid "res_loading"
+msgstr "Nahrávám..."
+
+msgid "res_shop"
+msgstr "Obchod"
+
+msgid "res_buy"
+msgstr "Koupit"
+
+msgid "res_good_job"
+msgstr "Dobrá práce!"
+
+msgid "res_quit"
+msgstr "Skončit?"
+
+msgid "res_inventory"
+msgstr "HQ"
+
+msgid "res_shop_reservoir"
+msgstr "Hladina kapacity nádrže jetpack %s"
+
+msgid "res_shop_range"
+msgstr "Míra rozsahu vodní pistole %s"
+
+msgid "res_shop_life"
+msgstr "%s Extra životy"
+
+msgid "res_required"
+msgstr "požadováno"
+
+msgid "res_not_enough_money"
+msgstr "Není dost peněz"
+
+msgid "res_skins"
+msgstr "Skiny"
+
+msgid "res_achievements"
+msgstr "Úspěchy"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_pets"
+msgstr "Domácí zvířata"
+
+msgid "res_lostfound"
+msgstr "Ztráty a nálezy"
+
+msgid "res_rangs"
+msgstr "Hodnosti"
+
+msgid "res_specialitems"
+msgstr "Speciální položky"
+
+msgid "res_achiev1_title"
+msgstr "Sociální"
+
+msgid "res_achiev1_desc"
+msgstr "Podívejte se na stránku Magma Mobile Facebook"
+
+msgid "res_achiev2_title"
+msgstr "Sdílet"
+
+msgid "res_achiev2_desc"
+msgstr "Podělte se o tuto hru se svými přáteli"
+
+msgid "res_achiev3_title"
+msgstr "Další hry"
+
+msgid "res_achiev3_desc"
+msgstr "Podívejte se na naše další hry"
+
+msgid "res_achiev4_title"
+msgstr "Školení Požárník"
+
+msgid "res_achiev4_desc"
+msgstr "Dokončit výukový program"
+
+msgid "res_achiev5_title"
+msgstr "Hasič!"
+
+msgid "res_achiev5_desc"
+msgstr "Odemkněte hodnost hasiče"
+
+msgid "res_achiev6_title"
+msgstr "1. třída hasiče"
+
+msgid "res_achiev6_desc"
+msgstr "Odemkněte hodnost 1. třída hasiče"
+
+msgid "res_achiev7_title"
+msgstr "Nadřízený hasič"
+
+msgid "res_achiev7_desc"
+msgstr "Odemkněte hodnost Nadřízený hasič"
+
+msgid "res_achiev8_title"
+msgstr "Vedoucí hasič"
+
+msgid "res_achiev8_desc"
+msgstr "Odemknout hodnost Vedoucí hasič"
+
+msgid "res_achiev9_title"
+msgstr "Požární technik"
+
+msgid "res_achiev9_desc"
+msgstr "Odemkněte hodnost Požární technik"
+
+msgid "res_achiev10_title"
+msgstr "Poručík"
+
+msgid "res_achiev10_desc"
+msgstr "Odemkněte hodnost Poručík"
+
+msgid "res_achiev11_title"
+msgstr "Kapitán"
+
+msgid "res_achiev11_desc"
+msgstr "Odemkněte hodnost Kapitán"
+
+msgid "res_achiev12_title"
+msgstr "Hlavní kapitán"
+
+msgid "res_achiev12_desc"
+msgstr "Odemkněte hodnost Hlavního kapitána"
+
+msgid "res_achiev13_title"
+msgstr "Náčelník"
+
+msgid "res_achiev13_desc"
+msgstr "Odemkněte hodnost Náčelníka"
+
+msgid "res_achiev14_title"
+msgstr "Hlavní náčelník"
+
+msgid "res_achiev14_desc"
+msgstr "Odemkněte hodnost Hlavního náčelníka"
+
+msgid "res_achiev15_title"
+msgstr "1 000 litrů vody"
+
+msgid "res_achiev15_desc"
+msgstr "Vystřelte 1 000 litrů vody"
+
+msgid "res_achiev16_title"
+msgstr "5 000 litrů vody"
+
+msgid "res_achiev16_desc"
+msgstr "Vystřelte 5 000 litrů vody"
+
+msgid "res_achiev17_title"
+msgstr "10 000 litrů vody"
+
+msgid "res_achiev17_desc"
+msgstr "Vystřelte 10 000 litrů vody"
+
+msgid "res_achiev18_title"
+msgstr "Zachránce"
+
+msgid "res_achiev18_desc"
+msgstr "Zachraňte 3 plyšová zvířátka v jedné úrovni"
+
+msgid "res_achiev19_title"
+msgstr "Zbabělec"
+
+msgid "res_achiev19_desc"
+msgstr "Dokončení úrovně bez uložení jakéhokoliv plyšového zvířátka"
+
+msgid "res_achiev20_title"
+msgstr "Pletichář"
+
+msgid "res_achiev20_desc"
+msgstr "Dokončete úroveň bez ztráty životů"
+
+msgid "res_achiev21_title"
+msgstr "Svět 1"
+
+msgid "res_achiev21_desc"
+msgstr "Dokončete svět 1"
+
+msgid "res_achiev22_title"
+msgstr "Svět 2"
+
+msgid "res_achiev22_desc"
+msgstr "Dokončete svět 2"
+
+msgid "res_achiev23_title"
+msgstr "Svět 3"
+
+msgid "res_achiev23_desc"
+msgstr "Dokončete svět 3"
+
+msgid "res_achiev24_title"
+msgstr "Nálezce"
+
+msgid "res_achiev24_desc"
+msgstr "Najděte ztracený předmět"
+
+msgid "res_achiev25_title"
+msgstr "Sběratel"
+
+msgid "res_achiev25_desc"
+msgstr "Najděte všechny ztracené předměty ve hře"
+
+msgid "res_achiev26_title"
+msgstr "Krotitel plamenů"
+
+msgid "res_achiev26_desc"
+msgstr "Uhaste 100 plamenů"
+
+msgid "res_achiev27_title"
+msgstr "Krotitel ohnivých mužíčků"
+
+msgid "res_achiev27_desc"
+msgstr "Uhaste 100 ohnivých mužíčků"
+
+msgid "res_achiev28_title"
+msgstr "Krotitel pramenů lávy"
+
+msgid "res_achiev28_desc"
+msgstr "Uhaste 100 pramenů lávy"
+
+msgid "res_achiev29_title"
+msgstr "Krotitel granátníků"
+
+msgid "res_achiev29_desc"
+msgstr "Uhaste 100 granátníků před tím, než explodují"
+
+msgid "res_achiev30_title"
+msgstr "Krotitel plamenometů"
+
+msgid "res_achiev30_desc"
+msgstr "Uhaste 100 plamenometů"
+
+msgid "res_achiev31_title"
+msgstr "Krotitel ohnivých pavouků"
+
+msgid "res_achiev31_desc"
+msgstr "Uhaste 100 ohnivých pavouků"
+
+msgid "res_achiev32_title"
+msgstr "Jestřábí oko"
+
+msgid "res_achiev32_desc"
+msgstr "Najděte skrytou zeď"
+
+msgid "res_music"
+msgstr "Hudba"
+
+msgid "res_sound"
+msgstr "Zvuk"
+
+msgid "res_settings"
+msgstr "Nastavení"
+
+msgid "keywords"
+msgstr "požár, hasič, plošinovka, skok, překážky, úskok, požárník, požární vozidlo, voda, přestřelka, jetpack, příšery"
+
+msgid "res_moregames"
+msgstr "Další hry"
+
+msgid "res_restorepurchases"
+msgstr "Obnovit nákupy"
+
+msgid "res_head_quarter"
+msgstr "Velitelství"
+
+msgid "res_shop_extralevel1"
+msgstr "Extra úrovně džungle"
+
+msgid "res_shop_extralevel2"
+msgstr "Extra úrovně pouště"
+
+msgid "res_shop_xpx2"
+msgstr "Dvojité XP"
+
+msgid "res_shop_piecex2"
+msgstr "Dvojité peníze"
+
+msgid "res_shop_maxipack"
+msgstr "Dvojité peníze + XP"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Skin lékaře"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Skin požárnice"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Skin požárnice"
+
+msgid "res_shop_pet1"
+msgstr "Domácí zvířátko 1"
+
+msgid "res_shop_pet2"
+msgstr "Domácí zvířátko 2"
+
+msgid "res_shop_pet3"
+msgstr "Domácí zvířátko 3"
+
+msgid "res_talky_0"
+msgstr "K pohybu použijte směrovou destičku [+]."
+
+msgid "res_talky_1"
+msgstr "Ke skoku stiskněte tlačítko akce [A]."
+
+msgid "res_talky_2"
+msgstr "K použití jetpacku udržujte tlačítko akce [A]."
+
+msgid "res_talky_3"
+msgstr "Zachraňte plyšová zvířátka!"
+
+msgid "res_talky_4"
+msgstr "A utíkejte skrze východ!"
+
+msgid "res_talky_5"
+msgstr "Pomocí tlačítka vodní pistole [X] uhaste plameny"
+
+msgid "res_talky_6"
+msgstr "Projděte se po popelu, abyste se ujistili, že plameny jsou zcela uhašeny"
+
+msgid "res_talky_7"
+msgstr "Dejte si pozor na ohnivého mužíčka! Uhaste ho svou vodní pistolí"
+
+msgid "res_talky_8"
+msgstr "Když ho uhasíte, skočte na něj a zničte ho"
+
+msgid "res_talky_9"
+msgstr "Plameny mohou mít různé vrstvy"
+
+msgid "res_talky_10"
+msgstr "Požární hydranty vám umožňují naplnit vaši vodní nádrž"
+
+msgid "res_talky_11"
+msgstr "Požární hydranty lze také použít jako stanoviště, pokud ztratíte život"
+
+msgid "res_talky_12"
+msgstr "Na každé úrovni jsou 3 plyšová zvířátka, která máte zachránit"
+
+msgid "res_talky_13"
+msgstr "Existuje mnoho druhů nepřátel ... Všichni z nich jsou nebezpeční!"
+
+msgid "res_talky_14"
+msgstr "Krápníky jsou smrtící!"
+
+msgid "res_talky_15"
+msgstr "Po cestě najdete pohybující se plošiny, které vám pomohou ve vašem snažení"
+
+msgid "res_talky_16"
+msgstr "Mějte oči otevřené dokořán ... hledejte tajné chodby."
+
+msgid "res_talky_17"
+msgstr "Díky teleportům se dostanete na jiné místo ..."
+
+msgid "res_talky_18"
+msgstr "Peníze vám umožňují kupovat předměty a upgrady v obchodě"
+
+msgid "res_talky_19"
+msgstr "XP vám umožňuje získat nové hodnosti"
+
+msgid "res_talky_20"
+msgstr "Zde je váš mazlíček, půjde za vámi všude"
+
+msgid "res_talky_21"
+msgstr "Mimochodem, já jsem Talky, budu vám vždy nablízku, abych vám pomohl"
+
+msgid "res_talky_22"
+msgstr "Nyní jste připraveni, teď jste ten správný požárník!"
+
+msgid "res_talky_23"
+msgstr "Umístěte dvě pravá tlačítka jedno na druhé k použití jetpacku a střílení zároveň"
+
+msgid "res_arrows"
+msgstr "Šipky"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_rank_0"
+msgstr "Nováček"
+
+msgid "res_rank_1"
+msgstr "Hasič"
+
+msgid "res_rank_2"
+msgstr "Hasič 1. třídy"
+
+msgid "res_rank_3"
+msgstr "Nadřízený hasič"
+
+msgid "res_rank_4"
+msgstr "Vedoucí hasič"
+
+msgid "res_rank_5"
+msgstr "Požární technik"
+
+msgid "res_rank_6"
+msgstr "Poručík"
+
+msgid "res_rank_7"
+msgstr "Kapitán"
+
+msgid "res_rank_8"
+msgstr "Hlavní kapitán"
+
+msgid "res_rank_9"
+msgstr "Náčelník"
+
+msgid "res_rank_10"
+msgstr "Hlavní náčelník"
+
+msgid "res_new_rank"
+msgstr "Nová hodnost"
+
+msgid "res_inapp0_title"
+msgstr "Dvojité peníze"
+
+msgid "res_inapp0_desc"
+msgstr "Zdvojnásobte své peníze, které jste vyhráli v průběhu hry"
+
+msgid "res_inapp1_title"
+msgstr "Dvojité XP"
+
+msgid "res_inapp1_desc"
+msgstr "Zdvojnásobte XP, které jste vyhráli v průběhu hry"
+
+msgid "res_inapp2_title"
+msgstr "Skin 1"
+
+msgid "res_inapp2_desc"
+msgstr "Hrajte s úžasným skinem lékaře!"
+
+msgid "res_inapp3_title"
+msgstr "Skin2"
+
+msgid "res_inapp3_desc"
+msgstr "Hrajte s úžasným skinem požárnice !"
+
+msgid "res_inapp4_title"
+msgstr "Skin3"
+
+msgid "res_inapp4_desc"
+msgstr "Hrajte s úžasným skinem lékaře!"
+
+msgid "res_inapp5_title"
+msgstr "Extra úrovně džungle"
+
+msgid "res_inapp5_desc"
+msgstr "Odemkněte všechny tajné úrovně v džungli"
+
+msgid "res_inapp6_title"
+msgstr "Extra úrovně pouště"
+
+msgid "res_inapp6_desc"
+msgstr "Odemknout všechny tajné úrovně v poušti"
+
+msgid "res_inapp7_title"
+msgstr "Přítel koala"
+
+msgid "res_inapp7_desc"
+msgstr "Sladký koala, který jde za vámi všude"
+
+msgid "res_inapp8_title"
+msgstr "Přítel medvídě"
+
+msgid "res_inapp8_desc"
+msgstr "Úchvatné medvídě, které jde za vámi všude"
+
+msgid "res_inapp9_title"
+msgstr "Přítel pes"
+
+msgid "res_inapp9_desc"
+msgstr "Super věrný pes, který jde za vámi všude"
+
+msgid "res_inapp10_title"
+msgstr "Dvojitý balík"
+
+msgid "res_inapp10_desc"
+msgstr "Zdvojnásobte jak peníze, tak XP, které jste vyhráli v průběhu hry"
+
+msgid "res_mission"
+msgstr "Mise"
+
+msgid "res_title_monde1"
+msgstr "Džungle"
+
+msgid "res_title_monde2"
+msgstr "Poušť"
+
+msgid "res_title_monde3"
+msgstr "Hora"
+
+msgid "res_level_locked"
+msgstr "Úroveň uzamčena"
+
+msgid "res_credits"
+msgstr "Kredity"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Chcete soutěžit s ostatními hráči po celém světě? Můžete to udělat tak, že se přihlásíte ke službě Google Play"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Chtěli byste získat přístup k super úspěchům? Můžete to udělat tak, že se přihlásíte ke službě Google Play"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Chcete uložit svůj postup ve hře? Můžete to udělat tak, že se přihlásíte ke službě Google Play"
+
+msgid "res_share"
+msgstr "Podívejte se na %1s, je to tak úžasná hra! Můžete si ji stáhnout zde: %2s."
+
+msgid "res_no_pets"
+msgstr "Žádná domácí zvířata"
+
+msgid "res_select"
+msgstr "Zvolte"
+
+msgid "res_credits_text"
+msgstr "Vývojář: Clément Slempkes\nGrafička: Sandra Ferragu\nVedoucí projektu: Emmanuel Robles\nProjektový manažer: Loïc Kempf"
+
+msgid "res_ask_login_gp"
+msgstr "Chcete se přihlásit do Google Plus?"
+
+msgid "res_ask_logout_gp"
+msgstr "Chcete se odhlásit z Google Plus?"
+
+msgid "res_congratulations"
+msgstr "Vy jste to dokázali. Blahopřejeme! Podařilo se vám dokončit každou úroveň hry. Jen málokomu se to dosud podařilo. Výborně! Brzy přidáme k objevování nové světy s více domácími zvířaty, které můžete zachránit, a více skrytými předměty k nalezení. Zůstaňte na příjmu. Mezitím bychom byli opravdu rádi, kdybyste mohli dát hře 5 hvězdiček!"
+
+msgid "res_pause"
+msgstr "Pauza"
+
+msgid "res_shop_pet4_title"
+msgstr "Přítel ~ Vlk"
+
+msgid "res_shop_pet4_desc"
+msgstr "Chytrý vlk, který vás sleduje všude"
+
+msgid "res_shop_pet5_title"
+msgstr "Přítel ~ Polární medvěd"
+
+msgid "res_shop_pet5_desc"
+msgstr "Silný polární medvěd, který vás sleduje všude"
+
+msgid "res_shop_pet6_title"
+msgstr "Přítel ~ Sob"
+
+msgid "res_shop_pet6_desc"
+msgstr "Milý sob, který vás sleduje všude"
+
+msgid "res_shop_pet7_title"
+msgstr "Přitel ~ Sněžná liška"
+
+msgid "res_shop_pet7_desc"
+msgstr "Chytrá sněžná liška, která vás sleduje všude"
+
+msgid "res_shop_pet8_title"
+msgstr "Přítel ~ Mamut"
+
+msgid "res_shop_pet8_desc"
+msgstr "Mocný mamut, který vás sleduje všude"
+
+msgid "res_shop_skin3_title"
+msgstr "Skin ~ Eskimák"
+
+msgid "res_shop_skin3_desc"
+msgstr "Hrajte s úžasným skinem eskymáka!"
+
+msgid "res_shop_skin4_title"
+msgstr "Skin ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Hrajte s úžasným skinem Yetiho!"
+
+msgid "res_shop_skin5_title"
+msgstr "Skin ~ Santa Claus"
+
+msgid "res_shop_skin5_desc"
+msgstr "Hrajte s úžasným skinem Santa Clause!"
+
+msgid "res_shop_skin6_title"
+msgstr "Skin ~ Jódlující dívka"
+
+msgid "res_shop_skin6_desc"
+msgstr "Hrajte s úžasným skinem jódlující dívky!"
+
+msgid "res_shop_world3_title"
+msgstr "Extra úrovně hory"
+
+msgid "res_shop_world3_desc"
+msgstr "Odemkněte všechny tajné úrovně v hoře"
+
+msgid "res_shop_all"
+msgstr "Odemkněte vše v obchodě, odstraňte reklamy a pomozte nám vytvářet lepší hry!"
+
+msgid "res_notif_1"
+msgstr "Pojď si zahrát %1s ještě dnes!"
+
+msgid "res_notif_2"
+msgstr "Připoj se do hry %1s ještě dnes!"
+
+msgid "res_notif_3"
+msgstr "Už dlouho jsme tě ve hře %1s neviděli!"
+
+msgid "res_notif_4"
+msgstr "Vnes do svého dne trochu zábavy. Zahraj si %1s hned teď!"
+
+
+
+
+

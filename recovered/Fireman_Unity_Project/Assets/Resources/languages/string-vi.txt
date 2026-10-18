@@ -1,0 +1,637 @@
+
+msgid "app_name"
+msgstr "Fireman"
+
+msgid "Share"
+msgstr "Tôi rất thích chơi %1s! Tôi khuyên bạn tải về: %2s"
+
+msgid "rate the game"
+msgstr "Xếp hạng Game"
+
+msgid "You seem to be enjoying the game"
+msgstr "Dường như bạn thích chơi {0} cũng nhiều như chúng tôi thích phát triển trò chơi này. Cảm ơn bạn. Bạn có thể giúp chúng tôi bằng cách dành chút thời gian thêm xếp hạng tích cực ở trang game không?"
+
+msgid "res_harder"
+msgstr "Hãy thử chơi ở chế độ khó hơn!\nBạn sẵn sàng chơi lại...\nmọi cấp độ chứ?"
+
+msgid "res_difficulty"
+msgstr "Khó"
+
+msgid "res_difficulty_normal"
+msgstr "Bình thường"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Cực khó"
+
+msgid "res_loading"
+msgstr "Đang tải..."
+
+msgid "res_shop"
+msgstr "Cửa hàng"
+
+msgid "res_buy"
+msgstr "Mua hàng"
+
+msgid "res_good_job"
+msgstr "Làm tốt lắm!"
+
+msgid "res_quit"
+msgstr "Bỏ?"
+
+msgid "res_inventory"
+msgstr "HQ"
+
+msgid "res_shop_reservoir"
+msgstr "Mức công suất thùng chứa Jetpack %s"
+
+msgid "res_shop_range"
+msgstr "Mức công suất súng nước %s"
+
+msgid "res_shop_life"
+msgstr "%s Sinh mạng"
+
+msgid "res_required"
+msgstr "cần bổ sung"
+
+msgid "res_not_enough_money"
+msgstr "Không đủ Tiền"
+
+msgid "res_skins"
+msgstr "Trang phục"
+
+msgid "res_achievements"
+msgstr "Thành tích"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_pets"
+msgstr "Vật nuôi"
+
+msgid "res_lostfound"
+msgstr "Đánh mất và Tìm thấy"
+
+msgid "res_rangs"
+msgstr "Hàng"
+
+msgid "res_specialitems"
+msgstr "Các Đồ dùng Đặc biệt"
+
+msgid "res_achiev1_title"
+msgstr "Xã hội"
+
+msgid "res_achiev1_desc"
+msgstr "Truy cập trang Facebook của Magma Mobile"
+
+msgid "res_achiev2_title"
+msgstr "Chia sẻ"
+
+msgid "res_achiev2_desc"
+msgstr "Chia sẻ Game với Bạn bè của bạn"
+
+msgid "res_achiev3_title"
+msgstr "Xem thêm Game"
+
+msgid "res_achiev3_desc"
+msgstr "Xem các Game khác của chúng tôi"
+
+msgid "res_achiev4_title"
+msgstr "Đào tạo Lính cứu hỏa"
+
+msgid "res_achiev4_desc"
+msgstr "Hoàn thành hướng dẫn"
+
+msgid "res_achiev5_title"
+msgstr "Lính cứu hỏa!"
+
+msgid "res_achiev5_desc"
+msgstr "Mở khóa hàng lính cứu hỏa"
+
+msgid "res_achiev6_title"
+msgstr "Lính cứu hỏa Hạng Nhất"
+
+msgid "res_achiev6_desc"
+msgstr "Mở khóa hàng Lính cứu hỏa Hạng Nhất"
+
+msgid "res_achiev7_title"
+msgstr "Lính cứu hỏa Cấp cao"
+
+msgid "res_achiev7_desc"
+msgstr "Mở khóa hàng Lính cứu hỏa Cấp cao"
+
+msgid "res_achiev8_title"
+msgstr "Đội trưởng Lính cứu hỏa"
+
+msgid "res_achiev8_desc"
+msgstr "Mở khóa hàng Đội trưởng Lính cứu hỏa"
+
+msgid "res_achiev9_title"
+msgstr "Sĩ quan Cứu hỏa"
+
+msgid "res_achiev9_desc"
+msgstr "Mở khóa hàng Sĩ quan Cứu hỏa"
+
+msgid "res_achiev10_title"
+msgstr "Trung úy"
+
+msgid "res_achiev10_desc"
+msgstr "Mở khóa hàng Trung úy"
+
+msgid "res_achiev11_title"
+msgstr "Đại úy"
+
+msgid "res_achiev11_desc"
+msgstr "Mở khóa hàng Đại úy"
+
+msgid "res_achiev12_title"
+msgstr "Đại úy Cấp cao"
+
+msgid "res_achiev12_desc"
+msgstr "Mở khóa hàng Đại úy Cấp cao"
+
+msgid "res_achiev13_title"
+msgstr "Chief"
+
+msgid "res_achiev13_desc"
+msgstr "Mở khóa hàng Chief"
+
+msgid "res_achiev14_title"
+msgstr "Master Chief"
+
+msgid "res_achiev14_desc"
+msgstr "Mở khóa hàng Master Chief"
+
+msgid "res_achiev15_title"
+msgstr "1.000 lít nước"
+
+msgid "res_achiev15_desc"
+msgstr "Bắn 1.000 lít nước"
+
+msgid "res_achiev16_title"
+msgstr "5.000 lít nước"
+
+msgid "res_achiev16_desc"
+msgstr "Bắn 5.000 lít nước"
+
+msgid "res_achiev17_title"
+msgstr "10.000 lít nước"
+
+msgid "res_achiev17_desc"
+msgstr "Bắn 10.000 lít nước"
+
+msgid "res_achiev18_title"
+msgstr "Cứu tinh"
+
+msgid "res_achiev18_desc"
+msgstr "Cứu 3 Thú Nhồi bông trong một cấp độ"
+
+msgid "res_achiev19_title"
+msgstr "Kẻ nhát gan"
+
+msgid "res_achiev19_desc"
+msgstr "Hoàn thành một cấp độ mà không cứu một thú nhồi bông nào cả"
+
+msgid "res_achiev20_title"
+msgstr "Người khéo léo"
+
+msgid "res_achiev20_desc"
+msgstr "Hoàn thành một cấp độ mà không làm mất sinh mạng"
+
+msgid "res_achiev21_title"
+msgstr "Thế giới 1"
+
+msgid "res_achiev21_desc"
+msgstr "Hoàn thành Thế giới 1"
+
+msgid "res_achiev22_title"
+msgstr "Thế giới 2"
+
+msgid "res_achiev22_desc"
+msgstr "Hoàn thành Thế giới 2"
+
+msgid "res_achiev23_title"
+msgstr "Thế giới 3"
+
+msgid "res_achiev23_desc"
+msgstr "Hoàn thành Thế giới 3"
+
+msgid "res_achiev24_title"
+msgstr "Người tìm kiếm"
+
+msgid "res_achiev24_desc"
+msgstr "Tìm thấy vật bị mất"
+
+msgid "res_achiev25_title"
+msgstr "Người thu gom"
+
+msgid "res_achiev25_desc"
+msgstr "Tìm thấy tất cả vật bị mất trong game"
+
+msgid "res_achiev26_title"
+msgstr "Thợ săn Ngọn lửa"
+
+msgid "res_achiev26_desc"
+msgstr "Dập tắt 100 Ngọn lửa"
+
+msgid "res_achiev27_title"
+msgstr "Thợ săn Flameboy"
+
+msgid "res_achiev27_desc"
+msgstr "Dập tắt 100 Flameboy"
+
+msgid "res_achiev28_title"
+msgstr "Thợ săn Lava Slime"
+
+msgid "res_achiev28_desc"
+msgstr "Dập tắt 100 Lava Slime"
+
+msgid "res_achiev29_title"
+msgstr "Thợ săn Máy bay ném bom"
+
+msgid "res_achiev29_desc"
+msgstr "Dập tắt 100 Máy bay ném bom trước khi chúng phát nổ"
+
+msgid "res_achiev30_title"
+msgstr "Thợ săn Súng phun lửa"
+
+msgid "res_achiev30_desc"
+msgstr "Dập tắt 100 Súng phun lửa"
+
+msgid "res_achiev31_title"
+msgstr "Thợ săn Fire Spider"
+
+msgid "res_achiev31_desc"
+msgstr "Dập tắt 100 Fire Spider"
+
+msgid "res_achiev32_title"
+msgstr "Mắt Diều hâu"
+
+msgid "res_achiev32_desc"
+msgstr "Tìm thấy Bức tường Ẩn"
+
+msgid "res_music"
+msgstr "Âm nhạc"
+
+msgid "res_sound"
+msgstr "Âm thanh"
+
+msgid "res_settings"
+msgstr "Cài đặt"
+
+msgid "keywords"
+msgstr "hỏa hoạn,lính cứu hỏa,platformer,nhảy,trở ngại,đi lắt léo, lính cứu hỏa,xe cứu hỏa,nước,cứu hỏa,jetpack, quái vật"
+
+msgid "res_moregames"
+msgstr "Thêm các Trò chơi"
+
+msgid "res_restorepurchases"
+msgstr "Khôi phục Mua hàng"
+
+msgid "res_head_quarter"
+msgstr "Trụ sở chính"
+
+msgid "res_shop_extralevel1"
+msgstr "Cấp độ Jungle Extra"
+
+msgid "res_shop_extralevel2"
+msgstr "Cấp độ Desert Extra"
+
+msgid "res_shop_xpx2"
+msgstr "Gấp đôi XP"
+
+msgid "res_shop_piecex2"
+msgstr "Gấp đôi Tiền"
+
+msgid "res_shop_maxipack"
+msgstr "Gấp đôi Tiền + XP"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Trang phục Doc"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Trang phục Nữ cứu hỏa"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Trang phục Nữ cứu hỏa"
+
+msgid "res_shop_pet1"
+msgstr "Vật nuôi 1"
+
+msgid "res_shop_pet2"
+msgstr "Vật nuôi 2"
+
+msgid "res_shop_pet3"
+msgstr "Vật nuôi 3"
+
+msgid "res_talky_0"
+msgstr "Dùng D-pad [+] để di chuyển."
+
+msgid "res_talky_1"
+msgstr "Nhấn nút hành động [A] để nhảy."
+
+msgid "res_talky_2"
+msgstr "Giữ nút hành động [A] để sử dụng jetpack."
+
+msgid "res_talky_3"
+msgstr "Cứu Thú Nhồi bông!"
+
+msgid "res_talky_4"
+msgstr "Và chạy theo lối thoát hiểm!"
+
+msgid "res_talky_5"
+msgstr "Dùng nút súng nước [X] để dập tắt ngọn lửa"
+
+msgid "res_talky_6"
+msgstr "Bước chân lên đống tro tàn để đảm bảo các ngọn lửa đã hoàn toàn được dập tắt"
+
+msgid "res_talky_7"
+msgstr "Cẩn thận, đó là Flameboy! Hãy dùng súng nước dập tắt nó"
+
+msgid "res_talky_8"
+msgstr "Sau khi đã Dập tắt, hãy nhảy lên nó để lau sạch"
+
+msgid "res_talky_9"
+msgstr "Có thể có nhiều lớp lửa"
+
+msgid "res_talky_10"
+msgstr "Vòi nước chữa cháy cho phép bạn bổ sung nước cho thùng chứa"
+
+msgid "res_talky_11"
+msgstr "Vòi nước chữa cháy cũng có thể được dùng như điểm kiểm tra nếu bạn mất mạng"
+
+msgid "res_talky_12"
+msgstr "Mỗi cấp độ có 3 thú nhồi bông cần phải cứu"
+
+msgid "res_talky_13"
+msgstr "Có nhiều loại kẻ thù khác nhau...Tất cả bọn họ đều nguy hiểm!"
+
+msgid "res_talky_14"
+msgstr "Thạch nhũ chết người đấy!"
+
+msgid "res_talky_15"
+msgstr "Trên đường đi, bạn sẽ thấy những nền tảng đang di chuyển có thể hỗ trợ bạn"
+
+msgid "res_talky_16"
+msgstr "Cứ mở to mắt nhìn… để tìm các lối đi bí mật."
+
+msgid "res_talky_17"
+msgstr "Teleport sẽ đưa bạn đến một chỗ khác...."
+
+msgid "res_talky_18"
+msgstr "Tiền cho phép bạn mua các đồ dùng và các nâng cấp trong cửa hàng"
+
+msgid "res_talky_19"
+msgstr "XP cho phép bạn nhận các hàng mới"
+
+msgid "res_talky_20"
+msgstr "Đây là vật nuôi của bạn, nó sẽ đi theo bạn khắp mọi nơi"
+
+msgid "res_talky_21"
+msgstr "Nhân tiện, tôi là Talky, tôi sẽ luôn ở đó để giúp bạn"
+
+msgid "res_talky_22"
+msgstr "Bạn đã sẵn sàng, bạn là Lính cứu hỏa thực sự đấy!"
+
+msgid "res_talky_23"
+msgstr "Đặt hai nút bấm phải ở trên cùng để sử dụng jetpack và bắn cùng một lúc"
+
+msgid "res_arrows"
+msgstr "Mũi tên"
+
+msgid "res_joystick"
+msgstr "Cần điều khiển"
+
+msgid "res_rank_0"
+msgstr "Tân binh"
+
+msgid "res_rank_1"
+msgstr "Lính cứu hỏa"
+
+msgid "res_rank_2"
+msgstr "Lính cứu hỏa Hạng nhất"
+
+msgid "res_rank_3"
+msgstr "Lính cứu hỏa Cấp cao"
+
+msgid "res_rank_4"
+msgstr "Đội trưởng Lính cứu hỏa"
+
+msgid "res_rank_5"
+msgstr "Sĩ quan Cứu hỏa"
+
+msgid "res_rank_6"
+msgstr "Trung úy"
+
+msgid "res_rank_7"
+msgstr "Đại úy"
+
+msgid "res_rank_8"
+msgstr "Đại úy Cấp cao"
+
+msgid "res_rank_9"
+msgstr "Chief"
+
+msgid "res_rank_10"
+msgstr "Master Chief"
+
+msgid "res_new_rank"
+msgstr "Hàng mới"
+
+msgid "res_inapp0_title"
+msgstr "Gấp đôi Tiền"
+
+msgid "res_inapp0_desc"
+msgstr "Gấp đôi số tiền bạn kiếm được trong suốt quá trình chơi"
+
+msgid "res_inapp1_title"
+msgstr "Gấp đôi XP"
+
+msgid "res_inapp1_desc"
+msgstr "Gấp đôi XP bạn kiếm được trong suốt quá trình chơi"
+
+msgid "res_inapp2_title"
+msgstr "Trang phục 1"
+
+msgid "res_inapp2_desc"
+msgstr "Chơi với trang phục Doc tuyệt vời!"
+
+msgid "res_inapp3_title"
+msgstr "Trang phục 2"
+
+msgid "res_inapp3_desc"
+msgstr "Chơi với trang phục Nữ cứu hỏa tuyệt vời!"
+
+msgid "res_inapp4_title"
+msgstr "Trang phục 3"
+
+msgid "res_inapp4_desc"
+msgstr "Chơi với trang phục Doc tuyệt vời!"
+
+msgid "res_inapp5_title"
+msgstr "Cấp độ Jungle Extra"
+
+msgid "res_inapp5_desc"
+msgstr "Mở khóa mọi cấp độ bí mật trong Rừng"
+
+msgid "res_inapp6_title"
+msgstr "Cấp độ Desert Extra"
+
+msgid "res_inapp6_desc"
+msgstr "Mở khóa mọi cấp độ bí mật trong Sa mạc"
+
+msgid "res_inapp7_title"
+msgstr "Người bạn Gấu túi"
+
+msgid "res_inapp7_desc"
+msgstr "Một chú Gấu túi ngọt ngào đi theo bạn khắp mọi nơi"
+
+msgid "res_inapp8_title"
+msgstr "Người bạn Gấu con"
+
+msgid "res_inapp8_desc"
+msgstr "Một chú Gấu con tuyệt đẹp đi theo bạn khắp mọi nơi"
+
+msgid "res_inapp9_title"
+msgstr "Người bạn Chó"
+
+msgid "res_inapp9_desc"
+msgstr "Một chú chó cực kỳ trung thành đi theo bạn khắp mọi nơi"
+
+msgid "res_inapp10_title"
+msgstr "Gói Gấp đôi"
+
+msgid "res_inapp10_desc"
+msgstr "Gấp đôi cả tiền lẫn XP mà bạn kiếm được trong suốt quá trình chơi"
+
+msgid "res_mission"
+msgstr "Sứ mạng"
+
+msgid "res_title_monde1"
+msgstr "Rừng"
+
+msgid "res_title_monde2"
+msgstr "Sa mạc"
+
+msgid "res_title_monde3"
+msgstr "Núi"
+
+msgid "res_level_locked"
+msgstr "Cấp độ bị khóa"
+
+msgid "res_credits"
+msgstr "Tín dụng"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Bạn có muốn đấu với những người chơi khác trên khắp thế giới không? Bạn có thể làm điều đó bằng cách đăng nhập Google Play Services"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Bạn có muốn xem những thành tích siêu việt không? Bạn có thể làm điều đó bằng cách đăng nhập Google Play Services"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Bạn có muốn lưu lại các điểm tiến bộ khi chơi game không? Bạn có thể làm điều đó bằng cách đăng nhập Google Play Services"
+
+msgid "res_share"
+msgstr "Hãy thử đi %1s, đây là game rất tuyệt! Bạn có thể tải tại đây: %2s."
+
+msgid "res_no_pets"
+msgstr "Không có vật nuôi"
+
+msgid "res_select"
+msgstr "Chọn"
+
+msgid "res_credits_text"
+msgstr "Người phát triển: Clément Slempkes\nĐồ họa: Sandra Ferragu\nTrưởng Dự án: Emmanuel Robles\nQuản lý Dự án: Loïc Kempf"
+
+msgid "res_ask_login_gp"
+msgstr "Bạn có muốn đăng nhập Google Plus không?"
+
+msgid "res_ask_logout_gp"
+msgstr "Bạn có muốn thoát khỏi Google Plus không?"
+
+msgid "res_congratulations"
+msgstr "Bạn đã làm xong. Xin chúc mừng! Bạn đã hoàn thành mỗi cấp độ game. Rất ít người đi xa như vậy. Làm tốt lắm! Chúng tôi sẽ sớm bổ sung thêm các thế giới mới để bạn khám phá thêm nhiều vật nuôi để giải cứu và nhiều vật ẩn hơn để tìm kiếm. Tiếp tục Theo dõi nhé. Trong khi đó, chúng tôi sẽ rất cảm ơn bạn nếu bạn có thể xếp hạng game 5 Sao!"
+
+msgid "res_pause"
+msgstr "Tạm dừng"
+
+msgid "res_shop_pet4_title"
+msgstr "Người bạn ~ Sói"
+
+msgid "res_shop_pet4_desc"
+msgstr "Một chú Sói thông minh đi theo bạn khắp mọi nơi"
+
+msgid "res_shop_pet5_title"
+msgstr "Người bạn ~ Gấu Bắc cực"
+
+msgid "res_shop_pet5_desc"
+msgstr "Một chú gấu Bắc cực mạnh mẽ đi theo bạn khắp mọi nơi"
+
+msgid "res_shop_pet6_title"
+msgstr "Người bạn ~ Tuần lộc"
+
+msgid "res_shop_pet6_desc"
+msgstr "Một chú Tuần lộc dễ thương đi theo bạn khắp mọi nơi"
+
+msgid "res_shop_pet7_title"
+msgstr "Người bạn ~ Cáo Tuyết"
+
+msgid "res_shop_pet7_desc"
+msgstr "Một chú Cáo Tuyết thông minh đi theo bạn khắp mọi nơi"
+
+msgid "res_shop_pet8_title"
+msgstr "Người bạn ~ Voi mamut"
+
+msgid "res_shop_pet8_desc"
+msgstr "Một chú Voi mamut hùng mạnh đi theo bạn khắp mọi nơi"
+
+msgid "res_shop_skin3_title"
+msgstr "Trang phục ~ Esquimau"
+
+msgid "res_shop_skin3_desc"
+msgstr "Chơi với trang phục Esquimau tuyệt vời!"
+
+msgid "res_shop_skin4_title"
+msgstr "Trang phục ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Chơi với trang phục Yeti tuyệt vời!"
+
+msgid "res_shop_skin5_title"
+msgstr "Trang phục ~ Santa"
+
+msgid "res_shop_skin5_desc"
+msgstr "Chơi với trang phục Santa tuyệt vời!"
+
+msgid "res_shop_skin6_title"
+msgstr "Trang phục ~ Yodel Girl"
+
+msgid "res_shop_skin6_desc"
+msgstr "Chơi với trang phục Yodel Girl tuyệt vời!"
+
+msgid "res_shop_world3_title"
+msgstr "Cấp độ Mountain Extra"
+
+msgid "res_shop_world3_desc"
+msgstr "Mở khóa tất cả các cấp độ bí mật trong Núi"
+
+msgid "res_shop_all"
+msgstr "Mở khóa mọi thứ trong cửa hàng, loại bỏ quảng cáo và giúp chúng tôi làm ra các game hay hơn!"
+
+msgid "res_notif_1"
+msgstr "Hãy đến chơi %1s ngay hôm nay!"
+
+msgid "res_notif_2"
+msgstr "Hãy tham gia cùng chúng tôi để chơi %1s ngay hôm nay?"
+
+msgid "res_notif_3"
+msgstr "Bạn đã không chơi %1s một thời gian rồi!"
+
+msgid "res_notif_4"
+msgstr "Hãy để ngày hôm nay có thêm niềm vui nho nhỏ nhé. Hãy chơi %1s ngay nhé!"
+
+
+
+

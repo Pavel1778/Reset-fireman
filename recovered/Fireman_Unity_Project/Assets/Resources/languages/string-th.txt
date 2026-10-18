@@ -1,0 +1,637 @@
+msgid "app_name"
+msgstr "นักดับเพลิง"
+
+msgid "Share"
+msgstr " ฉันชอบเล่น %1s มากๆ! และแนะนำอย่างยิ่งให้คุณดาวน์โหลดมาเล่นจาก : %2s"
+
+msgid "rate the game"
+msgstr "ให้คะแนนเกม"
+
+msgid "You seem to be enjoying the game"
+msgstr "คุณดูเหมือนจะเพลิดเพลินกับ {0} เท่าที่เราสนุกกับการพัฒนามัน ขอบคุณ คุณจะช่วยให้เราทราบได้โดยการใช้เวลาในการเพิ่มคะแนนบวกในหน้าเกมหรือไม่"
+
+msgid "res_harder"
+msgstr "ลองเล่นเกมในโหมดยาก \ n คุณพร้อมที่จะเล่นในทุกระดับ ... ? "
+
+msgid "res_difficulty"
+msgstr "ความยาก"
+
+msgid "res_difficulty_normal"
+msgstr "ปกติ"
+
+msgid "res_difficulty_hardcore"
+msgstr "ไม่ยอมใครง่ายๆ"
+
+msgid "res_difficulty_extreme"
+msgstr "สุดโต่ง"
+
+msgid "res_title_monde1"
+msgstr "ป่า"
+
+msgid "res_achiev12_title"
+msgstr "กัปตันอาวุโส"
+
+msgid "res_quit"
+msgstr "ออกจากเกม?"
+
+msgid "res_rank_9"
+msgstr "หัวหน้า"
+
+msgid "res_shop_xpx2"
+msgstr "ประสบการณ์สองเท่า"
+
+msgid "res_achiev5_title"
+msgstr "นักดับเพลิง!"
+
+msgid "res_talky_6"
+msgstr "เดินเหยียบเถ้าถ่านเพื่อให้แน่ใจว่าไฟดับแล้วจริงๆ"
+
+msgid "res_inapp10_desc"
+msgstr "เพิ่มประสบการณ์และเงินที่ได้รับเป็นสองเท่าตลอดการเล่นเกม"
+
+msgid "res_mission"
+msgstr "ภารกิจ"
+
+msgid "res_achiev17_title"
+msgstr "น้ำ 10,000 ลิตร"
+
+msgid "res_rank_7"
+msgstr "กัปตัน"
+
+msgid "res_achiev3_desc"
+msgstr "ลองดูเกมอื่นๆ จากเรา"
+
+msgid "res_talky_10"
+msgstr "จุดเติมน้ำช่วยให้คุณสามารถเติมน้ำในถังได้"
+
+msgid "keywords"
+msgstr "ไฟ, นักดับเพลิง, เกมแพลตฟอร์ม, โดด, สิ่งกีดขวาง, หลบ, นักผจญเพลิง, รถดับเพลิง, น้ำ, ดับไฟ, เจตแพก, มอนสเตอร์"
+
+msgid "res_credits"
+msgstr "เครดิต "
+
+msgid "res_arrows"
+msgstr "ลูกศร"
+
+msgid "res_achiev13_title"
+msgstr "หัวหน้า"
+
+msgid "res_not_enough_money"
+msgstr "เงินไม่เพียงพอ"
+
+msgid "res_talky_15"
+msgstr "คุณจะพบแพลตฟอร์มที่เคลื่อนที่ได้ขณะผจญภัย เพื่อช่วยการทำงานของคุณ"
+
+msgid "res_achiev7_title"
+msgstr "นักดับเพลิงอาวุโส"
+
+msgid "res_skins"
+msgstr "สกิน"
+
+msgid "res_shop_fireman_skin1"
+msgstr "สกินคุณหมอ"
+
+msgid "res_inapp1_title"
+msgstr "ประสบการณ์สองเท่า"
+
+msgid "res_rank_0"
+msgstr "มือใหม่"
+
+msgid "res_talky_3"
+msgstr "ช่วยเหล่าตุ๊กตาสัตว์!"
+
+msgid "res_achiev6_title"
+msgstr "นักดับเพลิงชั้น 1"
+
+msgid "res_achiev26_title"
+msgstr "นักล่าเปลวไฟ"
+
+msgid "res_achiev24_title"
+msgstr "นักค้นหา"
+
+msgid "res_achiev24_desc"
+msgstr "ค้นหาสิ่งของที่หายไป"
+
+msgid "res_achiev19_title"
+msgstr "คนขี้ขลาด"
+
+msgid "res_inapp9_desc"
+msgstr "สุดยอดสุนัขผู้ซื่อสัตย์ที่จะตามคุณไปทุกที่"
+
+msgid "res_achiev22_title"
+msgstr "โลกที่ 2"
+
+msgid "res_new_rank"
+msgstr "ระดับใหม่"
+
+msgid "res_achiev5_desc"
+msgstr "ปลดล็อคระดับของนักดับเพลิง"
+
+msgid "res_achiev11_desc"
+msgstr "ปลดล็อคระดับกัปตัน"
+
+msgid "res_congratulations"
+msgstr "คุณทำสำเร็จแล้ว ยินดีด้วย! คุณสามารถเล่นผ่านทุกด่านในเกมเรียบร้อยแล้ว มีไม่กี่คนที่มาถึงจุดนี้ได้ ไม่เลว! เราจะเพิ่มโลกใหม่ๆ ให้ค้นพบ สัตว์เลี้ยงอีกมากมายให้ช่วยเหลือ และไอเท็มลับอีกมากมายให้ได้ค้นหาในไม่ช้า ในระหว่างนี้ เราจะยินดีอย่างยิ่งถ้าคุณจะให้เรตติ้ง 5 ดาวกับเกมของเรา!"
+
+msgid "res_select"
+msgstr "เลือก"
+
+msgid "res_achiev6_desc"
+msgstr "ปลดล็อคระดับนักดับเพลิงชั้น 1"
+
+msgid "res_shop_range"
+msgstr "ระดับระยะยิงปืนน้ำ %s"
+
+msgid "res_talky_13"
+msgstr "ศัตรูมีหลายชนิด...ทุกตัวอันตรายมาก!"
+
+msgid "res_inapp7_title"
+msgstr "เพื่อนโคอาล่า"
+
+msgid "res_achiev28_title"
+msgstr "นักล่าลาวาสไลม์"
+
+msgid "res_shop_piecex2"
+msgstr "เพิ่มเงินสองเท่า"
+
+msgid "res_achiev27_title"
+msgstr "นักล่าเฟลมบอย"
+
+msgid "res_achiev25_title"
+msgstr "นักสะสม"
+
+msgid "res_achiev28_desc"
+msgstr "ดับลาวาสไลม์ 100 ตัว"
+
+msgid "res_inapp8_desc"
+msgstr "ลูกหมีผู้น่ารักที่จะตามคุณไปทุกที่"
+
+msgid "res_inapp2_desc"
+msgstr "เล่นเกมด้วยสกิน Doc ที่น่าทึ่ง!"
+
+msgid "res_achievements"
+msgstr "เป้าหมาย"
+
+msgid "res_ask_login_gp"
+msgstr "คุณต้องการเข้าสู่ระบบ Google Plus หรือไม่"
+
+msgid "res_achiev30_title"
+msgstr "นักล่าเฟลมโทรเวอร์"
+
+msgid "res_achiev22_desc"
+msgstr "ผ่านโลกที่ 2 แล้ว"
+
+msgid "res_shop_pet2"
+msgstr "สัตว์เลี้ยง 2"
+
+msgid "res_shop_pet3"
+msgstr "สัตว์เลี้ยง 3"
+
+msgid "res_achiev4_title"
+msgstr "การฝึกอบรมนักดับเพลิง"
+
+msgid "res_shop_pet1"
+msgstr "สัตว์เลี้ยง 1"
+
+msgid "res_loading"
+msgstr "กำลังโหลด..."
+
+msgid "res_achiev8_desc"
+msgstr "ปลดล็อคระดับนักดับเพลิงมาสเตอร์"
+
+msgid "res_rank_4"
+msgstr "นักดับเพลิงมาสเตอร์"
+
+msgid "res_talky_21"
+msgstr "อ้อ ผมชื่อ Talky จากนี้ไปผมจะคอยช่วยคุณเอง"
+
+msgid "res_inapp5_desc"
+msgstr "ปลดล็อคด่านพิเศษในป่า"
+
+msgid "res_talky_8"
+msgstr "เมื่อไฟดับแล้ว ให้โดดทับเพื่อกำจัดขี้เถ้า"
+
+msgid "res_talky_5"
+msgstr "ใช้ปุ่มปืนน้ำเพื่อดับเพลิง"
+
+msgid "res_inapp5_title"
+msgstr "ด่านพิเศษในป่า"
+
+msgid "res_achiev21_desc"
+msgstr "ผ่านโลกที่ 1"
+
+msgid "res_inapp4_desc"
+msgstr "เล่นเกมด้วยสกิน Doc ที่น่าทึ่ง!"
+
+msgid "res_talky_12"
+msgstr "ในแต่ละด่านจะมีตุ๊กตาสัตว์ให้ช่วยเหลือ 3 ตัว"
+
+msgid "res_rank_1"
+msgstr "นักผจญเพลิง"
+
+msgid "res_achiev20_desc"
+msgstr "ผ่านด่านโดยไม่เสียชีวิตเลย"
+
+msgid "res_inapp7_desc"
+msgstr "โคอาล่าน้อยน่ารักที่จะตามคุณไปทุกที่"
+
+msgid "res_share"
+msgstr "ลองเล่นเกม %1s ดูสิ เป็นเกมที่สนุกมากๆ! คุณสามารถดาวน์โหลดมาเล่นได้จากที่นี่ : %2s"
+
+msgid "res_achiev1_desc"
+msgstr "ลองเข้าชมหน้า Facebook ของ Magma Mobile"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "คุณต้องการเข้าถึงความสำเร็จของคุณหรือเปล่า ทำได้โดยลงชื่อเข้าใช้บริการ Google Play"
+
+msgid "res_achiev14_title"
+msgstr "หัวหน้าใหญ่"
+
+msgid "res_inapp8_title"
+msgstr "เพื่อนลูกหมี"
+
+msgid "res_inapp6_desc"
+msgstr "ปลดล็อคด่านพิเศษในทะเลทราย"
+
+msgid "res_talky_7"
+msgstr "ระวังเฟลมบอย! กำจัดมันด้วยปืนน้ำของคุณ"
+
+msgid "res_achiev2_desc"
+msgstr "แบ่งปันเกมนี้กับเพื่อนๆ ของคุณ"
+
+msgid "res_inapp3_title"
+msgstr "สกิน 2"
+
+msgid "res_inapp1_desc"
+msgstr "เพิ่มประสบการณ์ที่ได้รับเป็นสองเท่าตลอดการเล่นเกม"
+
+msgid "res_talky_20"
+msgstr "คุณได้รับสัตว์เลี้ยงแล้ว มันจะตามคุณไปทุกที่"
+
+msgid "res_rangs"
+msgstr "ระดับ"
+
+msgid "res_credits_text"
+msgstr "นักพัฒนา : Clément Slempkes\nนักออกแบบกราฟิก : Sandra Ferragu\n หัวหน้าโครงการ : Emmanuel Robles\nผู้จัดการโครงการ : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "การตั้งค่า"
+
+msgid "res_head_quarter"
+msgstr "ศูนย์บัญชาการ"
+
+msgid "res_achiev18_title"
+msgstr "ผู้พิทักษ์"
+
+msgid "res_talky_1"
+msgstr "กดปุ่มขวาเพื่อกระโดด"
+
+msgid "res_achiev15_title"
+msgstr "น้ำ 1,000 ลิตร"
+
+msgid "res_achiev32_title"
+msgstr "ตาเหยี่ยว"
+
+msgid "res_achiev18_desc"
+msgstr "ช่วยตุ๊กตาสัตว์ 3 ตัวภายในด่านเดียว"
+
+msgid "res_achiev25_desc"
+msgstr "ค้นหาสิ่งของที่หายไปจากด่านต่างๆ ของเกม"
+
+msgid "res_achiev16_desc"
+msgstr "ยิงน้ำ 5,000 ลิตร"
+
+msgid "res_inapp10_title"
+msgstr "แพกสองเท่า"
+
+msgid "res_achiev7_desc"
+msgstr "ปลดล็อคระดับนักดับเพลิงอาวุโส"
+
+msgid "res_rank_5"
+msgstr "เจ้าพนักงานดับเพลิง"
+
+msgid "res_inapp0_desc"
+msgstr "เพิ่มเงินที่ได้รับเป็นสองเท่าตลอดการเล่นเกม"
+
+msgid "res_achiev12_desc"
+msgstr "ปลดล็อคระดับกัปตันอาวุโส"
+
+msgid "res_achiev16_title"
+msgstr "น้ำ 5,000 ลิตร"
+
+msgid "res_required"
+msgstr "ต้องระบุ"
+
+msgid "res_no_pets"
+msgstr "ไม่มีสัตว์เลี้ยง"
+
+msgid "res_pets"
+msgstr "สัตว์เลี้ยง"
+
+msgid "res_shop_extralevel1"
+msgstr "ด่านพิเศษในป่า"
+
+msgid "res_talky_23"
+msgstr "วางปุ่ใขวาสองปุ่มไว้ซ้อนกันเพื่อยิงและใช้เจตแพกไปพร้อมๆ กัน"
+
+msgid "res_talky_19"
+msgstr "ประสบการณ์ทำให้คุณพัฒนาไปยังระดับใหม่"
+
+msgid "res_achiev32_desc"
+msgstr "ค้นหาผนังลับ"
+
+msgid "res_achiev29_desc"
+msgstr "ดับบอมเบอร์ 100 ตัวก่อนมันจะระเบิด"
+
+msgid "res_buy"
+msgstr "ซื้อ"
+
+msgid "res_shop_life"
+msgstr "ชีวิตเพิ่มเติม %s"
+
+msgid "res_joystick"
+msgstr "จอยสติ๊ก"
+
+msgid "res_achiev23_desc"
+msgstr "ผ่านโลกที่ 3"
+
+msgid "res_achiev29_title"
+msgstr "นักล่าบอมเบอร์"
+
+msgid "res_title_monde2"
+msgstr "ทะเลทราย"
+
+msgid "res_achiev31_desc"
+msgstr "ดับแมงมุมไฟ 100 ตัว"
+
+msgid "res_inapp0_title"
+msgstr "เพิ่มเงินสองเท่า"
+
+msgid "res_sound"
+msgstr "เสีียง"
+
+msgid "res_achiev26_desc"
+msgstr "ดับไฟ 100 ครั้ง"
+
+msgid "res_good_job"
+msgstr "ทำได้ดี !"
+
+msgid "res_shop"
+msgstr "ร้านค้า"
+
+msgid "res_jetpack"
+msgstr "เจตแพก"
+
+msgid "res_achiev21_title"
+msgstr "โลก 1"
+
+msgid "res_inapp6_title"
+msgstr "ด่านพิเศษในทะเลทราย"
+
+msgid "res_talky_22"
+msgstr "เรียบร้อย คุณพร้อมปฏิบัติหน้าที่เป็นนักดับเพลิงเต็มตัวแล้ว!"
+
+msgid "res_talky_18"
+msgstr "คุณสามารถใช้เงินซื้อไอเท็มและอัปเกรดต่างๆ จากร้านค้าได้"
+
+msgid "res_level_locked"
+msgstr "เลเวลถูกล็อก"
+
+msgid "res_shop_fireman_skin3"
+msgstr "สกินนักดับเพลิงสาว"
+
+msgid "res_shop_reservoir"
+msgstr "ความจุถังเจตแพก %s"
+
+msgid "res_talky_17"
+msgstr "เทเลพอร์ตจะพาคุณไปยังสถานที่อื่น..."
+
+msgid "res_rank_2"
+msgstr "นักดับเพลิงชั้น 1"
+
+msgid "res_talky_14"
+msgstr "หินย้อยอันตรายมาก!"
+
+msgid "res_talky_0"
+msgstr "ใช้ลูกศรซ้ายขวาเพื่อเคลื่อนที่"
+
+msgid "res_achiev30_desc"
+msgstr "ดับเพลิงจากเฟลมโทรเวอร์ 100 ตัว"
+
+msgid "res_restorepurchases"
+msgstr "เรียกคืนการซื้อ"
+
+msgid "res_achiev1_title"
+msgstr "เครือข่ายสังคม"
+
+msgid "res_achiev3_title"
+msgstr "เกมอื่นๆ"
+
+msgid "res_achiev23_title"
+msgstr "โลกที่ 3"
+
+msgid "res_moregames"
+msgstr "เกมอื่นๆ"
+
+msgid "res_music"
+msgstr "เพลง"
+
+msgid "res_inapp4_title"
+msgstr "สกิน 3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "คุณต้องการแข่งกับผู้เล่นอื่นทั่วโลกหรือไม่? คุณสามารถทำได้โดยลงชื่อเข้าใช้งานบริการ Google Play"
+
+msgid "res_talky_2"
+msgstr "ควบคุมปุ่มขวาให้เหมาะสมขณะใช้เจตแพก"
+
+msgid "res_achiev19_desc"
+msgstr "ผ่านด่านโดยไม่ช่วยตุ๊กตาสัตว์เลย"
+
+msgid "res_achiev10_title"
+msgstr "รองหัวหน้า"
+
+msgid "res_rank_10"
+msgstr "หัวหน้าใหญ่"
+
+msgid "res_ask_logout_gp"
+msgstr "คุณต้องการออกจากระบบ Google Plus หรือไม่?"
+
+msgid "res_rank_8"
+msgstr "กัปตันอาวุโส"
+
+msgid "res_achiev10_desc"
+msgstr "ปลดล็อคระดับรองหัวหน้า"
+
+msgid "res_achiev17_desc"
+msgstr "ยิงน้ำ 10,000 ลิตร"
+
+msgid "res_achiev2_title"
+msgstr "แบ่งปัน"
+
+msgid "res_inapp3_desc"
+msgstr "สนุกกับสกินนักดับเพลิงสาวสุดสวย !"
+
+msgid "res_talky_16"
+msgstr "สังเกตให้ดีๆ...ว่ามีทางลับอยู่"
+
+msgid "res_achiev13_desc"
+msgstr "ปลดล็อคระดับหัวหน้า"
+
+msgid "res_inventory"
+msgstr "ศูนย์บัญชาการ"
+
+msgid "res_inapp2_title"
+msgstr "สกิน 1"
+
+msgid "res_shop_maxipack"
+msgstr "เงินและประสบการณ์สองเท่า"
+
+msgid "res_rank_6"
+msgstr "รองหัวหน้า"
+
+msgid "res_inapp9_title"
+msgstr "เพื่อนสุนัข"
+
+msgid "res_achiev4_desc"
+msgstr "ผ่านการฝึกสอน"
+
+msgid "res_specialitems"
+msgstr "ไอเท็มพิเศษ"
+
+msgid "res_achiev31_title"
+msgstr "นักล่าแมงมุมไฟ"
+
+msgid "res_achiev11_title"
+msgstr "กัปตัน"
+
+msgid "res_shop_fireman_skin2"
+msgstr "สกินนักดับเพลิงสาว"
+
+msgid "res_lostfound"
+msgstr "แผนกของหาย"
+
+msgid "res_shop_extralevel2"
+msgstr "ด่านพิเศษในทะเลทราย"
+
+msgid "res_rank_3"
+msgstr "นักดับเพลิงอาวุโส"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "คุณต้องการบันทึกความคืบหน้าในการเล่นเกมหรือไม่? คุณสามารถทำได้โดยลงชื่อเข้าใช้บริการ Google Play"
+
+msgid "res_achiev15_desc"
+msgstr "ยิงน้ำ 1,000 ลิตร"
+
+msgid "res_talky_9"
+msgstr "ไฟอาจจะมีหลายชั้น"
+
+msgid "res_talky_11"
+msgstr "จุดเติมน้ำจะใช้เป็นเช็คพอยต์สำหรับเกิดใหม่ถ้าคุณเสียชีวิต"
+
+msgid "res_achiev9_title"
+msgstr "เจ้าพนักงานดับเพลิง"
+
+msgid "res_achiev20_title"
+msgstr "พลิ้วไหว"
+
+msgid "res_achiev9_desc"
+msgstr "ปลดล็อคระดับเจ้าพนักงานดับเพลิง"
+
+msgid "res_talky_4"
+msgstr "และวิ่งไปยังทางออก!"
+
+msgid "res_achiev14_desc"
+msgstr "ปลดล็อคระดับหัวหน้าใหญ่"
+
+msgid "res_achiev8_title"
+msgstr "นักดับเพลิงมาสเตอร์"
+
+msgid "res_achiev27_desc"
+msgstr "ดับเฟลมบอยได้ 100 ตัว"
+
+msgid "res_pause"
+msgstr "หยุดชั่วคราว"
+
+msgid "res_shop_pet4_title"
+msgstr "เพื่อน ~ หมาป่า"
+
+msgid "res_shop_pet4_desc"
+msgstr "หมาป่าเจ้าปัญญาที่ตามคุณไปทุกที่"
+
+msgid "res_shop_pet5_title"
+msgstr "เพื่อน ~ หมีขั้วโลก"
+
+msgid "res_shop_pet5_desc"
+msgstr "หมีขั้วโลกที่แข็งแกร่งที่ตามคุณไปทุกที่"
+
+msgid "res_shop_pet6_title"
+msgstr "เพื่อน ~ กวางเรนเดีย"
+
+msgid "res_shop_pet6_desc"
+msgstr "กวางเรนเดียแสนดีที่ตามคุณไปทุกที่"
+
+msgid "res_shop_pet7_title"
+msgstr "เพื่อน ~ จิ้งจอกหิมะ"
+
+msgid "res_shop_pet7_desc"
+msgstr "จิ้งจอกหิมะแสนฉลาดที่ตามคุณไปทุกที่"
+
+msgid "res_shop_pet8_title"
+msgstr "เพื่อน ~ ช้างแมมมอธ"
+
+msgid "res_shop_pet8_desc"
+msgstr "ช้างแมมมอธจอมพลังที่ตามคุณไปทุกที่"
+
+msgid "res_shop_skin3_title"
+msgstr "สกิน ~ เอสกิโม"
+
+msgid "res_shop_skin3_desc"
+msgstr "เล่นเกมด้วยสกินเอสกิโมที่น่าทึ่ง!"
+
+msgid "res_shop_skin4_title"
+msgstr "สกิน ~ เยติ"
+
+msgid "res_shop_skin4_desc"
+msgstr "เล่นเกมด้วยสกินเยติที่น่าทึ่ง!"
+
+msgid "res_shop_skin5_title"
+msgstr "สกิน ~ ซานต้า"
+
+msgid "res_shop_skin5_desc"
+msgstr "เล่นเกมด้วยสกินซานต้าที่น่าทึ่ง!"
+
+msgid "res_shop_skin6_title"
+msgstr "สกิน ~ สาวโยเดล"
+
+msgid "res_shop_skin6_desc"
+msgstr "เล่นเกมด้วยสกินสาวโยเดลที่น่าทึ่ง!"
+
+msgid "res_title_monde3"
+msgstr "ภูเขา"
+
+msgid "res_shop_world3_title"
+msgstr "เลเวลพิเศษ ภูเขา"
+
+msgid "res_shop_world3_desc"
+msgstr "ปลดล็อกเลเวลลับทั้งหมดในภูเขา"
+
+msgid "res_shop_all"
+msgstr "ปลดล็อกทุกสิ่งทุกอย่างในร้านค้า กำจัดโฆษณา และช่วยเราให้สามารถสร้างเกมที่ดียิ่งขึ้น"
+
+msgid "res_notif_1"
+msgstr "มาเล่น %1s วันนี้!"
+
+msgid "res_notif_2"
+msgstr "มาร่วมเล่น %1s กับเราวันนี้!"
+
+msgid "res_notif_3"
+msgstr "คุณไม่ได้เล่น %1s มาซักพักแล้ว!"
+
+msgid "res_notif_4"
+msgstr "มาเพิ่มความสนุกเล็ก ๆ น้อย ๆ สำหรับวันนี้ โดยการเล่น %1s ตอนนี้!"
+
+
+
+
+

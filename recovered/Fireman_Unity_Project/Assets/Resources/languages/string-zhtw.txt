@@ -1,0 +1,641 @@
+
+msgid "app_name"
+msgstr "消防員"
+
+msgid "Share"
+msgstr "我喜歡玩%1s！我強烈建議你下載它：%2s"
+
+msgid "rate the game"
+msgstr "評價遊戲"
+
+msgid "You seem to be enjoying the game"
+msgstr "你似乎很喜歡{0}，就像我們喜歡開發它一樣。謝謝你。你願意透過在遊戲頁面添加積極的評價來幫助我們嗎？"
+
+msgid "res_harder"
+msgstr "嘗試遊戲的困難模式！\n你準備好重新開始遊戲了嗎...\n所有層級？"
+
+msgid "res_difficulty"
+msgstr "難度"
+
+msgid "res_difficulty_normal"
+msgstr "正常"
+
+msgid "res_difficulty_hardcore"
+msgstr "困難"
+
+msgid "res_difficulty_extreme"
+msgstr "極難"
+
+msgid "res_loading"
+msgstr "加載中..."
+
+msgid "res_shop"
+msgstr "商店"
+
+msgid "res_buy"
+msgstr "購買"
+
+msgid "res_good_job"
+msgstr "好樣的！"
+
+msgid "res_quit"
+msgstr "結束？"
+
+msgid "res_inventory"
+msgstr "總部"
+
+msgid "res_shop_reservoir"
+msgstr "噴射揹包箱容量等級%s"
+
+msgid "res_shop_range"
+msgstr "水槍射程等級%s"
+
+msgid "res_shop_life"
+msgstr "%s條額外生命"
+
+msgid "res_required"
+msgstr "必須"
+
+msgid "res_not_enough_money"
+msgstr "錢不夠"
+
+msgid "res_skins"
+msgstr "裝扮"
+
+msgid "res_achievements"
+msgstr "成就"
+
+msgid "res_jetpack"
+msgstr "噴射揹包"
+
+msgid "res_pets"
+msgstr "寵物"
+
+msgid "res_lostfound"
+msgstr "失物招領"
+
+msgid "res_rangs"
+msgstr "等級"
+
+msgid "res_specialitems"
+msgstr "特殊物品"
+
+msgid "res_achiev1_title"
+msgstr "社交"
+
+msgid "res_achiev1_desc"
+msgstr "瀏覽Magma Mobile Facebook頁面"
+
+msgid "res_achiev2_title"
+msgstr "分享"
+
+msgid "res_achiev2_desc"
+msgstr "與朋友分享遊戲"
+
+msgid "res_achiev3_title"
+msgstr "更多遊戲"
+
+msgid "res_achiev3_desc"
+msgstr "看看我們的其他遊戲"
+
+msgid "res_achiev4_title"
+msgstr "消防員培訓"
+
+msgid "res_achiev4_desc"
+msgstr "完成教學課程"
+
+msgid "res_achiev5_title"
+msgstr "消防員！"
+
+msgid "res_achiev5_desc"
+msgstr "解鎖消防員等級"
+
+msgid "res_achiev6_title"
+msgstr "一級消防員"
+
+msgid "res_achiev6_desc"
+msgstr "解鎖一級消防員等級"
+
+msgid "res_achiev7_title"
+msgstr "資深消防員"
+
+msgid "res_achiev7_desc"
+msgstr "解鎖資深消防員等級"
+
+msgid "res_achiev8_title"
+msgstr "傑出消防員"
+
+msgid "res_achiev8_desc"
+msgstr "解鎖傑出消防員等級"
+
+msgid "res_achiev9_title"
+msgstr "消防長"
+
+msgid "res_achiev9_desc"
+msgstr "解鎖消防長等級"
+
+msgid "res_achiev10_title"
+msgstr "副隊長"
+
+msgid "res_achiev10_desc"
+msgstr "解鎖副隊長等級"
+
+msgid "res_achiev11_title"
+msgstr "中隊長"
+
+msgid "res_achiev11_desc"
+msgstr "解鎖中隊長等級"
+
+msgid "res_achiev12_title"
+msgstr "資深中隊隊長"
+
+msgid "res_achiev12_desc"
+msgstr "解鎖資深中隊長"
+
+msgid "res_achiev13_title"
+msgstr "大隊長"
+
+msgid "res_achiev13_desc"
+msgstr "解鎖大隊長等級"
+
+msgid "res_achiev14_title"
+msgstr "總隊長"
+
+msgid "res_achiev14_desc"
+msgstr "解鎖總隊長等級"
+
+msgid "res_achiev15_title"
+msgstr "1,000公升水"
+
+msgid "res_achiev15_desc"
+msgstr "噴射1,000公升水"
+
+msgid "res_achiev16_title"
+msgstr "5,000公升水"
+
+msgid "res_achiev16_desc"
+msgstr "噴射5,000公升水"
+
+msgid "res_achiev17_title"
+msgstr "10,000公升水"
+
+msgid "res_achiev17_desc"
+msgstr "噴射10,000公升水"
+
+msgid "res_achiev18_title"
+msgstr "救世主"
+
+msgid "res_achiev18_desc"
+msgstr "單一層級拯救3只被困動物"
+
+msgid "res_achiev19_title"
+msgstr "懦夫"
+
+msgid "res_achiev19_desc"
+msgstr "完成某層級而未拯救任何被困動物"
+
+msgid "res_achiev20_title"
+msgstr "躲閃高手"
+
+msgid "res_achiev20_desc"
+msgstr "完成一個層級而未失去生命"
+
+msgid "res_achiev21_title"
+msgstr "世界1"
+
+msgid "res_achiev21_desc"
+msgstr "完成世界1"
+
+msgid "res_achiev22_title"
+msgstr "世界2"
+
+msgid "res_achiev22_desc"
+msgstr "完成世界2"
+
+msgid "res_achiev23_title"
+msgstr "世界3"
+
+msgid "res_achiev23_desc"
+msgstr "完成世界3"
+
+msgid "res_achiev24_title"
+msgstr "發現者"
+
+msgid "res_achiev24_desc"
+msgstr "找到一個丟失物品"
+
+msgid "res_achiev25_title"
+msgstr "收藏家"
+
+msgid "res_achiev25_desc"
+msgstr "找到遊戲中的所有物品"
+
+msgid "res_achiev26_title"
+msgstr "火焰獵人"
+
+msgid "res_achiev26_desc"
+msgstr "撲滅100處火焰"
+
+msgid "res_achiev27_title"
+msgstr "火娃獵人"
+
+msgid "res_achiev27_desc"
+msgstr "消滅100個火娃"
+
+msgid "res_achiev28_title"
+msgstr "熔岩流獵人"
+
+msgid "res_achiev28_desc"
+msgstr "撲滅100處熔岩流"
+
+msgid "res_achiev29_title"
+msgstr "爆炎人獵人"
+
+msgid "res_achiev29_desc"
+msgstr "消滅100個爆炎人在他們自爆前"
+
+msgid "res_achiev30_title"
+msgstr "火焰噴射器獵人"
+
+msgid "res_achiev30_desc"
+msgstr "消滅100個火焰噴射器"
+
+msgid "res_achiev31_title"
+msgstr "火蜘蛛獵人"
+
+msgid "res_achiev31_desc"
+msgstr "消滅100只火蜘蛛"
+
+msgid "res_achiev32_title"
+msgstr "鷹眼"
+
+msgid "res_achiev32_desc"
+msgstr "尋找隱藏牆"
+
+msgid "res_music"
+msgstr "音樂"
+
+msgid "res_sound"
+msgstr "聲音"
+
+msgid "res_settings"
+msgstr "設定"
+
+msgid "keywords"
+msgstr "火,消防員,平臺遊戲,跳躍,障礙,閃避,消防員,消防車,水,滅火,噴射背包,怪物"
+
+msgid "res_moregames"
+msgstr "更多遊戲"
+
+msgid "res_restorepurchases"
+msgstr "復原購買"
+
+msgid "res_head_quarter"
+msgstr "總部"
+
+msgid "res_shop_extralevel1"
+msgstr "叢林額外層級"
+
+msgid "res_shop_extralevel2"
+msgstr "沙漠額外層級"
+
+msgid "res_shop_extralevel2"
+msgstr "山脈額外層級"
+
+msgid "res_shop_xpx2"
+msgstr "雙倍經驗"
+
+msgid "res_shop_piecex2"
+msgstr "雙倍金錢"
+
+msgid "res_shop_maxipack"
+msgstr "雙倍經驗+金錢"
+
+msgid "res_shop_fireman_skin1"
+msgstr "醫生裝扮"
+
+msgid "res_shop_fireman_skin2"
+msgstr "消防女孩裝扮"
+
+msgid "res_shop_fireman_skin3"
+msgstr "消防女孩裝扮"
+
+msgid "res_shop_pet1"
+msgstr "寵物1"
+
+msgid "res_shop_pet2"
+msgstr "寵物2"
+
+msgid "res_shop_pet3"
+msgstr "寵物3"
+
+msgid "res_talky_0"
+msgstr "使用方向鍵[+]鍵移動。"
+
+msgid "res_talky_1"
+msgstr "按下動作按鈕[A]跳躍。"
+
+msgid "res_talky_2"
+msgstr "按住動作按鈕[A]使用噴射揹包。"
+
+msgid "res_talky_3"
+msgstr "拯救被困動物！"
+
+msgid "res_talky_4"
+msgstr "跑到出口！"
+
+msgid "res_talky_5"
+msgstr "用水槍按鈕[X]撲滅火焰"
+
+msgid "res_talky_6"
+msgstr "走到灰燼上以確保火焰完全熄滅"
+
+msgid "res_talky_7"
+msgstr "小心，這是火娃！用水槍消滅他"
+
+msgid "res_talky_8"
+msgstr "一旦熄滅，跳到他身上消滅他"
+
+msgid "res_talky_9"
+msgstr "火焰可能有多層"
+
+msgid "res_talky_10"
+msgstr "消防栓讓你重新裝滿水箱"
+
+msgid "res_talky_11"
+msgstr "如果你失去了生命，消防栓也可以作為復活點"
+
+msgid "res_talky_12"
+msgstr "每個層級有3個被困動物等你拯救"
+
+msgid "res_talky_13"
+msgstr "遊戲中有許多種敵人......他們都很危險！"
+
+msgid "res_talky_14"
+msgstr "尖刺是致命的！"
+
+msgid "res_talky_15"
+msgstr "你沿途會發現移動的平台為你提供幫助"
+
+msgid "res_talky_16"
+msgstr "睜大你的眼睛...尋找秘密通道。"
+
+msgid "res_talky_17"
+msgstr "遠端傳輸會帶你到另一個地方..."
+
+msgid "res_talky_18"
+msgstr "金錢可以讓你在店內購買的物品和升級"
+
+msgid "res_talky_19"
+msgstr "經驗讓你升到新等級"
+
+msgid "res_talky_20"
+msgstr "這是你的寵物，它會時刻跟著你"
+
+msgid "res_talky_21"
+msgstr "對了，我是托奇，我會永遠在身邊幫助你"
+
+msgid "res_talky_22"
+msgstr "你現在準備好了，你是個真正的消防員了！"
+
+msgid "res_talky_23"
+msgstr "同時按住頂部右側的兩個按鈕即可使用噴射揹包并噴射水柱"
+
+msgid "res_arrows"
+msgstr "箭頭"
+
+msgid "res_joystick"
+msgstr "搖桿"
+
+msgid "res_rank_0"
+msgstr "新手"
+
+msgid "res_rank_1"
+msgstr "消防員"
+
+msgid "res_rank_2"
+msgstr "一級消防員"
+
+msgid "res_rank_3"
+msgstr "資深消防員"
+
+msgid "res_rank_4"
+msgstr "傑出消防員"
+
+msgid "res_rank_5"
+msgstr "消防長"
+
+msgid "res_rank_6"
+msgstr "副隊長"
+
+msgid "res_rank_7"
+msgstr "中隊長"
+
+msgid "res_rank_8"
+msgstr "資深中隊長"
+
+msgid "res_rank_9"
+msgstr "大隊長"
+
+msgid "res_rank_10"
+msgstr "總隊長"
+
+msgid "res_new_rank"
+msgstr "新等級"
+
+msgid "res_inapp0_title"
+msgstr "雙倍金錢"
+
+msgid "res_inapp0_desc"
+msgstr "在整個遊戲過程中賺到雙倍金錢"
+
+msgid "res_inapp1_title"
+msgstr "雙倍經驗"
+
+msgid "res_inapp1_desc"
+msgstr "在整個遊戲過程中賺取雙倍經驗"
+
+msgid "res_inapp2_title"
+msgstr "裝扮1"
+
+msgid "res_inapp2_desc"
+msgstr "用漂亮的醫生裝扮玩遊戲！"
+
+msgid "res_inapp3_title"
+msgstr "裝扮2"
+
+msgid "res_inapp3_desc"
+msgstr "用漂亮的消防女孩裝扮玩遊戲！"
+
+msgid "res_inapp4_title"
+msgstr "裝扮3"
+
+msgid "res_inapp4_desc"
+msgstr "用漂亮的醫生裝扮玩遊戲！"
+
+msgid "res_inapp5_title"
+msgstr "叢林額外層級"
+
+msgid "res_inapp5_desc"
+msgstr "解鎖所有叢林秘密層級"
+
+msgid "res_inapp6_title"
+msgstr "沙漠額外層級"
+
+msgid "res_inapp6_desc"
+msgstr "解鎖所有沙漠秘密層級"
+
+msgid "res_inapp7_title"
+msgstr "考拉朋友"
+
+msgid "res_inapp7_desc"
+msgstr "一只時刻跟隨你的可愛考拉"
+
+msgid "res_inapp8_title"
+msgstr "熊崽朋友"
+
+msgid "res_inapp8_desc"
+msgstr "一只時刻跟隨你的可愛熊崽"
+
+msgid "res_inapp9_title"
+msgstr "狗朋友"
+
+msgid "res_inapp9_desc"
+msgstr "一只時刻跟隨你的超級忠誠的狗"
+
+msgid "res_inapp10_title"
+msgstr "雙倍道具包"
+
+msgid "res_inapp10_desc"
+msgstr "你在整個遊戲過程中均可賺取雙倍金錢和經驗"
+
+msgid "res_mission"
+msgstr "任務"
+
+msgid "res_title_monde1"
+msgstr "叢林"
+
+msgid "res_title_monde2"
+msgstr "沙漠"
+
+msgid "res_title_monde3"
+msgstr "山脈"
+
+msgid "res_level_locked"
+msgstr "層級被鎖"
+
+msgid "res_credits"
+msgstr "遊戲開發者"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "你想與世界各地的其他玩家競爭嗎？你登入Google Play服務即可與他們角逐"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "你想獲得超級成就嗎？你登入Google Play服務即可獲得"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "你想儲存你的遊戲進度嗎？你登入Google Play服務即可儲存"
+
+msgid "res_share"
+msgstr "看看%1s，這是一款非常棒的遊戲！你可以在這裡下載：%2s。"
+
+msgid "res_no_pets"
+msgstr "沒有寵物"
+
+msgid "res_select"
+msgstr "選擇"
+
+msgid "res_credits_text"
+msgstr "編程：Clément Slempkes\n美術：Sandra Ferragu\n項目負責人：Emmanuel Robles\n項目管理：Loïc Kempf"
+
+msgid "res_ask_login_gp"
+msgstr "你想登入到Google Plus嗎？"
+
+msgid "res_ask_logout_gp"
+msgstr "你想從Google Plus中登出嗎？"
+
+msgid "res_congratulations"
+msgstr "你做到了。恭喜您！你成功完成了遊戲的各個層級。很少有人能完成。做得好！我們將很快添加新世界供你探索，提供更多寵物等你來拯救，提供更多隱藏物體等你來發現。敬請關注。同時，如果你給遊戲五星評價，我們會非常感激！"
+
+msgid "res_pause"
+msgstr "暫停"
+
+msgid "res_shop_pet4_title"
+msgstr "朋友 〜 狼"
+
+msgid "res_shop_pet4_desc"
+msgstr "一只時刻跟隨你的聰明狼"
+
+msgid "res_shop_pet5_title"
+msgstr "朋友 〜 北極熊"
+
+msgid "res_shop_pet5_desc"
+msgstr "一只時刻跟隨你的強壯北極熊"
+
+msgid "res_shop_pet6_title"
+msgstr "朋友 〜 馴鹿"
+
+msgid "res_shop_pet6_desc"
+msgstr "一只時刻追隨你的漂亮馴鹿"
+
+msgid "res_shop_pet7_title"
+msgstr "朋友 〜 雪狐"
+
+msgid "res_shop_pet7_desc"
+msgstr "一只時刻追隨你的敏捷雪狐"
+
+msgid "res_shop_pet8_title"
+msgstr "朋友 〜 猛獁"
+
+msgid "res_shop_pet8_desc"
+msgstr "一只時刻跟隨你的龐大猛犸"
+
+msgid "res_shop_skin3_title"
+msgstr "裝扮 〜 愛斯基摩"
+
+msgid "res_shop_skin3_desc"
+msgstr "用漂亮的愛斯基摩裝扮玩遊戲！"
+
+msgid "res_shop_skin4_title"
+msgstr "裝扮 〜 雪人"
+
+msgid "res_shop_skin4_desc"
+msgstr "用漂亮的雪人裝扮玩遊戲！"
+
+msgid "res_shop_skin5_title"
+msgstr "裝扮 〜 聖誕老人"
+
+msgid "res_shop_skin5_desc"
+msgstr "用漂亮的聖誕老人裝扮玩遊戲！"
+
+msgid "res_shop_skin6_title"
+msgstr "裝扮 〜 約德爾女孩"
+
+msgid "res_shop_skin6_desc"
+msgstr "用漂亮的約德爾女孩裝扮玩遊戲！"
+
+msgid "res_shop_world3_title"
+msgstr "山脈額外層級"
+
+msgid "res_shop_world3_desc"
+msgstr "解鎖所有山脈層級"
+
+msgid "res_shop_all"
+msgstr "解鎖店內的一切，去除廣告，並幫助我們開發出更好的遊戲！"
+
+msgid "res_notif_1"
+msgstr "快來玩%1s！"
+
+msgid "res_notif_2"
+msgstr "快來和我們一起玩%1s吧！"
+
+msgid "res_notif_3"
+msgstr "你有一段時間沒玩%1s了！"
+
+msgid "res_notif_4"
+msgstr "給你的生活增添一點樂趣。快來玩%1s吧！"
+
+
+
+
+

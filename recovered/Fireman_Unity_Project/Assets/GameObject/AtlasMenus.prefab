@@ -1,0 +1,1120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &147589
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 479954}
+  - 114: {fileID: 11409266}
+  m_Layer: 0
+  m_Name: AtlasMenus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &479954
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11409266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  material: {fileID: 2100000, guid: 15a181913aa8e7d45bdbb37fb85a6338, type: 2}
+  sprites:
+  - name: Home_02_Play
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 727
+      width: 224
+      height: 297
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 727
+      width: 224
+      height: 297
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Home_03_Headquarter
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 203
+      width: 153
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 203
+      width: 153
+      height: 142
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Home_03_Shop
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 59
+      width: 147
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 59
+      width: 147
+      height: 142
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_05_Gauge2
+    outer:
+      serializedVersion: 2
+      x: 755
+      y: 45
+      width: 241
+      height: 46
+    inner:
+      serializedVersion: 2
+      x: 755
+      y: 45
+      width: 241
+      height: 46
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_05_Gauge1
+    outer:
+      serializedVersion: 2
+      x: 755
+      y: 93
+      width: 241
+      height: 46
+    inner:
+      serializedVersion: 2
+      x: 755
+      y: 93
+      width: 241
+      height: 46
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_05_Gauge3
+    outer:
+      serializedVersion: 2
+      x: 755
+      y: 189
+      width: 241
+      height: 46
+    inner:
+      serializedVersion: 2
+      x: 755
+      y: 189
+      width: 241
+      height: 46
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_05_GaugeBase
+    outer:
+      serializedVersion: 2
+      x: 755
+      y: 141
+      width: 241
+      height: 46
+    inner:
+      serializedVersion: 2
+      x: 755
+      y: 141
+      width: 241
+      height: 46
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: LevelSelector_02_Post-it2
+    outer:
+      serializedVersion: 2
+      x: 136
+      y: 438
+      width: 88
+      height: 97
+    inner:
+      serializedVersion: 2
+      x: 136
+      y: 438
+      width: 88
+      height: 97
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: LevelSelector_02_Post-it1
+    outer:
+      serializedVersion: 2
+      x: 136
+      y: 628
+      width: 88
+      height: 97
+    inner:
+      serializedVersion: 2
+      x: 136
+      y: 628
+      width: 88
+      height: 97
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: LevelSelector_02_Post-it3
+    outer:
+      serializedVersion: 2
+      x: 365
+      y: 8
+      width: 88
+      height: 97
+    inner:
+      serializedVersion: 2
+      x: 365
+      y: 8
+      width: 88
+      height: 97
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Xpbar_Filled
+    outer:
+      serializedVersion: 2
+      x: 742
+      y: 904
+      width: 256
+      height: 120
+    inner:
+      serializedVersion: 2
+      x: 742
+      y: 904
+      width: 256
+      height: 120
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Xpbar_Empty
+    outer:
+      serializedVersion: 2
+      x: 484
+      y: 904
+      width: 256
+      height: 120
+    inner:
+      serializedVersion: 2
+      x: 484
+      y: 904
+      width: 256
+      height: 120
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: LevelSelector_02_Post-it0
+    outer:
+      serializedVersion: 2
+      x: 495
+      y: 8
+      width: 88
+      height: 97
+    inner:
+      serializedVersion: 2
+      x: 495
+      y: 8
+      width: 88
+      height: 97
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Shop
+    outer:
+      serializedVersion: 2
+      x: 365
+      y: 367
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 365
+      y: 367
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Home
+    outer:
+      serializedVersion: 2
+      x: 365
+      y: 627
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 365
+      y: 627
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Back
+    outer:
+      serializedVersion: 2
+      x: 226
+      y: 93
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 226
+      y: 93
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Shop_Pressed
+    outer:
+      serializedVersion: 2
+      x: 755
+      y: 497
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 755
+      y: 497
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Back_Pressed
+    outer:
+      serializedVersion: 2
+      x: 226
+      y: 353
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 226
+      y: 353
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Pause_Pressed
+    outer:
+      serializedVersion: 2
+      x: 625
+      y: 237
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 625
+      y: 237
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Pause
+    outer:
+      serializedVersion: 2
+      x: 755
+      y: 627
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 755
+      y: 627
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Home_Pressed
+    outer:
+      serializedVersion: 2
+      x: 365
+      y: 107
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 365
+      y: 107
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Retry
+    outer:
+      serializedVersion: 2
+      x: 365
+      y: 497
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 365
+      y: 497
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Retry_Pressed
+    outer:
+      serializedVersion: 2
+      x: 755
+      y: 367
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 755
+      y: 367
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_No
+    outer:
+      serializedVersion: 2
+      x: 625
+      y: 497
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 625
+      y: 497
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Play
+    outer:
+      serializedVersion: 2
+      x: 365
+      y: 237
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 365
+      y: 237
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Continue
+    outer:
+      serializedVersion: 2
+      x: 885
+      y: 627
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 885
+      y: 627
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Yes_Pressed
+    outer:
+      serializedVersion: 2
+      x: 755
+      y: 237
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 755
+      y: 237
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Continue_Pressed
+    outer:
+      serializedVersion: 2
+      x: 885
+      y: 497
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 885
+      y: 497
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Yes
+    outer:
+      serializedVersion: 2
+      x: 885
+      y: 367
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 885
+      y: 367
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_No_Pressed
+    outer:
+      serializedVersion: 2
+      x: 495
+      y: 627
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 495
+      y: 627
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Play_Pressed
+    outer:
+      serializedVersion: 2
+      x: 495
+      y: 497
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 495
+      y: 497
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: CheckBox_Base
+    outer:
+      serializedVersion: 2
+      x: 226
+      y: 223
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 226
+      y: 223
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Arrow
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 347
+      width: 134
+      height: 188
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 347
+      width: 134
+      height: 188
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Arrow_Pressed
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 537
+      width: 134
+      height: 188
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 537
+      width: 134
+      height: 188
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: pititeBouBouleB
+    outer:
+      serializedVersion: 2
+      x: 47
+      y: 17
+      width: 47
+      height: 40
+    inner:
+      serializedVersion: 2
+      x: 47
+      y: 17
+      width: 47
+      height: 40
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: square
+    outer:
+      serializedVersion: 2
+      x: 625
+      y: 627
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 625
+      y: 627
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: transition
+    outer:
+      serializedVersion: 2
+      x: 495
+      y: 107
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 495
+      y: 107
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Facebook
+    outer:
+      serializedVersion: 2
+      x: 226
+      y: 620
+      width: 137
+      height: 135
+    inner:
+      serializedVersion: 2
+      x: 226
+      y: 620
+      width: 137
+      height: 135
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Aotd
+    outer:
+      serializedVersion: 2
+      x: 365
+      y: 757
+      width: 137
+      height: 135
+    inner:
+      serializedVersion: 2
+      x: 365
+      y: 757
+      width: 137
+      height: 135
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Share
+    outer:
+      serializedVersion: 2
+      x: 226
+      y: 757
+      width: 137
+      height: 135
+    inner:
+      serializedVersion: 2
+      x: 226
+      y: 757
+      width: 137
+      height: 135
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Options
+    outer:
+      serializedVersion: 2
+      x: 782
+      y: 757
+      width: 137
+      height: 135
+    inner:
+      serializedVersion: 2
+      x: 782
+      y: 757
+      width: 137
+      height: 135
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_GameCenterIOS
+    outer:
+      serializedVersion: 2
+      x: 226
+      y: 483
+      width: 137
+      height: 135
+    inner:
+      serializedVersion: 2
+      x: 226
+      y: 483
+      width: 137
+      height: 135
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: PetHead01
+    outer:
+      serializedVersion: 2
+      x: 149
+      y: 160
+      width: 45
+      height: 41
+    inner:
+      serializedVersion: 2
+      x: 149
+      y: 160
+      width: 45
+      height: 41
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: PetHead01_Empty
+    outer:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 45
+      height: 41
+    inner:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 45
+      height: 41
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: PetHead03_Empty
+    outer:
+      serializedVersion: 2
+      x: 155
+      y: 303
+      width: 45
+      height: 42
+    inner:
+      serializedVersion: 2
+      x: 155
+      y: 303
+      width: 45
+      height: 42
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: PetHead02
+    outer:
+      serializedVersion: 2
+      x: 155
+      y: 215
+      width: 45
+      height: 42
+    inner:
+      serializedVersion: 2
+      x: 155
+      y: 215
+      width: 45
+      height: 42
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: PetHead03
+    outer:
+      serializedVersion: 2
+      x: 155
+      y: 259
+      width: 45
+      height: 42
+    inner:
+      serializedVersion: 2
+      x: 155
+      y: 259
+      width: 45
+      height: 42
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: PetHead02_Empty
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 15
+      width: 45
+      height: 42
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 15
+      width: 45
+      height: 42
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: CheckBox_Checked
+    outer:
+      serializedVersion: 2
+      x: 625
+      y: 107
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 625
+      y: 107
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Settings_01_Checkbox_On
+    outer:
+      serializedVersion: 2
+      x: 921
+      y: 800
+      width: 100
+      height: 92
+    inner:
+      serializedVersion: 2
+      x: 921
+      y: 800
+      width: 100
+      height: 92
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Qg_Button
+    outer:
+      serializedVersion: 2
+      x: 226
+      y: 894
+      width: 256
+      height: 130
+    inner:
+      serializedVersion: 2
+      x: 226
+      y: 894
+      width: 256
+      height: 130
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_GooglePlus
+    outer:
+      serializedVersion: 2
+      x: 643
+      y: 757
+      width: 137
+      height: 135
+    inner:
+      serializedVersion: 2
+      x: 643
+      y: 757
+      width: 137
+      height: 135
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Btn_News
+    outer:
+      serializedVersion: 2
+      x: 226
+      y: 18
+      width: 76
+      height: 73
+    inner:
+      serializedVersion: 2
+      x: 226
+      y: 18
+      width: 76
+      height: 73
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: GooglePlayGame_On
+    outer:
+      serializedVersion: 2
+      x: 136
+      y: 546
+      width: 80
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 136
+      y: 546
+      width: 80
+      height: 80
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: GooglePlayGame_Off
+    outer:
+      serializedVersion: 2
+      x: 136
+      y: 356
+      width: 80
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 136
+      y: 356
+      width: 80
+      height: 80
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Star
+    outer:
+      serializedVersion: 2
+      x: 495
+      y: 367
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 495
+      y: 367
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Star_Pressed
+    outer:
+      serializedVersion: 2
+      x: 495
+      y: 237
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 495
+      y: 237
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: googleplus
+    outer:
+      serializedVersion: 2
+      x: 625
+      y: 367
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 625
+      y: 367
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button_Newsletter
+    outer:
+      serializedVersion: 2
+      x: 504
+      y: 757
+      width: 137
+      height: 135
+    inner:
+      serializedVersion: 2
+      x: 504
+      y: 757
+      width: 137
+      height: 135
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 147589}
+  m_IsPrefabParent: 1

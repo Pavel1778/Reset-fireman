@@ -1,0 +1,10 @@
+public enum AdPos
+{
+	LEFT = 1,
+	TOP = 2,
+	RIGHT = 4,
+	BOTTOM = 8,
+	CENTER_VERTICAL = 0x10,
+	CENTER_HORIZONTAL = 0x20,
+	CENTER = 0x40
+}

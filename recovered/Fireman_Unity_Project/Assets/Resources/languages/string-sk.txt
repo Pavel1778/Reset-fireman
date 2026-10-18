@@ -1,0 +1,638 @@
+
+msgid "app_name"
+msgstr "Hasič"
+
+msgid "Share"
+msgstr "Super hra %1s ! Veľmi ti ju odporúčam stiahnuť :  %2s"
+
+msgid "rate the game"
+msgstr "Ohodnoť hru"
+
+msgid "You seem to be enjoying the game"
+msgstr "Zdá sa, že si užívaš hru tak, ako my sme si užívali prácu na nej. Vďaka. Mohol by si nám trochu pomôcť a nájsť si čas pridať kladné hodnotenie na našu stránku?"
+
+msgid "res_harder"
+msgstr "Vyskúšaj hru v obtiažnejšom stupni !                                                                 Si pripravený hrať znova...                                                                               všetky úrovne ?"
+
+msgid "res_difficulty"
+msgstr "Obtiažnosť"
+
+msgid "res_difficulty_normal"
+msgstr "Normálna"
+
+msgid "res_difficulty_hardcore"
+msgstr "Ťažká"
+
+msgid "res_difficulty_extreme"
+msgstr "Extrémne ťažká"
+
+msgid "res_loading"
+msgstr "Načítava sa ..."
+
+msgid "res_shop"
+msgstr "Obchod"
+
+msgid "res_buy"
+msgstr "Kúpiť"
+
+msgid "res_good_job"
+msgstr "Zvládol si to!"
+
+msgid "res_quit"
+msgstr "Končíš?"
+
+msgid "res_inventory"
+msgstr "HQ"
+
+msgid "res_shop_reservoir"
+msgstr "Kapacita nádrže raketového batohu  %s"
+
+msgid "res_shop_range"
+msgstr "Dostrel vodnej pištole  %s"
+
+msgid "res_shop_life"
+msgstr " %s Extra životy"
+
+msgid "res_required"
+msgstr "potrebné"
+
+msgid "res_not_enough_money"
+msgstr "Nedostatok peňazí"
+
+msgid "res_skins"
+msgstr "Postavy"
+
+msgid "res_achievements"
+msgstr "Úspechy"
+
+msgid "res_jetpack"
+msgstr "Raketový batoh"
+
+msgid "res_pets"
+msgstr "Domáce zvieratká"
+
+msgid "res_lostfound"
+msgstr "Straty a nálezy"
+
+msgid "res_rangs"
+msgstr "Hodnosti"
+
+msgid "res_specialitems"
+msgstr "Špeciálne položky"
+
+msgid "res_achiev1_title"
+msgstr "Spoločenský"
+
+msgid "res_achiev1_desc"
+msgstr "Pozrite sa na stránku Magma Mobile Facebook"
+
+msgid "res_achiev2_title"
+msgstr "Zdieľaj"
+
+msgid "res_achiev2_desc"
+msgstr "Zdieľaj hru so svojimi priateľmi"
+
+msgid "res_achiev3_title"
+msgstr "Ďalšie hry"
+
+msgid "res_achiev3_desc"
+msgstr "Pozri naše ďalšie hry"
+
+msgid "res_achiev4_title"
+msgstr "Hasičské školenie"
+
+msgid "res_achiev4_desc"
+msgstr "Prejdi si inštruktáž"
+
+msgid "res_achiev5_title"
+msgstr "Požiarnik!"
+
+msgid "res_achiev5_desc"
+msgstr "Odblokuj požiarnickú hodnosť"
+
+msgid "res_achiev6_title"
+msgstr "Požiarnik 1.triedy"
+
+msgid "res_achiev6_desc"
+msgstr "Odblokuj hodnosť Požiarnika 1.triedy"
+
+msgid "res_achiev7_title"
+msgstr "Vyšší Požiarnik"
+
+msgid "res_achiev7_desc"
+msgstr "Odblokuj hodnosť Vyššieho Požiarnika"
+
+msgid "res_achiev8_title"
+msgstr "Najvyšší Požiarnik"
+
+msgid "res_achiev8_desc"
+msgstr "Odblokuj hodnosť Najvyššieho Požiarnika"
+
+msgid "res_achiev9_title"
+msgstr "Požiarny technik"
+
+msgid "res_achiev9_desc"
+msgstr "Odblokuj hodnosť Požiarneho technika"
+
+msgid "res_achiev10_title"
+msgstr "Poručík"
+
+msgid "res_achiev10_desc"
+msgstr "Odblokuj hodnosť Poručíka"
+
+msgid "res_achiev11_title"
+msgstr "Kapitán"
+
+msgid "res_achiev11_desc"
+msgstr "Odblokuj hodnosť Kapitána"
+
+msgid "res_achiev12_title"
+msgstr "Vyšší kapitán"
+
+msgid "res_achiev12_desc"
+msgstr "Odblokuj  hodnosť Vyššieho kapitána"
+
+msgid "res_achiev13_title"
+msgstr "Veliteľ"
+
+msgid "res_achiev13_desc"
+msgstr "Odblokuj hodnosť Veliteľa"
+
+msgid "res_achiev14_title"
+msgstr "Najvyšší veliteľ"
+
+msgid "res_achiev14_desc"
+msgstr "Odblokuj hodnosť Najvyššieho veliteľa"
+
+msgid "res_achiev15_title"
+msgstr "1 000 litrov vody"
+
+msgid "res_achiev15_desc"
+msgstr "Vystreľ 1 000 litrov vody"
+
+msgid "res_achiev16_title"
+msgstr "5 000 litrov vody"
+
+msgid "res_achiev16_desc"
+msgstr "Vystreľ 5 000 litrov vody"
+
+msgid "res_achiev17_title"
+msgstr "10 000 litrov vody"
+
+msgid "res_achiev17_desc"
+msgstr "Vystreľ 10 000 litrov vody"
+
+msgid "res_achiev18_title"
+msgstr "Spasiteľ"
+
+msgid "res_achiev18_desc"
+msgstr "Ulož si 3 plyšové zvieratká na každej úrovni"
+
+msgid "res_achiev19_title"
+msgstr "Zbabelec"
+
+msgid "res_achiev19_desc"
+msgstr "Dokonči úroveň bez uloženia plyšového zvieratka"
+
+msgid "res_achiev20_title"
+msgstr "Figliar"
+
+msgid "res_achiev20_desc"
+msgstr "Dokonči úroveň bez straty života"
+
+msgid "res_achiev21_title"
+msgstr "Svet 1"
+
+msgid "res_achiev21_desc"
+msgstr "Dokonči Svet 1"
+
+msgid "res_achiev22_title"
+msgstr "Svet 2"
+
+msgid "res_achiev22_desc"
+msgstr "Dokonči Svet 2"
+
+msgid "res_achiev23_title"
+msgstr "Svet 3"
+
+msgid "res_achiev23_desc"
+msgstr "Dokonči Svet 3"
+
+msgid "res_achiev24_title"
+msgstr "Nálezca"
+
+msgid "res_achiev24_desc"
+msgstr "Nájdi stratený predmet"
+
+msgid "res_achiev25_title"
+msgstr "Zberateľ"
+
+msgid "res_achiev25_desc"
+msgstr "Nájdi všetky stratené predmety v hre"
+
+msgid "res_achiev26_title"
+msgstr "Lovec plameňov"
+
+msgid "res_achiev26_desc"
+msgstr "Znič 100 plameňov"
+
+msgid "res_achiev27_title"
+msgstr "Lovec Flameboyov"
+
+msgid "res_achiev27_desc"
+msgstr "Znič 100 Flameboyov"
+
+msgid "res_achiev28_title"
+msgstr "Lovec lávových slizov"
+
+msgid "res_achiev28_desc"
+msgstr "Znič 100 lávových slizov"
+
+msgid "res_achiev29_title"
+msgstr "Lovec bombardérov"
+
+msgid "res_achiev29_desc"
+msgstr "Znič 100 bombardérov predtým, ako vybuchnú"
+
+msgid "res_achiev30_title"
+msgstr "Lovec plameňometov"
+
+msgid "res_achiev30_desc"
+msgstr "Znič 100 plameňometov"
+
+msgid "res_achiev31_title"
+msgstr "Lovec ohnivých pavúkov"
+
+msgid "res_achiev31_desc"
+msgstr "Znič 100 ohnivých pavúkov"
+
+msgid "res_achiev32_title"
+msgstr "Jastrabie oko"
+
+msgid "res_achiev32_desc"
+msgstr "Nájdi skrytý múr"
+
+msgid "res_music"
+msgstr "Hudba"
+
+msgid "res_sound"
+msgstr "Zvuk"
+
+msgid "res_settings"
+msgstr "Nastavenia"
+
+msgid "keywords"
+msgstr "požiar, hasič, platformer, vyskoč, prekážky, vyhni sa, požiarnik, požiarnicke auto, voda, hasiť, raketový batoh, príšery"
+
+msgid "res_moregames"
+msgstr "Ďalšie hry"
+
+msgid "res_restorepurchases"
+msgstr "Obnov nákup"
+
+msgid "res_head_quarter"
+msgstr "Centrála"
+
+msgid "res_shop_extralevel1"
+msgstr "Džungľa extra úrovne"
+
+msgid "res_shop_extralevel2"
+msgstr "Púšť extra úrovne"
+
+msgid "res_shop_xpx2"
+msgstr "Dvojnásobné XP"
+
+msgid "res_shop_piecex2"
+msgstr "Dvojnásobné peniaze"
+
+msgid "res_shop_maxipack"
+msgstr "Dvojnásobné peniaze + XP"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Postava doktora"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Postava hasičky"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Postava hasičky"
+
+msgid "res_shop_pet1"
+msgstr "Domáce zvieratko 1"
+
+msgid "res_shop_pet2"
+msgstr "Domáce zvieratko 2"
+
+msgid "res_shop_pet3"
+msgstr "Domáce zvieratko 3"
+
+msgid "res_talky_0"
+msgstr "Na pohyb použi riadiace tlačidlo [+]."
+
+msgid "res_talky_1"
+msgstr "Na skok stlač pohybové tlačidlo [A]."
+
+msgid "res_talky_2"
+msgstr "Keď chceš použiť raketový batoh, podrž pohybové tlačidlo [A]."
+
+msgid "res_talky_3"
+msgstr "Ulož si plyšové zvieratká!"
+
+msgid "res_talky_4"
+msgstr "A bež von cez východ!"
+
+msgid "res_talky_5"
+msgstr "Pomocou tlačidla pre vodné pištole [X] uhasíš plamene"
+
+msgid "res_talky_6"
+msgstr "Prejdi sa po popole, aby si sa uistil, že plamene sú úplne zničené"
+
+msgid "res_talky_7"
+msgstr "Daj si pozor na Flameboya ! Znič ho pomocou vodnej pištole"
+
+msgid "res_talky_8"
+msgstr "Akonáhle je uhasený, skoč naň, aby si ho odstránil"
+
+msgid "res_talky_9"
+msgstr "Plamene môžu mať rôzne vrstvy"
+
+msgid "res_talky_10"
+msgstr "Požiarne hydranty ti umožnia naplniť nádrže na vodu"
+
+msgid "res_talky_11"
+msgstr "Požiarne hydranty sa môžu použiť ako kontrolné body, ak stratíš život"
+
+msgid "res_talky_12"
+msgstr "K dispozícii sú tri plyšové zvieratka, ktoré si môžeš uložiť na každej úrovni"
+
+msgid "res_talky_13"
+msgstr "Existuje mnoho druhov nepriateľov ... Všetci z nich sú nebezpeční !"
+
+msgid "res_talky_14"
+msgstr "Stalaktity sú smrtiace !"
+
+msgid "res_talky_15"
+msgstr "Na tvojej ceste nájdeš pohybujúce sa plošiny, ktoré ti pomôžu v tvojom snažení"
+
+msgid "res_talky_16"
+msgstr "Maj oči široko otvorené ... pre tajné chodby."
+
+msgid "res_talky_17"
+msgstr "Pomocou teleportov sa dostaneš na iné miesto..."
+
+msgid "res_talky_18"
+msgstr "Peniaze ti umožnia kupovať predmety a aktualizácie v obchode"
+
+msgid "res_talky_19"
+msgstr "XP ti umožní získať nové hodnosti"
+
+msgid "res_talky_20"
+msgstr "Tu je tvoje domáce zvieratko, bude ťa všade nasledovať"
+
+msgid "res_talky_21"
+msgstr "Mimochodom, ja som Talky a budem ti vždy pomáhať"
+
+msgid "res_talky_22"
+msgstr "Teraz si konečne pripravený, je z teba ozajstný Hasič!"
+
+msgid "res_talky_23"
+msgstr "Umiestni dva pravé tlačidlá na seba, aby si mohol použiť raketový batoh a zároveň strieľať"
+
+msgid "res_arrows"
+msgstr "Šípky"
+
+msgid "res_joystick"
+msgstr "Džojstik"
+
+msgid "res_rank_0"
+msgstr "Nováčik"
+
+msgid "res_rank_1"
+msgstr "Požiarnik"
+
+msgid "res_rank_2"
+msgstr "Požiarnik 1.triedy"
+
+msgid "res_rank_3"
+msgstr "Vyšší Požiarnik"
+
+msgid "res_rank_4"
+msgstr "Najvyšší Požiarnik"
+
+msgid "res_rank_5"
+msgstr "Požiarny technik"
+
+msgid "res_rank_6"
+msgstr "Poručík"
+
+msgid "res_rank_7"
+msgstr "Kapitán"
+
+msgid "res_rank_8"
+msgstr "Vyšší kapitán"
+
+msgid "res_rank_9"
+msgstr "Veliteľ"
+
+msgid "res_rank_10"
+msgstr "Najvyšší veliteľ"
+
+msgid "res_new_rank"
+msgstr "Nová hodnosť"
+
+msgid "res_inapp0_title"
+msgstr "Dvojnásobné peniaze"
+
+msgid "res_inapp0_desc"
+msgstr "Zdvojnásob peniaze, ktoré zarobíš počas celej hry"
+
+msgid "res_inapp1_title"
+msgstr "Dvojnásobné XP"
+
+msgid "res_inapp1_desc"
+msgstr "Zdvojnásob XP, ktoré si zarobil v priebehu hry"
+
+msgid "res_inapp2_title"
+msgstr "Postava 1"
+
+msgid "res_inapp2_desc"
+msgstr "Hraj s postavou úžasného Doktora !"
+
+msgid "res_inapp3_title"
+msgstr "Postava 2"
+
+msgid "res_inapp3_desc"
+msgstr "Hraj s postavou úžasnej Hasičky !"
+
+msgid "res_inapp4_title"
+msgstr "Postava 3"
+
+msgid "res_inapp4_desc"
+msgstr "Hraj s postavou úžasného Doktora !"
+
+msgid "res_inapp5_title"
+msgstr "Džungľa extra úrovne"
+
+msgid "res_inapp5_desc"
+msgstr "Odblokuj všetky tajné úrovne v džungli"
+
+msgid "res_inapp6_title"
+msgstr "Púšť extra úrovne"
+
+msgid "res_inapp6_desc"
+msgstr "Odblokuj všetky tajné úrovne v púšti"
+
+msgid "res_inapp7_title"
+msgstr "Priateľ Koala"
+
+msgid "res_inapp7_desc"
+msgstr "Rozkošná Koala, ktorá ťa všade nasleduje"
+
+msgid "res_inapp8_title"
+msgstr "Priateľ Medvieďa"
+
+msgid "res_inapp8_desc"
+msgstr "Nádherné medvieďa, ktoré ťa všade nasleduje"
+
+msgid "res_inapp9_title"
+msgstr "Priateľ Pes"
+
+msgid "res_inapp9_desc"
+msgstr "Super verný pes, ktorý ťa všade nasleduje"
+
+msgid "res_inapp10_title"
+msgstr "Dvojnásobný náklad"
+
+msgid "res_inapp10_desc"
+msgstr "Zdvojnásob peniaze ako aj  XP, ktoré zarobíš počas celej hry"
+
+msgid "res_mission"
+msgstr "Misia"
+
+msgid "res_title_monde1"
+msgstr "Džungľa"
+
+msgid "res_title_monde2"
+msgstr "Púšť"
+
+msgid "res_title_monde3"
+msgstr "Hory"
+
+msgid "res_level_locked"
+msgstr "Úroveň zablokovaná"
+
+msgid "res_credits"
+msgstr "Kredity"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Chceš súťažiť s ostatnými hráčmi z celého sveta? Môžeš to urobiť tak, že sa prihlásiš k službe Google Play Services"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Chcel by si získať prístup k super úspechom? Môžeš to urobiť tak, že sa prihlásiš k službe Google Play Services"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Chceš si uložiť priebeh svojej hry? Môžeš to urobiť tak, že sa prihlásiš k službe Google Play Services"
+
+msgid "res_share"
+msgstr "Pozri sa na %1s, je to taká úžasná hra! Môžeš si ju stiahnuť tu :  %2s."
+
+msgid "res_no_pets"
+msgstr "Žiadne domáce zvieratká"
+
+msgid "res_select"
+msgstr "Výber"
+
+msgid "res_credits_text"
+msgstr "Vývojár : Clément Slempkes                                                                          Grafik: Sandra Ferragu                                                                              Vedúci projektu : Emmanuel Robles                                                           Manažér projektu :  Loïc Kempf"
+
+msgid "res_ask_login_gp"
+msgstr "Chceš sa prihlásiť do Google Plus?"
+
+msgid "res_ask_logout_gp"
+msgstr "Chceš sa odhlásiť z Google Plus?"
+
+msgid "res_congratulations"
+msgstr "Dokázal si to. Blahoželáme! Podarilo sa ti dokončiť každú úroveň hry. Si jedným z mála, ktorí to dotiahli tak ďaleko. Výborne! Čoskoro doplníme nové oblasti k objavovaniu, kde budeš mať možnosť zachrániť ďalšie domáce zvieratká a nájsť ďalšie skryté predmety. Zostaň pripojený. Dovtedy by sme veľmi ocenili, keby si dal tejto hre 5- hviezdičkové hodnotenie!"
+
+msgid "res_pause"
+msgstr "Pauza"
+
+msgid "res_shop_pet4_title"
+msgstr "Priateľ ~ Vlk"
+
+msgid "res_shop_pet4_desc"
+msgstr "Šikovný vlk, ktorý ťa všade nasleduje"
+
+msgid "res_shop_pet5_title"
+msgstr "Priateľ ~ Polárny medveď"
+
+msgid "res_shop_pet5_desc"
+msgstr "Silný polárny medveď, ktorý ťa všade nasleduje"
+
+msgid "res_shop_pet6_title"
+msgstr "Priateľ ~ Sob"
+
+msgid "res_shop_pet6_desc"
+msgstr "Milý sob, ktorý ťa všade nasleduje"
+
+msgid "res_shop_pet7_title"
+msgstr "Priateľ ~ Polárna líška"
+
+msgid "res_shop_pet7_desc"
+msgstr "Chytrá polárna líška, ktorá ťa všade nasleduje"
+
+msgid "res_shop_pet8_title"
+msgstr "Priateľ ~ Mamut"
+
+msgid "res_shop_pet8_desc"
+msgstr "Mocný mamut, ktorý ťa všade nasleduje"
+
+msgid "res_shop_skin3_title"
+msgstr "Postava ~ Eskimák"
+
+msgid "res_shop_skin3_desc"
+msgstr "Hraj s postavou úžasného Eskimáka !"
+
+msgid "res_shop_skin4_title"
+msgstr "Postava ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Hraj s postavou úžasného Yetiho !"
+
+msgid "res_shop_skin5_title"
+msgstr "Postava ~ Santa"
+
+msgid "res_shop_skin5_desc"
+msgstr "Hraj s postavou úžasného Santu !"
+
+msgid "res_shop_skin6_title"
+msgstr "Postava ~ Jódlujúce dievča"
+
+msgid "res_shop_skin6_desc"
+msgstr "Hraj s postavou úžasného Jódlujúceho dievčaťa !"
+
+msgid "res_shop_world3_title"
+msgstr "Hory extra úrovne"
+
+msgid "res_shop_world3_desc"
+msgstr "Odblokuj všetky tajné úrovne v horách"
+
+msgid "res_shop_all"
+msgstr "Odblokuj všetko v obchode, odstráň reklamy a pomôž nám vyrobiť ešte lepšie hry !"
+
+msgid "res_notif_1"
+msgstr "Poď a zahraj si dnes %1s!"
+
+msgid "res_notif_2"
+msgstr "Pridaj sa k nám a zahraj si dnes %1s!"
+
+msgid "res_notif_3"
+msgstr "Už si nehral %1s dosť dlho!"
+
+msgid "res_notif_4"
+msgstr "Rozjasni si trochu dnešný deň. Zahraj si %1s teraz!"
+
+
+
+
+

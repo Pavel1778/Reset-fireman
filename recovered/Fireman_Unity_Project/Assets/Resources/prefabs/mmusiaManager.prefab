@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &147589
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 479954}
+  - 114: {fileID: 11409266}
+  - 114: {fileID: 11405782}
+  - 114: {fileID: 11461526}
+  m_Layer: 11
+  m_Name: mmusiaManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &479954
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0025, y: 0.0025, z: 0}
+  m_LocalScale: {x: 0.0025, y: 0.0025, z: 0.0025}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11409266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03f6b4b1da7527a037fa966f59bdfd5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  uiRootPrefab: {fileID: 11419550, guid: af9241a8dd7d6104d874c109305ae29f, type: 2}
+  api:
+    news: []
+    moregames: []
+    HasNewNews: 0
+    HasNewUpdates: 0
+    HasNewVersionAvailable: 0
+    promo: []
+    appodayId: 0
+    appodayName:
+    appodayUrl:
+    appodayIconUrl:
+  notifAllowed: 1
+  RefererComplement: -Fireman
+  reset_prefs: 0
+  PackageName: com.magmamobile.game.Fireman
+  versionCode: 2
+  newsLoaded: 0
+  uirootMmusia: {fileID: 0}
+  MMUSIAappOfDay: {fileID: 0}
+  target: {fileID: 0}
+  targetCallback:
+  moreGamesLoaded: 0
+--- !u!114 &11405782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 850cd5ca062822679cb9afe5931d2646, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  KillMeIfIOS: 1
+  KillMeIfAndroid: 1
+  KillMeIfWP8: 0
+  KillMeIfWin8: 0
+  KillMeIfMacOS: 0
+  KillMeIfAndroidTV: 0
+--- !u!114 &11461526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a27302967bf1d42f034518343edeb31, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  target: {fileID: 0}
+  callback: OnShowAppOfDay
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 147589}
+  m_IsPrefabParent: 1

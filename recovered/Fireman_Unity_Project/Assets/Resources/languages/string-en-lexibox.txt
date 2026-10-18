@@ -1,0 +1,648 @@
+msgid "app_name"
+msgstr "Fireman"
+
+msgid "Share"
+msgstr "I love playing %1s ! I highly recommend you download it : %2s"
+
+msgid "rate the game"
+msgstr "Rate The Game"
+
+msgid "You seem to be enjoying the game"
+msgstr "You seem to be enjoying {0} as much as we enjoyed developing it. Thank you. Would you mind helping us by taking some time to add a positive rating in the game page?"
+
+msgid "res_harder"
+msgstr "Try the game in harder mode !\nAre you ready to replay...\nall levels ?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_loading"
+msgstr "Loading..."
+
+msgid "res_shop"
+msgstr "Shop"
+
+msgid "res_buy"
+msgstr "Buy"
+
+msgid "res_good_job"
+msgstr "Good Job!"
+
+msgid "res_quit"
+msgstr "Quit?"
+
+msgid "res_inventory"
+msgstr "HQ"
+
+msgid "res_shop_reservoir"
+msgstr "Jetpack tank capacity level %s"
+
+msgid "res_shop_range"
+msgstr "Water gun range level %s"
+
+msgid "res_shop_life"
+msgstr "%s Extra lives"
+
+msgid "res_required"
+msgstr "required"
+
+msgid "res_not_enough_money"
+msgstr "Not enough Money"
+
+msgid "res_skins"
+msgstr "Skins"
+
+msgid "res_achievements"
+msgstr "Achievements"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_pets"
+msgstr "Pets"
+
+msgid "res_lostfound"
+msgstr "Lost and Found"
+
+msgid "res_rangs"
+msgstr "Ranks"
+
+msgid "res_specialitems"
+msgstr "Special Items"
+
+msgid "res_achiev1_title"
+msgstr "Social"
+
+msgid "res_achiev1_desc"
+msgstr "Check the Magma Mobile Facebook page"
+
+msgid "res_achiev2_title"
+msgstr "Share"
+
+msgid "res_achiev2_desc"
+msgstr "Share the Game with your Friends"
+
+msgid "res_achiev3_title"
+msgstr "More Games"
+
+msgid "res_achiev3_desc"
+msgstr "Check out our other Games"
+
+msgid "res_achiev4_title"
+msgstr "Fireman training"
+
+msgid "res_achiev4_desc"
+msgstr "Complete the tutorial"
+
+msgid "res_achiev5_title"
+msgstr "Firefighter!"
+
+msgid "res_achiev5_desc"
+msgstr "Unlock the firefighter rank"
+
+msgid "res_achiev6_title"
+msgstr "1st Class Firefighter"
+
+msgid "res_achiev6_desc"
+msgstr "Unlock the 1st Class Firefighter rank"
+
+msgid "res_achiev7_title"
+msgstr "Senior Firefighter"
+
+msgid "res_achiev7_desc"
+msgstr "Unlock the Senior Firefighter rank"
+
+msgid "res_achiev8_title"
+msgstr "Master Firefighter"
+
+msgid "res_achiev8_desc"
+msgstr "Unlock the Master Firefighter rank"
+
+msgid "res_achiev9_title"
+msgstr "Fire Officer"
+
+msgid "res_achiev9_desc"
+msgstr "Unlock the Fire Officer rank"
+
+msgid "res_achiev10_title"
+msgstr "Lieutenant"
+
+msgid "res_achiev10_desc"
+msgstr "Unlock the Lieutenant rank"
+
+msgid "res_achiev11_title"
+msgstr "Captain"
+
+msgid "res_achiev11_desc"
+msgstr "Unlock the Captain rank"
+
+msgid "res_achiev12_title"
+msgstr "Senior Captain"
+
+msgid "res_achiev12_desc"
+msgstr "Unlock the Senior Captain rank"
+
+msgid "res_achiev13_title"
+msgstr "Chief"
+
+msgid "res_achiev13_desc"
+msgstr "Unlock the Chief rank"
+
+msgid "res_achiev14_title"
+msgstr "Master Chief"
+
+msgid "res_achiev14_desc"
+msgstr "Unlock the Master Chief rank"
+
+msgid "res_achiev15_title"
+msgstr "1,000 liters of water"
+
+msgid "res_achiev15_desc"
+msgstr "Shoot 1,000 liters of water"
+
+msgid "res_achiev16_title"
+msgstr "5,000 liters of water"
+
+msgid "res_achiev16_desc"
+msgstr "Shoot 5,000 liters of water"
+
+msgid "res_achiev17_title"
+msgstr "10,000 liters of water"
+
+msgid "res_achiev17_desc"
+msgstr "Shoot 10,000 liters of water"
+
+msgid "res_achiev18_title"
+msgstr "Savior"
+
+msgid "res_achiev18_desc"
+msgstr "Save 3 Stuffed Animals in one single level"
+
+msgid "res_achiev19_title"
+msgstr "Coward"
+
+msgid "res_achiev19_desc"
+msgstr "Complete a level without saving any stuffed animal"
+
+msgid "res_achiev20_title"
+msgstr "Dodger"
+
+msgid "res_achiev20_desc"
+msgstr "Complete a level without losing lives"
+
+msgid "res_achiev21_title"
+msgstr "World 1"
+
+msgid "res_achiev21_desc"
+msgstr "Complete World 1"
+
+msgid "res_achiev22_title"
+msgstr "World 2"
+
+msgid "res_achiev22_desc"
+msgstr "Complete World 2"
+
+msgid "res_achiev23_title"
+msgstr "World 3"
+
+msgid "res_achiev23_desc"
+msgstr "Complete World 3"
+
+msgid "res_achiev24_title"
+msgstr "Finder"
+
+msgid "res_achiev24_desc"
+msgstr "Find a lost object"
+
+msgid "res_achiev25_title"
+msgstr "Collector"
+
+msgid "res_achiev25_desc"
+msgstr "Find all lost objets in the game"
+
+msgid "res_achiev26_title"
+msgstr "Flame Hunter"
+
+msgid "res_achiev26_desc"
+msgstr "Extinguish 100 Flames"
+
+msgid "res_achiev27_title"
+msgstr "Flameboy Hunter"
+
+msgid "res_achiev27_desc"
+msgstr "Extinguish 100 Flameboys"
+
+msgid "res_achiev28_title"
+msgstr "Lava Slime hunter"
+
+msgid "res_achiev28_desc"
+msgstr "Extinguish 100 Lava Slimes"
+
+msgid "res_achiev29_title"
+msgstr "Bomber hunter"
+
+msgid "res_achiev29_desc"
+msgstr "Extinguish 100 Bombers before they explode"
+
+msgid "res_achiev30_title"
+msgstr "Flamethrower hunter"
+
+msgid "res_achiev30_desc"
+msgstr "Extinguish 100 Flamethrowers"
+
+msgid "res_achiev31_title"
+msgstr "Fire Spider hunter"
+
+msgid "res_achiev31_desc"
+msgstr "Extinguish 100 Fire Spiders"
+
+msgid "res_achiev32_title"
+msgstr "Hawk Eye"
+
+msgid "res_achiev32_desc"
+msgstr "Find a Hidden Wall"
+
+msgid "res_music"
+msgstr "Music"
+
+msgid "res_sound"
+msgstr "Sound"
+
+msgid "res_settings"
+msgstr "Settings"
+
+msgid "keywords"
+msgstr "fire,fireman,platformer,jump,obstacles,dodge,firefighter,fire truck,water,firefight,jetpack,monsters"
+
+msgid "res_moregames"
+msgstr "More Games"
+
+msgid "res_restorepurchases"
+msgstr "Restore Purchases"
+
+msgid "res_head_quarter"
+msgstr "Head Quarter"
+
+msgid "res_shop_extralevel1"
+msgstr "Jungle Extra levels"
+
+msgid "res_shop_extralevel2"
+msgstr "Desert Extra levels"
+
+msgid "res_shop_xpx2"
+msgstr "Double XP"
+
+msgid "res_shop_piecex2"
+msgstr "Double Money"
+
+msgid "res_shop_maxipack"
+msgstr "Double Money + XP"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doc Skin"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Firegirl Skin"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Firegirl Skin"
+
+msgid "res_shop_pet1"
+msgstr "Pet 1"
+
+msgid "res_shop_pet2"
+msgstr "Pet 2"
+
+msgid "res_shop_pet3"
+msgstr "Pet 3"
+
+msgid "res_talky_0"
+msgstr "Use the [Joystick] to move."
+
+msgid "res_talky_1"
+msgstr "Push the action button [Blue] to jump."
+
+msgid "res_talky_2"
+msgstr "Maintain the action button [Blue] to use the jetpack."
+
+msgid "res_talky_3"
+msgstr "Save the Stuffed Animals!"
+
+msgid "res_talky_4"
+msgstr "And run trough the exit!"
+
+msgid "res_talky_5"
+msgstr "Use the water gun button [Red] to extinguish the flames"
+
+msgid "res_talky_6"
+msgstr "Walk on the ashes to be sure the flames are fully extinguished"
+
+msgid "res_talky_7"
+msgstr "Beware it's Flameboy ! Extinguish it with your water gun"
+
+msgid "res_talky_8"
+msgstr "Once it is Extinguished, jump onto it to wipe it out"
+
+msgid "res_talky_9"
+msgstr "Flames may have various layers"
+
+msgid "res_talky_10"
+msgstr "Fire hydrants allow you to refill your water tank"
+
+msgid "res_talky_11"
+msgstr "Fire hydrants can also be used as checkpoints if you lose a life"
+
+msgid "res_talky_12"
+msgstr "There are 3 stuffed animals to save on each levels"
+
+msgid "res_talky_13"
+msgstr "There are many kinds of enemies... All of them are dangerous !"
+
+msgid "res_talky_14"
+msgstr "Stalactites are deadly !"
+
+msgid "res_talky_15"
+msgstr "You will find moving platforms along the way to help in your endeavor"
+
+msgid "res_talky_16"
+msgstr "Keep your eyes wide open… for secret passages."
+
+msgid "res_talky_17"
+msgstr "Teleports will take you to another place..."
+
+msgid "res_talky_18"
+msgstr "Money allows you to buy items and upgrades in the shop"
+
+msgid "res_talky_19"
+msgstr "XP allows you to get new ranks"
+
+msgid "res_talky_20"
+msgstr "Here is your pet, it will follow you everywhere"
+
+msgid "res_talky_21"
+msgstr "By the way I am Talky, I will always be there to help you"
+
+msgid "res_talky_22"
+msgstr "You are now ready, you are a proper Fireman now!"
+
+msgid "res_talky_23"
+msgstr "Place the two right buttons on top of each other to use the jetpack and shoot at the same time"
+
+msgid "res_arrows"
+msgstr "Arrows"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_rank_0"
+msgstr "Rookie"
+
+msgid "res_rank_1"
+msgstr "Firefighter"
+
+msgid "res_rank_2"
+msgstr "1st Class Firefighter"
+
+msgid "res_rank_3"
+msgstr "Senior Firefighter"
+
+msgid "res_rank_4"
+msgstr "Master Firefighter"
+
+msgid "res_rank_5"
+msgstr "Fire Officer"
+
+msgid "res_rank_6"
+msgstr "Lieutenant"
+
+msgid "res_rank_7"
+msgstr "Captain"
+
+msgid "res_rank_8"
+msgstr "Senior Captain"
+
+msgid "res_rank_9"
+msgstr "Chief"
+
+msgid "res_rank_10"
+msgstr "Master Chief"
+
+msgid "res_new_rank"
+msgstr "New rank"
+
+msgid "res_inapp0_title"
+msgstr "Double Money"
+
+msgid "res_inapp0_desc"
+msgstr "Double the money you earn all throughout the game"
+
+msgid "res_inapp1_title"
+msgstr "Double XP"
+
+msgid "res_inapp1_desc"
+msgstr "Double the XP you earn all throughout the game"
+
+msgid "res_inapp2_title"
+msgstr "Skin 1"
+
+msgid "res_inapp2_desc"
+msgstr "Play with the amazing Doc skin !"
+
+msgid "res_inapp3_title"
+msgstr "Skin2"
+
+msgid "res_inapp3_desc"
+msgstr "Play with the amazing Firegirl skin !"
+
+msgid "res_inapp4_title"
+msgstr "Skin3"
+
+msgid "res_inapp4_desc"
+msgstr "Play with the amazing Doc skin !"
+
+msgid "res_inapp5_title"
+msgstr "Jungle Extra levels"
+
+msgid "res_inapp5_desc"
+msgstr "Unlock all secret levels in the Jungle"
+
+msgid "res_inapp6_title"
+msgstr "Desert Extra levels"
+
+msgid "res_inapp6_desc"
+msgstr "Unlock all secret levels in the Desert"
+
+msgid "res_inapp7_title"
+msgstr "Koala Friend"
+
+msgid "res_inapp7_desc"
+msgstr "A sweet Koala that follows you everywhere"
+
+msgid "res_inapp8_title"
+msgstr "Bear Cub Friend"
+
+msgid "res_inapp8_desc"
+msgstr "A gorgeous bear cub that follows you everywhere"
+
+msgid "res_inapp9_title"
+msgstr "Dog Friend"
+
+msgid "res_inapp9_desc"
+msgstr "A super loyal dog that follows you everywhere"
+
+msgid "res_inapp10_title"
+msgstr "Double Pack"
+
+msgid "res_inapp10_desc"
+msgstr "Double both the money and the XP you earn all throughout the game"
+
+msgid "res_mission"
+msgstr "Mission"
+
+msgid "res_title_monde1"
+msgstr "Jungle"
+
+msgid "res_title_monde2"
+msgstr "Desert"
+
+msgid "res_title_monde3"
+msgstr "Mountain"
+
+msgid "res_level_locked"
+msgstr "Level locked"
+
+msgid "res_credits"
+msgstr "Credits" 
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Would you like to compete with other players worldwide? You can do so by signing in to the Google Play Services"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Would you like to get access to super achievements? You can do so by signing in to the Google Play Services"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Would you like to save your game progress? You can do so by signing in to the Google Play Services"
+
+msgid "res_share"
+msgstr "Check out %1s, this is such an awesome game! You can download it here : %2s."
+
+msgid "res_no_pets"
+msgstr "No pets"
+
+msgid "res_select"
+msgstr "Select"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_ask_login_gp"
+msgstr "Would you like to login into Google Plus?"
+
+msgid "res_ask_logout_gp"
+msgstr "Would you like to logout from Google Plus?"
+
+msgid "res_congratulations"
+msgstr "You did it. Congratulations! You managed to finish each level of the game. Very few make it this far. Well done! We will soon add new worlds to discover with more pets to rescue and more hidden objects to find. Stay Tuned. In the meantime, we would really appreciate if you could give the game a 5 Star rating !"
+
+msgid "res_pause"
+msgstr "Pause"
+
+msgid "res_shop_pet4_title"
+msgstr "Friend ~ Wolf"
+
+msgid "res_shop_pet4_desc"
+msgstr "A clever wolf that follows you everywhere"
+
+msgid "res_shop_pet5_title"
+msgstr "Friend ~ Polar Bear"
+
+msgid "res_shop_pet5_desc"
+msgstr "A strong polar bear that follows you everywhere"
+
+msgid "res_shop_pet6_title"
+msgstr "Friend ~ Reindeer"
+
+msgid "res_shop_pet6_desc"
+msgstr "A nice reindeer that follows you everywhere"
+
+msgid "res_shop_pet7_title"
+msgstr "Friend ~ Snow Fox"
+
+msgid "res_shop_pet7_desc"
+msgstr "A smart snow fox that follows you everywhere"
+
+msgid "res_shop_pet8_title"
+msgstr "Friend ~ Mammoth"
+
+msgid "res_shop_pet8_desc"
+msgstr "A puissant mammoth that follows you everywhere"
+
+msgid "res_shop_skin3_title"
+msgstr "Skin ~ Esquimau"
+
+msgid "res_shop_skin3_desc"
+msgstr "Play with the amazing Esquimau skin !"
+
+msgid "res_shop_skin4_title"
+msgstr "Skin ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Play with the amazing Yeti skin !"
+
+msgid "res_shop_skin5_title"
+msgstr "Skin ~ Santa"
+
+msgid "res_shop_skin5_desc"
+msgstr "Play with the amazing Santa skin !"
+
+msgid "res_shop_skin6_title"
+msgstr "Skin ~ Yodel Girl"
+
+msgid "res_shop_skin6_desc"
+msgstr "Play with the amazing Yodel Girl skin ! "
+
+msgid "res_shop_world3_title"
+msgstr "Mountain Extra levels"
+
+msgid "res_shop_world3_desc"
+msgstr "Unlock all secret levels in the Mountain"
+
+msgid "res_shop_all"
+msgstr "Unlock everything in the shop, remove ads and help us making better games !"
+
+msgid "res_notif_1"
+msgstr "Come Play %1s today!"
+
+msgid "res_notif_2"
+msgstr "Join us in playing %1s today!"
+
+msgid "res_notif_3"
+msgstr "You have not played %1s in a while!"
+
+msgid "res_notif_4"
+msgstr "Bring a little joy into your day. Play %1s now!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

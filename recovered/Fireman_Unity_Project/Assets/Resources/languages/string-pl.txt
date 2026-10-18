@@ -1,0 +1,705 @@
+msgid "app_name"
+msgstr "Strażak"
+
+msgid "res_title_monde1"
+msgstr "Dżungla"
+
+msgid "res_loading"
+msgstr "Ładowanie..."
+
+msgid "res_achiev12_title"
+msgstr "Starszy kapitan"
+
+msgid "res_quit"
+msgstr "Wyjdź?"
+
+msgid "res_shop_world3_title"
+msgstr "Moutain Extra levels"
+
+msgid "res_inapp7_title"
+msgstr "Przyjaciel Koala"
+
+msgid "res_shop_skin4_title"
+msgstr "Skin ~ Yeti"
+
+msgid "res_rank_9"
+msgstr "Dowódca"
+
+msgid "res_shop_xpx2"
+msgstr "Podwójne PD"
+
+msgid "res_shop_pet5_title"
+msgstr "Friend ~  Polar Bear"
+
+msgid "res_talky_6"
+msgstr "Przejdź po zgliszczach i upewnij się, że ogień został całkowicie ugaszony"
+
+msgid "res_inapp10_desc"
+msgstr "Podwaja gotówkę i punkty doświadczenia (PD) zdobyte podczas gry"
+
+msgid "res_shop_skin6_title"
+msgstr "Skin ~ Yodel Girl"
+
+msgid "res_mission"
+msgstr "Misja"
+
+msgid "res_achiev17_title"
+msgstr "10 000 litrów wody"
+
+msgid "res_rank_7"
+msgstr "Kapitan"
+
+msgid "res_achiev3_desc"
+msgstr "Zapoznaj się z naszymi pozostałymi grami"
+
+msgid "res_talky_10"
+msgstr "Hydranty umożliwiają uzupełnić zbiornik z wodą"
+
+msgid "keywords"
+msgstr "ogień,strażak,platformówka,skok,przeszkody,unik,straż pożarna,woda,gaszenie,plecak odrzutowy,potwory"
+
+msgid "res_credits"
+msgstr "Autorzy"
+
+msgid "res_arrows"
+msgstr "Strzałki"
+
+msgid "res_achiev13_title"
+msgstr "Dowódca"
+
+msgid "res_not_enough_money"
+msgstr "Za mało pieniędzy"
+
+msgid "res_talky_15"
+msgstr "Po drodze znajdziesz ruchome platformy, które pomogą Ci w ukończeniu wyzwania"
+
+msgid "res_achiev7_title"
+msgstr "Starszy strażak"
+
+msgid "res_skins"
+msgstr "Skórki"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Skórka lekarska"
+
+msgid "res_inapp1_title"
+msgstr "Podwójne PD"
+
+msgid "res_rank_0"
+msgstr "Nowicjusz"
+
+msgid "res_talky_3"
+msgstr "Uratuj pluszowe zwierzaki!"
+
+msgid "res_achiev6_title"
+msgstr "Strażak 1. klasa"
+
+msgid "res_achiev26_title"
+msgstr "Łowca płomieni"
+
+msgid "res_achiev24_title"
+msgstr "Wyszukiwarka"
+
+msgid "res_achiev24_desc"
+msgstr "Odszukaj zagubiony przedmiot"
+
+msgid "res_shop_pet5_desc"
+msgstr "A strong polar bear that follows you everywhere"
+
+msgid "res_achiev19_title"
+msgstr "Tchórz"
+
+msgid "res_inapp9_desc"
+msgstr "Bardzo wierny pies, który pójdzie za Tobą wszędzie"
+
+msgid "res_achiev22_title"
+msgstr "Świat nr 2"
+
+msgid "res_new_rank"
+msgstr "Nowy stopień"
+
+msgid "res_achiev5_desc"
+msgstr "Odblokuj stopień Strażaka"
+
+msgid "res_achiev11_desc"
+msgstr "Odblokuj stopień Kapitana"
+
+msgid "res_congratulations"
+msgstr "Udało Ci się. Gratulacje! Ukończyłeś wszystkie poziomy gry. Bardzo niewielu dotarło tak daleko. Świetna robota! Wkrótce dodamy nowe światy do odkrycia, w których będzie więcej zwierzaków do uratowania i więcej ukrytych przedmiotów do znalezienia. Bądź na bieżąco. W międzyczasie bylibyśmy bardzo wdzięczni za ocenienie tej gry na 5 gwiazdek!"
+
+msgid "res_select"
+msgstr "Wybierz"
+
+msgid "res_achiev6_desc"
+msgstr "Odblokuj stopień Strażak 1. klasa"
+
+msgid "rate the game"
+msgstr "Oceń tę Grę"
+
+msgid "res_shop_range"
+msgstr "Zasięg broni wodnej %s"
+
+msgid "res_talky_13"
+msgstr "Istnieje wiele rodzajów wrogów... Każdy z nich jest niebezpieczny!"
+
+msgid "res_jetpack"
+msgstr "Plecak odrzutowy"
+
+msgid "res_talky_8"
+msgstr "Gdy ugasisz ogień, wskocz na to, by to zmieść"
+
+msgid "res_achiev28_title"
+msgstr "Poszukiwacz lawy"
+
+msgid "res_shop_piecex2"
+msgstr "Podwojenie gotówki"
+
+msgid "res_achiev27_title"
+msgstr "Łowca płomieni"
+
+msgid "res_difficulty"
+msgstr "Poziom trudności"
+
+msgid "res_level_locked"
+msgstr "Poziom zablokowany"
+
+msgid "res_achiev5_title"
+msgstr "Strażak!"
+
+msgid "res_achiev28_desc"
+msgstr "Ugaś 100 law"
+
+msgid "res_inapp8_desc"
+msgstr "Cudowny młody niedźwiadek, który pójdzie za Tobą wszędzie"
+
+msgid "res_inapp2_desc"
+msgstr "Zagraj z niesamowitą skórką lekarską!"
+
+msgid "res_difficulty_extreme"
+msgstr "Ekstremalny"
+
+msgid "res_ask_login_gp"
+msgstr "Czy chcesz zalogować się do Google Plus?"
+
+msgid "res_achiev30_title"
+msgstr "Łowca płomieni"
+
+msgid "res_achiev22_desc"
+msgstr "Ukończ świat nr 2"
+
+msgid "res_shop_pet2"
+msgstr "Zwierzak nr 2"
+
+msgid "res_shop_pet3"
+msgstr "Zwierzak nr 3"
+
+msgid "res_achiev4_title"
+msgstr "Szkolenie strażackie"
+
+msgid "res_shop_pet1"
+msgstr "Zwierzak nr 1"
+
+msgid "res_shop_skin5_desc"
+msgstr "Play with the amazing Santa skin !"
+
+msgid "res_achiev8_desc"
+msgstr "Odblokuj stopień Mistrza strażackiego"
+
+msgid "res_rank_4"
+msgstr "Mistrz strażacki"
+
+msgid "res_talky_21"
+msgstr "A przy okazji, jestem Gaduła – zawsze będę służył Ci pomocą"
+
+msgid "res_inapp5_desc"
+msgstr "Unlock all secret levels in the Jungle"
+
+msgid "res_talky_20"
+msgstr "Oto Twój zwierzak, pójdzie za Tobą wszędzie"
+
+msgid "res_achiev29_title"
+msgstr "Bombowy łowca"
+
+msgid "Share"
+msgstr "Uwielbiam grać w %1s ! Gorąco zachęcam do pobrania tej gry z: %2s"
+
+msgid "res_talky_5"
+msgstr "Użyj przycisku działka wodnego, by ugasić płomienie"
+
+msgid "res_achiev20_title"
+msgstr "Spryciarz"
+
+msgid "res_inapp5_title"
+msgstr "Dodatkowe poziomy Dżungli"
+
+msgid "res_achiev21_desc"
+msgstr "Ukończ świat nr 1"
+
+msgid "res_inapp4_desc"
+msgstr "Zagraj z niesamowitą skórką lekarską!"
+
+msgid "res_talky_12"
+msgstr "Na każdym poziomie są 3 pluszowe zwierzaki do uratowania"
+
+msgid "res_rank_1"
+msgstr "Strażak"
+
+msgid "res_achiev20_desc"
+msgstr "Ukończ poziom bez straty życia"
+
+msgid "res_inapp7_desc"
+msgstr "Uroczy Koala, który pójdzie za Tobą wszędzie"
+
+msgid "res_music"
+msgstr "Muzyka"
+
+msgid "res_share"
+msgstr "Wypróbuj %1s, to naprawdę fantastyczna gra! Możesz pobrać ją tutaj: %2s."
+
+msgid "res_difficulty_normal"
+msgstr "Normalny"
+
+msgid "res_achiev1_desc"
+msgstr "Zobacz stronę Magma Mobile na Facebooku"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Czy chcesz uzyskać dostęp do super osiągnięć? Możesz to osiągnąć, rejestrując się w serwisie Google Play"
+
+msgid "res_achiev14_title"
+msgstr "Główny dowódca"
+
+msgid "res_inapp8_title"
+msgstr "Mały niedźwiedzi przyjaciel"
+
+msgid "res_inapp6_desc"
+msgstr "Unlock all secret levels in the Desert"
+
+msgid "res_talky_7"
+msgstr "Strzeż się, to Płomienny chłopiec! Ugaś go działkiem wodnym"
+
+msgid "res_achiev2_desc"
+msgstr "Udostępnij grę znajomym"
+
+msgid "res_inapp3_title"
+msgstr "Skórka nr 2"
+
+msgid "res_inapp1_desc"
+msgstr "Podwaja doświadczenie (PD) zdobyte podczas gry"
+
+msgid "res_shop_pet8_title"
+msgstr "Friend ~ Mammoth"
+
+msgid "You seem to be enjoying the game"
+msgstr "You seem to be enjoying {0} as much as we enjoyed developing it. Thank you. Would you mind helping us by taking some time to add a positive rating in the game page?"
+
+msgid "res_rangs"
+msgstr "Stopnie"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_shop_skin6_desc"
+msgstr "Play with the amazing Yodel Girl skin ! "
+
+msgid "res_head_quarter"
+msgstr "Sztab dowodzenia"
+
+msgid "res_achiev18_title"
+msgstr "Wybawiciel"
+
+msgid "res_talky_1"
+msgstr "Aby skoczyć, wciśnij odpowiedni przycisk."
+
+msgid "res_achiev15_title"
+msgstr "1000 litrów wody"
+
+msgid "res_achiev32_title"
+msgstr "Sokoli wzrok"
+
+msgid "res_achiev18_desc"
+msgstr "Zapisz 3 pluszowe zwierzaki na jednym poziomie"
+
+msgid "res_talky_11"
+msgstr "Jeżeli stracisz życie, pamiętaj, że hydranty są punktami kontrolnymi"
+
+msgid "res_achiev25_desc"
+msgstr "Znajdź wszystkie zagubione przedmioty w grze"
+
+msgid "res_achiev16_desc"
+msgstr "Wystrzeliwuje 5000 litrów wody"
+
+msgid "res_inapp10_title"
+msgstr "Podwójny pakiet"
+
+msgid "res_achiev7_desc"
+msgstr "Odblokuj stopień Starszego strażaka"
+
+msgid "res_rank_5"
+msgstr "Oficer strażacki"
+
+msgid "res_inapp0_desc"
+msgstr "Podwaja pieniądze zdobywane w czasie gry"
+
+msgid "res_achiev12_desc"
+msgstr "Odblokuj stopień Starszego kapitana"
+
+msgid "res_shop_pet8_desc"
+msgstr "A puissant mammoth that follows you everywhere"
+
+msgid "res_achiev16_title"
+msgstr "5000 litrów wody"
+
+msgid "res_required"
+msgstr "wymagane"
+
+msgid "res_pets"
+msgstr "Zwierzęta"
+
+msgid "res_shop_extralevel1"
+msgstr "Dodatkowe poziomy Dżungli"
+
+msgid "res_harder"
+msgstr "Try the game in harder mode !\nAre you ready to replay...\nall levels ?"
+
+msgid "res_talky_23"
+msgstr "Użyj plecaka odrzutowego, umieszczając dwa prawe przyciski na górze i jednocześnie wystrzel"
+
+msgid "res_shop_all"
+msgstr "Unlock everything in the shop, remove ads and help us making better games !"
+
+msgid "res_talky_19"
+msgstr "Doświadczenie (PD) pozwala Ci zdobywać nowe stopnie"
+
+msgid "res_shop_skin4_desc"
+msgstr "Play with the amazing Yeti skin !"
+
+msgid "res_achiev32_desc"
+msgstr "Znajdź ukrytą ścianę"
+
+msgid "res_achiev29_desc"
+msgstr "Ugaś 100 bombowców zanim wybuchną"
+
+msgid "res_buy"
+msgstr "Kup"
+
+msgid "res_shop_life"
+msgstr "Dodatkowe życia: %s"
+
+msgid "res_shop_world3_desc"
+msgstr "Unlock all secret levels in the Moutain"
+
+msgid "res_joystick"
+msgstr "Dżojstik"
+
+msgid "res_achiev23_desc"
+msgstr "Ukończ świat nr 3"
+
+msgid "res_title_monde2"
+msgstr "Pustynia"
+
+msgid "res_achiev31_desc"
+msgstr "Ugaś 100 Ogniowych pająków"
+
+msgid "res_inapp0_title"
+msgstr "Podwojenie gotówki"
+
+msgid "res_sound"
+msgstr "Dźwięk"
+
+msgid "res_achiev26_desc"
+msgstr "Ugaś 100 płomieni"
+
+msgid "res_good_job"
+msgstr "Dobra robota!"
+
+msgid "res_shop_skin3_desc"
+msgstr "Play with the amazing Esquimau skin !"
+
+msgid "res_shop_pet4_title"
+msgstr "Friend ~ Wolf"
+
+msgid "res_pause"
+msgstr "Pauza"
+
+msgid "res_achiev21_title"
+msgstr "Świat nr 1"
+
+msgid "res_inapp6_title"
+msgstr "Dodatkowe poziomy Pustyni"
+
+msgid "res_talky_22"
+msgstr "Teraz jesteś gotów. Zostałeś prawdziwym strażakiem!"
+
+msgid "res_talky_18"
+msgstr "Za gotówkę możesz kupować w sklepie przedmioty i uaktualnienia"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Skórka Ognistej dziewczyny"
+
+msgid "res_shop_reservoir"
+msgstr "Objętość zbiornika w plecaku odrzutowym %s"
+
+msgid "res_talky_17"
+msgstr "Teleport przeniesie Cię w inne miejsce..."
+
+msgid "res_rank_2"
+msgstr "Strażak 1. klasa"
+
+msgid "res_shop_pet7_title"
+msgstr "Friend ~ Snow Fox"
+
+msgid "res_talky_14"
+msgstr "Stalaktyty są śmiertelnie niebezpieczne!"
+
+msgid "res_talky_0"
+msgstr "Aby się poruszać, używaj lewej i prawej strzałki."
+
+msgid "res_achiev30_desc"
+msgstr "Ugaś 100 miotaczy ognia"
+
+msgid "res_restorepurchases"
+msgstr "Przywróć zakupy"
+
+msgid "res_title_monde3"
+msgstr "Moutain"
+
+msgid "res_no_pets"
+msgstr "Żadnych zwierząt"
+
+msgid "res_shop_pet4_desc"
+msgstr "A clever wolf that follows you everywhere"
+
+msgid "res_moregames"
+msgstr "Więcej gier"
+
+msgid "res_achiev23_title"
+msgstr "Świat nr 3"
+
+msgid "res_inapp4_title"
+msgstr "Skórka nr 3"
+
+msgid "res_achiev9_desc"
+msgstr "Odblokuj stopień Inspektora strażackiego"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Czy chcesz rywalizować z innymi graczami ze świata? Możesz to zrobić, rejestrując się w Usługach Google Play"
+
+msgid "res_shop_extralevel3"
+msgstr "Moutain Extra levels"
+
+msgid "res_shop_skin5_title"
+msgstr "Skin ~ Santa"
+
+msgid "res_talky_2"
+msgstr "Posłuż się plecakiem odrzutowym używając odpowiedniego przycisku."
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_achiev19_desc"
+msgstr "Ukończ poziom bez ratowania żadnego pluszowego zwierzaka"
+
+msgid "res_achiev10_title"
+msgstr "Porucznik"
+
+msgid "res_rank_10"
+msgstr "Główny dowódca"
+
+msgid "res_achiev3_title"
+msgstr "Więcej gier"
+
+msgid "res_rank_8"
+msgstr "Starszy kapitan"
+
+msgid "res_shop_skin3_title"
+msgstr "Skin ~ Esquimau"
+
+msgid "res_shop_pet7_desc"
+msgstr "A smart snow fow that follows you everywhere"
+
+msgid "res_achiev10_desc"
+msgstr "Odblokuj stopień Porucznika"
+
+msgid "res_achiev17_desc"
+msgstr "Wystrzeliwuje 10 000 litrów wody"
+
+msgid "res_achiev2_title"
+msgstr "Udostępnij"
+
+msgid "res_inapp3_desc"
+msgstr "Zagraj, używając niesamowitej skórki Ogniowa dziewczyna"
+
+msgid "res_talky_16"
+msgstr "Miej oczy szeroko otwarte... na tajne przejścia."
+
+msgid "res_achiev13_desc"
+msgstr "Odblokuj stopień Dowódcy"
+
+msgid "res_inventory"
+msgstr "Dowództwo"
+
+msgid "res_inapp2_title"
+msgstr "Skórka nr 1"
+
+msgid "res_shop_maxipack"
+msgstr "Podwójna gotówka + PD"
+
+msgid "res_rank_6"
+msgstr "Porucznik"
+
+msgid "res_inapp9_title"
+msgstr "Psi przyjaciel"
+
+msgid "res_achiev4_desc"
+msgstr "Ukończ samouczek"
+
+msgid "res_achievements"
+msgstr "Osiągnięcia"
+
+msgid "res_shop_pet6_desc"
+msgstr "A nice reindeer that follows you everywhere"
+
+msgid "res_specialitems"
+msgstr "Przedmioty specjalne"
+
+msgid "res_achiev11_title"
+msgstr "Kapitan"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Skórka Ognistej dziewczyny"
+
+msgid "res_lostfound"
+msgstr "Zgubione i znalezione"
+
+msgid "res_shop_pet6_title"
+msgstr "Friend ~ Reindeer"
+
+msgid "res_shop_extralevel2"
+msgstr "Dodatkowe poziomy Pustyni"
+
+msgid "res_rank_3"
+msgstr "Starszy strażak"
+
+msgid "res_achiev25_title"
+msgstr "Zbieracz"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Czy chcesz zapisywać swoje postępy w grze? Możesz to robić, rejestrując się w Usługach Google Play"
+
+msgid "res_achiev15_desc"
+msgstr "Wystrzeliwuje 1000 litrów wody"
+
+msgid "res_talky_9"
+msgstr "Płomienie mogą mieć różne warstwy"
+
+msgid "res_talky_4"
+msgstr "I biegnij do wyjścia!"
+
+msgid "res_achiev1_title"
+msgstr "Społecznościowa"
+
+msgid "res_achiev9_title"
+msgstr "Oficer strażacki"
+
+msgid "res_shop"
+msgstr "Sklep"
+
+msgid "res_achiev31_title"
+msgstr "Łowca ogniowych pająków"
+
+msgid "res_ask_logout_gp"
+msgstr "Czy chcesz się wylogować z Google Plus?"
+
+msgid "res_settings"
+msgstr "Ustawienia"
+
+msgid "res_achiev14_desc"
+msgstr "Odblokuj stopień Głównego dowódcy"
+
+msgid "res_achiev8_title"
+msgstr "Mistrz strażacki"
+
+msgid "res_achiev27_desc"
+msgstr "Ugaś 100 płomiennych chłopców"
+
+msgid "res_shop_pet4_title"
+msgstr "Przyjaciel ~ Wilk"
+
+msgid "res_shop_pet4_desc"
+msgstr "Sprytny wilk, który wszędzie za tobą chodzi"
+
+msgid "res_shop_pet5_title"
+msgstr "Przyjaciel ~ Niedźwiedź polarny"
+
+msgid "res_shop_pet5_desc"
+msgstr "Silny niedźwiedź polarny, który wszędzie za tobą chodzi"
+
+msgid "res_shop_pet6_title"
+msgstr "Przyjaciel ~ Renifer"
+
+msgid "res_shop_pet6_desc"
+msgstr "Miły reniferów, który wszędzie za tobą chodzi"
+
+msgid "res_shop_pet7_title"
+msgstr "Przyjaciel ~ lis polarny"
+
+msgid "res_shop_pet7_desc"
+msgstr "Inteligentny lis polarny, który wszędzie za tobą chodzi"
+
+msgid "res_shop_pet8_title"
+msgstr "Przyjaciel ~ Mamut"
+
+msgid "res_shop_pet8_desc"
+msgstr "Potężny mamut, który wszędzie za tobą chodzi"
+
+msgid "res_shop_skin3_title"
+msgstr "Skórka ~ eskimos"
+
+msgid "res_shop_skin3_desc"
+msgstr "Graj z niesamowitą skórką eskimosa!"
+
+msgid "res_shop_skin4_title"
+msgstr "Skórka ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Graj z niesamowitą skórką yeti!"
+
+msgid "res_shop_skin5_title"
+msgstr "Skórka ~ Święty Mikołaj"
+
+msgid "res_shop_skin5_desc"
+msgstr "Graj z niesamowitą skórką Świętego Mikołaja!"
+
+msgid "res_shop_skin6_title"
+msgstr "Skórka ~ Yodel Girl"
+
+msgid "res_shop_skin6_desc"
+msgstr "Graj z niesamowitą skórką Yodel Girl!"
+
+msgid "res_title_monde3"
+msgstr "Góra"
+
+msgid "res_shop_world3_title"
+msgstr "Góra - dodatkowe poziomy"
+
+msgid "res_shop_world3_desc"
+msgstr "Odblokuj wszystkie tajne poziomy w górze"
+
+msgid "res_shop_all"
+msgstr "Odblokuj wszystko w sklepie, usuń reklamy i pomóż nam tworzyć lepsze gry!"
+
+msgid "res_notif_1"
+msgstr "Zagraj w %1s już dziś!"
+
+msgid "res_notif_2"
+msgstr "Dołącz do nas i zagraj w %1s już dziś!"
+
+msgid "res_notif_3"
+msgstr "Nie grałeś(aś) w %1s już od jakiegoś czasu."
+
+msgid "res_notif_4"
+msgstr "Wnieś trochę radości do swojego życia. Zagraj w %1s już teraz!"
+
+
+
+

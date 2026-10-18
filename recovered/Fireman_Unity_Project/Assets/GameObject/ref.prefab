@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &147589
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 479954}
+  - 114: {fileID: 11409266}
+  m_Layer: 0
+  m_Name: ref
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &479954
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11409266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a68422e122212f3eb86c19ce6ed442e, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  mMat: {fileID: 0}
+  mUVRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  mFont:
+    mSize: 96
+    mBase: 68
+    mWidth: 128
+    mHeight: 128
+    mSpriteName: pizza96_0
+    mSaved:
+    - index: 48
+      x: 0
+      y: 0
+      width: 28
+      height: 50
+      offsetX: 4
+      offsetY: 14
+      advance: 35
+      channel: 2
+      kerning:
+    - index: 49
+      x: 97
+      y: 0
+      width: 11
+      height: 52
+      offsetX: 4
+      offsetY: 13
+      advance: 18
+      channel: 1
+      kerning:
+    - index: 50
+      x: 62
+      y: 0
+      width: 37
+      height: 42
+      offsetX: 1
+      offsetY: 19
+      advance: 36
+      channel: 2
+      kerning:
+    - index: 51
+      x: 40
+      y: 58
+      width: 31
+      height: 53
+      offsetX: -1
+      offsetY: 16
+      advance: 30
+      channel: 1
+      kerning:
+    - index: 52
+      x: 26
+      y: 0
+      width: 35
+      height: 57
+      offsetX: -1
+      offsetY: 10
+      advance: 37
+      channel: 1
+      kerning:
+    - index: 53
+      x: 72
+      y: 58
+      width: 33
+      height: 52
+      offsetX: -1
+      offsetY: 13
+      advance: 30
+      channel: 1
+      kerning:
+    - index: 54
+      x: 62
+      y: 0
+      width: 34
+      height: 57
+      offsetX: 4
+      offsetY: 13
+      advance: 38
+      channel: 1
+      kerning:
+    - index: 55
+      x: 0
+      y: 70
+      width: 39
+      height: 56
+      offsetX: -4
+      offsetY: 10
+      advance: 34
+      channel: 1
+      kerning:
+    - index: 56
+      x: 0
+      y: 0
+      width: 25
+      height: 69
+      offsetX: 3
+      offsetY: 6
+      advance: 27
+      channel: 1
+      kerning:
+    - index: 57
+      x: 29
+      y: 0
+      width: 32
+      height: 44
+      offsetX: -1
+      offsetY: 11
+      advance: 36
+      channel: 2
+      kerning:
+  mSpacingX: 0
+  mSpacingY: 0
+  mAtlas: {fileID: 0}
+  mReplacement: {fileID: 11409266, guid: 264099395e6c196469c2b4a04b5cc06f, type: 2}
+  mPixelSize: 1
+  mSymbols: []
+  mDynamicFont: {fileID: 0}
+  mDynamicFontSize: 16
+  mDynamicFontStyle: 0
+  mDynamicFontOffset: 0
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 147589}
+  m_IsPrefabParent: 1

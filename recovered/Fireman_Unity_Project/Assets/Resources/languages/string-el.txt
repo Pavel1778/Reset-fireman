@@ -1,0 +1,576 @@
+msgid "app_name"
+msgstr "Πυροσβέστης"
+
+msgid "Share"
+msgstr "Μου αρέσει να παίζω %1s ! Σας συνιστώ ανεπιφύλακτα να το κατεβάσετε : %2s"
+
+msgid "rate the game"
+msgstr "Βαθμολογήστε το παιχνίδι"
+
+msgid "You seem to be enjoying the game"
+msgstr "Μπορείτε φαίνεται να απολαμβάνει {0} όσο εμείς απολαύσαμε την ανάπτυξη αυτή. Σας ευχαριστώ. Θα σας πείραζε να μας βοηθήσει με τη λήψη λίγο χρόνο για να προσθέσετε μια θετική βαθμολογία στην σελίδα του παιχνιδιού;"
+
+msgid "res_harder"
+msgstr "Δοκιμάστε το παιχνίδι\nπιο δύσκολο τρόπο!\nΕίστε έτοιμοι να επαναλάβετε...\nσε όλα τα επίπεδα;"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "Ζούγκλα"
+
+msgid "res_achiev12_title"
+msgstr "Ανώτερος αρχηγός"
+
+msgid "res_quit"
+msgstr "Έξοδος;"
+
+msgid "res_rank_9"
+msgstr "Αρχηγός"
+
+msgid "res_shop_xpx2"
+msgstr "Double XP"
+
+msgid "res_achiev5_title"
+msgstr "Πυροσβέστης!"
+
+msgid "res_talky_6"
+msgstr "Περπατήστε πάνω στις στάχτες για να βεβαιωθείτε ότι οι φλόγες έχουν σβήσει εντελώς"
+
+msgid "res_inapp10_desc"
+msgstr "Διπλασιάστε τα χρήματα και τα XP που κερδίσατε σε όλο το παιχνίδι"
+
+msgid "res_mission"
+msgstr "Αποστολή"
+
+msgid "res_achiev17_title"
+msgstr "10.000 λίτρα νερού"
+
+msgid "res_rank_7"
+msgstr "Λοχαγός"
+
+msgid "res_achiev3_desc"
+msgstr "Δείτε τα άλλα μας παιχνίδια"
+
+msgid "res_talky_10"
+msgstr "Οι πυροσβεστικοί κρουνοί σας επιτρέπουν να γεμίσετε ξανά τη δεξαμενή νερού σας "
+
+msgid "keywords"
+msgstr "φωτιά, πυροσβέστης,platformer,υπερπήδηση,εμπόδια,dodge,πυροσβέστης,πυροσβεστικό όχημα,νερό,κατάσβεση,jetpack,τέρατα"
+
+msgid "res_credits"
+msgstr "Μάρκες"
+
+msgid "res_arrows"
+msgstr "βέλη"
+
+msgid "res_achiev13_title"
+msgstr "Αρχηγός"
+
+msgid "res_not_enough_money"
+msgstr "Δεν υπάρχουν αρκετά χρήματα"
+
+msgid "res_talky_15"
+msgstr "Θα βρείτε κινούμενες πλατφόρμες στο δρόμο σας που θα σας βοηθήσουν στην προσπάθειά σας"
+
+msgid "res_achiev7_title"
+msgstr "Ανώτερος πυροσβέστης"
+
+msgid "res_skins"
+msgstr "Skin"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doc Skin"
+
+msgid "res_inapp1_title"
+msgstr "Double XP"
+
+msgid "res_rank_0"
+msgstr "νεοσύλλεκτος"
+
+msgid "res_talky_3"
+msgstr "Σώστε τα λούτρινα ζωάκια!"
+
+msgid "res_achiev6_title"
+msgstr "Πυροσβέστης 1ης κατηγορίας"
+
+msgid "res_achiev26_title"
+msgstr "Κυνηγός φλόγας"
+
+msgid "res_achiev24_title"
+msgstr "Εύρεση"
+
+msgid "res_achiev24_desc"
+msgstr "Βρείτε ένα χαμένο αντικείμενο"
+
+msgid "res_achiev19_title"
+msgstr "Δειλός"
+
+msgid "res_inapp9_desc"
+msgstr "Ένας εξαιρετικά πιστός σκύλος που σας ακολουθεί παντού"
+
+msgid "res_achiev22_title"
+msgstr "Κόσμος 2"
+
+msgid "res_new_rank"
+msgstr "νέα κατάταξη"
+
+msgid "res_achiev5_desc"
+msgstr "Ξεκλειδώστε την κατηγορία πυροσβέστη"
+
+msgid "res_achiev11_desc"
+msgstr "Ξεκλειδώστε την κατηγορία Αρχηγός"
+
+msgid "res_congratulations"
+msgstr "Τα καταφέρατε. Συγχαρητήρια! Καταφέρατε να ολοκληρώσετε όλα τα επίπεδα του παιχνιδιού. Πολύ λίγοι φτάνουν μέχρι εδώ. Μπράβο! Θα προσθέσουμε σύντομα νέους κόσμους για να ανακαλύψουμε περισσότερα ζωάκια που πρέπει να σωθούν και περισσότερα κρυμμένα αντικείμενα που πρέπει να βρεθούν. Μείνετε συντονισμένοι. Στο μεταξύ, θα το εκτιμούσαμε εάν δίνατε στο παιχνίδι βαθμολογία 5 αστεριών !"
+
+msgid "res_select"
+msgstr "Επιλογή"
+
+msgid "res_achiev6_desc"
+msgstr "Ξεκλειδώστε την κατηγορία Πυροσβέστης 1ης κατηγορίας"
+
+msgid "res_shop_range"
+msgstr "Όπλο νερού επίπεδο %s"
+
+msgid "res_talky_13"
+msgstr "Υπάρχουν πολλά είδη εχθρών...Όλοι τους είναι επικίνδυνοι!"
+
+msgid "res_inapp7_title"
+msgstr "Κοάλα"
+
+msgid "res_achiev28_title"
+msgstr "Κυνηγός Lava Slime"
+
+msgid "res_shop_piecex2"
+msgstr "Διπλασιασμός χρημάτων"
+
+msgid "res_achiev27_title"
+msgstr "Κυνηγός Flameboy"
+
+msgid "res_achiev25_title"
+msgstr "Συλλέκτης"
+
+msgid "res_achiev28_desc"
+msgstr "Εξολοθρεύστε 100 Lava Slime"
+
+msgid "res_inapp8_desc"
+msgstr "Ένα πανέμορφο αρκουδάκι που σας ακολουθεί παντού"
+
+msgid "res_inapp2_desc"
+msgstr "Παίξτε με το εκπληκτικό Doc skin !"
+
+msgid "res_achievements"
+msgstr "Επιτεύγματα"
+
+msgid "res_ask_login_gp"
+msgstr "Θέλετε να συνδεθείτε στο Google Plus;"
+
+msgid "res_achiev30_title"
+msgstr "Κυνηγός Flamethrower"
+
+msgid "res_achiev22_desc"
+msgstr "Ολοκλήρωση Κόσμου 2"
+
+msgid "res_shop_pet2"
+msgstr "Ζωάκι 2"
+
+msgid "res_shop_pet3"
+msgstr "Ζωάκι 3"
+
+msgid "res_achiev4_title"
+msgstr "Εκαπίδευση πυροσβέστη"
+
+msgid "res_shop_pet1"
+msgstr "Ζωάκι 1"
+
+msgid "res_loading"
+msgstr "Φόρτωση..."
+
+msgid "res_achiev8_desc"
+msgstr "Ξεκλειδώστε την κατηγορία Ειδικός πυροσβέστης"
+
+msgid "res_rank_4"
+msgstr "Ειδικός πυροσβέστης"
+
+msgid "res_talky_21"
+msgstr "Επί της ευκαιρίας να συστηθώ, είμαι ο Talky και θα είμαι πάντα εδώ για να σε βοηθάω"
+
+msgid "res_inapp5_desc"
+msgstr "Ξεκλειδώστε ένα επιπλέον επίπεδο στη ζούγκλα"
+
+msgid "res_talky_8"
+msgstr "Μόλις το εξολοθρεύσετε, πηδηξτε πάνω του για να το εξοντώσετε εντελώς"
+
+msgid "res_talky_5"
+msgstr "Χρησιμοποιήστε το κουμπί του όπλου νερού για να κατασβήσετε τις φλόγες"
+
+msgid "res_inapp5_title"
+msgstr "Ζούγκα Επιπλέον επίπεδο"
+
+msgid "res_achiev21_desc"
+msgstr "Ολοκλήρωση Κόσμος 1"
+
+msgid "res_inapp4_desc"
+msgstr "Παίξτε με το εκπληκτικό Doc skin !"
+
+msgid "res_talky_12"
+msgstr "Υπάρχουν 3 λούτρινα ζωάκια που πρέπει να σωθούν σε κάθε επίπεδο"
+
+msgid "res_rank_1"
+msgstr "Πυροσβέστης"
+
+msgid "res_achiev20_desc"
+msgstr "Ολοκληρώστε ένα επίπεδο χωρίς να χάσετε ζωές"
+
+msgid "res_inapp7_desc"
+msgstr "Ένα γλυκό κοάλα που σας ακολουθεί παντού"
+
+msgid "res_share"
+msgstr "Δείτε το %1s, Είναι ένα εκπληκτικό παιχνίδι! Μπορείτε να το κατεβάσετε από εδώ : %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Επισκεφτείτε τη σελίδα Magma Mobile στο Facebook"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Θέλετε να έχετε πρόσβαση σε σούπερ επιτεύγματα; Μπορείτε να το κάνετε αυτό με εγγραφή στο Google Play Services"
+
+msgid "res_achiev14_title"
+msgstr "Ειδικός"
+
+msgid "res_inapp8_title"
+msgstr "Αρκουδάκι"
+
+msgid "res_inapp6_desc"
+msgstr "Ξεκλειδώστε ένα επιπλέον επίπεδο στην Έρημο"
+
+msgid "res_talky_7"
+msgstr "Προσέξτε είναι το Flameboy! Εξολοθρεύστε το με το όπλο νερού σας"
+
+msgid "res_achiev2_desc"
+msgstr "μοιραστείτε το παιχνίδι με φίλους σας"
+
+msgid "res_inapp3_title"
+msgstr "Skin2"
+
+msgid "res_inapp1_desc"
+msgstr "Διπλασιάστε τα XP που κερδίσατε σε όλο το παιχνίδι"
+
+msgid "res_talky_20"
+msgstr "Ορίστε το ζωάκι σας, θα σας ακολουθεί παντού"
+
+msgid "res_rangs"
+msgstr "Κατηγορίες"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "res_head_quarter"
+msgstr "Κεντρικά"
+
+msgid "res_achiev18_title"
+msgstr "Σωτήρας"
+
+msgid "res_talky_1"
+msgstr "Πατήστε το δεξί κουμπί για να πηδήξετε."
+
+msgid "res_achiev15_title"
+msgstr "1.000 λίτρα νερού"
+
+msgid "res_achiev32_title"
+msgstr "Hawk Eye"
+
+msgid "res_achiev18_desc"
+msgstr "Σώστε 2 λούτρινα ζωάκια σε ένα επίπεδο"
+
+msgid "res_achiev25_desc"
+msgstr "Βρείτε όλα τα χαμένα αντικείμενα στο παιχνίδι"
+
+msgid "res_achiev16_desc"
+msgstr "Ρίξτε 5.000 λίτρα νερό "
+
+msgid "res_inapp10_title"
+msgstr "Double Pack"
+
+msgid "res_achiev7_desc"
+msgstr "Ξεκλειδώστε την κατηγορία Ανώτερος πυροσβέστης"
+
+msgid "res_rank_5"
+msgstr "Πυροσβέστης"
+
+msgid "res_inapp0_desc"
+msgstr "Διπλασιάστε τα χρήματα που κερδίσατε σε όλο το παιχνίδι"
+
+msgid "res_achiev12_desc"
+msgstr "Ξεκλειδώστε την κατηγορία Ανώτερος αρχηγός"
+
+msgid "res_achiev16_title"
+msgstr "5.000 λίτρα νερού"
+
+msgid "res_required"
+msgstr "απαιτείται"
+
+msgid "res_no_pets"
+msgstr "Κανένα ζωάκι"
+
+msgid "res_pets"
+msgstr "Ζωάκια"
+
+msgid "res_shop_extralevel1"
+msgstr "Ζούγκα Επιπλέον επίπεδα"
+
+msgid "res_talky_23"
+msgstr "Τοποθετήστε τα δύο δεξιά κουμπιά το ένα πάνω στο άλλο για να χρησιμοποιήσετε το jetpack και να ρίξετε την ίδια στιγμή"
+
+msgid "res_talky_19"
+msgstr "Το XP σας επιτρέπει να λάβετε νέες κατηγορίες"
+
+msgid "res_achiev32_desc"
+msgstr "Βρείτε έναν κρυμμένο τοίχο"
+
+msgid "res_achiev29_desc"
+msgstr "Εξολοθρεύστε 100 βομβαρδιστικά προτού εκραγούν"
+
+msgid "res_buy"
+msgstr "Αγορά"
+
+msgid "res_shop_life"
+msgstr "%s επιπλέον ζωές"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_achiev23_desc"
+msgstr "Ολοκλήρωση Κόσμος 3"
+
+msgid "res_achiev29_title"
+msgstr "Κυνηγός βομβαρδιστικών"
+
+msgid "res_title_monde2"
+msgstr "Έρημος"
+
+msgid "res_achiev31_desc"
+msgstr "Εξολοθρεύεστε 100 fire spider"
+
+msgid "res_inapp0_title"
+msgstr "Διπλασιασμός χρημάτων"
+
+msgid "res_sound"
+msgstr "Ήχος"
+
+msgid "res_achiev26_desc"
+msgstr "Σβήστε 100 φλόγες"
+
+msgid "res_good_job"
+msgstr "ΚΑΛΗ ΔΟΥΛΕΙΑ!"
+
+msgid "res_shop"
+msgstr "Αγορά"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_achiev21_title"
+msgstr "Κόσμος 1"
+
+msgid "res_inapp6_title"
+msgstr "Έρημος Έξτρα επίπεδο"
+
+msgid "res_talky_22"
+msgstr "Τώρα είστε έτοιμοι, είστε σωστοί πυροσβέστες!"
+
+msgid "res_talky_18"
+msgstr "Τα χρήματα σας επιτρέπουν να αγοράσετε αντικείμενα και αναβαθμίσεις από το κατάστημα"
+
+msgid "res_level_locked"
+msgstr "Επίπεδο κλειδωμένο"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Firegirl Skin"
+
+msgid "res_shop_reservoir"
+msgstr "Επίπεδο χωρητικότητας δεξαμενής jetpack %s"
+
+msgid "res_talky_17"
+msgstr "Οι τηλεθύρες θα σας μεταφέρουν σε άλλο μέρος..."
+
+msgid "res_rank_2"
+msgstr "Πυροσβέστης 1ης κατηγορίας"
+
+msgid "res_talky_14"
+msgstr "Οι σταλακτίτες σκορπούν τον θάνατο!"
+
+msgid "res_talky_0"
+msgstr "Χρησιμοποιήστε τα βέλη αριστερά και δεξιά για να κινηθείτε."
+
+msgid "res_achiev30_desc"
+msgstr "Εξολοθρεύστε 100  Flamethrower"
+
+msgid "res_restorepurchases"
+msgstr "Επαναφορά Αγορές"
+
+msgid "res_achiev1_title"
+msgstr "Social"
+
+msgid "res_achiev3_title"
+msgstr "Περισσότερα Παιχνίδια"
+
+msgid "res_achiev23_title"
+msgstr "Κόσμος 3"
+
+msgid "res_moregames"
+msgstr "Περισσότερα Παιχνίδια"
+
+msgid "res_music"
+msgstr "Μουσική"
+
+msgid "res_inapp4_title"
+msgstr "Skin3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Θα θέλατε να συναγωνιστείτε με άλλους παίκτες ανά τον κόσμο; Μπορείτε να το κάνετε εφόσον εγγραφείτε στο Google Play Services"
+
+msgid "res_talky_2"
+msgstr "Πατήστε το σωστό κουμπί για να χρησιμοποιήσετε το jetpack."
+
+msgid "res_achiev19_desc"
+msgstr "Ολοκληρώστε ένα επίπεδο χωρίς να σώσετε κανένα λούτρινο ζωάκι"
+
+msgid "res_achiev10_title"
+msgstr "Υπαρχηγός"
+
+msgid "res_rank_10"
+msgstr "Ειδικός"
+
+msgid "res_ask_logout_gp"
+msgstr "Θέλετε να αποσυνδεθείτε από το Google Plus;"
+
+msgid "res_rank_8"
+msgstr "Ανώτερος αρχηγός"
+
+msgid "res_achiev10_desc"
+msgstr "Ξεκλειδώστε την κατηγορία Υπαρχηγός"
+
+msgid "res_achiev17_desc"
+msgstr "Ρίξτε 10.000 λίτρα νερό"
+
+msgid "res_achiev2_title"
+msgstr "Μοιραστείτε"
+
+msgid "res_inapp3_desc"
+msgstr "Παίξτε με το εκπληκτικό Firegirl!"
+
+msgid "res_talky_16"
+msgstr "Να έχετε τα μάτια σας ανοιχτά...για κρυφά περάσματα."
+
+msgid "res_achiev13_desc"
+msgstr "Ξεκλειδώστε την κατηγορία Αρχηγός"
+
+msgid "res_inventory"
+msgstr "HQ"
+
+msgid "res_inapp2_title"
+msgstr "Skin 1"
+
+msgid "res_shop_maxipack"
+msgstr "Διπλάσια χρήματα+ XP"
+
+msgid "res_rank_6"
+msgstr "Υπαρχηγός"
+
+msgid "res_inapp9_title"
+msgstr "Σκυλάκι"
+
+msgid "res_achiev4_desc"
+msgstr "Ολοκληρώστε την εκμάθηση"
+
+msgid "res_specialitems"
+msgstr "Ειδικά αντικείμενα"
+
+msgid "res_achiev31_title"
+msgstr "Κυνηγός Fire Spider"
+
+msgid "res_achiev11_title"
+msgstr "Λοχαγός"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Firegirl Skin"
+
+msgid "res_lostfound"
+msgstr "Απώλεια και εύρεση"
+
+msgid "res_shop_extralevel2"
+msgstr "Έρημος Επιπλέον επίπεδα"
+
+msgid "res_rank_3"
+msgstr "Ανώτερος πυροσβέστης"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Θα θέλατε να αποθηκεύσετε την πρόοδο στο παιχνίδι; Μπορείτε να το κάνετε εφόσον εγγραφείτε στο Google Play Services"
+
+msgid "res_achiev15_desc"
+msgstr "Ρίξτε 1.000 λίτρα νερό"
+
+msgid "res_talky_9"
+msgstr "Οι φλόγες μπορεί να έχουν διάφορα επίπεδα"
+
+msgid "res_talky_11"
+msgstr "Οι πυροσβεστικοί κρουνοί μπορούν επίσης να χρησιμοποιηθούν ως σημεία ελέγχου εάν χάσατε μια ζωή"
+
+msgid "res_achiev9_title"
+msgstr "Πυροσβέστης"
+
+msgid "res_achiev20_title"
+msgstr "Dodger"
+
+msgid "res_achiev9_desc"
+msgstr "Ξεκλειδώστε την κατηγορία Πυροσβέστης"
+
+msgid "res_talky_4"
+msgstr "Και τρέξτε προς την έξοδο!"
+
+msgid "res_achiev14_desc"
+msgstr "Ξεκλειδώστε την κατηγορία Ειδικός"
+
+msgid "res_achiev8_title"
+msgstr "Ειδικός πυροσβέστης"
+
+msgid "res_achiev27_desc"
+msgstr "Εξολοθρεύστε 100 Flameboy"
+
+msgid "res_pause"
+msgstr "παύση"
+
+msgid "res_notif_1"
+msgstr "Ελάτε να παίξετε το %1s σήμερα!"
+
+msgid "res_notif_2"
+msgstr "Εγγραφείτε και παίξτε το %1s σήμερα!"
+
+msgid "res_notif_3"
+msgstr "Δεν παίξατε το %1s εδώ και αρκετό καιρό!"
+
+msgid "res_notif_4"
+msgstr "Βάλτε λίγη χαρά στη μέρα σας. Παίξτε το %1s τώρα!"
+
+
+
+
+
+
+
+
+
+

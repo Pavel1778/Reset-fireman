@@ -1,0 +1,576 @@
+msgid "app_name"
+msgstr "Brandmand"
+
+msgid "Share"
+msgstr "Jeg elsker at spille %1s ! Jeg anbefaler varmt, at du downloader : %2s"
+
+msgid "rate the game"
+msgstr "Anmeld spillet"
+
+msgid "You seem to be enjoying the game"
+msgstr "Du synes at være nyder {0} så meget som vi nød at udvikle det. Tak. Ville du have noget imod at hjælpe os ved at tage lidt tid til at tilføje en positiv rating på spilsiden?"
+
+msgid "res_harder"
+msgstr "Prøv spillet i hårdere mode !\nEr du klar til at afspille...\nalle niveauer ?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "Jungle"
+
+msgid "res_achiev12_title"
+msgstr "Senior-kaptajn"
+
+msgid "res_quit"
+msgstr "Afslut"
+
+msgid "res_rank_9"
+msgstr "Chef"
+
+msgid "res_shop_xpx2"
+msgstr "Dobbelt XP"
+
+msgid "res_achiev5_title"
+msgstr "Brandmand!"
+
+msgid "res_talky_6"
+msgstr "Gå på asken for at være sikker på, at flammerne er helt slukket"
+
+msgid "res_inapp10_desc"
+msgstr "Fordoble både de penge og XP du optjener gennem hele spillet"
+
+msgid "res_mission"
+msgstr "Mission"
+
+msgid "res_achiev17_title"
+msgstr "10.000 liter vand"
+
+msgid "res_rank_7"
+msgstr "Kaptajn"
+
+msgid "res_achiev3_desc"
+msgstr "Tjek vores andre spil ud"
+
+msgid "res_talky_10"
+msgstr "Brandhaner giver dig mulighed for at fylde din vandtank op"
+
+msgid "keywords"
+msgstr "brand, brandmand, platformer, hop, forhindringer, undvige, brandslukker, brandbil, vand, brandslukning, jetpack, monstre"
+
+msgid "res_credits"
+msgstr "Kreditter"
+
+msgid "res_arrows"
+msgstr "pile"
+
+msgid "res_achiev13_title"
+msgstr "Chef"
+
+msgid "res_not_enough_money"
+msgstr "Ikke nok penge"
+
+msgid "res_talky_15"
+msgstr "Du vil finde bevægelige platforme hen ad vejen, som kan hjælpe dig på din færd"
+
+msgid "res_achiev7_title"
+msgstr "Senior-brandmand"
+
+msgid "res_skins"
+msgstr "Kostumer"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doc-kostume"
+
+msgid "res_inapp1_title"
+msgstr "Dobbelt XP"
+
+msgid "res_rank_0"
+msgstr "Nybegynder"
+
+msgid "res_talky_3"
+msgstr "Red de udstoppede dyr!"
+
+msgid "res_achiev6_title"
+msgstr "1. klasses brandmand"
+
+msgid "res_achiev26_title"
+msgstr "Flammejæger"
+
+msgid "res_achiev24_title"
+msgstr "Finder"
+
+msgid "res_achiev24_desc"
+msgstr "Find et tabt objekt"
+
+msgid "res_achiev19_title"
+msgstr "Kujon"
+
+msgid "res_inapp9_desc"
+msgstr "En superloyal hund, der følger dig overalt"
+
+msgid "res_achiev22_title"
+msgstr "Verden 2"
+
+msgid "res_new_rank"
+msgstr "Ny rang"
+
+msgid "res_achiev5_desc"
+msgstr "Lås op for rangen brandmand"
+
+msgid "res_achiev11_desc"
+msgstr "Lås op for rangen Kaptajn"
+
+msgid "res_congratulations"
+msgstr "Du klarede det. Tillykke! Du gennemførte hvert niveau i spillet. Meget få klarer sig så langt. Godt klaret! Vi tilføjer snart flere verdener, som du kan opdage, med flere dyr du kan redde og flere skjulte objekter. Hold øje med spillet. I mellemtiden ville vi sætte pris på, hvis du kunne give spillet 5 en stjernersrating!"
+
+msgid "res_select"
+msgstr "Vælg"
+
+msgid "res_achiev6_desc"
+msgstr "Lås op for rangen 1. klasses brandmand"
+
+msgid "res_shop_range"
+msgstr "Vandpistols afstandsniveau %s"
+
+msgid "res_talky_13"
+msgstr "Der er mange slags fjender ... og de er alle farlige!"
+
+msgid "res_inapp7_title"
+msgstr "Koalaven"
+
+msgid "res_achiev28_title"
+msgstr "Lavaslim-jæger"
+
+msgid "res_shop_piecex2"
+msgstr "Dobbelt penge"
+
+msgid "res_achiev27_title"
+msgstr "Flammedreng-jæger"
+
+msgid "res_achiev25_title"
+msgstr "Samler"
+
+msgid "res_achiev28_desc"
+msgstr "Sluk 100 lavaslim"
+
+msgid "res_inapp8_desc"
+msgstr "En dejlig bjørneunge der følger dig overalt"
+
+msgid "res_inapp2_desc"
+msgstr "Spil med det fantastiske Doc-kostume!"
+
+msgid "res_achievements"
+msgstr "Målsætninger"
+
+msgid "res_ask_login_gp"
+msgstr "Ønsker du at logge ind i Google Plus?"
+
+msgid "res_achiev30_title"
+msgstr "Flammekaster-jæger"
+
+msgid "res_achiev22_desc"
+msgstr "Fuldfør verden 2"
+
+msgid "res_shop_pet2"
+msgstr "Kæledyr 2"
+
+msgid "res_shop_pet3"
+msgstr "Kæledyr 3"
+
+msgid "res_achiev4_title"
+msgstr "Brandmandstræning"
+
+msgid "res_shop_pet1"
+msgstr "Kæledyr 1"
+
+msgid "res_loading"
+msgstr "Indlæser..."
+
+msgid "res_achiev8_desc"
+msgstr "Lås op for rangen Mester-brandmand"
+
+msgid "res_rank_4"
+msgstr "Mester-brandmand"
+
+msgid "res_talky_21"
+msgstr "Forresten, jeg er Talky. Jeg vil altid være der for at hjælpe dig"
+
+msgid "res_inapp5_desc"
+msgstr "Lås op for et ekstra niveau i junglen"
+
+msgid "res_talky_8"
+msgstr "Når den er slukket, så hop på den for at udrydde den"
+
+msgid "res_talky_5"
+msgstr "Brug vandpistolknappen for at slukker flammerne"
+
+msgid "res_inapp5_title"
+msgstr "Jun"
+
+msgid "res_achiev21_desc"
+msgstr "Fuldfør verden 1"
+
+msgid "res_inapp4_desc"
+msgstr "Spil med det fantastiske Doc-kostume!"
+
+msgid "res_talky_12"
+msgstr "Der er 3 udstoppede dyr, der skal reddes i hvert niveau"
+
+msgid "res_rank_1"
+msgstr "Brandmand"
+
+msgid "res_achiev20_desc"
+msgstr "Fuldfør et niveau uden at miste liv"
+
+msgid "res_inapp7_desc"
+msgstr "En sød koala, der følger dig overalt"
+
+msgid "res_share"
+msgstr "Tjek %1s ud, det er sådan et fantastisk spil! Du kan downloade det her: %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Tjek "
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Ønsker du at få adgang til super-præstationer? Det kan du gøre ved at logge ind i "
+
+msgid "res_achiev14_title"
+msgstr "Overchef"
+
+msgid "res_inapp8_title"
+msgstr "Bjørneunge-ven"
+
+msgid "res_inapp6_desc"
+msgstr "Lås op for ekstra niveau i ørkenen"
+
+msgid "res_talky_7"
+msgstr "Pas på, det er Flammedreng! Sluk den med din vandpistol"
+
+msgid "res_achiev2_desc"
+msgstr "del spillet med dine venner"
+
+msgid "res_inapp3_title"
+msgstr "Kostume2"
+
+msgid "res_inapp1_desc"
+msgstr "Fordoble de XP du optjener gennem hele spillet"
+
+msgid "res_talky_20"
+msgstr "Her er dit kæledyr, det vil følge dig overalt"
+
+msgid "res_rangs"
+msgstr "Rangeringer"
+
+msgid "res_credits_text"
+msgstr "Udvikler: Clément Slempkes\nGrafiker : Sandra Ferragu\n Projektleder : Emmanuel Robles\nProjektadministrator : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "Indstillinger"
+
+msgid "res_head_quarter"
+msgstr "Hovedkvarter"
+
+msgid "res_achiev18_title"
+msgstr "Redningsmand"
+
+msgid "res_talky_1"
+msgstr "Tryk på den højre knap for at hoppe."
+
+msgid "res_achiev15_title"
+msgstr "1.000 liter vand"
+
+msgid "res_achiev32_title"
+msgstr "Høgeøje"
+
+msgid "res_achiev18_desc"
+msgstr "Red 3 udstoppede dyr i et enkelt niveau"
+
+msgid "res_achiev25_desc"
+msgstr "Find alle tabte objekter i spillet"
+
+msgid "res_achiev16_desc"
+msgstr "Skyd 5.000 liter vand"
+
+msgid "res_inapp10_title"
+msgstr "Dobbeltpakke"
+
+msgid "res_achiev7_desc"
+msgstr "Lås op for rangen Senior-brandmand"
+
+msgid "res_rank_5"
+msgstr "Brandofficer"
+
+msgid "res_inapp0_desc"
+msgstr "Fordoble de penge, som du optjener gennem spillet"
+
+msgid "res_achiev12_desc"
+msgstr "Lås op for rangen Senior-kaptajn"
+
+msgid "res_achiev16_title"
+msgstr "5.000 liter vand"
+
+msgid "res_required"
+msgstr "skal udfyldes"
+
+msgid "res_no_pets"
+msgstr "Ingen kæledyr"
+
+msgid "res_pets"
+msgstr "Kæledyr"
+
+msgid "res_shop_extralevel1"
+msgstr "Jungle-ekstraniveauer"
+
+msgid "res_talky_23"
+msgstr "Placer de to højreknapper ovenpå hinanden for at bruge jetpacken og skyde samtidigt"
+
+msgid "res_talky_19"
+msgstr "XP giver dig mulighed for at få ny rang"
+
+msgid "res_achiev32_desc"
+msgstr "Find en skjult væg"
+
+msgid "res_achiev29_desc"
+msgstr "Sluk 100 bumber, inden de eksploderer"
+
+msgid "res_buy"
+msgstr "køb"
+
+msgid "res_shop_life"
+msgstr "%s ekstraliv"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_achiev23_desc"
+msgstr "Fuldfør verden 3"
+
+msgid "res_achiev29_title"
+msgstr "Bombe-jæger"
+
+msgid "res_title_monde2"
+msgstr "Ørken"
+
+msgid "res_achiev31_desc"
+msgstr "Slut 100 ildedderkopper"
+
+msgid "res_inapp0_title"
+msgstr "Dobbelt penge"
+
+msgid "res_sound"
+msgstr "Lyd"
+
+msgid "res_achiev26_desc"
+msgstr "Sluk 100 flammer"
+
+msgid "res_good_job"
+msgstr "GODT GÅET!"
+
+msgid "res_shop"
+msgstr "Butik"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_achiev21_title"
+msgstr "Verden 1"
+
+msgid "res_inapp6_title"
+msgstr "Ørken-ekstraniveau"
+
+msgid "res_talky_22"
+msgstr "Du er nu klar, du er en rigtig brandmand nu!"
+
+msgid "res_talky_18"
+msgstr "Penge giver dig mulighed for at købe genstande og opgraderinger i butikken"
+
+msgid "res_level_locked"
+msgstr "bane låst"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Firegirl-kostume"
+
+msgid "res_shop_reservoir"
+msgstr "Jetpack-tank kapacitetsniveau "
+
+msgid "res_talky_17"
+msgstr "Teleports vil tage dig et andet sted hen ..."
+
+msgid "res_rank_2"
+msgstr "1. klasses brandmand"
+
+msgid "res_talky_14"
+msgstr "Stalaktitter er dødbringende!"
+
+msgid "res_talky_0"
+msgstr "Brug højre- og venstrepil for at flytte dig."
+
+msgid "res_achiev30_desc"
+msgstr "Sluk 100 flammekastere"
+
+msgid "res_restorepurchases"
+msgstr "Gendan køb"
+
+msgid "res_achiev1_title"
+msgstr "Social"
+
+msgid "res_achiev3_title"
+msgstr "Flere spil"
+
+msgid "res_achiev23_title"
+msgstr "Verden 3"
+
+msgid "res_moregames"
+msgstr "Flere spil"
+
+msgid "res_music"
+msgstr "Musik"
+
+msgid "res_inapp4_title"
+msgstr "Kostume3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Ønsker du at konkurrere med andre spillere verden over? Det kan du gøre ved at logge ind i Google Play Services"
+
+msgid "res_talky_2"
+msgstr "Hold højre knap inde for at bruge jetpack."
+
+msgid "res_achiev19_desc"
+msgstr "Fuldfør et niveau uden at redde nogen udstoppede dyr"
+
+msgid "res_achiev10_title"
+msgstr "Løjtnant"
+
+msgid "res_rank_10"
+msgstr "Overchef"
+
+msgid "res_ask_logout_gp"
+msgstr "Ønsker du at logge ud af Google Plus?"
+
+msgid "res_rank_8"
+msgstr "Senior-kaptajn"
+
+msgid "res_achiev10_desc"
+msgstr "Lås op for rangen Løjtnant"
+
+msgid "res_achiev17_desc"
+msgstr "Skyd 10.000 liter vand"
+
+msgid "res_achiev2_title"
+msgstr "Del"
+
+msgid "res_inapp3_desc"
+msgstr "Spil med det fantastisk Firegirl-kostume!"
+
+msgid "res_talky_16"
+msgstr "Hold dine øjne vidt åbne ... for at vinde hemmelige passager."
+
+msgid "res_achiev13_desc"
+msgstr "Lås op for rangen Chef"
+
+msgid "res_inventory"
+msgstr "HK"
+
+msgid "res_inapp2_title"
+msgstr "Kostume 1"
+
+msgid "res_shop_maxipack"
+msgstr "Dobbelt penge +  XP"
+
+msgid "res_rank_6"
+msgstr "Løjtnant"
+
+msgid "res_inapp9_title"
+msgstr "Hundeven"
+
+msgid "res_achiev4_desc"
+msgstr "Fuldfør tutorial"
+
+msgid "res_specialitems"
+msgstr "Særlige genstande"
+
+msgid "res_achiev31_title"
+msgstr "Ildedderkop-jæger"
+
+msgid "res_achiev11_title"
+msgstr "Kaptajn"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Firegirl-kostume"
+
+msgid "res_lostfound"
+msgstr "Tabt og fundet"
+
+msgid "res_shop_extralevel2"
+msgstr "Ørken-ekstraniveauer"
+
+msgid "res_rank_3"
+msgstr "Senior-brandmand"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Ønsker du at gemme dit spil fremskridt? Det kan du gøre ved at logge ind i Google Play Services"
+
+msgid "res_achiev15_desc"
+msgstr "Skyd 1.000 liter vand"
+
+msgid "res_talky_9"
+msgstr "Flammer kan have diverse lag"
+
+msgid "res_talky_11"
+msgstr "Brandhaner kan også bruges som checkpoints, hvis du mister et liv"
+
+msgid "res_achiev9_title"
+msgstr "Brandofficer"
+
+msgid "res_achiev20_title"
+msgstr "Undviger"
+
+msgid "res_achiev9_desc"
+msgstr "Lås op for rangen Brandofficer"
+
+msgid "res_talky_4"
+msgstr "Og ud gennem udgangen!"
+
+msgid "res_achiev14_desc"
+msgstr "Lås op for rangen Overchef"
+
+msgid "res_achiev8_title"
+msgstr "Mester-brandmand"
+
+msgid "res_achiev27_desc"
+msgstr "Slut 100 flammedrenge"
+
+msgid "res_pause"
+msgstr "Pause"
+
+msgid "res_notif_1"
+msgstr "Spil %1s i dag!"
+
+msgid "res_notif_2"
+msgstr "Kom og spil %1s med os i dag!"
+
+msgid "res_notif_3"
+msgstr "Du har ikke spillet %1s i lang tid!"
+
+msgid "res_notif_4"
+msgstr "Gør hverdagen lidt sjovere. Spil %1s nu!"
+
+
+
+
+
+
+
+
+
+

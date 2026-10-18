@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &147589
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 479954}
+  - 114: {fileID: 11409266}
+  m_Layer: 0
+  m_Name: AtlasMenus3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &479954
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11409266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  material: {fileID: 2100000, guid: f37a23d684fbe5b498da5d887173d58d, type: 2}
+  sprites:
+  - name: LevelSelector_03_Asset1
+    outer:
+      serializedVersion: 2
+      x: 710
+      y: 569
+      width: 179
+      height: 149
+    inner:
+      serializedVersion: 2
+      x: 710
+      y: 569
+      width: 179
+      height: 149
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: LevelSelector_03_Asset2
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 101
+      width: 168
+      height: 149
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 101
+      width: 168
+      height: 149
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: LevelSelector_03_Asset6
+    outer:
+      serializedVersion: 2
+      x: 710
+      y: 879
+      width: 230
+      height: 145
+    inner:
+      serializedVersion: 2
+      x: 710
+      y: 879
+      width: 230
+      height: 145
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: LevelSelector_03_Asset5
+    outer:
+      serializedVersion: 2
+      x: 710
+      y: 720
+      width: 204
+      height: 157
+    inner:
+      serializedVersion: 2
+      x: 710
+      y: 720
+      width: 204
+      height: 157
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: LevelSelector_03_Asset3
+    outer:
+      serializedVersion: 2
+      x: 402
+      y: 312
+      width: 165
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 402
+      y: 312
+      width: 165
+      height: 142
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: QG_Box1
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 252
+      width: 400
+      height: 100
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 252
+      width: 400
+      height: 100
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: QG_Box2
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 354
+      width: 400
+      height: 100
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 354
+      width: 400
+      height: 100
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Shop_05_Box
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 456
+      width: 708
+      height: 568
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 456
+      width: 708
+      height: 568
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: LevelSelector_03_Asset4
+    outer:
+      serializedVersion: 2
+      x: 170
+      y: 86
+      width: 145
+      height: 164
+    inner:
+      serializedVersion: 2
+      x: 170
+      y: 86
+      width: 145
+      height: 164
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Doc_Mask
+    outer:
+      serializedVersion: 2
+      x: 891
+      y: 505
+      width: 108
+      height: 213
+    inner:
+      serializedVersion: 2
+      x: 891
+      y: 505
+      width: 108
+      height: 213
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Spinner
+    outer:
+      serializedVersion: 2
+      x: 402
+      y: 182
+      width: 128
+      height: 128
+    inner:
+      serializedVersion: 2
+      x: 402
+      y: 182
+      width: 128
+      height: 128
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 147589}
+  m_IsPrefabParent: 1

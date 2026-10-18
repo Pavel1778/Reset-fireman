@@ -1,0 +1,637 @@
+
+msgid "app_name"
+msgstr "消防员"
+
+msgid "keywords"
+msgstr "火，消防员，平台，跳，障碍，躲闪，灭火，消防车，水，救火，背包，怪物"
+
+msgid "rate the game"
+msgstr "给游戏评分"
+
+msgid "res_achiev1_desc"
+msgstr "查看 Magma Mobile 的 Facebook 页面"
+
+msgid "res_achiev1_title"
+msgstr "社交"
+
+msgid "res_achiev10_desc"
+msgstr "解锁中尉级别"
+
+msgid "res_achiev10_title"
+msgstr "中尉"
+
+msgid "res_achiev11_desc"
+msgstr "解锁上尉级别"
+
+msgid "res_achiev11_title"
+msgstr "上尉"
+
+msgid "res_achiev12_desc"
+msgstr "解锁少校级别"
+
+msgid "res_achiev12_title"
+msgstr "少校"
+
+msgid "res_achiev13_desc"
+msgstr "解锁中校级别"
+
+msgid "res_achiev13_title"
+msgstr "中校"
+
+msgid "res_achiev14_desc"
+msgstr "解锁上校级别"
+
+msgid "res_achiev14_title"
+msgstr "上校"
+
+msgid "res_achiev15_desc"
+msgstr "发射 1000 升水"
+
+msgid "res_achiev15_title"
+msgstr "1000 升水"
+
+msgid "res_achiev16_desc"
+msgstr "发射 5000 升水"
+
+msgid "res_achiev16_title"
+msgstr "5000 升水"
+
+msgid "res_achiev17_desc"
+msgstr "发射 10000 升水"
+
+msgid "res_achiev17_title"
+msgstr "10000 升水"
+
+msgid "res_achiev18_desc"
+msgstr "在一个关卡里拯救三个动物"
+
+msgid "res_achiev18_title"
+msgstr "救世主"
+
+msgid "res_achiev19_desc"
+msgstr "完全一个关卡并不拯救任何被关押的动物"
+
+msgid "res_achiev19_title"
+msgstr "懦夫"
+
+msgid "res_achiev2_desc"
+msgstr "和朋友们分享这个游戏"
+
+msgid "res_achiev2_title"
+msgstr "分享"
+
+msgid "res_achiev20_desc"
+msgstr "完成一个关卡并不丢失一条性命"
+
+msgid "res_achiev20_title"
+msgstr "躲闪者"
+
+msgid "res_achiev21_desc"
+msgstr "完成世界 1"
+
+msgid "res_achiev21_title"
+msgstr "世界 1"
+
+msgid "res_achiev22_desc"
+msgstr "完成世界 2"
+
+msgid "res_achiev22_title"
+msgstr "世界 2"
+
+msgid "res_achiev23_desc"
+msgstr "完成世界 3"
+
+msgid "res_achiev23_title"
+msgstr "世界 3"
+
+msgid "res_achiev24_desc"
+msgstr "找到一个丢失的物品"
+
+msgid "res_achiev24_title"
+msgstr "搜索"
+
+msgid "res_achiev25_desc"
+msgstr "找到游戏中所有丢失的物品"
+
+msgid "res_achiev25_title"
+msgstr " 收藏家 "
+
+msgid "res_achiev26_desc"
+msgstr "扑灭 100 个火焰"
+
+msgid "res_achiev26_title"
+msgstr "火焰猎手"
+
+msgid "res_achiev27_desc"
+msgstr "扑灭 100 个 火娃"
+
+msgid "res_achiev27_title"
+msgstr "火娃猎手"
+
+msgid "res_achiev28_desc"
+msgstr "扑灭 100 个熔岩"
+
+msgid "res_achiev28_title"
+msgstr "熔岩猎手"
+
+msgid "res_achiev29_desc"
+msgstr "扑灭 100 个爆炎人并防止它们爆炸"
+
+msgid "res_achiev29_title"
+msgstr "爆炎人猎人"
+
+msgid "res_achiev3_desc"
+msgstr "查看我们其它游戏"
+
+msgid "res_achiev3_title"
+msgstr "更多游戏"
+
+msgid "res_achiev30_desc"
+msgstr "扑灭 100 个火焰喷射器"
+
+msgid "res_achiev30_title"
+msgstr "喷火器猎手"
+
+msgid "res_achiev31_desc"
+msgstr "扑灭 100 个火蜘蛛"
+
+msgid "res_achiev31_title"
+msgstr "火蜘蛛猎手"
+
+msgid "res_achiev32_desc"
+msgstr "找到一堵隐藏的墙"
+
+msgid "res_achiev32_title"
+msgstr "鹰眼"
+
+msgid "res_achiev4_desc"
+msgstr "完成教程"
+
+msgid "res_achiev4_title"
+msgstr "消防员培训"
+
+msgid "res_achiev5_desc"
+msgstr "解锁消防员级别"
+
+msgid "res_achiev5_title"
+msgstr "消防员！"
+
+msgid "res_achiev6_desc"
+msgstr "解锁高等消防员级别"
+
+msgid "res_achiev6_title"
+msgstr "高等消防员"
+
+msgid "res_achiev7_desc"
+msgstr "解锁一级消防员级别"
+
+msgid "res_achiev7_title"
+msgstr "一级消防员"
+
+msgid "res_achiev8_desc"
+msgstr "解锁消防队长级别"
+
+msgid "res_achiev8_title"
+msgstr "消防队长"
+
+msgid "res_achiev9_desc"
+msgstr "解锁消防官级别"
+
+msgid "res_achiev9_title"
+msgstr "消防官"
+
+msgid "res_achievements"
+msgstr "成就"
+
+msgid "res_arrows"
+msgstr "箭头"
+
+msgid "res_ask_login_gp"
+msgstr "你想登录到 Google Plus 吗？"
+
+msgid "res_ask_logout_gp"
+msgstr "你想登出 Google Plus 吗？"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "你想访问超级成就吗？只要登录 Google Play 服务就可以了"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "你想保存你的游戏进度吗？只要登录 Google Play 服务就可以了"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "你想和全球其它玩家比拼吗？只要登录 Google Play 服务就可以了"
+
+msgid "res_buy"
+msgstr "购买"
+
+msgid "res_congratulations"
+msgstr "你做到了。恭喜！你完成了游戏的每一个关卡。目前为止很少有人做到。干得不错！我们将很快增加新的世界，让你发现更多等待拯救的宠物和需要寻找的隐藏物体。留意哦。同时呢，如果你能给我们一个五星好评，我们会非常感激的！"
+
+msgid "res_credits"
+msgstr "游戏开发者"
+
+msgid "res_credits_text"
+msgstr "编程 : Clément Slempkes\n美术 : Sandra Ferragu\n 项目总监 : Emmanuel Robles\n项目管理 : Loïc Kempf"
+
+msgid "res_difficulty"
+msgstr "难度"
+
+msgid "res_difficulty_extreme"
+msgstr "专家"
+
+msgid "res_difficulty_hardcore"
+msgstr "困难"
+
+msgid "res_difficulty_normal"
+msgstr "普通"
+
+msgid "res_good_job"
+msgstr "干得好！"
+
+msgid "res_harder"
+msgstr "尝试困难模式游戏！\n你准备好了重新开始吗...\n所有关卡？"
+
+msgid "res_head_quarter"
+msgstr "总部"
+
+msgid "res_inapp0_desc"
+msgstr "让你整个游戏中赚的钱加倍"
+
+msgid "res_inapp0_title"
+msgstr "双倍金钱"
+
+msgid "res_inapp1_desc"
+msgstr "让你整个游戏中赚的 XP 加倍"
+
+msgid "res_inapp1_title"
+msgstr "双倍 XP"
+
+msgid "res_inapp10_desc"
+msgstr "让你整个游戏中金钱和 XP 加倍"
+
+msgid "res_inapp10_title"
+msgstr "双倍包裹"
+
+msgid "res_inapp2_desc"
+msgstr "使用超赞的 Doc 皮肤！"
+
+msgid "res_inapp2_title"
+msgstr "皮肤 1"
+
+msgid "res_inapp3_desc"
+msgstr "使用超赞的 Firegirl 皮肤！"
+
+msgid "res_inapp3_title"
+msgstr "皮肤 2"
+
+msgid "res_inapp4_desc"
+msgstr "使用超赞的 Doc 皮肤！"
+
+msgid "res_inapp4_title"
+msgstr "皮肤 3"
+
+msgid "res_inapp5_desc"
+msgstr "在丛林中解锁一个额外关卡"
+
+msgid "res_inapp5_title"
+msgstr "丛林额外关卡"
+
+msgid "res_inapp6_desc"
+msgstr "在沙漠中解锁一个额外关卡"
+
+msgid "res_inapp6_title"
+msgstr "沙漠额外关卡"
+
+msgid "res_inapp7_desc"
+msgstr "一只会一直跟着你的可爱考拉"
+
+msgid "res_inapp7_title"
+msgstr "考拉朋友"
+
+msgid "res_inapp8_desc"
+msgstr "一只会一直跟着你的可爱小熊"
+
+msgid "res_inapp8_title"
+msgstr "小熊朋友"
+
+msgid "res_inapp9_desc"
+msgstr "一个会一直跟着你的忠诚狗狗"
+
+msgid "res_inapp9_title"
+msgstr "狗狗朋友"
+
+msgid "res_inventory"
+msgstr "总部"
+
+msgid "res_jetpack"
+msgstr "喷射背包"
+
+msgid "res_joystick"
+msgstr "摇杆"
+
+msgid "res_level_locked"
+msgstr "关卡未解锁"
+
+msgid "res_loading"
+msgstr "载入中..."
+
+msgid "res_lostfound"
+msgstr "失物招领"
+
+msgid "res_mission"
+msgstr "任务"
+
+msgid "res_moregames"
+msgstr "更多游戏"
+
+msgid "res_music"
+msgstr "音乐"
+
+msgid "res_new_rank"
+msgstr "新级别"
+
+msgid "res_no_pets"
+msgstr "没有宠物"
+
+msgid "res_not_enough_money"
+msgstr "金钱不够"
+
+msgid "res_pause"
+msgstr "暂停"
+
+msgid "res_pets"
+msgstr "宠物"
+
+msgid "res_quit"
+msgstr "退出？"
+
+msgid "res_rangs"
+msgstr "级别"
+
+msgid "res_rank_0"
+msgstr "实习消防员"
+
+msgid "res_rank_1"
+msgstr "消防员"
+
+msgid "res_rank_10"
+msgstr "上校"
+
+msgid "res_rank_2"
+msgstr "高等消防员"
+
+msgid "res_rank_3"
+msgstr "一级消防员"
+
+msgid "res_rank_4"
+msgstr "消防队长"
+
+msgid "res_rank_5"
+msgstr "消防官"
+
+msgid "res_rank_6"
+msgstr "中尉"
+
+msgid "res_rank_7"
+msgstr "上尉"
+
+msgid "res_rank_8"
+msgstr "少校"
+
+msgid "res_rank_9"
+msgstr "中校"
+
+msgid "res_required"
+msgstr "必须"
+
+msgid "res_restorepurchases"
+msgstr "恢复购买"
+
+msgid "res_select"
+msgstr "选择"
+
+msgid "res_settings"
+msgstr "设置"
+
+msgid "res_share"
+msgstr "看下 %1s，超好玩的游戏！你可以在这里下载：%2s。"
+
+msgid "res_shop"
+msgstr "商店"
+
+msgid "res_shop_all"
+msgstr "解锁商店的一切，删除广告，并帮助我们做出更好的游戏！"
+
+msgid "res_shop_extralevel1"
+msgstr "丛林额外关卡"
+
+msgid "res_shop_extralevel2"
+msgstr "沙漠额外关卡"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doc 皮肤"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Firegirl 皮肤"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Firegirl 皮肤"
+
+msgid "res_shop_life"
+msgstr "%s 额外生命"
+
+msgid "res_shop_maxipack"
+msgstr "双倍金钱 + XP"
+
+msgid "res_shop_pet1"
+msgstr "宠物 1"
+
+msgid "res_shop_pet2"
+msgstr "宠物 2"
+
+msgid "res_shop_pet3"
+msgstr "宠物 3"
+
+msgid "res_shop_pet4_desc"
+msgstr "一只与你形影不离的聪明狼"
+
+msgid "res_shop_pet4_title"
+msgstr "朋友 〜 狼"
+
+msgid "res_shop_pet5_desc"
+msgstr "一只与你形影不离的强大北极熊"
+
+msgid "res_shop_pet5_title"
+msgstr "朋友 〜 北极熊"
+
+msgid "res_shop_pet6_desc"
+msgstr "一只与你形影不离的漂亮驯鹿"
+
+msgid "res_shop_pet6_title"
+msgstr "朋友 〜 驯鹿"
+
+msgid "res_shop_pet7_desc"
+msgstr "一只与你形影不离的机灵雪狐"
+
+msgid "res_shop_pet7_title"
+msgstr "朋友 〜 雪狐"
+
+msgid "res_shop_pet8_desc"
+msgstr "一只与你形影不离的强壮猛犸"
+
+msgid "res_shop_pet8_title"
+msgstr "朋友 〜 猛犸"
+
+msgid "res_shop_piecex2"
+msgstr "双倍金钱"
+
+msgid "res_shop_range"
+msgstr "水枪射程级别 %s"
+
+msgid "res_shop_reservoir"
+msgstr "喷气背包油量 %s"
+
+msgid "res_shop_skin3_desc"
+msgstr "使用精美的爱斯基摩主题皮肤来玩游戏！"
+
+msgid "res_shop_skin3_title"
+msgstr "皮肤 〜 爱斯基摩"
+
+msgid "res_shop_skin4_desc"
+msgstr "使用精美的雪人主题皮肤来玩游戏！"
+
+msgid "res_shop_skin4_title"
+msgstr "皮肤 〜 雪人"
+
+msgid "res_shop_skin5_desc"
+msgstr "使用精美的圣诞老人主题皮肤来玩游戏！"
+
+msgid "res_shop_skin5_title"
+msgstr "皮肤 〜 圣诞老人"
+
+msgid "res_shop_skin6_desc"
+msgstr "使用精美的约德尔女孩主题皮肤来玩游戏！"
+
+msgid "res_shop_skin6_title"
+msgstr "皮肤 〜 约德尔女孩"
+
+msgid "res_shop_world3_desc"
+msgstr "解锁山脉所有秘密关卡"
+
+msgid "res_shop_world3_title"
+msgstr "山脉附加关卡"
+
+msgid "res_shop_xpx2"
+msgstr "双倍 XP"
+
+msgid "res_skins"
+msgstr "皮肤"
+
+msgid "res_sound"
+msgstr "声音"
+
+msgid "res_specialitems"
+msgstr "特殊物品"
+
+msgid "res_talky_0"
+msgstr "使用左右箭头移动。"
+
+msgid "res_talky_1"
+msgstr "点击右边按钮以跳跃。"
+
+msgid "res_talky_10"
+msgstr "消防栓让你重新灌满你的水箱"
+
+msgid "res_talky_11"
+msgstr "当你牺牲时，消防栓还可以是你的重生点"
+
+msgid "res_talky_12"
+msgstr "每个关卡要拯救 3 个动物"
+
+msgid "res_talky_13"
+msgstr "有很多种敌人…他们都很危险！"
+
+msgid "res_talky_14"
+msgstr "尖刺是致命的！"
+
+msgid "res_talky_15"
+msgstr "你会在过程中发现移动的平台，它们能帮到你"
+
+msgid "res_talky_16"
+msgstr "睁大你的双眼…注意隐秘通道。"
+
+msgid "res_talky_17"
+msgstr "瞬传会把你带到另一个地方…"
+
+msgid "res_talky_18"
+msgstr "金钱可以让你在商店购买装备和升级"
+
+msgid "res_talky_19"
+msgstr "XP（经验）帮你获得新的级别"
+
+msgid "res_talky_2"
+msgstr "按住右按钮以使用喷气背包。"
+
+msgid "res_talky_20"
+msgstr "这是你的宠物，它会一直跟着你"
+
+msgid "res_talky_21"
+msgstr "顺便介绍下，我是 Talky，我总会在你需要的时候出现来帮你的。"
+
+msgid "res_talky_22"
+msgstr "你准备好了，现在是一个合格的消防员了！"
+
+msgid "res_talky_23"
+msgstr "同时按下右边两个按钮可以启用喷气背包并开始射击"
+
+msgid "res_talky_3"
+msgstr "拯救小动物！"
+
+msgid "res_talky_4"
+msgstr "从出口跑出去！"
+
+msgid "res_talky_5"
+msgstr "使用水枪按钮扑灭火焰"
+
+msgid "res_talky_6"
+msgstr "从灰烬踏过以确保火焰彻底扑灭了"
+
+msgid "res_talky_7"
+msgstr "小心火焰！快用你的水枪把它扑灭。"
+
+msgid "res_talky_8"
+msgstr "扑灭后，跳上去以清除"
+
+msgid "res_talky_9"
+msgstr "火焰可能有很多层"
+
+msgid "res_title_monde1"
+msgstr "丛林"
+
+msgid "res_title_monde2"
+msgstr "沙漠"
+
+msgid "res_title_monde3"
+msgstr "山脉"
+
+msgid "Share"
+msgstr "%1s很好玩！强烈推荐你 下载：%2s"
+
+msgid "You seem to be enjoying the game"
+msgstr "你似乎很喜欢这款游戏{0}就像我们喜欢开发它一样。谢谢。你会不会介意帮我们花费一些时间来在游戏页面添加了正面的评价？"
+
+msgid "res_notif_1"
+msgstr "赶快来玩%1s吧！"
+
+msgid "res_notif_2"
+msgstr "赶紧和我们一起玩%1s吧！"
+
+msgid "res_notif_3"
+msgstr "你有一段时间没玩%1s了！"
+
+msgid "res_notif_4"
+msgstr "为你的生活增添一点欢乐。赶紧来玩%1s吧！"
+
+
+
+

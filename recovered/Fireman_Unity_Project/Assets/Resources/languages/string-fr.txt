@@ -1,0 +1,643 @@
+msgid "app_name"
+msgstr "Pompier"
+
+msgid "Share"
+msgstr "J'ai adoré jouer à %1s ! Je te recommande de le télécharger : %2s"
+
+msgid "rate the game"
+msgstr "Noter le jeu"
+
+msgid "You seem to be enjoying the game"
+msgstr "Vous semblez apprécier {0} autant que nous avons aimé le développer. MERCI ! Pourriez-vous nous aider en prenant un peu de temps pour ajouter une note positive dans la page du jeu ?"
+
+msgid "res_harder"
+msgstr "Essayez le jeu en mode difficile !\nÊtes-vous prêt à rejouer...\ntous les niveaux ?"
+
+msgid "res_difficulty"
+msgstr "Difficulté"
+
+msgid "res_difficulty_normal"
+msgstr "Normale"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_loading"
+msgstr "Chargement..."
+
+msgid "res_shop"
+msgstr "Boutique"
+
+msgid "res_buy"
+msgstr "Acheter"
+
+msgid "res_good_job"
+msgstr "Bien joué !"
+
+msgid "res_quit"
+msgstr "Quit ?"
+
+msgid "res_inventory"
+msgstr "QG"
+
+msgid "res_shop_reservoir"
+msgstr "Capacité du jetpack niveau %s"
+
+msgid "res_shop_range"
+msgstr "Portée du pistolet à eau niveau %s"
+
+msgid "res_shop_life"
+msgstr "%s vies supplémentaires"
+
+msgid "res_required"
+msgstr "requis"
+
+msgid "res_not_enough_money"
+msgstr "Pas assez de pièces"
+
+msgid "res_skins"
+msgstr "Skins"
+
+msgid "res_achievements"
+msgstr "Réussites"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_pets"
+msgstr "Compagnons"
+
+msgid "res_lostfound"
+msgstr "Objets trouvés"
+
+msgid "res_rangs"
+msgstr "Rangs"
+
+msgid "res_specialitems"
+msgstr "Items spéciaux"
+
+msgid "res_achiev1_title"
+msgstr "Social"
+
+msgid "res_achiev1_desc"
+msgstr "Vous avez visité notre page facebook"
+
+msgid "res_achiev2_title"
+msgstr "Partage"
+
+msgid "res_achiev2_desc"
+msgstr "Partagez le jeu avec vos amis"
+
+msgid "res_achiev3_title"
+msgstr "Plus de jeux"
+
+msgid "res_achiev3_desc"
+msgstr "Découvrez nos autres jeux"
+
+msgid "res_achiev4_title"
+msgstr "Entrainement de pompier"
+
+msgid "res_achiev4_desc"
+msgstr "Compléter le tutoriel"
+
+msgid "res_achiev5_title"
+msgstr "Combattant du feu !"
+
+msgid "res_achiev5_desc"
+msgstr "Débloquez le rang de combattant du feu"
+
+msgid "res_achiev6_title"
+msgstr "Combattant du feu 1ère classe"
+
+msgid "res_achiev6_desc"
+msgstr "Débloquer le rang de combattant du feu 1ère classe"
+
+msgid "res_achiev7_title"
+msgstr "Combattant du feu senior"
+
+msgid "res_achiev7_desc"
+msgstr "Débloquez le rang de combattant du feu senior"
+
+msgid "res_achiev8_title"
+msgstr "Combattant du feu aguerri"
+
+msgid "res_achiev8_desc"
+msgstr "Débloquez le rang de combattant du feu aguerri"
+
+msgid "res_achiev9_title"
+msgstr "Officier du feu"
+
+msgid "res_achiev9_desc"
+msgstr "Débloquez le rang d'officier du feu"
+
+msgid "res_achiev10_title"
+msgstr "Lieutenant"
+
+msgid "res_achiev10_desc"
+msgstr "Débloquez le rang de Lieutenant"
+
+msgid "res_achiev11_title"
+msgstr "Capitaine"
+
+msgid "res_achiev11_desc"
+msgstr "Débloquez le rang de Capitaine"
+
+msgid "res_achiev12_title"
+msgstr "Capitaine Senior"
+
+msgid "res_achiev12_desc"
+msgstr "Débloquez le rang de capitaine Senior"
+
+msgid "res_achiev13_title"
+msgstr "Chef"
+
+msgid "res_achiev13_desc"
+msgstr "Débloquez le rang de chef"
+
+msgid "res_achiev14_title"
+msgstr "Master Chef"
+
+msgid "res_achiev14_desc"
+msgstr "Débloquez le rang de master chef"
+
+msgid "res_achiev15_title"
+msgstr "1000 litres d'eau"
+
+msgid "res_achiev15_desc"
+msgstr "Tirez 1000 litres d'eau"
+
+msgid "res_achiev16_title"
+msgstr "5000 litres d'eau"
+
+msgid "res_achiev16_desc"
+msgstr "Tirez 5000 litres d'eau"
+
+msgid "res_achiev17_title"
+msgstr "10000 litres d'eau"
+
+msgid "res_achiev17_desc"
+msgstr "Tirez 10000 litres d'eau"
+
+msgid "res_achiev18_title"
+msgstr "Sauveur"
+
+msgid "res_achiev18_desc"
+msgstr "Sauvez 3 animaux dans un niveau"
+
+msgid "res_achiev19_title"
+msgstr "Lâche"
+
+msgid "res_achiev19_desc"
+msgstr "Finissez un niveau sans sauver un seul animal"
+
+msgid "res_achiev20_title"
+msgstr "Esquiveur"
+
+msgid "res_achiev20_desc"
+msgstr "Finissez un niveau sans perdre une vie"
+
+msgid "res_achiev21_title"
+msgstr "Monde 1"
+
+msgid "res_achiev21_desc"
+msgstr "Finissez le monde 1"
+
+msgid "res_achiev22_title"
+msgstr "Monde 2"
+
+msgid "res_achiev22_desc"
+msgstr "Finissez le monde 2"
+
+msgid "res_achiev23_title"
+msgstr "Monde 3"
+
+msgid "res_achiev23_desc"
+msgstr "Finissez le monde 3"
+
+msgid "res_achiev24_title"
+msgstr "Trouveur"
+
+msgid "res_achiev24_desc"
+msgstr "Trouvez un objet perdu"
+
+msgid "res_achiev25_title"
+msgstr "Collectionneur"
+
+msgid "res_achiev25_desc"
+msgstr "Trouvez tous les objets perdus du jeu"
+
+msgid "res_achiev26_title"
+msgstr "Chasseur de flammes"
+
+msgid "res_achiev26_desc"
+msgstr "Eteindre 100 flammes"
+
+msgid "res_achiev27_title"
+msgstr "Chasseur de flameboy"
+
+msgid "res_achiev27_desc"
+msgstr "Eteindre 100 flameboys"
+
+msgid "res_achiev28_title"
+msgstr "Chasseur de slime de lave"
+
+msgid "res_achiev28_desc"
+msgstr "Eteindre 100 slimes de lave"
+
+msgid "res_achiev29_title"
+msgstr "Chasseur de kamikazes"
+
+msgid "res_achiev29_desc"
+msgstr "Eteindre 100 kamikazes avant qu'ils explosent"
+
+msgid "res_achiev30_title"
+msgstr "Chasseur de cracheur"
+
+msgid "res_achiev30_desc"
+msgstr "Eteindre 100 cracheurs"
+
+msgid "res_achiev31_title"
+msgstr "Chasseur d'araignée de feu"
+
+msgid "res_achiev31_desc"
+msgstr "Eteindre 100 araignées de feu"
+
+msgid "res_achiev32_title"
+msgstr "Oeil d'aigle"
+
+msgid "res_achiev32_desc"
+msgstr "Trouvez un mur caché"
+
+msgid "res_music"
+msgstr "Musique"
+
+msgid "res_sound"
+msgstr "Son"
+
+msgid "res_settings"
+msgstr "Paramètres"
+
+msgid "keywords"
+msgstr "feu,pompier,jeu de plateformes,saut,obstacles,esquive,pompier,camion de pompier,eau,jetpack,monstres"
+
+msgid "res_moregames"
+msgstr "Plus de jeux"
+
+msgid "res_restorepurchases"
+msgstr "Restaurer les achats"
+
+msgid "res_head_quarter"
+msgstr "Quartier général"
+
+msgid "res_shop_extralevel1"
+msgstr "Niveaux supplémentaires jungle"
+
+msgid "res_shop_extralevel2"
+msgstr "Niveaux supplémentaires désert"
+
+msgid "res_shop_extralevel3"
+msgstr "Niveaux supplémentaires montagne"
+
+msgid "res_shop_xpx2"
+msgstr "Double XP"
+
+msgid "res_shop_piecex2"
+msgstr "Double Argent"
+
+msgid "res_shop_maxipack"
+msgstr "Double Argent + XP"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doc skin"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Skin firegirl"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Skin 3"
+
+msgid "res_shop_pet1"
+msgstr "Compagnon 1"
+
+msgid "res_shop_pet2"
+msgstr "Compagnon 2"
+
+msgid "res_shop_pet3"
+msgstr "Compagnon 3"
+
+msgid "res_talky_0"
+msgstr "Utilise les flèches gauche et droite pour avancer."
+
+msgid "res_talky_1"
+msgstr "Appuies sur le bouton de droite pour sauter."
+
+msgid "res_talky_2"
+msgstr "Maintiens le bouton de saut pour utiliser le jetpack."
+
+msgid "res_talky_3"
+msgstr "Sauvez les victimes !"
+
+msgid "res_talky_4"
+msgstr "Courez vers la sortie !"
+
+msgid "res_talky_5"
+msgstr "Utilisez le bouton de droite pour éteindre les flammes"
+
+msgid "res_talky_6"
+msgstr "Eteignez bien les flammes pour ne pas qu'elles se rallument"
+
+msgid "res_talky_7"
+msgstr "Attention c'est flameboy ! Eteignez le avec votre pistolet à eau"
+
+msgid "res_talky_8"
+msgstr "Une fois qu'il est éteint sautez-lui dessus pour le tuer !"
+
+msgid "res_talky_9"
+msgstr "Les flammes peuvent monter sur plusieurs étages !"
+
+msgid "res_talky_10"
+msgstr "Les bornes d'incendie permettent de recharger votre réservoir d'eau !"
+
+msgid "res_talky_11"
+msgstr "Elles servent aussi de checkpoint si vous perdez des vies"
+
+msgid "res_talky_12"
+msgstr "Il y'a 3 rescapés à sauver par niveau, sauvez en le maximum"
+
+msgid "res_talky_13"
+msgstr "Il y'a plusieurs sortes d'ennemis... Tous sont dangereux !"
+
+msgid "res_talky_14"
+msgstr "Attention à votre tête, les pics sont mortels !"
+
+msgid "res_talky_15"
+msgstr "Certaines plateformes bougent et vous aident à atteindre certains endroits"
+
+msgid "res_talky_16"
+msgstr "Ouvrez les yeux ! Certains murs n'en sont pas vraiment..."
+
+msgid "res_talky_17"
+msgstr "Les téléporteurs vous permettent d'atteindre des endroits innaccessibles"
+
+msgid "res_talky_18"
+msgstr "Les pièces que vous accumulez vous permettent d'acheter des objets et des améliorations dans le magasin"
+
+msgid "res_talky_19"
+msgstr "L'expérience quant à elle vous permet d'obtenir de nouveaux rangs"
+
+msgid "res_talky_20"
+msgstr "Tiens voici ton compagnon, il te suivra partout !"
+
+msgid "res_talky_21"
+msgstr "Au fait, moi c'est Talky, je viendrais t'aider de temps en temps !"
+
+msgid "res_talky_22"
+msgstr "Tu es prêt, tu es un vrai pompier maintenant !"
+
+msgid "res_talky_23"
+msgstr "Essaye d'utiliser le jetpack et de tirer en même temps"
+
+msgid "res_arrows"
+msgstr "Flèches"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_rank_0"
+msgstr "Rookie"
+
+msgid "res_rank_1"
+msgstr "Combattant du feu"
+
+msgid "res_rank_2"
+msgstr "Combattant du feu 1ère classe"
+
+msgid "res_rank_3"
+msgstr "Combattant du feu senior"
+
+msgid "res_rank_4"
+msgstr "Combattant du feu aguerri"
+
+msgid "res_rank_5"
+msgstr "Officier du feu"
+
+msgid "res_rank_6"
+msgstr "Lieutenant"
+
+msgid "res_rank_7"
+msgstr "Capitaine"
+
+msgid "res_rank_8"
+msgstr "Capitaine senior"
+
+msgid "res_rank_9"
+msgstr "Chef"
+
+msgid "res_rank_10"
+msgstr "Master Chef"
+
+msgid "res_new_rank"
+msgstr "Nouveau rang"
+
+msgid "res_inapp0_title"
+msgstr "Double Argent"
+
+msgid "res_inapp0_desc"
+msgstr "Double l'argent que vous gagnez dans le jeu"
+
+msgid "res_inapp1_title"
+msgstr "Double XP"
+
+msgid "res_inapp1_desc"
+msgstr "Double l'XP que vous gagnez dans le jeu"
+
+msgid "res_inapp2_title"
+msgstr "Skin du docteur"
+
+msgid "res_inapp2_desc"
+msgstr "Joue avec la skin du docteur !"
+
+msgid "res_inapp3_title"
+msgstr "Skin de Fire Girl"
+
+msgid "res_inapp3_desc"
+msgstr "Joue avec la skin de Firegirl !"
+
+msgid "res_inapp4_title"
+msgstr "Skin3"
+
+msgid "res_inapp4_desc"
+msgstr "Play with the amazing Doc skin !"
+
+msgid "res_inapp5_title"
+msgstr "Niveaux supplémentaires jungle"
+
+msgid "res_inapp5_desc"
+msgstr "Débloquer les niveaux supplémentaires de la jungle"
+
+msgid "res_inapp6_title"
+msgstr "Niveaux supplémentaires désert"
+
+msgid "res_inapp6_desc"
+msgstr "Débloquez les niveaux supplémentaires du désert"
+
+msgid "res_inapp7_title"
+msgstr "Koala"
+
+msgid "res_inapp7_desc"
+msgstr "Un koala mignon qui vous suit partout"
+
+msgid "res_inapp8_title"
+msgstr "Ourson"
+
+msgid "res_inapp8_desc"
+msgstr "Un superbe ourson qui vous suit partout"
+
+msgid "res_inapp9_title"
+msgstr "Chien"
+
+msgid "res_inapp9_desc"
+msgstr "Un chien loyal qui vous suit partout"
+
+msgid "res_inapp10_title"
+msgstr "Double Argent + XP"
+
+msgid "res_inapp10_desc"
+msgstr "Double l'argent et l'XP que vous gagnez dans le jeu"
+
+msgid "res_mission"
+msgstr "Mission"
+
+msgid "res_title_monde1"
+msgstr "Jungle"
+
+msgid "res_title_monde2"
+msgstr "Desert"
+
+msgid "res_title_monde3"
+msgstr "Montagne"
+
+msgid "res_level_locked"
+msgstr "Niveau verrouillé"
+
+msgid "res_credits"
+msgstr "Credits" 
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Voulez-vous vous mesurer à d'autres joueurs à travers le monde? Vous pouvez le faire en vous connectaux à Google Play Jeux"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Voulez-vous avoir accès aux réussistes? Vous pouvez le faire en vous connectaux à Google Play Jeux"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Voulez-vous enregistrer votre progression sur le cloud? Vous pouvez le faire en vous connectaux à Google Play Jeux"
+
+msgid "res_share"
+msgstr "Va vite essayer %1s, c'est un super jeu !!! Télécharge le ici %2s."
+
+msgid "res_no_pets"
+msgstr "Aucun"
+
+msgid "res_select"
+msgstr "Sélectionner"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_ask_login_gp"
+msgstr "Voulez-vous vous connecter à Google Plus?"
+
+msgid "res_ask_logout_gp"
+msgstr "Voulez-vous vous déconnecter de Google Plus?"
+
+msgid "res_congratulations"
+msgstr "Félicitations, vous avez fini Fireman mais ne vous inquiétez pas, de nouveaux niveaux arrivent bientôt ! En attendant, essayez de sauver tous les animaux et de trouver tous les objets cachés, et si vous avez aimé le jeu, vous pouvez mettre 5 étoiles sur la fiche du jeu !"
+
+msgid "res_pause"
+msgstr "Pause"
+
+msgid "res_shop_pet4_title"
+msgstr "Friend ~ Loup"
+
+msgid "res_shop_pet4_desc"
+msgstr "Un loup rusé qui vous suit partout"
+
+msgid "res_shop_pet5_title"
+msgstr "Friend ~ Ours Polaire"
+
+msgid "res_shop_pet5_desc"
+msgstr "Un our polaire musclé qui vous suit partout"
+
+msgid "res_shop_pet6_title"
+msgstr "Friend ~ Renne"
+
+msgid "res_shop_pet6_desc"
+msgstr "Une joli renne qui vous suit partout"
+
+msgid "res_shop_pet7_title"
+msgstr "Friend ~ Renard blanc"
+
+msgid "res_shop_pet7_desc"
+msgstr "Un renard blanc malin qui vous suit partout"
+
+msgid "res_shop_pet8_title"
+msgstr "Friend ~ Mammouth"
+
+msgid "res_shop_pet8_desc"
+msgstr "Un puissant mammouth qui vous suit partout"
+
+msgid "res_shop_skin3_title"
+msgstr "Skin ~ Esquimau"
+
+msgid "res_shop_skin3_desc"
+msgstr "Joue avec la skin de l'esquimau !"
+
+msgid "res_shop_skin4_title"
+msgstr "Skin ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Joue avec la skin du Yeti !"
+
+msgid "res_shop_skin5_title"
+msgstr "Skin ~ Père Noel"
+
+msgid "res_shop_skin5_desc"
+msgstr "Joue avec la skin du Père Noel !"
+
+msgid "res_shop_skin6_title"
+msgstr "Skin ~ Tyrolienne"
+
+msgid "res_shop_skin6_desc"
+msgstr "Joue avec la skin de la Tyrolienne ! "
+
+msgid "res_shop_world3_title"
+msgstr "Niveaux supplémentaires de la montagne"
+
+msgid "res_shop_world3_desc"
+msgstr "Débloquer les niveaux supplémentaires de la montagne"
+
+msgid "res_shop_all"
+msgstr "Débloque tous les objets du magasin, retire la pub et nous aide à faire de meilleurs jeux !"
+
+msgid "res_notif_1"
+msgstr "Viens jouer à %1s"
+
+msgid "res_notif_2"
+msgstr "Viens faire une partie de %1s !"
+
+msgid "res_notif_3"
+msgstr "Cela fait longtemps que tu n'as pas joué à %1s !"
+
+msgid "res_notif_4"
+msgstr "Apporte un peu de joie dans ta journée. Joue à %1s !"
+
+
+
+
+
+
+
+

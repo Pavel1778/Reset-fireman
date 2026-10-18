@@ -1,0 +1,640 @@
+msgid "app_name"
+msgstr "Tűzoltó"
+
+msgid "res_title_monde1"
+msgstr "Dzsungel"
+
+msgid "res_loading"
+msgstr "Betöltés..."
+
+msgid "res_achiev12_title"
+msgstr "Rangidős Kapitány"
+
+msgid "res_quit"
+msgstr "Kilépés?"
+
+msgid "res_shop_world3_title"
+msgstr "Moutain Extra levels"
+
+msgid "res_inapp7_title"
+msgstr "Koalabarát"
+
+msgid "res_shop_skin4_title"
+msgstr "Skin ~ Yeti"
+
+msgid "res_rank_9"
+msgstr "Törzsfőnök"
+
+msgid "res_shop_xpx2"
+msgstr "Dupla XP"
+
+msgid "res_shop_pet5_title"
+msgstr "Friend ~  Polar Bear"
+
+msgid "res_talky_6"
+msgstr "Lépj a parázsra, így megbizonyosodhatsz, hogy a tűz teljesen el van oltva"
+
+msgid "res_inapp10_desc"
+msgstr "A játék során nyert pénz és XP duplázása"
+
+msgid "res_shop_skin6_title"
+msgstr "Skin ~ Yodel Girl"
+
+msgid "res_mission"
+msgstr "Küldetés"
+
+msgid "res_achiev17_title"
+msgstr "10 000 liter víz"
+
+msgid "res_rank_7"
+msgstr "Kapitány"
+
+msgid "res_achiev3_desc"
+msgstr "Nézd meg a többi játékot is"
+
+msgid "res_talky_10"
+msgstr "A tűzcsapokon újratöltheted a vízpalackodat."
+
+msgid "keywords"
+msgstr "tűz, tűzoltó, mászkálós játék, ugrás, akadály, kikerül, tűzoltókocsi, víz, jetpack, palack, szörnyek"
+
+msgid "res_credits"
+msgstr "Támogatók"
+
+msgid "res_arrows"
+msgstr "Nyilak"
+
+msgid "res_achiev13_title"
+msgstr "Törzsfőnök"
+
+msgid "res_not_enough_money"
+msgstr "Nincs elég pénzed"
+
+msgid "res_talky_15"
+msgstr "Utad során mozgó emelvények fognak segíteni az előrehaladásban"
+
+msgid "res_achiev7_title"
+msgstr "Rangidős tűzoltó"
+
+msgid "res_skins"
+msgstr "Karakterek"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doktor karakter"
+
+msgid "res_inapp1_title"
+msgstr "Dupla XP"
+
+msgid "res_rank_0"
+msgstr "Kezdő"
+
+msgid "res_talky_3"
+msgstr "Mentsd meg a plüssállatokat!"
+
+msgid "res_achiev6_title"
+msgstr "1. osztályú tűzoltó"
+
+msgid "res_achiev26_title"
+msgstr "Lángvadász"
+
+msgid "res_achiev24_title"
+msgstr "Kutató"
+
+msgid "res_achiev24_desc"
+msgstr "Találj meg egy elveszett tárgyat"
+
+msgid "res_shop_pet5_desc"
+msgstr "A strong polar bear that follows you everywhere"
+
+msgid "res_achiev19_title"
+msgstr "Gyáva"
+
+msgid "res_inapp9_desc"
+msgstr "Egy rendkívül hűséges eb követ mindenhova"
+
+msgid "res_achiev22_title"
+msgstr "2. Világ"
+
+msgid "res_new_rank"
+msgstr "Új rang"
+
+msgid "res_achiev5_desc"
+msgstr "Oldd fel a tűzoltói rangot"
+
+msgid "res_achiev11_desc"
+msgstr "Oldd fel a Kapitányi rangot"
+
+msgid "res_congratulations"
+msgstr "Sikerrel jártál. Gratulálunk. Sikerült minden pályát túlvinned. Ez nagyon keveseknek jön össze. Ügyes vagy! Hamarosan új felfedezendő Világokkal bővítjük a játékot, több állatot menthetsz majd meg, és több rejtett tárgyra bukkanhatsz. Kövess minket figyelemmel a jövőben, ám addig is nagyra értékelnénk, ha 5 csillaggal pontoznád ezt a játékot."
+
+msgid "res_select"
+msgstr "Választ"
+
+msgid "res_achiev6_desc"
+msgstr "Oldd fel az 1. osztályű tűzoltói rangot"
+
+msgid "rate the game"
+msgstr "Értékeld a játékot"
+
+msgid "res_shop_range"
+msgstr "Vízfecskendező hatóereje %s"
+
+msgid "res_talky_13"
+msgstr "Számos ellenség leselkedik rád, mindegyik veszélyt rejteget!"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_talky_8"
+msgstr "Miután eloltottad, ugorj rá, hogy teljesen kialudjon"
+
+msgid "res_achiev28_title"
+msgstr "Lávafolyamvadász"
+
+msgid "res_shop_piecex2"
+msgstr "Dupla pénz"
+
+msgid "res_achiev27_title"
+msgstr "Lángficsúr vadász"
+
+msgid "res_difficulty"
+msgstr "Nehézség"
+
+msgid "res_level_locked"
+msgstr "Pálya zárolva"
+
+msgid "res_achiev5_title"
+msgstr "Tűzoltó!"
+
+msgid "res_achiev28_desc"
+msgstr "Olts el 100 lávafolyamot"
+
+msgid "res_inapp8_desc"
+msgstr "Egy imádnivaló medvebocs kísér mindenhova"
+
+msgid "res_inapp2_desc"
+msgstr "Játssz a vagány doktor karakterével!"
+
+msgid "res_difficulty_extreme"
+msgstr "Extrém"
+
+msgid "res_ask_login_gp"
+msgstr "Be szeretnél jelentkezni a Google Plus-ba?"
+
+msgid "res_achiev30_title"
+msgstr "Tűzokádó vadász"
+
+msgid "res_achiev22_desc"
+msgstr "Teljesítsd a 2. Világot"
+
+msgid "res_shop_pet2"
+msgstr "2. kisállat"
+
+msgid "res_shop_pet3"
+msgstr "Kisállat 3"
+
+msgid "res_achiev4_title"
+msgstr "Tűzoltóképzés"
+
+msgid "res_shop_pet1"
+msgstr "1. kisállat"
+
+msgid "res_shop_skin5_desc"
+msgstr "Play with the amazing Santa skin !"
+
+msgid "res_achiev8_desc"
+msgstr "Oldd fel a Tűzoltómesteri rangot"
+
+msgid "res_rank_4"
+msgstr "Tűzoltómester"
+
+msgid "res_talky_21"
+msgstr "Mellesleg az én nevem Csacsogó, itt leszek és segíteni foglak"
+
+msgid "res_inapp5_desc"
+msgstr "Unlock all secret levels in the Jungle"
+
+msgid "res_talky_20"
+msgstr "Íme a kisállatod, aki mindenhova követni fog"
+
+msgid "res_achiev29_title"
+msgstr "Bombavadász"
+
+msgid "Share"
+msgstr "Nagyon szeretem a "
+
+msgid "res_talky_5"
+msgstr "Használd a vízfecskendező gombot a tűz eloltásához"
+
+msgid "res_achiev20_title"
+msgstr "Cseles"
+
+msgid "res_inapp5_title"
+msgstr "Dzsungel extra pályák"
+
+msgid "res_achiev21_desc"
+msgstr "Teljesítsd az 1. Világot"
+
+msgid "res_inapp4_desc"
+msgstr "Játssz a vagány doktor karakterével!"
+
+msgid "res_talky_12"
+msgstr "Minden pályán 3 plüssállatot menthetsz meg"
+
+msgid "res_rank_1"
+msgstr "Tűzoltó"
+
+msgid "res_achiev20_desc"
+msgstr "Fejezz be egy pályát életvesztés nélkül"
+
+msgid "res_inapp7_desc"
+msgstr "Egy cuki koala követ téged mindenhova"
+
+msgid "res_music"
+msgstr "Zene"
+
+msgid "res_share"
+msgstr "Próbáld ki: %1s. Ez egy nagyszerű játék. Innen letöltheted: %2s."
+
+msgid "res_difficulty_normal"
+msgstr "Normál"
+
+msgid "res_achiev1_desc"
+msgstr "Nézd meg a Magma Mobile Facebook-oldalát"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Szeretnéd elérni a szuper Célokat is? Megteheted, ehhez jelentkezz be a Google Play Szolgáltatásokba."
+
+msgid "res_achiev14_title"
+msgstr "Őrmester"
+
+msgid "res_inapp8_title"
+msgstr "Mackóbarát"
+
+msgid "res_inapp6_desc"
+msgstr "Unlock all secret levels in the Desert"
+
+msgid "res_talky_7"
+msgstr "Vigyázz a Lángficsúrral! Oltsd el a vízfecskendezővel"
+
+msgid "res_achiev2_desc"
+msgstr "Oszd meg ezt a játékot a barátaiddal"
+
+msgid "res_inapp3_title"
+msgstr "2. karakter"
+
+msgid "res_inapp1_desc"
+msgstr "Duplázd meg a játék során szerzett XP-t"
+
+msgid "res_shop_pet8_title"
+msgstr "Friend ~ Mammoth"
+
+msgid "You seem to be enjoying the game"
+msgstr "You seem to be enjoying {0} as much as we enjoyed developing it. Thank you. Would you mind helping us by taking some time to add a positive rating in the game page?"
+
+msgid "res_rangs"
+msgstr "Rangok"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_shop_skin6_desc"
+msgstr "Play with the amazing Yodel Girl skin ! "
+
+msgid "res_head_quarter"
+msgstr "Központ (HQ)"
+
+msgid "res_achiev18_title"
+msgstr "Megmentő"
+
+msgid "res_talky_1"
+msgstr "Nyomd meg a jobb gombot az ugráshoz."
+
+msgid "res_achiev15_title"
+msgstr "1000 liter víz"
+
+msgid "res_achiev32_title"
+msgstr "Sasszem"
+
+msgid "res_achiev18_desc"
+msgstr "Ments meg 3 plüssállatot egy pályán"
+
+msgid "res_talky_11"
+msgstr "A tűzcsapokat ellenőrzőpontokként használhatod, ahova visszatérsz, amikor elveszítesz egy életet"
+
+msgid "res_achiev25_desc"
+msgstr "Találd meg az összes rejtett tárgyat a játékban"
+
+msgid "res_achiev16_desc"
+msgstr "Lőj ki 5000 liter vizet"
+
+msgid "res_inapp10_title"
+msgstr "Dupla csomag"
+
+msgid "res_achiev7_desc"
+msgstr "Oldd fel a Rangidős tűzoltói rangot"
+
+msgid "res_rank_5"
+msgstr "Tűzvitéz"
+
+msgid "res_inapp0_desc"
+msgstr "Duplázd meg a játék során szerzett pénzt"
+
+msgid "res_achiev12_desc"
+msgstr "Oldd fel a Rangidős kapitányi rangot"
+
+msgid "res_shop_pet8_desc"
+msgstr "A puissant mammoth that follows you everywhere"
+
+msgid "res_achiev16_title"
+msgstr "5000 liter víz"
+
+msgid "res_required"
+msgstr "kötelező"
+
+msgid "res_pets"
+msgstr "Kisállatok"
+
+msgid "res_shop_extralevel1"
+msgstr "Dzsungel extra pályák"
+
+msgid "res_harder"
+msgstr "Try the game in harder mode !\nAre you ready to replay...\nall levels ?"
+
+msgid "res_talky_23"
+msgstr "Helyezd a két jobb gombot egymásra, hogy használhasd a palackot és egyszerre lőhess"
+
+msgid "res_shop_all"
+msgstr "Unlock everything in the shop, remove ads and help us making better games !"
+
+msgid "res_talky_19"
+msgstr "Az XP tapasztalatpontot jelent, segítségével rangot léphetsz"
+
+msgid "res_shop_skin4_desc"
+msgstr "Play with the amazing Yeti skin !"
+
+msgid "res_achiev32_desc"
+msgstr "Találj meg egy rejtett falat"
+
+msgid "res_achiev29_desc"
+msgstr "Olts el 100 bombát, mielőtt felrobbannak"
+
+msgid "res_buy"
+msgstr "Vásárlás"
+
+msgid "res_shop_life"
+msgstr "%s extra élet"
+
+msgid "res_shop_world3_desc"
+msgstr "Unlock all secret levels in the Moutain"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_achiev23_desc"
+msgstr "Teljesítsd a 3. Világot"
+
+msgid "res_title_monde2"
+msgstr "Sivatag"
+
+msgid "res_achiev31_desc"
+msgstr "Olts el 100 tűzpókot"
+
+msgid "res_inapp0_title"
+msgstr "Dupla pénz"
+
+msgid "res_sound"
+msgstr "Hang"
+
+msgid "res_achiev26_desc"
+msgstr "Olts el 100 tüzet"
+
+msgid "res_good_job"
+msgstr "Szép munka!"
+
+msgid "res_shop_skin3_desc"
+msgstr "Play with the amazing Esquimau skin !"
+
+msgid "res_shop_pet4_title"
+msgstr "Friend ~ Wolf"
+
+msgid "res_pause"
+msgstr "Szünet"
+
+msgid "res_achiev21_title"
+msgstr "1. Világ"
+
+msgid "res_inapp6_title"
+msgstr "Sivatag extra pályák"
+
+msgid "res_talky_22"
+msgstr "Immár készen állsz, igazi tűzoltó lettél!"
+
+msgid "res_talky_18"
+msgstr "A pénz segítségével a boltban tárgyakat vehetsz és fejlesztheted a felszerelésed"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Tűzoltólány karakter"
+
+msgid "res_shop_reservoir"
+msgstr "A palack kapacitásszintje %s"
+
+msgid "res_talky_17"
+msgstr "A teleportálók egy másik helyre juttatnak"
+
+msgid "res_rank_2"
+msgstr "1. osztályú tűzoltó"
+
+msgid "res_shop_pet7_title"
+msgstr "Friend ~ Snow Fox"
+
+msgid "res_talky_14"
+msgstr "A cseppkövek halálosak!"
+
+msgid "res_talky_0"
+msgstr "A jobb és bal nyilakkal mozogj."
+
+msgid "res_achiev30_desc"
+msgstr "Olts el 100 tűzokádót"
+
+msgid "res_restorepurchases"
+msgstr "Vásárlások visszaállítása"
+
+msgid "res_title_monde3"
+msgstr "Moutain"
+
+msgid "res_no_pets"
+msgstr "Nincsenek kisállatok"
+
+msgid "res_shop_pet4_desc"
+msgstr "A clever wolf that follows you everywhere"
+
+msgid "res_moregames"
+msgstr "Még több játék"
+
+msgid "res_achiev23_title"
+msgstr "3. Világ"
+
+msgid "res_inapp4_title"
+msgstr "3. karakter"
+
+msgid "res_achiev9_desc"
+msgstr "Oldd fel a Tűzvitézi rangot"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Szeretnél versenyezni más játékosok ellen a világ más tájairól? Megteheted, ehhez be kell jelentkezned a Google Play Szolgáltatásokba"
+
+msgid "res_shop_extralevel3"
+msgstr "Moutain Extra levels"
+
+msgid "res_shop_skin5_title"
+msgstr "Skin ~ Santa"
+
+msgid "res_talky_2"
+msgstr "A jobb gomb lenyomásával használhatod a palackot."
+
+msgid "res_difficulty_hardcore"
+msgstr "Kemény"
+
+msgid "res_achiev19_desc"
+msgstr "Fejezz be egy pályát anélkül, hogy megmentenél egy plüssállatkát"
+
+msgid "res_achiev10_title"
+msgstr "Főhadnagy"
+
+msgid "res_rank_10"
+msgstr "Őrmester"
+
+msgid "res_achiev3_title"
+msgstr "Még több játék"
+
+msgid "res_rank_8"
+msgstr "Rangidős Kapitány"
+
+msgid "res_shop_skin3_title"
+msgstr "Skin ~ Esquimau"
+
+msgid "res_shop_pet7_desc"
+msgstr "A smart snow fow that follows you everywhere"
+
+msgid "res_achiev10_desc"
+msgstr "Oldd fel a Főhadnagyi rangot"
+
+msgid "res_achiev17_desc"
+msgstr "Lőj ki 10 000 liter vizet"
+
+msgid "res_achiev2_title"
+msgstr "Megosztás"
+
+msgid "res_inapp3_desc"
+msgstr "Játssz a tüneményes Tűzoltólány karakterrel!"
+
+msgid "res_talky_16"
+msgstr "Tartsd nyitva a szemed, figyelj a titkos járatokra."
+
+msgid "res_achiev13_desc"
+msgstr "Oldd fel a Törzsfőnöki rangot"
+
+msgid "res_inventory"
+msgstr "HQ"
+
+msgid "res_inapp2_title"
+msgstr "1. karakter"
+
+msgid "res_shop_maxipack"
+msgstr "Dupla pénz + XP"
+
+msgid "res_rank_6"
+msgstr "Főhadnagy"
+
+msgid "res_inapp9_title"
+msgstr "Kutyabarát"
+
+msgid "res_achiev4_desc"
+msgstr "Fejezd be az oktatójátékot"
+
+msgid "res_achievements"
+msgstr "Célok"
+
+msgid "res_shop_pet6_desc"
+msgstr "A nice reindeer that follows you everywhere"
+
+msgid "res_specialitems"
+msgstr "Különleges tárgyak"
+
+msgid "res_achiev11_title"
+msgstr "Kapitány"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Tűzoltólány karakter"
+
+msgid "res_lostfound"
+msgstr "Talált tárgyak"
+
+msgid "res_shop_pet6_title"
+msgstr "Friend ~ Reindeer"
+
+msgid "res_shop_extralevel2"
+msgstr "Sivatag extra pályák"
+
+msgid "res_rank_3"
+msgstr "Rangidős tűzoltó"
+
+msgid "res_achiev25_title"
+msgstr "Gyűjtő"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "El szeretnéd menteni az előremeneteled a játékban? Ehhez be kell jelentkezned a Google Play Szolgáltatásokba"
+
+msgid "res_achiev15_desc"
+msgstr "Lőj ki 1000 liter vizet"
+
+msgid "res_talky_9"
+msgstr "A lángoknak több szintje is lehet"
+
+msgid "res_talky_4"
+msgstr "És szaladj át a kijáraton!"
+
+msgid "res_achiev1_title"
+msgstr "Közösségi"
+
+msgid "res_achiev9_title"
+msgstr "Tűzvitéz"
+
+msgid "res_shop"
+msgstr "Bolt"
+
+msgid "res_achiev31_title"
+msgstr "Tűzpókvadász"
+
+msgid "res_ask_logout_gp"
+msgstr "Ki szeretnél jelentkezni a Google Plus-ból?"
+
+msgid "res_settings"
+msgstr "Beállítások"
+
+msgid "res_achiev14_desc"
+msgstr "Oldd fel az Őrmesteri rangot"
+
+msgid "res_achiev8_title"
+msgstr "Tűzoltómester"
+
+msgid "res_achiev27_desc"
+msgstr "Olts el 100 lángficsúrt"
+
+msgid "res_notif_1"
+msgstr "Játsszon %1s-t ma!"
+
+msgid "res_notif_2"
+msgstr "Kapcsolódjon be a (az) %1s játékba még ma!"
+
+msgid "res_notif_3"
+msgstr "Egy ideje nem játszott %1s-t!"
+
+msgid "res_notif_4"
+msgstr "Vigyen be egy kis szórakozást a napjába. Játsszon %1s-t most!"
+
+
+
+
+

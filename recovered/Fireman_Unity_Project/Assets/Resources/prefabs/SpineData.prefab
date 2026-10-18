@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &147589
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 479954}
+  - 114: {fileID: 11409266}
+  m_Layer: 0
+  m_Name: SpineData
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &479954
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11409266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5f83e60e20dc69346be80e3f737edea, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  dataDoc: {fileID: 11400000, guid: 5e3b42a77a580ba47a4ea15ea1a544d0, type: 2}
+  koalaHome: {fileID: 11400000, guid: 306fd5494e6a4d74e92bab581390dd5e, type: 2}
+  dataCoin: {fileID: 11400000, guid: 4571e2ecedc1552499decb249fa333e4, type: 2}
+  dataTalky: {fileID: 11400000, guid: 21ecf87b4fc6e564c9eb2c96b6e4e791, type: 2}
+  dataTank: {fileID: 11400000, guid: 425b9d7d88a5dd248b072bee441ee972, type: 2}
+  dataPet1: {fileID: 11400000, guid: 3a64456181623ac41b62222b60f68d73, type: 2}
+  dataPet2: {fileID: 11400000, guid: 253576dd65562d94fa992a270076a73c, type: 2}
+  dataPet3: {fileID: 11400000, guid: 86ac2a364e894a446b53e325d7cbb29c, type: 2}
+  dataPet4: {fileID: 11400000, guid: a23faedae5bc72d45b58ce858391aabb, type: 2}
+  dataPet5: {fileID: 11400000, guid: d86a7a2626a209040bb955c9b2c120f5, type: 2}
+  dataPet6: {fileID: 11400000, guid: d3cf81b3a7ebd12429d97be791b70949, type: 2}
+  dataPet7: {fileID: 11400000, guid: 5ebf9e67a57765b4baad6477009aab85, type: 2}
+  dataPet8: {fileID: 11400000, guid: 268bb27ac301d6d499d5ae9a15597e09, type: 2}
+  dataEnnemi1: {fileID: 11400000, guid: c7418225dc2d00b4991e5a994d9aa4c3, type: 2}
+  dataEnnemi2: {fileID: 11400000, guid: e10bedf8ecc3ebe44b3df6d4bec98b68, type: 2}
+  dataEnnemi3: {fileID: 11400000, guid: ffdf7af76ae882a44a4e658aa33158d4, type: 2}
+  dataEnnemi5: {fileID: 11400000, guid: df6baa7da7d45ef4bb6e55f7a01c62b5, type: 2}
+  dataEnnemi6: {fileID: 11400000, guid: b1313eaa7500c5a4ebf989e1f140a2f5, type: 2}
+  dataFireman: {fileID: 11400000, guid: c60739a47d4fd4b478d8a9d22c550d7c, type: 2}
+  dataProjectile: {fileID: 11400000, guid: c7b080b4e48b7584788a22376e93b86a, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 147589}
+  m_IsPrefabParent: 1

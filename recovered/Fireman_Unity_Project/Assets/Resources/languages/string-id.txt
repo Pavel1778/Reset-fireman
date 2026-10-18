@@ -1,0 +1,637 @@
+msgid "app_name"
+msgstr "Pemadam Kebakaran"
+
+msgid "Share"
+msgstr "Saya suka bermain %1s ! Saya sangat menyarankan kamu mengunduhnya : %2s"
+
+msgid "rate the game"
+msgstr "Menilai permainan"
+
+msgid "You seem to be enjoying the game"
+msgstr "Anda tampaknya akan menikmati {0} sebanyak yang kami menikmati mengembangkannya. Terima kasih. Maukah Anda membantu kami dengan mengambil beberapa waktu untuk menambah nilai positif dalam halaman game?"
+
+msgid "res_harder"
+msgstr "Mencoba permainan\ndalam mode keras!\nApakah Anda siap\nuntuk memutar ulang...\nsemua tingkatan?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "Hutan"
+
+msgid "res_achiev12_title"
+msgstr "Kapten Senior"
+
+msgid "res_quit"
+msgstr "Keluar"
+
+msgid "res_rank_9"
+msgstr "Ketua"
+
+msgid "res_shop_xpx2"
+msgstr "Gandakan XP"
+
+msgid "res_achiev5_title"
+msgstr "Pemadam Kebakaran!"
+
+msgid "res_talky_6"
+msgstr "Berjalan di atas abu untuk memastikan bahwa api sepenuhnya padam"
+
+msgid "res_inapp10_desc"
+msgstr "Gandakan uang dan XP yang Anda peroleh dari seluruh permainan"
+
+msgid "res_mission"
+msgstr "Misi"
+
+msgid "res_achiev17_title"
+msgstr "10.000 liter air"
+
+msgid "res_rank_7"
+msgstr "Kapten"
+
+msgid "res_achiev3_desc"
+msgstr "Simaklah permainan kami yang lain"
+
+msgid "res_talky_10"
+msgstr "Hidran kebakaran memungkinkan Anda untuk mengisi ulang tangki air"
+
+msgid "keywords"
+msgstr "api, pemadam kebakaran, peloncat pelantar, lompat, hambatan, elakkan, pemadam kebakaran, truk pemadam kebakaran, air, padam api, ransel jet, monster"
+
+msgid "res_credits"
+msgstr "Kredit"
+
+msgid "res_arrows"
+msgstr "panah"
+
+msgid "res_achiev13_title"
+msgstr "Ketua"
+
+msgid "res_not_enough_money"
+msgstr "Tidak cukup Uang"
+
+msgid "res_talky_15"
+msgstr "Anda akan menemukan pelantar-pelantar bergerak sepanjang jalan untuk membantu Anda menyelesaikan tingkat"
+
+msgid "res_achiev7_title"
+msgstr "Pemadam Kebakaran Senior"
+
+msgid "res_skins"
+msgstr "Pemalut"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Pemalut Doc"
+
+msgid "res_inapp1_title"
+msgstr "Gandakan XP"
+
+msgid "res_rank_0"
+msgstr "Pemula"
+
+msgid "res_talky_3"
+msgstr "Selamatkan Boneka Binatang!"
+
+msgid "res_achiev6_title"
+msgstr "Pemadam Kebakaran Prima"
+
+msgid "res_achiev26_title"
+msgstr "Pemburu Api"
+
+msgid "res_achiev24_title"
+msgstr "Alat Penemu"
+
+msgid "res_achiev24_desc"
+msgstr "Temukan satu benda hilang"
+
+msgid "res_achiev19_title"
+msgstr "Penakut"
+
+msgid "res_inapp9_desc"
+msgstr "Anjing yang sangat setia yang mengiringi setiap langkah Anda"
+
+msgid "res_achiev22_title"
+msgstr "Dunia 2"
+
+msgid "res_new_rank"
+msgstr "pangkat baru"
+
+msgid "res_achiev5_desc"
+msgstr "Raih peringkat pemadam kebakaran"
+
+msgid "res_achiev11_desc"
+msgstr "Raih peringkat Kapten"
+
+msgid "res_congratulations"
+msgstr "Anda lulus. Selamat! Anda berhasil menyelesaikan setiap tingkat permainan. Hanya sedikit pemain yang mencapai sejauh ini. Bagus! Kami akan segera menambahkan dunia baru yang dapat Anda jelajahi dengan lebih banyak hewan peliharaan untuk diselamatkan dan lebih banyak benda-benda tersembunyi untuk ditemukan. Nantikanlah. Sementara itu, kami akan sangat menghargai apabila Anda memberikan permainan ini bintang 5!"
+
+msgid "res_select"
+msgstr "pilih"
+
+msgid "res_achiev6_desc"
+msgstr "Raih peringkat Pemadam Kebakaran Prima"
+
+msgid "res_shop_range"
+msgstr "Tingkat kisaran pistol air %s"
+
+msgid "res_talky_13"
+msgstr "Ada banyak jenis musuh... Semuanya berbahaya!"
+
+msgid "res_inapp7_title"
+msgstr "Sahabat Koala"
+
+msgid "res_achiev28_title"
+msgstr "Pemburu Genangan Lava"
+
+msgid "res_shop_piecex2"
+msgstr "Gandakan Uang"
+
+msgid "res_achiev27_title"
+msgstr "Pemburu Figuran Api"
+
+msgid "res_achiev25_title"
+msgstr "Kolektor"
+
+msgid "res_achiev28_desc"
+msgstr "Padamkan 100 Genangan Lava"
+
+msgid "res_inapp8_desc"
+msgstr "Anak beruang yang menggemaskan yang mengiringi setiap langkah Anda"
+
+msgid "res_inapp2_desc"
+msgstr "Bermain dengan pemalut Doc yang apik !"
+
+msgid "res_achievements"
+msgstr "Prestasi"
+
+msgid "res_ask_login_gp"
+msgstr "Apakah Anda ingin log masuk ke Google Plus?"
+
+msgid "res_achiev30_title"
+msgstr "Pemburu penyembur api"
+
+msgid "res_achiev22_desc"
+msgstr "Selesaikan Dunia 2"
+
+msgid "res_shop_pet2"
+msgstr "Hewan peliharaan 2"
+
+msgid "res_shop_pet3"
+msgstr "Hewan peliharaan 3"
+
+msgid "res_achiev4_title"
+msgstr "Pelatihan pemadaman kebakaran"
+
+msgid "res_shop_pet1"
+msgstr "Hewan peliharaan 1"
+
+msgid "res_loading"
+msgstr "Memuat..."
+
+msgid "res_achiev8_desc"
+msgstr "Raih peringkat Pemadam Kebakaran Utama"
+
+msgid "res_rank_4"
+msgstr "Pemadam Kebakaran Utama"
+
+msgid "res_talky_21"
+msgstr "Omong-omong saya Talky, saya akan terus ada untuk membantu"
+
+msgid "res_inapp5_desc"
+msgstr "Dapatkan tingkat tambahan di Hutan"
+
+msgid "res_talky_8"
+msgstr "Setelah berhasil dipadamkan, lompat ke atas untuk membersihkannya"
+
+msgid "res_talky_5"
+msgstr "Gunakan tombol pistol air untuk memadamkan api"
+
+msgid "res_inapp5_title"
+msgstr "Tingkat Tambahan Hutan"
+
+msgid "res_achiev21_desc"
+msgstr "Selesaikan Dunia 1"
+
+msgid "res_inapp4_desc"
+msgstr "Bermain dengan pemalut Doc yang apik !"
+
+msgid "res_talky_12"
+msgstr "Ada 3 boneka binatang yang dapat diselamatkan dalam setiap tingkat"
+
+msgid "res_rank_1"
+msgstr "Pemadam Kebakaran"
+
+msgid "res_achiev20_desc"
+msgstr "Selesaikan satu tingkat tanpa kehilangan nyawa"
+
+msgid "res_inapp7_desc"
+msgstr "Koala imut-imut yang mengiringi setiap langkah Anda"
+
+msgid "res_share"
+msgstr "Simaklah %1s, ini adalah sebuah permainan yang luar biasa! Anda dapat mengunduhnya di sini : %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Kunjungi laman Facebook Magma Mobile"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Apakah Anda ingin mendapatkan akses ke prestasi istimewa? Anda dapat melakukannya dengan masuk ke layanan Google Play"
+
+msgid "res_achiev14_title"
+msgstr "Ketua Utama"
+
+msgid "res_inapp8_title"
+msgstr "Sahabat Anak Beruang"
+
+msgid "res_inapp6_desc"
+msgstr "Dapatkan tingkat tambahan di Gurun"
+
+msgid "res_talky_7"
+msgstr "Hati-hati ada Figuran Api ! Padamkan dengan pistol air"
+
+msgid "res_achiev2_desc"
+msgstr "sebarkan permainan ke temanmu"
+
+msgid "res_inapp3_title"
+msgstr "Pemalut 2"
+
+msgid "res_inapp1_desc"
+msgstr "Gandakan XP yang Anda peroleh dari seluruh permainan"
+
+msgid "res_talky_20"
+msgstr "Inilah hewan peliharaan Anda, ia akan mengiringi setiap langkah Anda"
+
+msgid "res_rangs"
+msgstr "Peringkat"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "Pengaturan"
+
+msgid "res_head_quarter"
+msgstr "Markas Besar"
+
+msgid "res_achiev18_title"
+msgstr "Penyelamat"
+
+msgid "res_talky_1"
+msgstr "Tekan tombol kanan untuk melompat."
+
+msgid "res_achiev15_title"
+msgstr "1.000 liter air"
+
+msgid "res_achiev32_title"
+msgstr "Penglihatan Jeli"
+
+msgid "res_achiev18_desc"
+msgstr "Selamatkan 3 Boneka Binatang dalam satu tingkat"
+
+msgid "res_achiev25_desc"
+msgstr "Temukan semua benda-benda hilang dalam permainan"
+
+msgid "res_achiev16_desc"
+msgstr "Tembak 5.000 liter air"
+
+msgid "res_inapp10_title"
+msgstr "Gandakan Ransel"
+
+msgid "res_achiev7_desc"
+msgstr "Raih peringkat Pemadam Kebakaran Senior"
+
+msgid "res_rank_5"
+msgstr "Petugas Pemadaman"
+
+msgid "res_inapp0_desc"
+msgstr "Gandakan uang yang Anda peroleh dari seluruh permainan"
+
+msgid "res_achiev12_desc"
+msgstr "Raih peringkat Kapten Senior"
+
+msgid "res_achiev16_title"
+msgstr "5.000 liter air"
+
+msgid "res_required"
+msgstr "wajib"
+
+msgid "res_no_pets"
+msgstr "Tidak ada hewan peliharaan"
+
+msgid "res_pets"
+msgstr "Hewan peliharaan"
+
+msgid "res_shop_extralevel1"
+msgstr "Tingkat-tingkat Tambahan Hutan"
+
+msgid "res_talky_23"
+msgstr "Letakkan dua tombol kanan di atas satu sama lain untuk menggunakan ransel jet dan tembak secara bersamaan"
+
+msgid "res_talky_19"
+msgstr "XP memungkinkan Anda untuk mendapatkan peringkat baru"
+
+msgid "res_achiev32_desc"
+msgstr "Temukan satu Dinding Tersembunyi"
+
+msgid "res_achiev29_desc"
+msgstr "Padamkan 100 Pengebom sebelum meledak"
+
+msgid "res_buy"
+msgstr "Beli"
+
+msgid "res_shop_life"
+msgstr "%s Nyawa Tambahan"
+
+msgid "res_joystick"
+msgstr "Tuas kendali"
+
+msgid "res_achiev23_desc"
+msgstr "Selesaikan Dunia 3"
+
+msgid "res_achiev29_title"
+msgstr "Pemburu pengebom"
+
+msgid "res_title_monde2"
+msgstr "Padang"
+
+msgid "res_achiev31_desc"
+msgstr "Padamkan 100 Laba Api"
+
+msgid "res_inapp0_title"
+msgstr "Gandakan Uang"
+
+msgid "res_sound"
+msgstr "Suara"
+
+msgid "res_achiev26_desc"
+msgstr "Padamkan 100 Api"
+
+msgid "res_good_job"
+msgstr "Kerja Bagus!"
+
+msgid "res_shop"
+msgstr "Toko"
+
+msgid "res_jetpack"
+msgstr "Rangsel Jet"
+
+msgid "res_achiev21_title"
+msgstr "Dunia 1"
+
+msgid "res_inapp6_title"
+msgstr "Tingkat Tambahan Gurun"
+
+msgid "res_talky_22"
+msgstr "Anda kini siap. Anda benar-benar jadi seorang Pemadam Kebakaran sekarang!"
+
+msgid "res_talky_18"
+msgstr "Uang memungkinkan Anda untuk membeli barang dan meningkatkan perlengkapan di toko"
+
+msgid "res_level_locked"
+msgstr "Tingkatan terkunci"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Pemalut Firegirl"
+
+msgid "res_shop_reservoir"
+msgstr "Tingkat kapasitas tangki ransel jet %s"
+
+msgid "res_talky_17"
+msgstr "Portal teleportasi dapat memindahkan Anda ke tempat lain..."
+
+msgid "res_rank_2"
+msgstr "Pemadam Kebakaran Prima"
+
+msgid "res_talky_14"
+msgstr "Awas, stalaktit mematikan !"
+
+msgid "res_talky_0"
+msgstr "Gunakan panah kiri dan kanan untuk bergerak."
+
+msgid "res_achiev30_desc"
+msgstr "Padamkan 100 Penyembur Api"
+
+msgid "res_restorepurchases"
+msgstr "Kembalikan Pembelian"
+
+msgid "res_achiev1_title"
+msgstr "Sosial"
+
+msgid "res_achiev3_title"
+msgstr "Permainan lain"
+
+msgid "res_achiev23_title"
+msgstr "Dunia 3"
+
+msgid "res_moregames"
+msgstr "Permainan lain"
+
+msgid "res_music"
+msgstr "Musik"
+
+msgid "res_inapp4_title"
+msgstr "Pemalut 3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Apakah Anda ingin bersaing dengan pemain lain di seluruh dunia? Anda dapat melakukannya dengan masuk ke layanan Google Play"
+
+msgid "res_talky_2"
+msgstr "Tetap tekan tombol kanan untuk menggunakan ransel jet."
+
+msgid "res_achiev19_desc"
+msgstr "Selesaikan satu tingkat tanpa menyelamatkan boneka binatang"
+
+msgid "res_achiev10_title"
+msgstr "Letnan"
+
+msgid "res_rank_10"
+msgstr "Ketua Utama"
+
+msgid "res_ask_logout_gp"
+msgstr "Apakah Anda ingin log keluar dari Google Plus?"
+
+msgid "res_rank_8"
+msgstr "Kapten Senior"
+
+msgid "res_achiev10_desc"
+msgstr "Raih peringkat Letnan"
+
+msgid "res_achiev17_desc"
+msgstr "Tembak 10.000 liter air"
+
+msgid "res_achiev2_title"
+msgstr "Membagikan"
+
+msgid "res_inapp3_desc"
+msgstr "Bermain dengan pemalut Firegirl yang apik !"
+
+msgid "res_talky_16"
+msgstr "Bukalah mata yang lebar... untuk dapat menemukan jalan rahasia."
+
+msgid "res_achiev13_desc"
+msgstr "Raih peringkat Ketua"
+
+msgid "res_inventory"
+msgstr "Mabes"
+
+msgid "res_inapp2_title"
+msgstr "Pemalut 1"
+
+msgid "res_shop_maxipack"
+msgstr "Gandakan Uang + XP"
+
+msgid "res_rank_6"
+msgstr "Letnan"
+
+msgid "res_inapp9_title"
+msgstr "Sahabat Anjing"
+
+msgid "res_achiev4_desc"
+msgstr "Selesaikan tutorial"
+
+msgid "res_specialitems"
+msgstr "Benda-benda Khusus"
+
+msgid "res_achiev31_title"
+msgstr "Pemburu Laba Api"
+
+msgid "res_achiev11_title"
+msgstr "Kapten"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Pemalut Firegirl"
+
+msgid "res_lostfound"
+msgstr "Hilang dan Jumpa"
+
+msgid "res_shop_extralevel2"
+msgstr "Tingkat-tingkat Tambahan Gurun"
+
+msgid "res_rank_3"
+msgstr "Pemadam Kebakaran Senior"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Apakah Anda ingin menyimpan kemajuan permainan Anda? Anda dapat melakukannya dengan masuk ke layanan Google Play"
+
+msgid "res_achiev15_desc"
+msgstr "Tembak 1.000 liter air"
+
+msgid "res_talky_9"
+msgstr "Api mungkin berlapis-lapis"
+
+msgid "res_talky_11"
+msgstr "Hidran kebakaran juga dapat digunakan sebagai titik mulai ulang jika Anda kehilangan nyawa"
+
+msgid "res_achiev9_title"
+msgstr "Petugas Pemadaman"
+
+msgid "res_achiev20_title"
+msgstr "Pengelak"
+
+msgid "res_achiev9_desc"
+msgstr "Raih peringkat Petugas Pemadaman"
+
+msgid "res_talky_4"
+msgstr "Dan lari menuju pintu keluar!"
+
+msgid "res_achiev14_desc"
+msgstr "Raih peringkat Ketua Utama"
+
+msgid "res_achiev8_title"
+msgstr "Pemadam Kebakaran Utama"
+
+msgid "res_achiev27_desc"
+msgstr "Padamkan 100 Figuran Api"
+
+msgid "res_pause"
+msgstr "Pause"
+
+msgid "res_shop_pet4_title"
+msgstr "Teman ~ Serigala"
+
+msgid "res_shop_pet4_desc"
+msgstr "Seekor serigala cerdik yang selalu mengikuti ke mana pun kamu pergi"
+
+msgid "res_shop_pet5_title"
+msgstr "Teman ~ Beruang Kutub"
+
+msgid "res_shop_pet5_desc"
+msgstr "Seekor beruang kutub kuat yang selalu mengikuti ke mana pun kamu pergi"
+
+msgid "res_shop_pet6_title"
+msgstr "Teman ~ Rusa Kutub"
+
+msgid "res_shop_pet6_desc"
+msgstr "Seekor rusa kutub ramah yang selalu mengikuti ke mana pun kamu pergi"
+
+msgid "res_shop_pet7_title"
+msgstr "Teman ~ Rubah Salju"
+
+msgid "res_shop_pet7_desc"
+msgstr "Seekor rubah salju pintar yang selalu mengikuti ke mana pun kamu pergi"
+
+msgid "res_shop_pet8_title"
+msgstr "Teman ~ Gajah Mamut"
+
+msgid "res_shop_pet8_desc"
+msgstr "Seekor gajah mamut besar yang selalu mengikuti ke mana pun kamu pergi"
+
+msgid "res_shop_skin3_title"
+msgstr "Skin ~ Eskimo"
+
+msgid "res_shop_skin3_desc"
+msgstr "Bermain dengan skin Eskimo yang menakjubkan!"
+
+msgid "res_shop_skin4_title"
+msgstr "Skin ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Bermain dengan skin Yeti yang menakjubkan!"
+
+msgid "res_shop_skin5_title"
+msgstr "Skin ~ Sinterklas"
+
+msgid "res_shop_skin5_desc"
+msgstr "Bermain dengan skin Sinterklas yang menakjubkan!"
+
+msgid "res_shop_skin6_title"
+msgstr "Skin ~ Gadis Yodel"
+
+msgid "res_shop_skin6_desc"
+msgstr "Bermain dengan skin Gadis Yodel yang menakjubkan!"
+
+msgid "res_title_monde3"
+msgstr "Pegunungan"
+
+msgid "res_shop_world3_title"
+msgstr "Level Ekstra Pegunungan"
+
+msgid "res_shop_world3_desc"
+msgstr "Aktifkan semua level rahasia di Pegunungan"
+
+msgid "res_shop_all"
+msgstr "Aktifkan semua di bursa, hilangkan iklan, dan bantulah kami membuat game yang lebih seru!"
+
+msgid "res_notif_1"
+msgstr "Ayo Bermain %1s hari ini!"
+
+msgid "res_notif_2"
+msgstr "Bergabunglah dengan kami bermain %1s hari ini!"
+
+msgid "res_notif_3"
+msgstr "Kamu sudah cukup lama tidak bermain %1s!"
+
+msgid "res_notif_4"
+msgstr "Ceriakan harimu. Mainkan %1s sekarang!"
+
+
+
+
+

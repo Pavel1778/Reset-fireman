@@ -1,0 +1,574 @@
+msgid "app_name"
+msgstr "Palomies"
+
+msgid "Share"
+msgstr "Rakastan %1s in pelaamista ! Suosittelen sinua lataamaan : %2s"
+
+msgid "rate the game"
+msgstr "Anna arvosana"
+
+msgid "You seem to be enjoying the game"
+msgstr "Näytät nauttivan {0} niin paljon kuin me nautimme sen kehittämiseen. Kiitos. Voisitko auttaa meitä ottamalla jonkin aikaa lisätä myönteistä luokitus peli sivu?"
+
+msgid "res_harder"
+msgstr "Kokeile peli kovemmin tilassa!\nOletko valmis toistaa...\nkaikilla tasoilla?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "Viidakko"
+
+msgid "res_achiev12_title"
+msgstr "Vanhempi palojohtaja"
+
+msgid "res_quit"
+msgstr "Lopeta?"
+
+msgid "res_rank_9"
+msgstr "Johtaja"
+
+msgid "res_shop_xpx2"
+msgstr "Tuplakokemuspisteet"
+
+msgid "res_achiev5_title"
+msgstr "Palomies!"
+
+msgid "res_talky_6"
+msgstr "Kävele tuhkan päällä varmistaaksesi palon sammumisen"
+
+msgid "res_inapp10_desc"
+msgstr "Tuplaa pelin aikana ansaitsemasi kokemuspisteet ja raha"
+
+msgid "res_mission"
+msgstr "Tehtävä"
+
+msgid "res_achiev17_title"
+msgstr "10 000 litraa vettä"
+
+msgid "res_rank_7"
+msgstr "Palojohtaja"
+
+msgid "res_achiev3_desc"
+msgstr "Tarkista myös muut pelimme"
+
+msgid "res_talky_10"
+msgstr "Nesteiden avulla voit täyttää vesitankkisi uudelleen"
+
+msgid "keywords"
+msgstr "palo,palomies,tasohyppely,hyppiminen,esteet,väistäminen,paloauto,vesi,lentoreppu,monsterit"
+
+msgid "res_credits"
+msgstr "Krediittiä"
+
+msgid "res_arrows"
+msgstr "Nuolet"
+
+msgid "res_achiev13_title"
+msgstr "Johtaja"
+
+msgid "res_not_enough_money"
+msgstr "Ei tarpeeksi rahaa"
+
+msgid "res_talky_15"
+msgstr "Löydät matkaltasi myös liikkuvia alustoja, jotka voivat auttaa sinua"
+
+msgid "res_achiev7_title"
+msgstr "Vanhempi palomies"
+
+msgid "res_skins"
+msgstr "Skinit"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doc-skini"
+
+msgid "res_inapp1_title"
+msgstr "Tuplakokemuspisteet"
+
+msgid "res_rank_0"
+msgstr "Aloittelija"
+
+msgid "res_talky_3"
+msgstr "Pelasta pehmolelut!"
+
+msgid "res_achiev6_title"
+msgstr "1. luokan palomies"
+
+msgid "res_achiev26_title"
+msgstr "Liekkien metsästäjä"
+
+msgid "res_achiev24_title"
+msgstr "Etsijä"
+
+msgid "res_achiev24_desc"
+msgstr "Löydä kadonnut esinet"
+
+msgid "res_achiev19_title"
+msgstr "Pelkuri"
+
+msgid "res_inapp9_desc"
+msgstr "Erittäin uskollinen koira, joka seuraa sinua minne vain"
+
+msgid "res_achiev22_title"
+msgstr "Maailma 2"
+
+msgid "res_new_rank"
+msgstr "Uusi asema"
+
+msgid "res_achiev5_desc"
+msgstr "Avaa palomiehen asema"
+
+msgid "res_achiev11_desc"
+msgstr "Avaa palojohtajan asema"
+
+msgid "res_congratulations"
+msgstr "Teit sen. Onnittelut! Pääsit pelin kaikkien tasojen läpi. Vain harvat pystyvät siihen. Hyvin teht! Lisäämme pian uusia maailmoja ja pelastettavia lemmikkejä sekä piilotettuja esineitä. Sillä aikaa arvostaisimme todella, jos voisit antaa pelille 5 tähden arvion!"
+
+msgid "res_select"
+msgstr "Valitse"
+
+msgid "res_achiev6_desc"
+msgstr "Avaa 1. tason palomiehen asema"
+
+msgid "res_shop_range"
+msgstr "Vesipyssyn kantama %s"
+
+msgid "res_talky_13"
+msgstr "Vihollisia on niin monia erilaisia.. ja kaikki niistä ovat vaarallisia!"
+
+msgid "res_inapp7_title"
+msgstr "Koalakaveri"
+
+msgid "res_achiev28_title"
+msgstr "Laavamökkkyjen metsästäjä"
+
+msgid "res_shop_piecex2"
+msgstr "Tuplaraha"
+
+msgid "res_achiev27_title"
+msgstr "Liekkipoikien metsästäjä"
+
+msgid "res_achiev25_title"
+msgstr "Keräilijä"
+
+msgid "res_achiev28_desc"
+msgstr "Sammuta 100 laavamöykkyä"
+
+msgid "res_inapp8_desc"
+msgstr "Urhea pikkukarhu, joka seuraa sinua kaikkialle"
+
+msgid "res_inapp2_desc"
+msgstr "Pelaa uskomattomalla Doc-skinillä!"
+
+msgid "res_achievements"
+msgstr "Saavutukset"
+
+msgid "res_ask_login_gp"
+msgstr "Haluatko kirjautua sisään Google Plussaan?"
+
+msgid "res_achiev30_title"
+msgstr "Liekinheittimien metsästäjä"
+
+msgid "res_achiev22_desc"
+msgstr "Suorita maailma 2"
+
+msgid "res_shop_pet2"
+msgstr "Lemmikki 2"
+
+msgid "res_shop_pet3"
+msgstr "Lemmikki 3"
+
+msgid "res_achiev4_title"
+msgstr "Palomieskoulutus"
+
+msgid "res_shop_pet1"
+msgstr "Lemmikki 1"
+
+msgid "res_loading"
+msgstr "Lataa..."
+
+msgid "res_achiev8_desc"
+msgstr "Avaa mestaripalomiehen asema"
+
+msgid "res_rank_4"
+msgstr "Mestaripalomies"
+
+msgid "res_talky_21"
+msgstr "Minun nimeni on Talky, ja olen aina apunasi"
+
+msgid "res_inapp5_desc"
+msgstr "Avaa ylimääräinen taso viidakossa"
+
+msgid "res_talky_8"
+msgstr "Kun se on sammutettu, hyppää sen päälle tuhotaksesi sen"
+
+msgid "res_talky_5"
+msgstr "Käytä vesipyssypainiketta sammuttaaksesi liekit"
+
+msgid "res_inapp5_title"
+msgstr "Ylimääräinen viidakkotaso"
+
+msgid "res_achiev21_desc"
+msgstr "Suorita taso 1"
+
+msgid "res_inapp4_desc"
+msgstr "Pelaa uskomattomalla Doc-skinillä!"
+
+msgid "res_talky_12"
+msgstr "Jokaisella tasolla on 3 pehmolelua, jotka voit pelastaa"
+
+msgid "res_rank_1"
+msgstr "Palomies"
+
+msgid "res_achiev20_desc"
+msgstr "Suorita taso ilman, että menetät yhtään elämää"
+
+msgid "res_inapp7_desc"
+msgstr "Ihana koala, joka seuraa sinua kaikkialle"
+
+msgid "res_share"
+msgstr "Kokeile %1s-peliä, pidän siitä todella paljon! Voit ladata sen täältä: %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Tarkista Magma Mobilen Facebook-sivu"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Haluatko ansaita supersaavutuksia? Kirjaudu sisään Google Play -palveluun"
+
+msgid "res_achiev14_title"
+msgstr "Mestarijohtaja"
+
+msgid "res_inapp8_title"
+msgstr "Pikkukarhukaveri"
+
+msgid "res_inapp6_desc"
+msgstr "Avaa ylimääräinen taso aavikolla"
+
+msgid "res_talky_7"
+msgstr "Varo palopoikaa! Sammuta se vesipyssylläsi"
+
+msgid "res_achiev2_desc"
+msgstr "Jaa peli kavereillesi."
+
+msgid "res_inapp3_title"
+msgstr "Skini2"
+
+msgid "res_inapp1_desc"
+msgstr "Tuplaa pelin aikana ansaitsemasi kokemuspisteet"
+
+msgid "res_talky_20"
+msgstr "Tässä on lemmikkisi, se seuraa sinua kaikkialle"
+
+msgid "res_rangs"
+msgstr "Asemat"
+
+msgid "res_credits_text"
+msgstr "Kehittäjä: Clément Slempkes\nGraafikko: Sandra Ferragu\n Projektipäällikkö : Emmanuel Robles\nProjektimanageri : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "Asetukset"
+
+msgid "res_head_quarter"
+msgstr "Päämaja"
+
+msgid "res_achiev18_title"
+msgstr "Pelastaja"
+
+msgid "res_talky_1"
+msgstr "Napsauta oikeaa painiketta hypätäksesi."
+
+msgid "res_achiev15_title"
+msgstr "1000 litraa vettä"
+
+msgid "res_achiev32_title"
+msgstr "Kotkansilmä"
+
+msgid "res_achiev18_desc"
+msgstr "Pelasta 3 pehmolelua yhdellä tasolla"
+
+msgid "res_achiev25_desc"
+msgstr "Etsi kaikki pelin piilotetut esineet"
+
+msgid "res_achiev16_desc"
+msgstr "Ammu 5000 litraa vettä"
+
+msgid "res_inapp10_title"
+msgstr "Tuplapakkaus"
+
+msgid "res_achiev7_desc"
+msgstr "Avaa vanhemman palomiehen asema"
+
+msgid "res_rank_5"
+msgstr "Kokenut palomies"
+
+msgid "res_inapp0_desc"
+msgstr "Tuplaa pelin aikana ansaitasemasi raha"
+
+msgid "res_achiev12_desc"
+msgstr "Avaa vanhemman palojohtajan asema"
+
+msgid "res_achiev16_title"
+msgstr "5000 litraa vettä"
+
+msgid "res_required"
+msgstr "vaaditaan"
+
+msgid "res_no_pets"
+msgstr "Ei lemmikkejä"
+
+msgid "res_pets"
+msgstr "Lemmikit"
+
+msgid "res_shop_extralevel1"
+msgstr "Ylimääräiset viidakkotasot"
+
+msgid "res_talky_23"
+msgstr "Aseta kaksi oikeaa painiketta toistensa päälle käyttääksesi lentoreppua ja ampuaksesi samalla"
+
+msgid "res_talky_19"
+msgstr "Kokemuspisteiden avulla saat uusia asemia"
+
+msgid "res_achiev32_desc"
+msgstr "Löydä piilotettu seinä"
+
+msgid "res_achiev29_desc"
+msgstr "Sammuta 100 pommittajaa ennen kuin ne räjähtävät"
+
+msgid "res_buy"
+msgstr "Osta"
+
+msgid "res_shop_life"
+msgstr "%s ylimääräistä elämää"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_achiev23_desc"
+msgstr "Suorita maailma 3"
+
+msgid "res_achiev29_title"
+msgstr "Pommittajien metsästäjä"
+
+msgid "res_title_monde2"
+msgstr "Aavikko"
+
+msgid "res_achiev31_desc"
+msgstr "Sammuta 100 tulihämähäkkiä"
+
+msgid "res_inapp0_title"
+msgstr "Tuplaraha"
+
+msgid "res_sound"
+msgstr "Ääni"
+
+msgid "res_achiev26_desc"
+msgstr "Sammuta 100 liekkiä"
+
+msgid "res_good_job"
+msgstr "Hyvää työtä!"
+
+msgid "res_shop"
+msgstr "Myymälä"
+
+msgid "res_jetpack"
+msgstr "Rakettireppu"
+
+msgid "res_achiev21_title"
+msgstr "Maailma 1"
+
+msgid "res_inapp6_title"
+msgstr "Ylimääräinen aavikkotaso"
+
+msgid "res_talky_22"
+msgstr "Olet nyt valmis, olet aivan oikea palomies!"
+
+msgid "res_talky_18"
+msgstr "Rahan avulla voit ostaa esineitä ja parannuksia kaupasta"
+
+msgid "res_level_locked"
+msgstr "Taso lukittu"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Firegirl-skini"
+
+msgid "res_shop_reservoir"
+msgstr "Lentorepun kapasiteetti "
+
+msgid "res_talky_17"
+msgstr "Teleportit vievät sinut toiseen paikkaan..."
+
+msgid "res_rank_2"
+msgstr "1. luokan palomies"
+
+msgid "res_talky_14"
+msgstr "Tippukivipuikot ovat vaarallisia!"
+
+msgid "res_talky_0"
+msgstr "Käytä vasenta ja oikeaa nuolinäppäintä liikkuaksesi"
+
+msgid "res_achiev30_desc"
+msgstr "Sammuta 100 liekinheitintä"
+
+msgid "res_restorepurchases"
+msgstr "Palauta ostokset"
+
+msgid "res_achiev1_title"
+msgstr "Sosiaalinen"
+
+msgid "res_achiev3_title"
+msgstr "Lisää Pelejä"
+
+msgid "res_achiev23_title"
+msgstr "Maailma 3"
+
+msgid "res_moregames"
+msgstr "Lisää Pelejä"
+
+msgid "res_music"
+msgstr "Musiikki"
+
+msgid "res_inapp4_title"
+msgstr "Skini 3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Haluaisitko kisata muita pelaajia vastaan? Voit tehdä niin kirjautumalla Google Play -palveluun"
+
+msgid "res_talky_2"
+msgstr "Pidä oikeaa näppäintä alhaalla käyttääksesi lentoreppua."
+
+msgid "res_achiev19_desc"
+msgstr "Suorita taso ilman pehmolelun pelastamista"
+
+msgid "res_achiev10_title"
+msgstr "Paloluutnantti"
+
+msgid "res_rank_10"
+msgstr "Mestarijohtaja"
+
+msgid "res_ask_logout_gp"
+msgstr "Haluatko kirjautua ulos Google Plussasta?"
+
+msgid "res_rank_8"
+msgstr "Vanhempi palojohtaja"
+
+msgid "res_achiev10_desc"
+msgstr "Avaa paloluutnantin asema"
+
+msgid "res_achiev17_desc"
+msgstr "Ammu 10 000 litraa vettä"
+
+msgid "res_achiev2_title"
+msgstr "Jaa"
+
+msgid "res_inapp3_desc"
+msgstr "Pelaa uskomattomalla Firegirl-skinillä!"
+
+msgid "res_talky_16"
+msgstr "Pidä silmäsi auki salaisten reittien varalta..."
+
+msgid "res_achiev13_desc"
+msgstr "Avaa johtajan asema"
+
+msgid "res_inventory"
+msgstr "PM"
+
+msgid "res_inapp2_title"
+msgstr "Skini 1"
+
+msgid "res_shop_maxipack"
+msgstr "Tuplaraha + tuplakokemuspisteet"
+
+msgid "res_rank_6"
+msgstr "Paloluutnantti"
+
+msgid "res_inapp9_title"
+msgstr "Koirakaveri"
+
+msgid "res_achiev4_desc"
+msgstr "Suorita opastus loppuun"
+
+msgid "res_specialitems"
+msgstr "Erikoisesineet"
+
+msgid "res_achiev31_title"
+msgstr "Tulihämähäkkien metsästäjä"
+
+msgid "res_achiev11_title"
+msgstr "Palojohtaja"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Firegirl-skini"
+
+msgid "res_lostfound"
+msgstr "Löytötavaran etsijä"
+
+msgid "res_shop_extralevel2"
+msgstr "Ylimääräiset aavikkotasot"
+
+msgid "res_rank_3"
+msgstr "Vanhempi palomies"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Halauaisitko tallentaa edistymisesi? Voit tehdä sen kirjautumalla sisään Google Play -palveluun"
+
+msgid "res_achiev15_desc"
+msgstr "Ammua 1000 litraa vettä"
+
+msgid "res_talky_9"
+msgstr "Liekeissä voi olla eri kerroksia"
+
+msgid "res_talky_11"
+msgstr "Nesteiden paikkoja voi käyttää myös aloituspisteenä, jos menetät elämän"
+
+msgid "res_achiev9_title"
+msgstr "Kokenut palomies"
+
+msgid "res_achiev20_title"
+msgstr "Väistelijä"
+
+msgid "res_achiev9_desc"
+msgstr "Avaa kokeneen palomiehen asema"
+
+msgid "res_talky_4"
+msgstr "Ja juokse uloskäynnistä!"
+
+msgid "res_achiev14_desc"
+msgstr "Avaa mestarijohtajan asema"
+
+msgid "res_achiev8_title"
+msgstr "Mestaripalomies"
+
+msgid "res_achiev27_desc"
+msgstr "Sammuta 100 palopoikaa"
+
+msgid "res_pause"
+msgstr "Tauko"
+
+msgid "res_notif_1"
+msgstr "Tule pelaamaan %1s jo tänään!"
+
+msgid "res_notif_2"
+msgstr "Tule mukaan pelaamaan %1s jo tänään!"
+
+msgid "res_notif_3"
+msgstr "Et ole pelannut %1s pitkään aikaan!"
+
+msgid "res_notif_4"
+msgstr "Tuo hieman iloa päivääsi. Pelaa %1s nyt!"
+
+
+
+
+
+
+
+

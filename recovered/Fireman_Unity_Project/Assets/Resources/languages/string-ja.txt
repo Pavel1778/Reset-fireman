@@ -1,0 +1,636 @@
+msgid "app_name"
+msgstr "消防士"
+
+msgid "Share"
+msgstr "%1s をプレイするのが大好きです!のダウンロードをおすすめします! %2s"
+
+msgid "rate the game"
+msgstr "ゲームを評価"
+
+msgid "You seem to be enjoying the game"
+msgstr "あなたは、同じくらい我々はそれを開発して楽しんだとして{0}を楽しんでいるように見える。ありがとう。あなたは、ゲームのページに肯定的な評価を追加するには、いくつかの時間を取ることによって私たちを助けていただけませんか？"
+
+msgid "res_harder"
+msgstr "難しいモードでゲームをお試しください！\nあなたは、再生する準備ができていますか...\nすべてのレベル？"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "ジャングル"
+
+msgid "res_achiev12_title"
+msgstr "上級隊長"
+
+msgid "res_quit"
+msgstr "終了する？"
+
+msgid "res_rank_9"
+msgstr "消防署長"
+
+msgid "res_shop_xpx2"
+msgstr "XP倍増"
+
+msgid "res_achiev5_title"
+msgstr "消防士!"
+
+msgid "res_talky_6"
+msgstr "炎が完全に消化されたことを確かめるため灰の上を歩く"
+
+msgid "res_inapp10_desc"
+msgstr "ゲームで稼いだマネーとXPを倍増"
+
+msgid "res_mission"
+msgstr "任務 "
+
+msgid "res_achiev17_title"
+msgstr "水10,000リットル"
+
+msgid "res_rank_7"
+msgstr "キャプテン "
+
+msgid "res_achiev3_desc"
+msgstr "当社の他のゲームをチェック"
+
+msgid "res_talky_10"
+msgstr "消火栓で貯水槽を補充可能"
+
+msgid "keywords"
+msgstr "火事、消防士、プラットフォームゲーム、ジャンプ、障害、かわす、消防官、火、トラック、水、消化、ジェットパック、モンスター"
+
+msgid "res_credits"
+msgstr "クレジット\"
+
+msgid "res_arrows"
+msgstr "矢印"
+
+msgid "res_achiev13_title"
+msgstr "消防署長"
+
+msgid "res_not_enough_money"
+msgstr "マネー不足"
+
+msgid "res_talky_15"
+msgstr "途中であなたの奮闘に役立つ移動プラットフォームを発見することになる"
+
+msgid "res_achiev7_title"
+msgstr "上級消防士"
+
+msgid "res_skins"
+msgstr "スキン"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Docスキン"
+
+msgid "res_inapp1_title"
+msgstr "XP倍増"
+
+msgid "res_rank_0"
+msgstr "新人 "
+
+msgid "res_talky_3"
+msgstr "動物のぬいぐるみを救出せよ!"
+
+msgid "res_achiev6_title"
+msgstr "一等消防士"
+
+msgid "res_achiev26_title"
+msgstr "火炎ハンター"
+
+msgid "res_achiev24_title"
+msgstr "探知機"
+
+msgid "res_achiev24_desc"
+msgstr "紛失オブジェクトを発見"
+
+msgid "res_achiev19_title"
+msgstr "弱虫"
+
+msgid "res_inapp9_desc"
+msgstr "どこまでも付いてくる忠実な犬"
+
+msgid "res_achiev22_title"
+msgstr "ワールド2"
+
+msgid "res_new_rank"
+msgstr "新規のランク "
+
+msgid "res_achiev5_desc"
+msgstr "消防士ランクをアンロック"
+
+msgid "res_achiev11_desc"
+msgstr "隊長ランクをアンロック"
+
+msgid "res_congratulations"
+msgstr "達成です。おめでとう! ゲームの全レベル達成を果たしました。ここまで到達できる人は非常にまれです。すばらしい! 今後、さらに多くのペットを救出し、さらに多くのオブジェクトを発見できる新しいワールドを追加する予定です。お見逃しなく。もし良ければ、このゲームに5つ星の評価を付けてください!?"
+
+msgid "res_select"
+msgstr "選択"
+
+msgid "res_achiev6_desc"
+msgstr "一等消防士ランクをアンロック"
+
+msgid "res_shop_range"
+msgstr "水鉄砲到達範囲レベル%s"
+
+msgid "res_talky_13"
+msgstr "多種多様な敵がいる...すべての敵が危険!"
+
+msgid "res_inapp7_title"
+msgstr "コアラの友達"
+
+msgid "res_achiev28_title"
+msgstr "溶岩スライムハンター"
+
+msgid "res_shop_piecex2"
+msgstr "マネーを倍増"
+
+msgid "res_achiev27_title"
+msgstr "火炎ボーイハンター"
+
+msgid "res_achiev25_title"
+msgstr "コレクター "
+
+msgid "res_achiev28_desc"
+msgstr "100個の溶岩スライムを消化"
+
+msgid "res_inapp8_desc"
+msgstr "どこまでも付いてくるすてきな子グマ"
+
+msgid "res_inapp2_desc"
+msgstr "すばらしいDocスキンでプレイ!"
+
+msgid "res_achievements"
+msgstr "功績"
+
+msgid "res_ask_login_gp"
+msgstr "Google+にログインしますか?"
+
+msgid "res_achiev30_title"
+msgstr "火炎放射器ハンター"
+
+msgid "res_achiev22_desc"
+msgstr "ワールド2をクリア"
+
+msgid "res_shop_pet2"
+msgstr "ペット2"
+
+msgid "res_shop_pet3"
+msgstr "ペット3"
+
+msgid "res_achiev4_title"
+msgstr "消防士トレーニング"
+
+msgid "res_shop_pet1"
+msgstr "ペット1"
+
+msgid "res_loading"
+msgstr "読込中..."
+
+msgid "res_achiev8_desc"
+msgstr "消防長官ランクをアンロック"
+
+msgid "res_rank_4"
+msgstr "消防長官"
+
+msgid "res_talky_21"
+msgstr "僕はタルキー、いつでも君のお手伝いをするよ"
+
+msgid "res_inapp5_desc"
+msgstr "ジャングルで追加レベルをアンロック"
+
+msgid "res_talky_8"
+msgstr "消化が済んだら、飛び乗って一掃"
+
+msgid "res_talky_5"
+msgstr "水鉄砲ボタンを使い炎を消火"
+
+msgid "res_inapp5_title"
+msgstr "ジャングル追加レベル"
+
+msgid "res_achiev21_desc"
+msgstr "ワールド1をクリア"
+
+msgid "res_inapp4_desc"
+msgstr "すばらしいDocスキンでプレイ!"
+
+msgid "res_talky_12"
+msgstr "各レベルに救出すべき動物のぬいぐるみが3個ある"
+
+msgid "res_rank_1"
+msgstr "消防士"
+
+msgid "res_achiev20_desc"
+msgstr "死者を出さずにレベルをクリア"
+
+msgid "res_inapp7_desc"
+msgstr "どこまでも付いてくるかわいいコアラ"
+
+msgid "res_share"
+msgstr "%1sはすごい楽しいからチェックしてみて! ここでダウンロードできるよ : %2s"
+
+msgid "res_achiev1_desc"
+msgstr "Magma Mobileのフェースブック?ページを見る"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "スーパー成績にアクセスしたいですか? Google Play開発者サービスにサインインすれば可能です"
+
+msgid "res_achiev14_title"
+msgstr "下士官"
+
+msgid "res_inapp8_title"
+msgstr "子グマの友達"
+
+msgid "res_inapp6_desc"
+msgstr "砂漠で追加レベルをアンロック"
+
+msgid "res_talky_7"
+msgstr "火炎ボーイに気をつけろ! 水鉄砲で消化"
+
+msgid "res_achiev2_desc"
+msgstr "友達とゲームをシェアする"
+
+msgid "res_inapp3_title"
+msgstr "スキン2"
+
+msgid "res_inapp1_desc"
+msgstr "ゲームで稼いだXPを倍増"
+
+msgid "res_talky_20"
+msgstr "どこまでも付いてくる君のペットだよ"
+
+msgid "res_rangs"
+msgstr "ランク"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "設定"
+
+msgid "res_head_quarter"
+msgstr "本署"
+
+msgid "res_achiev18_title"
+msgstr "救世主"
+
+msgid "res_talky_1"
+msgstr "ジャンプするには右ボタンを押す。"
+
+msgid "res_achiev15_title"
+msgstr "水1,000リットル"
+
+msgid "res_achiev32_title"
+msgstr "タカの目"
+
+msgid "res_achiev18_desc"
+msgstr "ひとつのシングルレベルで3個の動物のぬいぐるみを救出"
+
+msgid "res_achiev25_desc"
+msgstr "ゲームの紛失オブジェクトすべてを発見"
+
+msgid "res_achiev16_desc"
+msgstr "5,000リットル放水"
+
+msgid "res_inapp10_title"
+msgstr "パック倍増"
+
+msgid "res_achiev7_desc"
+msgstr "上級消防士ランクをアンロック"
+
+msgid "res_rank_5"
+msgstr "消防官"
+
+msgid "res_inapp0_desc"
+msgstr "ゲームで稼いだマネーを倍増"
+
+msgid "res_achiev12_desc"
+msgstr "上級隊長ランクをアンロック"
+
+msgid "res_achiev16_title"
+msgstr "水5,000リットル"
+
+msgid "res_required"
+msgstr "必須 "
+
+msgid "res_no_pets"
+msgstr "ペットなし"
+
+msgid "res_pets"
+msgstr "ペット"
+
+msgid "res_shop_extralevel1"
+msgstr "ジャングル追加レベル"
+
+msgid "res_talky_23"
+msgstr "ジェットパックの使用と放水を同時に実行するには、2つの右ボタンを重ねて配置"
+
+msgid "res_talky_19"
+msgstr "XPで新しいランクを獲得できます"
+
+msgid "res_achiev32_desc"
+msgstr "隠れた壁を発見"
+
+msgid "res_achiev29_desc"
+msgstr "爆発前に100人の爆弾魔を消化"
+
+msgid "res_buy"
+msgstr "買う"
+
+msgid "res_shop_life"
+msgstr "%s追加ライフ"
+
+msgid "res_joystick"
+msgstr "ジョイスティック"
+
+msgid "res_achiev23_desc"
+msgstr "ワールド3をクリア"
+
+msgid "res_achiev29_title"
+msgstr "爆弾魔ハンター"
+
+msgid "res_title_monde2"
+msgstr "砂漠"
+
+msgid "res_achiev31_desc"
+msgstr "100匹の火炎クモを消化"
+
+msgid "res_inapp0_title"
+msgstr "マネーを倍増"
+
+msgid "res_sound"
+msgstr "サウンド"
+
+msgid "res_achiev26_desc"
+msgstr "100個の炎を消化"
+
+msgid "res_good_job"
+msgstr "クリア"
+
+msgid "res_shop"
+msgstr "店"
+
+msgid "res_jetpack"
+msgstr "ジェットパック "
+
+msgid "res_achiev21_title"
+msgstr "ワールド1"
+
+msgid "res_inapp6_title"
+msgstr "砂漠追加レベル"
+
+msgid "res_talky_22"
+msgstr "準備が整いました。これであなたは立派な消防士です!"
+
+msgid "res_talky_18"
+msgstr "ショップのアイテムやアップグレードの購入はマネーで可能"
+
+msgid "res_level_locked"
+msgstr "レベルがロックされました"
+
+msgid "res_shop_fireman_skin3"
+msgstr "火炎ガールスキン"
+
+msgid "res_shop_reservoir"
+msgstr "ジェットパックタンク容量レベル%s"
+
+msgid "res_talky_17"
+msgstr "テレポートで別の場所へ移動..."
+
+msgid "res_rank_2"
+msgstr "一等消防士"
+
+msgid "res_talky_14"
+msgstr "鍾乳石は命取り!"
+
+msgid "res_talky_0"
+msgstr "左右の矢印を使って移動する。"
+
+msgid "res_achiev30_desc"
+msgstr "100個の火炎放射器を消化"
+
+msgid "res_restorepurchases"
+msgstr "購入物を復元"
+
+msgid "res_achiev1_title"
+msgstr "ソーシャル"
+
+msgid "res_achiev3_title"
+msgstr "他のゲーム"
+
+msgid "res_achiev23_title"
+msgstr "ワールド3"
+
+msgid "res_moregames"
+msgstr "他のゲーム"
+
+msgid "res_music"
+msgstr "音楽"
+
+msgid "res_inapp4_title"
+msgstr "スキン3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "世界中の他のプレイヤーと対戦したいですか? Google Play開発者サービスにサインインすれば可能です"
+
+msgid "res_talky_2"
+msgstr "ジェットパックを使うには右ボタンを維持せよ。"
+
+msgid "res_achiev19_desc"
+msgstr "ぬいぐるみをひとつも救助せずにレベルをクリア"
+
+msgid "res_achiev10_title"
+msgstr "副隊長"
+
+msgid "res_rank_10"
+msgstr "下士官"
+
+msgid "res_ask_logout_gp"
+msgstr "Google+からログアウトしますか?"
+
+msgid "res_rank_8"
+msgstr "上級隊長"
+
+msgid "res_achiev10_desc"
+msgstr "副隊長ランクをアンロック"
+
+msgid "res_achiev17_desc"
+msgstr "10,000リットル放水"
+
+msgid "res_achiev2_title"
+msgstr "シェア"
+
+msgid "res_inapp3_desc"
+msgstr "すばらしい火炎ガールスキンでプレイ!"
+
+msgid "res_talky_16"
+msgstr "良く見て、秘密の通路を探せ。"
+
+msgid "res_achiev13_desc"
+msgstr "消防署長ランクをアンロック"
+
+msgid "res_inventory"
+msgstr "本署"
+
+msgid "res_inapp2_title"
+msgstr "スキン1"
+
+msgid "res_shop_maxipack"
+msgstr "マネーとXPを倍増"
+
+msgid "res_rank_6"
+msgstr "副隊長"
+
+msgid "res_inapp9_title"
+msgstr "犬の友達"
+
+msgid "res_achiev4_desc"
+msgstr "チュートリアルを完了"
+
+msgid "res_specialitems"
+msgstr "特別アイテム"
+
+msgid "res_achiev31_title"
+msgstr "火炎クモハンター"
+
+msgid "res_achiev11_title"
+msgstr "キャプテン "
+
+msgid "res_shop_fireman_skin2"
+msgstr "火炎ガールスキン"
+
+msgid "res_lostfound"
+msgstr "遺失物"
+
+msgid "res_shop_extralevel2"
+msgstr "砂漠追加レベル"
+
+msgid "res_rank_3"
+msgstr "上級消防士"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "ゲームの成果を保存しますか? Google Play開発者サービスにサインインすれば可能です。"
+
+msgid "res_achiev15_desc"
+msgstr "1,000リットル放水"
+
+msgid "res_talky_9"
+msgstr "炎によっては複数レイヤーあり"
+
+msgid "res_talky_11"
+msgstr "消火栓は、死者を出した際のチェックポイントとしても使用可能"
+
+msgid "res_achiev9_title"
+msgstr "消防官"
+
+msgid "res_achiev20_title"
+msgstr "Dodger"
+
+msgid "res_achiev9_desc"
+msgstr "消防官ランクをアンロック"
+
+msgid "res_talky_4"
+msgstr "出口を走り抜けろ!"
+
+msgid "res_achiev14_desc"
+msgstr "下士官ランクをアンロック"
+
+msgid "res_achiev8_title"
+msgstr "消防長官"
+
+msgid "res_achiev27_desc"
+msgstr "100人の火炎ボーイを消化"
+
+msgid "res_pause"
+msgstr "一時停止"
+
+msgid "res_shop_pet4_title"
+msgstr "フレンド〜ウルフ"
+
+msgid "res_shop_pet4_desc"
+msgstr "頭脳明解なウルフが何処へでも付いて回ります"
+
+msgid "res_shop_pet5_title"
+msgstr "フレンド〜ホッキョクグマ"
+
+msgid "res_shop_pet5_desc"
+msgstr "強いホッキョクグマが何処へでも付いて回ります"
+
+msgid "res_shop_pet6_title"
+msgstr "フレンド〜トナカイ"
+
+msgid "res_shop_pet6_desc"
+msgstr "親切なトナカイが何処へでも付いて回ります"
+
+msgid "res_shop_pet7_title"
+msgstr "フレンド〜スノーフォックス"
+
+msgid "res_shop_pet7_desc"
+msgstr "スマートなトナカイが何処へでも付いて回ります"
+
+msgid "res_shop_pet8_title"
+msgstr "フレンド〜マンモス"
+
+msgid "res_shop_pet8_desc"
+msgstr "偉大なマンモスが何処へでも付いて回ります"
+
+msgid "res_shop_skin3_title"
+msgstr "スキン〜エスキモー"
+
+msgid "res_shop_skin3_desc"
+msgstr "素敵なエスキモー スキンで遊ぶ！"
+
+msgid "res_shop_skin4_title"
+msgstr "スキン〜イエティ"
+
+msgid "res_shop_skin4_desc"
+msgstr "素敵なイエティ スキンで遊ぶ！"
+
+msgid "res_shop_skin5_title"
+msgstr "スキン〜サンタ"
+
+msgid "res_shop_skin5_desc"
+msgstr "素敵なサンタ スキンで遊ぶ！"
+
+msgid "res_shop_skin6_title"
+msgstr "スキン〜アルプスの少女"
+
+msgid "res_shop_skin6_desc"
+msgstr "素敵なアルプスの少女 スキンで遊ぶ！"
+
+msgid "res_title_monde3"
+msgstr "マウンテン"
+
+msgid "res_shop_world3_title"
+msgstr "マウンテン エクストラ レベル"
+
+msgid "res_shop_world3_desc"
+msgstr "マウンテンですべての秘密レベルをアンロックする"
+
+msgid "res_shop_all"
+msgstr "お店ですべてのロックを解除して広告を非表示にし、また私達がより良いゲーム開発が出来るようにサポートして下さい！"
+
+msgid "res_notif_1"
+msgstr "今日、一緒に %1s で遊びましょう！"
+
+msgid "res_notif_2"
+msgstr "今日から一緒に %1s で遊ぼう！"
+
+msgid "res_notif_3"
+msgstr "しばらくの間、 %1s で遊んでいませんね！"
+
+msgid "res_notif_4"
+msgstr "今すぐ %1s で遊ぼう！毎日が少しだけ楽しくなりますよ！"
+
+
+
+

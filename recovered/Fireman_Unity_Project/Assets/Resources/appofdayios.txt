@@ -1,0 +1,35 @@
+com.magmamobile.game.Animals;Animals;580494763;http://a5.mzstatic.com/us/r30/Purple/v4/eb/4d/90/eb4d9089-4ef2-b445-ef83-91f91bad6e75/mzl.jajdeuhf.75x75-65.png;1
+com.magmamobile.game.Bowling3D;Bowling 3D;582951832;http://a1.mzstatic.com/us/r30/Purple/v4/3c/5d/60/3c5d6048-e228-413a-752d-89cf2f3450da/mzl.reawjofk.75x75-65.png;1
+com.magmamobile.game.BubbleBlastRescue;Bubble Blast Rescue;536549933;http://a3.mzstatic.com/us/r1000/117/Purple2/v4/8a/8a/ad/8a8aad60-4017-a8e1-0b45-7ed090fec2fe/mzl.fjltgmyn.75x75-65.png;50
+com.magmamobile.game.Elements3D;Elements 3D;548631305;http://a5.mzstatic.com/us/r1000/094/Purple/v4/8a/d3/28/8ad328ed-3531-2878-851d-ebea956a1b6a/mza_1702974995099447879.75x75-65.png;1
+com.magmamobile.game.Freecell;Freecell;588285942;http://a3.mzstatic.com/us/r30/Purple/v4/f8/9f/39/f89f3968-0c72-4fda-5eea-6da184976a0b/mzl.excgsojf.75x75-65.png;1
+com.magmamobile.game.ios.boats;Boats !;548583545;http://a2.mzstatic.com/us/r30/Purple/v4/17/ba/6d/17ba6d1d-e57f-1bf1-e7f1-f3c853099aa5/mzm.yfekgxrl.75x75-65.png;1
+com.magmamobile.game.ios.bubbleblast2;Bubble Blast 2;493274935;http://a5.mzstatic.com/us/r1000/072/Purple/b6/0c/dc/mzm.gtfueecw.75x75-65.png;25
+com.magmamobile.game.ios.bubbleblasteaster;Bubble Blast Easter;505155498;http://a5.mzstatic.com/us/r30/Purple/58/dc/5b/mzm.cfkpqngz.75x75-65.png;1
+com.magmamobile.game.ios.bubbleblasthalloween;Bubble Blast Halloween;566298210;http://a1.mzstatic.com/us/r30/Purple/v4/87/0b/46/870b466f-cf97-0d46-e3f3-e341419beaf2/mzm.fmfofdne.75x75-65.png;100
+com.magmamobile.game.ios.bubbleblastholiday;Bubble Blast Holiday;567072924;http://a3.mzstatic.com/us/r1000/095/Purple/v4/50/b3/f5/50b3f509-a870-fe71-ef3f-c87aa7058d05/mzm.qzpvgnjl.75x75-65.png;1
+com.magmamobile.game.ios.bubbleblastsaintpatrick;Bubble Blast Saint Patrick's Day;505492365;http://a5.mzstatic.com/us/r1000/106/Purple/b0/c9/53/mzm.agihtvhy.75x75-65.png;1
+com.magmamobile.game.ios.bubbleblastsports;Bubble Blast Sports;508034336;http://a5.mzstatic.com/us/r30/Purple/v4/be/ab/fa/beabfa5a-9aa7-0bc8-0123-90f82e6a1948/mzl.eveqfgtd.75x75-65.png;1
+com.magmamobile.game.ios.bubbleblastvalentine;Bubble Blast Valentine;496183851;http://a4.mzstatic.com/us/r1000/111/Purple/3e/dd/18/mzm.nhbnvirf.75x75-65.png;1
+com.magmamobile.game.ios.carvalet;Car Valet;504791143;http://a4.mzstatic.com/us/r1000/109/Purple/v4/28/fe/85/28fe85f4-82a8-c555-b210-785391d26cff/mzm.ryiszjvn.75x75-65.png;1
+com.magmamobile.game.ios.connectem;Connect'Em;502487541;http://a2.mzstatic.com/us/r30/Purple/6d/e7/c3/mzm.vboayzsg.75x75-65.png;1
+com.magmamobile.game.ios.connectemeaster;Connect'Em Easter;506639757;http://a5.mzstatic.com/us/r1000/092/Purple/ef/12/d5/mzm.ihhquuig.75x75-65.png;1
+com.magmamobile.game.ios.mousetrap;Mouse !;490634280;http://a4.mzstatic.com/us/r1000/098/Purple/v4/58/79/08/587908bf-3669-9537-a75d-e4ebe75c7e04/mzm.vhkiubzu.75x75-65.png;1
+com.magmamobile.game.ios.words;Words;579239932;http://a2.mzstatic.com/us/r1000/066/Purple/v4/eb/76/62/eb766278-14e9-c458-6a61-9b88032084f2/mzl.pvvluxxx.75x75-65.png;1
+com.magmamobile.game.Mahjong2;Mahjong 2;582954451;http://a4.mzstatic.com/us/r30/Purple/v4/e8/b8/b1/e8b8b185-339b-c1a3-720e-1130d0c74bfa/mzl.qxcszohy.75x75-65.png;20
+com.magmamobile.game.MatchUp3D;MatchUp 3D;543827240;http://a5.mzstatic.com/us/r1000/068/Purple/v4/f1/97/37/f19737f9-77a9-9809-2d38-4dd486cbe1c7/mza_1162559967128690289.75x75-65.png;1
+com.magmamobile.game.shooter;Shooter;527162575;http://a1.mzstatic.com/us/r30/Purple/v4/cc/29/5b/cc295b94-621b-47ac-3302-d4e4272987b0/mza_2103874881370927287.75x75-65.png;1
+com.magmamobile.game.Solitaire;Solitaire;588285116;http://a3.mzstatic.com/us/r1000/081/Purple/v4/f2/04/0b/f2040be6-6fea-2fdc-ebc2-73baa14505b2/mzl.jyjojbhj.75x75-65.png;1
+com.magmamobile.game.SpiderSolitaire;Spider Solitaire;588286719;http://a1.mzstatic.com/us/r30/Purple/v4/fd/d7/eb/fdd7eb5d-c74f-48eb-c1d0-e10d6886acf8/mzl.slulltxe.75x75-65.png;1
+com.magmamobile.game.Tripeaks;TriPeaks Solitaire;587441703;http://a3.mzstatic.com/us/r30/Purple/v4/72/de/28/72de289d-7be3-d3ac-bca4-3b76145da08f/mzl.ohhjsxgg.75x75-65.png;1
+com.magmamobile.game.Smash;Smash;600003517;http://a1.mzstatic.com/us/r30/Purple/v4/cf/96/f0/cf96f0e9-8e1b-519c-def0-88a2b00c77ac/mzl.jmylstps.75x75-65.png;10
+com.magmamobile.game.ios.burger;Burger;586889063;http://a1.mzstatic.com/us/r30/Purple/v4/e8/68/ae/e868ae67-0ef9-2af9-3c6c-422ff1cbbac2/mzl.vedheccr.75x75-65.png;1
+com.magmamobile.game.BubbleShoot;Bubble Shoot;600960618;http://a3.mzstatic.com/us/r30/Purple2/v4/51/b2/75/51b275eb-5491-a419-6ff0-c906b42238cf/mzl.rmlrhvjh.75x75-65.png;1
+com.magmamobile.game.ios.Plumber;Plumber;638189969;http://a5.mzstatic.com/us/r30/Purple/v4/e4/f3/db/e4f3db90-0bd0-68ee-2b99-fa8fb41dfbeb/mzl.jpxfnxii.75x75-65.png;1
+com.magmamobile.game.ios.Shuffle;Shuffle;641012240;http://a5.mzstatic.com/us/r30/Purple2/v4/6d/30/a5/6d30a54c-1dd2-97d0-0c0c-7af7c844ff56/mzl.ghtsjcsq.75x75-65.png;40
+com.magmamobile.game.ios.HiddenObject;Hidden Object;644293656;http://a1.mzstatic.com/us/r30/Purple/v4/1d/a4/f6/1da4f6eb-ac64-5c77-0acb-7dba9a9732b9/mzl.ufmtmmui.75x75-65.png;25
+com.magmamobile.game.ios.SpaceMaze;Space Maze;654752979;http://a3.mzstatic.com/us/r30/Purple/v4/b5/c5/b8/b5c5b877-9359-c37f-e737-8ceb16625474/mzl.xlcmhphf.75x75-65.png;10
+com.magmamobile.game.SnakeAndApples;Snakes And Apples;655078064;http://a3.mzstatic.com/us/r30/Purple4/v4/33/8b/20/338b203f-7059-162a-fed4-9d53ab1f3fd8/mzl.rggbfnnk.75x75-65.png;40
+com.magmamobile.game.Mahjong2.ClassRoom;Mahjong 2 Classroom;672710352;http://a1.mzstatic.com/us/r30/Purple/v4/3a/69/9a/3a699a0e-dd89-8823-beef-a76e46acc990/mzl.xrlhpizx.75x75-65.png;40
+com.magmamobile.game.FindTheWord;Find The Word;680505231;http://a5.mzstatic.com/us/r30/Purple4/v4/ef/d1/3d/efd13da4-481c-d97b-0a7c-90702b981c4a/mzl.cmihvpas.75x75-65.png;40
+com.magmamobile.game.Wired;Wired;680516895;http://a5.mzstatic.com/us/r30/Purple4/v4/30/aa/5c/30aa5cf7-9116-6bf7-2ac8-656aefb00e87/mzl.lqkhpdkm.75x75-65.png;40

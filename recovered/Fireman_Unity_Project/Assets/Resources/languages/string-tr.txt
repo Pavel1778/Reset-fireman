@@ -1,0 +1,637 @@
+
+msgid "app_name"
+msgstr "İtfaiyeci"
+
+msgid "Share"
+msgstr "%1s oynamayı seviyorum! Yüklemenizi şiddetle tavsiye ederim: %2s"
+
+msgid "rate the game"
+msgstr "Oyunu Değerlendir"
+
+msgid "You seem to be enjoying the game"
+msgstr "Bizim geliştirirken aldığımız kadar zevk alıyor {0} gibi görünüyorsunuz. Teşekkürler. \nOyun sayfasına olumlu bir görüş ekleyerek bize yardım etmek için biraz zaman ayırır mısınız?"
+
+msgid "res_harder"
+msgstr "Oyunu daha zor modda deneyin !\nTekrar oynamaya hazır mısınız...\ntüm seviyeler ?"
+
+msgid "res_difficulty"
+msgstr "Zorluk"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Çok zor"
+
+msgid "res_difficulty_extreme"
+msgstr "Aşırı zor"
+
+msgid "res_loading"
+msgstr "Yükleniyor..."
+
+msgid "res_shop"
+msgstr "Mağaza"
+
+msgid "res_buy"
+msgstr "Satın Al"
+
+msgid "res_good_job"
+msgstr "Aferin!"
+
+msgid "res_quit"
+msgstr "Çık?"
+
+msgid "res_inventory"
+msgstr "HQ"
+
+msgid "res_shop_reservoir"
+msgstr "Jetpack tank kapasitesi seviyesi %s"
+
+msgid "res_shop_range"
+msgstr "Su tabancası menzil seviyesi %s"
+
+msgid "res_shop_life"
+msgstr "%s Ekstra canlar"
+
+msgid "res_required"
+msgstr "gerekli"
+
+msgid "res_not_enough_money"
+msgstr "Yeterli Para yok"
+
+msgid "res_skins"
+msgstr "Görünümler"
+
+msgid "res_achievements"
+msgstr "Başarılar"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_pets"
+msgstr "Evcil Hayvanlar"
+
+msgid "res_lostfound"
+msgstr "Kayıplar ve Bulunanlar"
+
+msgid "res_rangs"
+msgstr "Rütbeler"
+
+msgid "res_specialitems"
+msgstr "Özel Eşyalar"
+
+msgid "res_achiev1_title"
+msgstr "Sosyal"
+
+msgid "res_achiev1_desc"
+msgstr "Magma Mobile Facebook sayfasını kontrol edin"
+
+msgid "res_achiev2_title"
+msgstr "Paylaş"
+
+msgid "res_achiev2_desc"
+msgstr "Oyunu Arkadaşlarınızla Paylaşın"
+
+msgid "res_achiev3_title"
+msgstr "Daha fazla oyun"
+
+msgid "res_achiev3_desc"
+msgstr "Diğer oyunlarımıza göz atın"
+
+msgid "res_achiev4_title"
+msgstr "İtfaiyeci eğitimi"
+
+msgid "res_achiev4_desc"
+msgstr "Eğitimi tamamlayın"
+
+msgid "res_achiev5_title"
+msgstr "İtafaiyeci!"
+
+msgid "res_achiev5_desc"
+msgstr "İtfaiyecinin rütbe kilidini kırın"
+
+msgid "res_achiev6_title"
+msgstr "Birinci sınıf itfaiyeci"
+
+msgid "res_achiev6_desc"
+msgstr "Birinci sınıf itfaiyeci rütbe kilidini kırın"
+
+msgid "res_achiev7_title"
+msgstr "Kıdemli itfaiyeci"
+
+msgid "res_achiev7_desc"
+msgstr "Kıdemli itfaiyeci rütbe kilidini kırın"
+
+msgid "res_achiev8_title"
+msgstr "Usta itfaiyeci"
+
+msgid "res_achiev8_desc"
+msgstr "Usta itfaiyeci rütbe kilidini kırın"
+
+msgid "res_achiev9_title"
+msgstr "İtfaiye Amiri"
+
+msgid "res_achiev9_desc"
+msgstr "İtfaiye Amiri rütbe kilidini kırın"
+
+msgid "res_achiev10_title"
+msgstr "Teğmen"
+
+msgid "res_achiev10_desc"
+msgstr "Teğmen rütbe kilidini kırın"
+
+msgid "res_achiev11_title"
+msgstr "Yüzbaşı"
+
+msgid "res_achiev11_desc"
+msgstr "Yüzbaşı rütbe kilidini kırın"
+
+msgid "res_achiev12_title"
+msgstr "Kıdemli Yüzbaşı"
+
+msgid "res_achiev12_desc"
+msgstr "Kıdemli Yüzbaşı rütbe kilidini kırın"
+
+msgid "res_achiev13_title"
+msgstr "Şef"
+
+msgid "res_achiev13_desc"
+msgstr "Şefin rütbe kilidini kırın"
+
+msgid "res_achiev14_title"
+msgstr "Kıdemli şef"
+
+msgid "res_achiev14_desc"
+msgstr "Kıdemli şefin rütbe kilidini kırın"
+
+msgid "res_achiev15_title"
+msgstr "1.000 litre su"
+
+msgid "res_achiev15_desc"
+msgstr "1.000 litre su püskürtün"
+
+msgid "res_achiev16_title"
+msgstr "5.000 litre su"
+
+msgid "res_achiev16_desc"
+msgstr "5.000 litre su püskürtün"
+
+msgid "res_achiev17_title"
+msgstr "10.000 litre su"
+
+msgid "res_achiev17_desc"
+msgstr "10.000 litre su püskürtün"
+
+msgid "res_achiev18_title"
+msgstr "Kurtarıcı"
+
+msgid "res_achiev18_desc"
+msgstr "Tek bir seviyede 3 Dolgu Oyuncak Hayvan kurtarın"
+
+msgid "res_achiev19_title"
+msgstr "Korkak"
+
+msgid "res_achiev19_desc"
+msgstr "Hiçbir dolgu oyuncak hayvan kurtarmadan bir seviyeyi tamamlayın"
+
+msgid "res_achiev20_title"
+msgstr "Kurnaz"
+
+msgid "res_achiev20_desc"
+msgstr "Hiç can kaybetmeden bir seviyeyi tamamlayın"
+
+msgid "res_achiev21_title"
+msgstr "Dünya 1"
+
+msgid "res_achiev21_desc"
+msgstr "Dünya 1\'i tamamlayın"
+
+msgid "res_achiev22_title"
+msgstr "Dünya 2"
+
+msgid "res_achiev22_desc"
+msgstr "Dünya 2\'yi tamamlayın"
+
+msgid "res_achiev23_title"
+msgstr "Dünya 3"
+
+msgid "res_achiev23_desc"
+msgstr "Dünya 3\'ü tamamlayın"
+
+msgid "res_achiev24_title"
+msgstr "Bulucu"
+
+msgid "res_achiev24_desc"
+msgstr "Kayıp bir nesne bulun"
+
+msgid "res_achiev25_title"
+msgstr "Koleksiyoncu"
+
+msgid "res_achiev25_desc"
+msgstr "Oyundaki tüm kayıp nesneleri bulun"
+
+msgid "res_achiev26_title"
+msgstr "Alev Avcısı"
+
+msgid "res_achiev26_desc"
+msgstr "100 Alev söndürün"
+
+msgid "res_achiev27_title"
+msgstr "Alev Çocuk Avcısı"
+
+msgid "res_achiev27_desc"
+msgstr "100 Alev Çocuk söndürün"
+
+msgid "res_achiev28_title"
+msgstr "Lav Balçığı avcısı"
+
+msgid "res_achiev28_desc"
+msgstr "100 Lav Balçığı söndürün"
+
+msgid "res_achiev29_title"
+msgstr "Bombacı avcısı"
+
+msgid "res_achiev29_desc"
+msgstr "Patlamadan önce 100 bombacıyı yok edin"
+
+msgid "res_achiev30_title"
+msgstr "Alev makinesi avcısı"
+
+msgid "res_achiev30_desc"
+msgstr "100 Alev makinesi söndürün"
+
+msgid "res_achiev31_title"
+msgstr "Yangın Örümceği avcısı"
+
+msgid "res_achiev31_desc"
+msgstr "100 Yangın Örümceği söndürün"
+
+msgid "res_achiev32_title"
+msgstr "Şahin Gözü"
+
+msgid "res_achiev32_desc"
+msgstr "Gizli Duvar bulun"
+
+msgid "res_music"
+msgstr "Müzik"
+
+msgid "res_sound"
+msgstr "Ses"
+
+msgid "res_settings"
+msgstr "Ayarlar"
+
+msgid "keywords"
+msgstr "yangın,itfaiyeci,platform oyunu,atlama,engeller,atlatmak,itfaiyeci,itfaiye aracı,su,silahlı çatışma,jetpack,canavarlar"
+
+msgid "res_moregames"
+msgstr "Daha fazla oyun"
+
+msgid "res_restorepurchases"
+msgstr "Satın Alınanları Geri Yükle"
+
+msgid "res_head_quarter"
+msgstr "Merkez"
+
+msgid "res_shop_extralevel1"
+msgstr "Ekstra Orman seviyeleri"
+
+msgid "res_shop_extralevel2"
+msgstr "Ekstra Çöl seviyeleri"
+
+msgid "res_shop_xpx2"
+msgstr "XP\'yi İkiye Katla"
+
+msgid "res_shop_piecex2"
+msgstr "Parayı İkiye Katla"
+
+msgid "res_shop_maxipack"
+msgstr "Para + XP\'yi İkiye Katla"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Belge Görünümü"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Ateş Kız Görünümü"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Ateş Kız Görünümü"
+
+msgid "res_shop_pet1"
+msgstr "Evcil Hayvan 1"
+
+msgid "res_shop_pet2"
+msgstr "Evcil Hayvan 2"
+
+msgid "res_shop_pet3"
+msgstr "Evcil Hayvan 3"
+
+msgid "res_talky_0"
+msgstr "Hareket etmek için [+] yön tuşlarını kullanın."
+
+msgid "res_talky_1"
+msgstr "Atlamak için [A] eylem düğmesine tıklayın."
+
+msgid "res_talky_2"
+msgstr "Jetpack\'i kullanmak için [A] eylem düğmesini basılı tutun."
+
+msgid "res_talky_3"
+msgstr "Dolgu Oyuncak Hayvanları kurtarın!"
+
+msgid "res_talky_4"
+msgstr "Ve çıkışa doğru koşun!"
+
+msgid "res_talky_5"
+msgstr "Alevleri söndürmek için [X] su tabancası düğmesini kullanın"
+
+msgid "res_talky_6"
+msgstr "Alevlerin tamamen sönmüş olduğundan emin olmak için küllerin üzerinden yürüyün"
+
+msgid "res_talky_7"
+msgstr "Alev Çocuk\'a dikkat edin! Su tabancanla onu söndürün"
+
+msgid "res_talky_8"
+msgstr "Söner sönmez onu yok etmek için üstüne atlayın"
+
+msgid "res_talky_9"
+msgstr "Alevlerin çeşitli katmanları olabilir"
+
+msgid "res_talky_10"
+msgstr "Yangın muslukları su tankını doldurmanızı sağlar"
+
+msgid "res_talky_11"
+msgstr "Bir can kaybedersen yangın muslukları kontrol noktaları olarak da kullanılabilir"
+
+msgid "res_talky_12"
+msgstr "Her seviyede kurtarılması gereken 3 dolgu oyuncak hayvan var"
+
+msgid "res_talky_13"
+msgstr "Birçok düşman türü var... Hepsi de tehlikeli!"
+
+msgid "res_talky_14"
+msgstr "Sarkıtlar ölümcüldür!"
+
+msgid "res_talky_15"
+msgstr "Yol boyunca mücadelende sana yardımcı olacak hareketli platformlarla karşılaşırsın"
+
+msgid "res_talky_16"
+msgstr "Gözlerinizi dört açın... gizli geçitler var."
+
+msgid "res_talky_17"
+msgstr "Teleportlar sizi başka bir yere götürür..."
+
+msgid "res_talky_18"
+msgstr "Para ile mağazadan eşya veya terfi satın alabilirsiniz"
+
+msgid "res_talky_19"
+msgstr "XP ile yeni rütbeler alabilirsiniz"
+
+msgid "res_talky_20"
+msgstr "İşte senin hayvanın, hep peşinizden gelecek"
+
+msgid "res_talky_21"
+msgstr "Bu arada ben Talky, her zaman size yardım etmeye hazırım"
+
+msgid "res_talky_22"
+msgstr "Şimdi hazırsınız, işte şimdi gerçek bir İtfaiyecisiniz!"
+
+msgid "res_talky_23"
+msgstr "Jetpack\'i kullanmak için sağdaki iki düğmeyi üst üste getirip aynı anda basın"
+
+msgid "res_arrows"
+msgstr "Oklar"
+
+msgid "res_joystick"
+msgstr "Kumanda kolu"
+
+msgid "res_rank_0"
+msgstr "Acemi asker"
+
+msgid "res_rank_1"
+msgstr "İtfaiyeci"
+
+msgid "res_rank_2"
+msgstr "1. Sınıf İtfaiyeci"
+
+msgid "res_rank_3"
+msgstr "Kıdemli İtfaiyeci"
+
+msgid "res_rank_4"
+msgstr "Usta İtfaiyeci"
+
+msgid "res_rank_5"
+msgstr "İtfaiye Amiri"
+
+msgid "res_rank_6"
+msgstr "Teğmen"
+
+msgid "res_rank_7"
+msgstr "Yüzbaşı"
+
+msgid "res_rank_8"
+msgstr "Kıdemli Yüzbaşı"
+
+msgid "res_rank_9"
+msgstr "Şef"
+
+msgid "res_rank_10"
+msgstr "Kıdemli Şef"
+
+msgid "res_new_rank"
+msgstr "Yeni rütbe"
+
+msgid "res_inapp0_title"
+msgstr "Parayı İkiye Katla"
+
+msgid "res_inapp0_desc"
+msgstr "Tüm oyun boyunca kazandığınız parayı ikiye katlayın"
+
+msgid "res_inapp1_title"
+msgstr "XP\'yi İkiye Katla"
+
+msgid "res_inapp1_desc"
+msgstr "Tüm oyun boyunca kazandığınız XP\'yi ikiye katlayın"
+
+msgid "res_inapp2_title"
+msgstr "Görünüm 1"
+
+msgid "res_inapp2_desc"
+msgstr "Muhteşem Belge görünümüyle oynayın!"
+
+msgid "res_inapp3_title"
+msgstr "Görünüm 2"
+
+msgid "res_inapp3_desc"
+msgstr "Muhteşem Alev Kızı görünümüyle oynayın!"
+
+msgid "res_inapp4_title"
+msgstr "Görünüm 3"
+
+msgid "res_inapp4_desc"
+msgstr "Muhteşem belge görünümüyle oynayın!"
+
+msgid "res_inapp5_title"
+msgstr "Ekstra Orman seviyeleri"
+
+msgid "res_inapp5_desc"
+msgstr "Ormandaki tüm gizli seviyelerin kilidini kırın"
+
+msgid "res_inapp6_title"
+msgstr "Ekstra Çöl seviyeleri"
+
+msgid "res_inapp6_desc"
+msgstr "Çöldeki tüm gizli seviyelerin kilidini kırın"
+
+msgid "res_inapp7_title"
+msgstr "Koala Arkadaş"
+
+msgid "res_inapp7_desc"
+msgstr "Hep peşinizden gelen sevimli bir Koala"
+
+msgid "res_inapp8_title"
+msgstr "Yavru Ayı Arkadaş"
+
+msgid "res_inapp8_desc"
+msgstr "Hep peşinizden gelen çok güzel bir yavru ayı"
+
+msgid "res_inapp9_title"
+msgstr "Köpek Arkadaş"
+
+msgid "res_inapp9_desc"
+msgstr "Hep peşinizden gelen çok daık bir köpek"
+
+msgid "res_inapp10_title"
+msgstr "Paketi İkiye Katla"
+
+msgid "res_inapp10_desc"
+msgstr "Oyun boyunca kazandığınız para ve XP\'yi ikiye katlayın"
+
+msgid "res_mission"
+msgstr "Görev"
+
+msgid "res_title_monde1"
+msgstr "Orman"
+
+msgid "res_title_monde2"
+msgstr "Çöl"
+
+msgid "res_title_monde3"
+msgstr "Dağ"
+
+msgid "res_level_locked"
+msgstr "Seviye kilitli"
+
+msgid "res_credits"
+msgstr "Krediler"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Dünyadaki diğer oyuncularla yarışmak ister misiniz? Bunun için Google Play Servislerinde oturum açabilirsiniz"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Harika başarılar elde etmek ister misiniz? Bunun için Google Play Servislerinde oturum açabilirsiniz"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Oyundaki ilerlemenizi kaydetmek ister misiniz? Bunun için Google Play Servislerinde oturum açabilirsiniz"
+
+msgid "res_share"
+msgstr "%1s\'e göz atın; bu harika bir oyun! Buradan indirebilirsiniz: %2s."
+
+msgid "res_no_pets"
+msgstr "Evcil hayvan yok"
+
+msgid "res_select"
+msgstr "Seç"
+
+msgid "res_credits_text"
+msgstr "Geliştirici: Clément Slempkes                                                                                                                       Grafik Tasarım: Sandra Ferragu                                                                                                                           Proje Lideri: Emmanuel Robles                                                                                                                         Proje Yöneticisi: Loïc Kempf"
+
+msgid "res_ask_login_gp"
+msgstr "Google Plus\'a girmek ister misiniz?"
+
+msgid "res_ask_logout_gp"
+msgstr "Google Plus\'tan çıkmak ister misiniz?"
+
+msgid "res_congratulations"
+msgstr "Başardınız. Tebrikler! Oyunun her seviyesini geçtiniz. Çok az kişi bu kadar ilerledi. Aferin! Çok yakında kurtarılmak üzere daha fazla hayvan ve bulunmak üzere daha fazla gizli nesnelerin bulunduğu yeni dünyalar ekleyeceğiz. Bizi izlemeye devam edin. Bu arada, oyunu değerlendirip 5 yıldız verebilirseniz memnun oluruz!"
+
+msgid "res_pause"
+msgstr "Duraklat"
+
+msgid "res_shop_pet4_title"
+msgstr "Arkadaş ~ Kurt"
+
+msgid "res_shop_pet4_desc"
+msgstr "Sizi her yerde takip eden cin bir kurt"
+
+msgid "res_shop_pet5_title"
+msgstr "Arkadaş ~ Peluş Ayı"
+
+msgid "res_shop_pet5_desc"
+msgstr "Sizi her yerde takip eden güçlü bir kutup ayısı"
+
+msgid "res_shop_pet6_title"
+msgstr "Arkadaş ~ Ren Geyiği"
+
+msgid "res_shop_pet6_desc"
+msgstr "Sizi her yerde takip eden harika bir ren geyiği"
+
+msgid "res_shop_pet7_title"
+msgstr "Arkadaş ~ Kutup Tilkisi"
+
+msgid "res_shop_pet7_desc"
+msgstr "Hep peşinizden gelen zeki bir kar tilkisi"
+
+msgid "res_shop_pet8_title"
+msgstr "Arkadaş ~ Mamut"
+
+msgid "res_shop_pet8_desc"
+msgstr "Sizi her yerde takip eden kuvvetli bir mamut"
+
+msgid "res_shop_skin3_title"
+msgstr "Cilt ~ Eskimo"
+
+msgid "res_shop_skin3_desc"
+msgstr "İnanılmaz Eskimo cildiyle oynayın!"
+
+msgid "res_shop_skin4_title"
+msgstr "Cilt ~ Yeti (Kar adamı)"
+
+msgid "res_shop_skin4_desc"
+msgstr "İnanılmaz Yeti cildiyle oynayın!"
+
+msgid "res_shop_skin5_title"
+msgstr "Cilt ~ Noel Baba"
+
+msgid "res_shop_skin5_desc"
+msgstr "İnanılmaz Noel Baba cildiyle oynayın!"
+
+msgid "res_shop_skin6_title"
+msgstr "Cilt ~ Tril Şarkıcısı Kız"
+
+msgid "res_shop_skin6_desc"
+msgstr "İnanılmaz Tril Şarkıcısı Kız cildiyle oynayın!"
+
+msgid "res_shop_world3_title"
+msgstr "Dağ Ekstra seviyeleri"
+
+msgid "res_shop_world3_desc"
+msgstr "Dağdaki tüm gizem seviyelerini çözün"
+
+msgid "res_shop_all"
+msgstr "Mağazadaki tüm kilitleri açın, reklamları çıkarın ve daha iyi oyunlar geliştirmekte bize yardım edin !"
+
+
+msgid "res_notif_1"
+msgstr "Hadi bugün %1s oynayalım!"
+
+msgid "res_notif_2"
+msgstr "Bugün %1s oynarken bize katıl!"
+
+msgid "res_notif_3"
+msgstr "Bir süredir %1s oynamıyorsun!"
+
+msgid "res_notif_4"
+msgstr "Gününe biraz eğlence kat. Şimdi %1s oyna!"
+
+
+

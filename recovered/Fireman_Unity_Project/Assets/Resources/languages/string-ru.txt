@@ -1,0 +1,640 @@
+msgid "app_name"
+msgstr "Пожарный"
+
+msgid "Share"
+msgstr "Я отлично провожу время за игрой в %1s ! Скачай ее : %2s"
+
+msgid "rate the game"
+msgstr "Оценить игру"
+
+msgid "You seem to be enjoying the game"
+msgstr "Вы, кажется, наслаждается {0} так, как мы наслаждались ее развитии. Спасибо. Не могли бы вы помочь нам, взяв некоторое время, чтобы добавить Положительный рейтинг в игре странице?"
+
+msgid "res_harder"
+msgstr "Попробуйте игру в режиме труднее!\nГотовы ли вы повторить...\nвсех уровнях?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "Джунгли"
+
+msgid "res_achiev12_title"
+msgstr "Старший бригадир"
+
+msgid "res_quit"
+msgstr "Выйти?"
+
+msgid "res_rank_9"
+msgstr "Начальник"
+
+msgid "res_shop_xpx2"
+msgstr "Удвойте опыт"
+
+msgid "res_achiev5_title"
+msgstr "Борец с огнем!"
+
+msgid "res_talky_6"
+msgstr "Чтобы убедиться в том, что огонь потушен, пройдите по пеплу"
+
+msgid "res_inapp10_desc"
+msgstr "Удвойте деньги и опыт, полученные во время игры"
+
+msgid "res_mission"
+msgstr "Миссия"
+
+msgid "res_achiev17_title"
+msgstr "10000 литров воды"
+
+msgid "res_rank_7"
+msgstr "Бригадир"
+
+msgid "res_achiev3_desc"
+msgstr "Ознакомьтесь с другими играми"
+
+msgid "res_talky_10"
+msgstr "Используйте пожарные краны для пополнения запаса воды в резервуаре"
+
+msgid "keywords"
+msgstr "огонь,пожарник,платформинг,прыгать,препятствия,маневр,борец с огнем,пожарная машина,вода,пожаротушение,струйный летательный аппарат,монстры"
+
+msgid "res_credits"
+msgstr "Создатели"
+
+msgid "res_arrows"
+msgstr "стрелки"
+
+msgid "res_achiev13_title"
+msgstr "Начальник"
+
+msgid "res_not_enough_money"
+msgstr "Недостаточно денег"
+
+msgid "res_talky_15"
+msgstr "Вашу миссию облегчат движущиеся платформы, которые встретятся на вашем пути"
+
+msgid "res_achiev7_title"
+msgstr "Старший пожарник"
+
+msgid "res_skins"
+msgstr "Образы"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Образ врача"
+
+msgid "res_inapp1_title"
+msgstr "Удвойте опыт"
+
+msgid "res_rank_0"
+msgstr "Новичок"
+
+msgid "res_talky_3"
+msgstr "Спасите мягкие игрушки !"
+
+msgid "res_achiev6_title"
+msgstr "Пожарный 1 разряда"
+
+msgid "res_achiev26_title"
+msgstr "Охотник за пламенем"
+
+msgid "res_achiev24_title"
+msgstr "Искатель"
+
+msgid "res_achiev24_desc"
+msgstr "Найдите потерянный объект"
+
+msgid "res_achiev19_title"
+msgstr "Трус"
+
+msgid "res_inapp9_desc"
+msgstr "Невероятно преданная собака, следующая за вами повсюду"
+
+msgid "res_achiev22_title"
+msgstr "Мир 2"
+
+msgid "res_new_rank"
+msgstr "Новый ранг"
+
+msgid "res_achiev5_desc"
+msgstr "Разблокируйте ранг Пожарника"
+
+msgid "res_achiev11_desc"
+msgstr "Разблокируйте ранг Бригадира"
+
+msgid "res_congratulations"
+msgstr "У вас получилось, поздравляем! Вы - один из немногих, кому удалось пройти все уровни игры. Отличная работа! Следите за обновлениями: в ближайшее время в игру будут добавлены новые миры с новыми животными, ожидающими вашей помощи, и новыми предметами для вашей коллекции. Кроме того, мы будем очень благодарны за ваш положительный отзыв на странице игры!  "
+
+msgid "res_select"
+msgstr "Выбрать"
+
+msgid "res_achiev6_desc"
+msgstr "Разблокируйте ранг пожарника 1 разряда"
+
+msgid "res_shop_range"
+msgstr "Зона поражения водяного пистолета %s"
+
+msgid "res_talky_13"
+msgstr "Вам придется столкнуться с различными врагами... И все они представляют опасность!"
+
+msgid "res_inapp7_title"
+msgstr "Коала"
+
+msgid "res_achiev28_title"
+msgstr "Охотник за лавой"
+
+msgid "res_shop_piecex2"
+msgstr "Удвоить деньги"
+
+msgid "res_achiev27_title"
+msgstr "Охотник за огоньком"
+
+msgid "res_achiev25_title"
+msgstr "Собиратель"
+
+msgid "res_achiev28_desc"
+msgstr "Потушите 100 струй лавы"
+
+msgid "res_inapp8_desc"
+msgstr "Милый медвежонок, следующий за вами по пятам"
+
+msgid "res_inapp2_desc"
+msgstr "Сыграйте в великолепном образе врача !"
+
+msgid "res_achievements"
+msgstr "Достижения"
+
+msgid "res_ask_login_gp"
+msgstr "Вы уверены, что хотите зайти в свою учетную запись на Google Plus?"
+
+msgid "res_achiev30_title"
+msgstr "Охотник за огнеметами"
+
+msgid "res_achiev22_desc"
+msgstr "Завершите Мир 2"
+
+msgid "res_shop_pet2"
+msgstr "Питомец 2"
+
+msgid "res_shop_pet3"
+msgstr "Питомец 3"
+
+msgid "res_achiev4_title"
+msgstr "Подготовка пожарника"
+
+msgid "res_shop_pet1"
+msgstr "Питомец 1"
+
+msgid "res_loading"
+msgstr "Загрузка..."
+
+msgid "res_achiev8_desc"
+msgstr "Разблокируйте ранг Главного пожарника"
+
+msgid "res_rank_4"
+msgstr "Главный пожарник"
+
+msgid "res_talky_21"
+msgstr "Кстати, меня зовут Талки, я всегда рад помочь"
+
+msgid "res_inapp5_desc"
+msgstr "Разблокируйте дополнительный уровень в Джунглях"
+
+msgid "res_talky_8"
+msgstr "После того, как огонь будет потушен, прыгните на него и уничтожьте"
+
+msgid "res_talky_5"
+msgstr "Чтобы потушить огонь, нажмите на кнопку водяного пистолета"
+
+msgid "res_inapp5_title"
+msgstr "Дополнительный уровень - Джунгли"
+
+msgid "res_achiev21_desc"
+msgstr "Завершите Мир 1"
+
+msgid "res_inapp4_desc"
+msgstr "Сыграйте в великолепном образе врача !"
+
+msgid "res_talky_12"
+msgstr "На каждом уровне вам предстоит спасти 3 мягкие игрушки"
+
+msgid "res_rank_1"
+msgstr "Борец с огнем"
+
+msgid "res_achiev20_desc"
+msgstr "Завершите уровень, не потеряв ни одной жизни"
+
+msgid "res_inapp7_desc"
+msgstr "Милая коала, идущая за вами по пятам"
+
+msgid "res_share"
+msgstr " %1s - невероятно увлекательная игра! Ее можно скачать здесь: %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Посетите страницу "
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Хотите получить доступ к супердостижениям? Зарегистрируйтесь на Google Play Services"
+
+msgid "res_achiev14_title"
+msgstr "Главный старшина"
+
+msgid "res_inapp8_title"
+msgstr "Друг-медвежонок"
+
+msgid "res_inapp6_desc"
+msgstr "Разблокируйте дополнительный уровень в Пустыне"
+
+msgid "res_talky_7"
+msgstr "Обратите внимание, это огонек! Потушите его при помощи водяного пистолета"
+
+msgid "res_achiev2_desc"
+msgstr "Поделитесь игрой с друзьями"
+
+msgid "res_inapp3_title"
+msgstr "Образ3"
+
+msgid "res_inapp1_desc"
+msgstr "Удвойте опыт, полученный во время игры"
+
+msgid "res_talky_20"
+msgstr "Это ваш питомец, он не будет отходить от вас ни на шаг"
+
+msgid "res_rangs"
+msgstr "Ранги"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "Настройки"
+
+msgid "res_head_quarter"
+msgstr "Штаб"
+
+msgid "res_achiev18_title"
+msgstr "Спаситель"
+
+msgid "res_talky_1"
+msgstr "Чтобы прыгнуть, нажмите на правую кнопку."
+
+msgid "res_achiev15_title"
+msgstr "1000 литров воды"
+
+msgid "res_achiev32_title"
+msgstr "Соколиный глаз"
+
+msgid "res_achiev18_desc"
+msgstr "Спасите 3 мягких игрушки за один уровень"
+
+msgid "res_achiev25_desc"
+msgstr "Найдите все потерянные предметы игры"
+
+msgid "res_achiev16_desc"
+msgstr "Выпустите 5000 литров воды"
+
+msgid "res_inapp10_title"
+msgstr "Двойной комплект"
+
+msgid "res_achiev7_desc"
+msgstr "Разблокируйте ранг Старшего пожарника"
+
+msgid "res_rank_5"
+msgstr "Начальник пожарной службы"
+
+msgid "res_inapp0_desc"
+msgstr "Удвойте заработанные в игре деньги"
+
+msgid "res_achiev12_desc"
+msgstr "Разблокируйте ранг Старшего бригадира"
+
+msgid "res_achiev16_title"
+msgstr "5 000 литров воды"
+
+msgid "res_required"
+msgstr "обязательно"
+
+msgid "res_no_pets"
+msgstr "Питомцев нет"
+
+msgid "res_pets"
+msgstr "Питомцы"
+
+msgid "res_shop_extralevel1"
+msgstr "Дополнительные уровни - Джунгли"
+
+msgid "res_talky_23"
+msgstr "Чтобы воспользоваться летательным аппаратом и одновременно выстрелить, расположите одну правую кнопку над другой"
+
+msgid "res_talky_19"
+msgstr "Опыт позволяет продвигаться по службе"
+
+msgid "res_achiev32_desc"
+msgstr "Найдите скрытую стену"
+
+msgid "res_achiev29_desc"
+msgstr "Предотвратите взрыв 100 гранатометчиков"
+
+msgid "res_buy"
+msgstr "Купить"
+
+msgid "res_shop_life"
+msgstr "%s дополнительных жизней"
+
+msgid "res_joystick"
+msgstr "Джойстик"
+
+msgid "res_achiev23_desc"
+msgstr "Завершите Мир 3"
+
+msgid "res_achiev29_title"
+msgstr "Охотник за бомбами"
+
+msgid "res_title_monde2"
+msgstr "Пустыня"
+
+msgid "res_achiev31_desc"
+msgstr "Потушите 100 огненных пауков"
+
+msgid "res_inapp0_title"
+msgstr "Удвоить деньги"
+
+msgid "res_sound"
+msgstr "Звук"
+
+msgid "res_achiev26_desc"
+msgstr "Потушите 100 языков пламени"
+
+msgid "res_good_job"
+msgstr "Уровень пройден!"
+
+msgid "res_shop"
+msgstr "Магазин"
+
+msgid "res_jetpack"
+msgstr "Струйный летательный аппарат"
+
+msgid "res_achiev21_title"
+msgstr "Мир 1"
+
+msgid "res_inapp6_title"
+msgstr "Дополнительный уровень - Пустыня"
+
+msgid "res_talky_22"
+msgstr "Теперь вы настоящий пожарник, готовый бороться с огнем!"
+
+msgid "res_talky_18"
+msgstr "Вы можете покупать предметы и обновления в магазине за деньги"
+
+msgid "res_level_locked"
+msgstr "Уровень недоступен"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Образ пожарницы"
+
+msgid "res_shop_reservoir"
+msgstr "Вместимость резервуара струйного летательного аппарата %s"
+
+msgid "res_talky_17"
+msgstr "Телепорты перенесут вас в другое место..."
+
+msgid "res_rank_2"
+msgstr "Пожарный 1 разряда"
+
+msgid "res_talky_14"
+msgstr "Сталактиты убивают!"
+
+msgid "res_talky_0"
+msgstr "Для перемещения используйте левую и правую стрелки."
+
+msgid "res_achiev30_desc"
+msgstr "Потушите 100 огнеметов"
+
+msgid "res_restorepurchases"
+msgstr "Восстановить покупки"
+
+msgid "res_achiev1_title"
+msgstr "Социальный"
+
+msgid "res_achiev3_title"
+msgstr "Другие игры"
+
+msgid "res_achiev23_title"
+msgstr "Мир 3"
+
+msgid "res_moregames"
+msgstr "Другие игры"
+
+msgid "res_music"
+msgstr "Музыка"
+
+msgid "res_inapp4_title"
+msgstr "Образ 3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Хотите соревноваться с игроками со всего мира? Зарегистрируйтесь на Google Play Services"
+
+msgid "res_talky_2"
+msgstr "Чтобы воспользоваться струйным летательным аппаратом, нажмите и удерживайте правую кнопку"
+
+msgid "res_achiev19_desc"
+msgstr "Завершите уровень, не спасая ни одной мягкой игрушки"
+
+msgid "res_achiev10_title"
+msgstr "Лейтенант"
+
+msgid "res_rank_10"
+msgstr "Главный старшина"
+
+msgid "res_ask_logout_gp"
+msgstr "Вы желаете выйти из учетной записи в Google Plus?"
+
+msgid "res_rank_8"
+msgstr "Старший бригадир"
+
+msgid "res_achiev10_desc"
+msgstr "Разблокируйте ранг лейтенанта"
+
+msgid "res_achiev17_desc"
+msgstr "Выпустите 10000 литров воды"
+
+msgid "res_achiev2_title"
+msgstr "Поделиться"
+
+msgid "res_inapp3_desc"
+msgstr "Сыграйте в образе великолепной пожарницы!"
+
+msgid "res_talky_16"
+msgstr "Ищите...секретные тропы."
+
+msgid "res_achiev13_desc"
+msgstr "Разблокируйте ранг Начальника"
+
+msgid "res_inventory"
+msgstr "Высокое качество"
+
+msgid "res_inapp2_title"
+msgstr "Образ 1"
+
+msgid "res_shop_maxipack"
+msgstr "Удвойте деньги и опыт"
+
+msgid "res_rank_6"
+msgstr "Лейтенант"
+
+msgid "res_inapp9_title"
+msgstr "Собака"
+
+msgid "res_achiev4_desc"
+msgstr "Завершите учебный уровень"
+
+msgid "res_specialitems"
+msgstr "Особые предметы"
+
+msgid "res_achiev31_title"
+msgstr "Охотник на огненных пауков"
+
+msgid "res_achiev11_title"
+msgstr "Бригадир"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Образ пожарницы"
+
+msgid "res_lostfound"
+msgstr "Бюро находок"
+
+msgid "res_shop_extralevel2"
+msgstr "Дополнительные уровни - Пустыня"
+
+msgid "res_rank_3"
+msgstr "Старший пожарник"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Хотите сохранить игру? Зарегистрируйтесь на Google Play Services"
+
+msgid "res_achiev15_desc"
+msgstr "Выпустите 1000 литров воды"
+
+msgid "res_talky_9"
+msgstr "Иногда пламя оказывается многослойныйм"
+
+msgid "res_talky_11"
+msgstr "Пожарные краны также могут использоваться в качестве точек отсчета при потере жизни"
+
+msgid "res_achiev9_title"
+msgstr "Начальник пожарной службы"
+
+msgid "res_achiev20_title"
+msgstr "Ловкач"
+
+msgid "res_achiev9_desc"
+msgstr "Разблокируйте ранг Начальника пожарной службы"
+
+msgid "res_talky_4"
+msgstr "И беги к выходу!"
+
+msgid "res_achiev14_desc"
+msgstr "Разблокировать ранг Главного начальника"
+
+msgid "res_achiev8_title"
+msgstr "Главный пожарник"
+
+msgid "res_achiev27_desc"
+msgstr "Потушите 100 огоньков"
+
+msgid "res_pause"
+msgstr "Пауза"
+
+msgid "res_shop_pet4_title"
+msgstr "Друг ~ Волк"
+
+msgid "res_shop_pet4_desc"
+msgstr "Умный волк, который повсюду следует за вами"
+
+msgid "res_shop_pet5_title"
+msgstr "Друг ~ Белый медведь"
+
+msgid "res_shop_pet5_desc"
+msgstr "Сильный белый медведь, который повсюду следует за вами"
+
+msgid "res_shop_pet6_title"
+msgstr "Друг ~ Олень"
+
+msgid "res_shop_pet6_desc"
+msgstr "Прекрасный олень, который повсюду следует за вами"
+
+msgid "res_shop_pet7_title"
+msgstr "Друг ~ Песец"
+
+msgid "res_shop_pet7_desc"
+msgstr "Умный песец, который повсюду следует за вами"
+
+msgid "res_shop_pet8_title"
+msgstr "Друг ~ Мамонт"
+
+msgid "res_shop_pet8_desc"
+msgstr "Сильный мамонт, который повсюду следует за вами"
+
+msgid "res_shop_skin3_title"
+msgstr "Оформление ~ Эскимос"
+
+msgid "res_shop_skin3_desc"
+msgstr "Играйте в роли забавного эскимоса!"
+
+msgid "res_shop_skin4_title"
+msgstr "Оформление ~ Снежный человек"
+
+msgid "res_shop_skin4_desc"
+msgstr "Играйте в роли удивительного снежного человека!"
+
+msgid "res_shop_skin5_title"
+msgstr "Оформление ~ Санта Клаус"
+
+msgid "res_shop_skin5_desc"
+msgstr "Играйте в роли веселого Санта Клауса!"
+
+msgid "res_shop_skin6_title"
+msgstr "Оформление - Красотка"
+
+msgid "res_shop_skin6_desc"
+msgstr "Играйте в роли прекрасной красотки!"
+
+msgid "res_title_monde3"
+msgstr "Гора"
+
+msgid "res_shop_world3_title"
+msgstr "Дополнительные уровни на горе"
+
+msgid "res_shop_world3_desc"
+msgstr "Разблокируйте все секретные уровни на горе"
+
+msgid "res_shop_all"
+msgstr "Разблокируйте все предложения в магазине, уберите рекламу и помогайте нам улучшать игры!"
+
+msgid "res_notif_1"
+msgstr "Давайте поиграем в %1s сегодня!"
+
+msgid "res_notif_2"
+msgstr "Присоединяйтесь к игре в %1s прямо сегодня!"
+
+msgid "res_notif_3"
+msgstr "Вы еще не играли в %1s!"
+
+msgid "res_notif_4"
+msgstr "Порадуйте себя. Поиграйте в %1s прямо сейчас!"
+
+
+
+
+
+
+
+

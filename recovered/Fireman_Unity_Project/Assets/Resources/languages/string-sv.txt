@@ -1,0 +1,707 @@
+msgid "app_name"
+msgstr "Brandman"
+
+msgid "res_title_monde1"
+msgstr "Jungel"
+
+msgid "res_loading"
+msgstr "Laddar..."
+
+msgid "res_achiev12_title"
+msgstr "Senior kapten"
+
+msgid "res_quit"
+msgstr "Avsluta?"
+
+msgid "res_shop_world3_title"
+msgstr "Moutain Extra levels"
+
+msgid "res_inapp7_title"
+msgstr "Koalavän"
+
+msgid "res_shop_skin4_title"
+msgstr "Skin ~ Yeti"
+
+msgid "res_rank_9"
+msgstr "Chef"
+
+msgid "res_shop_xpx2"
+msgstr "Dubbel XP"
+
+msgid "res_shop_pet5_title"
+msgstr "Friend ~  Polar Bear"
+
+msgid "res_talky_6"
+msgstr "Gå över askan för att försäkra dig om att glöden är helt kvävd"
+
+msgid "res_inapp10_desc"
+msgstr "Dubblera pengar och XP som du tjänar, genom hela spelet"
+
+msgid "res_shop_skin6_title"
+msgstr "Skin ~ Yodel Girl"
+
+msgid "res_mission"
+msgstr "uppdrag"
+
+msgid "res_achiev17_title"
+msgstr "10 000 liter vatten"
+
+msgid "res_rank_7"
+msgstr "q"
+
+msgid "res_achiev3_desc"
+msgstr "Kolla in våra andra spel"
+
+msgid "res_talky_10"
+msgstr "Brandposter låter dig fylla på din vattentank"
+
+msgid "keywords"
+msgstr "eld, brandman,plattformsspel,hoppa,hinder,undvik,brandförsvar,brandbil,vatten,eldsvåda,jetpack,monster"
+
+msgid "res_credits"
+msgstr "Medverkande"
+
+msgid "res_arrows"
+msgstr "pilar"
+
+msgid "res_achiev13_title"
+msgstr "Chef"
+
+msgid "res_not_enough_money"
+msgstr "Inte tillräckligt med pengar"
+
+msgid "res_talky_15"
+msgstr "Längs med vägen kommer du att hitta rörliga plattformar som hjälper dig på traven"
+
+msgid "res_achiev7_title"
+msgstr "Senior brandbekämpare"
+
+msgid "res_skins"
+msgstr "Dräkter"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doktorsdräkt"
+
+msgid "res_inapp1_title"
+msgstr "Dubbel XP"
+
+msgid "res_rank_0"
+msgstr "Nybörjare"
+
+msgid "res_talky_3"
+msgstr "Rädda gosedjuren!"
+
+msgid "res_achiev6_title"
+msgstr "Eldbekämpare, första klassen"
+
+msgid "res_achiev26_title"
+msgstr "Eldjägare"
+
+msgid "res_achiev24_title"
+msgstr "Sökare"
+
+msgid "res_achiev24_desc"
+msgstr "Hitta ett förlorat objekt"
+
+msgid "res_shop_pet5_desc"
+msgstr "A strong polar bear that follows you everywhere"
+
+msgid "res_achiev19_title"
+msgstr "Fegis"
+
+msgid "res_inapp9_desc"
+msgstr "En superlojal hund som följer dig överallt"
+
+msgid "res_achiev22_title"
+msgstr "Värld 2"
+
+msgid "res_new_rank"
+msgstr "ny rank"
+
+msgid "res_achiev5_desc"
+msgstr "Lås upp graden eldbekämpare"
+
+msgid "res_achiev11_desc"
+msgstr "Lås upp rangen kapten"
+
+msgid "res_congratulations"
+msgstr "Du klarade det. Grattis! Du har lyckats med att klara varenda bana i hela spelet. Väldigt få klarar sig såhär långt. Grymt bra jobbat! Vi kommer snart att lägga till nya världar att upptäcka med fler husdjur att rädda och fler gömda objekt att hitta. Så håll ögonen öppna. Under tiden skulle vi verkligen uppskatta om du gav spelet ett 5-stjärnigt betyg!"
+
+msgid "res_select"
+msgstr "välj"
+
+msgid "res_achiev6_desc"
+msgstr "Lås upp graden eldbekämpare, första klassen"
+
+msgid "rate the game"
+msgstr "betygsätt spelet"
+
+msgid "res_shop_range"
+msgstr "Vattenpistolens räckvidd %s"
+
+msgid "res_talky_13"
+msgstr "Det finns många olika sorters fiender ... Alla är farliga!"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_talky_8"
+msgstr "När den har släckts, hoppa på den för att helt kväsa ut den"
+
+msgid "res_achiev28_title"
+msgstr "Lavaslime-jägare"
+
+msgid "res_shop_piecex2"
+msgstr "Dubbla pengarna"
+
+msgid "res_achiev27_title"
+msgstr "Flampojksjägare"
+
+msgid "res_difficulty"
+msgstr "Svårighetsgrad"
+
+msgid "res_level_locked"
+msgstr "Banan är låst"
+
+msgid "res_achiev5_title"
+msgstr "Eldbekämpare!"
+
+msgid "res_achiev28_desc"
+msgstr "Släck 100 lavaslimes"
+
+msgid "res_inapp8_desc"
+msgstr "En underbar björnunge som följer dig överallt"
+
+msgid "res_inapp2_desc"
+msgstr "Spela med den otroliga doktorsdräkten!"
+
+msgid "res_difficulty_extreme"
+msgstr "Extrem"
+
+msgid "res_ask_login_gp"
+msgstr "Vill du logga in på Google Plus?"
+
+msgid "res_achiev30_title"
+msgstr "Eldkastar-jägare"
+
+msgid "res_achiev22_desc"
+msgstr "Gör färdigt värld 2"
+
+msgid "res_shop_pet2"
+msgstr "Husdjur 2"
+
+msgid "res_shop_pet3"
+msgstr "Husdjur 3"
+
+msgid "res_achiev4_title"
+msgstr "Brandmansutbildning"
+
+msgid "res_shop_pet1"
+msgstr "Husdjur 1"
+
+msgid "res_shop_skin5_desc"
+msgstr "Play with the amazing Santa skin !"
+
+msgid "res_achiev8_desc"
+msgstr "Lås upp graden brandmästare"
+
+msgid "res_rank_4"
+msgstr "Högste brandbekämpare"
+
+msgid "res_talky_21"
+msgstr "Förresten, jag heter Talky, jag är alltid här för att hjälpa dig"
+
+msgid "res_inapp5_desc"
+msgstr "Unlock all secret levels in the Jungle"
+
+msgid "res_talky_20"
+msgstr "Här är ditt husdjur, det följer dig troget överallt"
+
+msgid "res_achiev29_title"
+msgstr "Bombjägare"
+
+msgid "Share"
+msgstr "Jag äls"
+
+msgid "res_talky_5"
+msgstr "Använd knappen för vattenpistolen för att släcka flammorna"
+
+msgid "res_achiev20_title"
+msgstr "Undvikare"
+
+msgid "res_inapp5_title"
+msgstr "Extra jungelbanor"
+
+msgid "res_achiev21_desc"
+msgstr "Färdigställ värld 1"
+
+msgid "res_inapp4_desc"
+msgstr "Spela med den otroliga doktorsdräkten!"
+
+msgid "res_talky_12"
+msgstr "Det finns tre gosedjur att rädda på varje bana"
+
+msgid "res_rank_1"
+msgstr "Brand"
+
+msgid "res_achiev20_desc"
+msgstr "Klara en bana utan att förlora några liv"
+
+msgid "res_inapp7_desc"
+msgstr "En gullig koala som följer dig överallt"
+
+msgid "res_music"
+msgstr "Musik"
+
+msgid "res_share"
+msgstr "Kolla in %1s, det är ett urhäftigt spel! Du kan ladda ner det här: %2s."
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_achiev1_desc"
+msgstr "Kolla in Magma Mobiles Facebooksida"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Vill du få tillgång till super"
+
+msgid "res_achiev14_title"
+msgstr "Brandmästare"
+
+msgid "res_inapp8_title"
+msgstr "Björnunge-vän"
+
+msgid "res_inapp6_desc"
+msgstr "Unlock all secret levels in the Desert"
+
+msgid "res_talky_7"
+msgstr "Akta dig för flampojken! Släck den med din vattenpistol"
+
+msgid "res_achiev2_desc"
+msgstr "dela spelet med dina vänner"
+
+msgid "res_inapp3_title"
+msgstr "Dräkt 2"
+
+msgid "res_inapp1_desc"
+msgstr "Dubbla XP:n du tjänar genom hela spelet"
+
+msgid "res_shop_pet8_title"
+msgstr "Friend ~ Mammoth"
+
+msgid "You seem to be enjoying the game"
+msgstr "You seem to be enjoying {0} as much as we enjoyed developing it. Thank you. Would you mind helping us by taking some time to add a positive rating in the game page?"
+
+msgid "res_rangs"
+msgstr "Grader"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_shop_skin6_desc"
+msgstr "Play with the amazing Yodel Girl skin ! "
+
+msgid "res_head_quarter"
+msgstr "Högkvarter"
+
+msgid "res_achiev18_title"
+msgstr "Räddare"
+
+msgid "res_talky_1"
+msgstr "Tryck på höger knapp för att hoppa."
+
+msgid "res_achiev15_title"
+msgstr "1 000 liter vatten"
+
+msgid "res_achiev32_title"
+msgstr "Ögon som en hök"
+
+msgid "res_achiev18_desc"
+msgstr "Rädda tre gosedjur på en bana"
+
+msgid "res_talky_11"
+msgstr "Brandposter kan också användas som kontrollpunkter, om du förlorar ett liv"
+
+msgid "res_achiev25_desc"
+msgstr "Hitta alla gömda objekt i spelet"
+
+msgid "res_achiev16_desc"
+msgstr "Skjut 5 000 liter vatten"
+
+msgid "res_inapp10_title"
+msgstr "Dubbelpack"
+
+msgid "res_achiev7_desc"
+msgstr "Lås upp graden senior brandbekämpare"
+
+msgid "res_rank_5"
+msgstr "Brandofficer"
+
+msgid "res_inapp0_desc"
+msgstr "Dubblera mängen pengar du tjänar genom hela spelet"
+
+msgid "res_achiev12_desc"
+msgstr "Lås upp graden senior kapten"
+
+msgid "res_shop_pet8_desc"
+msgstr "A puissant mammoth that follows you everywhere"
+
+msgid "res_achiev16_title"
+msgstr "5 000 liter vatten"
+
+msgid "res_required"
+msgstr "nödvändig"
+
+msgid "res_pets"
+msgstr "Husdjur"
+
+msgid "res_shop_extralevel1"
+msgstr "Extra jungelbanor"
+
+msgid "res_harder"
+msgstr "Try the game in harder mode !\nAre you ready to replay...\nall levels ?"
+
+msgid "res_talky_23"
+msgstr "Placera de två högra knapparna ovanpå varandra för att använda din jetpack och skjuta samtidigt"
+
+msgid "res_shop_all"
+msgstr "Unlock everything in the shop, remove ads and help us making better games !"
+
+msgid "res_talky_19"
+msgstr "XP låter dig gå upp i grad"
+
+msgid "res_shop_skin4_desc"
+msgstr "Play with the amazing Yeti skin !"
+
+msgid "res_achiev32_desc"
+msgstr "Hitta en gömd vägg"
+
+msgid "res_achiev29_desc"
+msgstr "Släck 100 bombare innan de exploderar"
+
+msgid "res_buy"
+msgstr "Köp"
+
+msgid "res_shop_life"
+msgstr "%s extraliv"
+
+msgid "res_shop_world3_desc"
+msgstr "Unlock all secret levels in the Moutain"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_achiev23_desc"
+msgstr "Klara värld 3"
+
+msgid "res_title_monde2"
+msgstr "Öken"
+
+msgid "res_achiev31_desc"
+msgstr "Släck 100 eldspindlar"
+
+msgid "res_inapp0_title"
+msgstr "Dubbla pengarna"
+
+msgid "res_sound"
+msgstr "Ljud"
+
+msgid "res_achiev26_desc"
+msgstr "Släck 100 bränder"
+
+msgid "res_good_job"
+msgstr "Bra jobbat!"
+
+msgid "res_shop_skin3_desc"
+msgstr "Play with the amazing Esquimau skin !"
+
+msgid "res_shop_pet4_title"
+msgstr "Friend ~ Wolf"
+
+msgid "res_pause"
+msgstr "Paus"
+
+msgid "res_achiev21_title"
+msgstr "Värld 1"
+
+msgid "res_inapp6_title"
+msgstr "Extra ökenbanor"
+
+msgid "res_talky_22"
+msgstr "Nu är du redo, nu har du blivit en riktig brandman!"
+
+msgid "res_talky_18"
+msgstr "Med pengar kan du köpa föremål och uppgraderingar i butiken"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Eldflicka-dräkt"
+
+msgid "res_shop_reservoir"
+msgstr "Jetpacktankens kapacitet %s"
+
+msgid "res_talky_17"
+msgstr "Teleportörer tar dig till en annan plats ..."
+
+msgid "res_rank_2"
+msgstr "Eldbekämpare, första klassen"
+
+msgid "res_shop_pet7_title"
+msgstr "Friend ~ Snow Fox"
+
+msgid "res_talky_14"
+msgstr "Stalaktiter är livsfarliga!"
+
+msgid "res_talky_0"
+msgstr "Använd vänter och höger pil för att röra dig."
+
+msgid "res_achiev30_desc"
+msgstr "Släck 100 eldkastare"
+
+msgid "res_restorepurchases"
+msgstr "Återställ köp"
+
+msgid "res_title_monde3"
+msgstr "Moutain"
+
+msgid "res_no_pets"
+msgstr "Inga husdjur"
+
+msgid "res_shop_pet4_desc"
+msgstr "A clever wolf that follows you everywhere"
+
+msgid "res_moregames"
+msgstr "Fler spel"
+
+msgid "res_achiev23_title"
+msgstr "Värld 3"
+
+msgid "res_inapp4_title"
+msgstr "Dräkt 3"
+
+msgid "res_achiev9_desc"
+msgstr "Lås upp graden brandofficer"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Vill du tävla mot spelare världen över? "
+
+msgid "res_shop_extralevel3"
+msgstr "Moutain Extra levels"
+
+msgid "res_shop_skin5_title"
+msgstr "Skin ~ Santa"
+
+msgid "res_talky_2"
+msgstr "Håll in höger knapp för att använda din jetpack."
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_achiev19_desc"
+msgstr "Klara en bana utan att rädda något gosedjur"
+
+msgid "res_achiev10_title"
+msgstr "Löjtnant"
+
+msgid "res_rank_10"
+msgstr "Brandmästare"
+
+msgid "res_achiev3_title"
+msgstr "Fler spel"
+
+msgid "res_rank_8"
+msgstr "Senior kapten"
+
+msgid "res_shop_skin3_title"
+msgstr "Skin ~ Esquimau"
+
+msgid "res_shop_pet7_desc"
+msgstr "A smart snow fow that follows you everywhere"
+
+msgid "res_achiev10_desc"
+msgstr "Lås upp graden löjtnant"
+
+msgid "res_achiev17_desc"
+msgstr "Skjut 10 000 liter vatten"
+
+msgid "res_achiev2_title"
+msgstr "Dela"
+
+msgid "res_inapp3_desc"
+msgstr "Spela med det otroliga Eldflicka-dräkten"
+
+msgid "res_talky_16"
+msgstr "Håll ögonen öppna efter ... hemliga gångar."
+
+msgid "res_achiev13_desc"
+msgstr "Lås upp graden chef"
+
+msgid "res_inventory"
+msgstr "HK"
+
+msgid "res_inapp2_title"
+msgstr "Dräkt 1"
+
+msgid "res_shop_maxipack"
+msgstr "Dubbla pengar + XP"
+
+msgid "res_rank_6"
+msgstr "Löjtnant"
+
+msgid "res_inapp9_title"
+msgstr "Hundvän"
+
+msgid "res_achiev4_desc"
+msgstr "Klara introduktionen"
+
+msgid "res_achievements"
+msgstr "Framsteg"
+
+msgid "res_shop_pet6_desc"
+msgstr "A nice reindeer that follows you everywhere"
+
+msgid "res_specialitems"
+msgstr "Specialföremål"
+
+msgid "res_achiev11_title"
+msgstr "q"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Eldflicka-dräkt"
+
+msgid "res_lostfound"
+msgstr "Borttappade föremål"
+
+msgid "res_shop_pet6_title"
+msgstr "Friend ~ Reindeer"
+
+msgid "res_shop_extralevel2"
+msgstr "Extra ökenbanor"
+
+msgid "res_rank_3"
+msgstr "Senior brandbekämpare"
+
+msgid "res_achiev25_title"
+msgstr "Samlare"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Vill du spara dina framsteg i spelet? Du kan göra det om du loggar in med Google Play-tjänsterna."
+
+msgid "res_achiev15_desc"
+msgstr "Skjut 1 000 liter vatten"
+
+msgid "res_talky_9"
+msgstr "Flammor kan ha flera lager"
+
+msgid "res_talky_4"
+msgstr "Och spring genom utgången!"
+
+msgid "res_achiev1_title"
+msgstr "Social"
+
+msgid "res_achiev9_title"
+msgstr "Brandofficer"
+
+msgid "res_shop"
+msgstr "Shop"
+
+msgid "res_achiev31_title"
+msgstr "Eldspindeljägare"
+
+msgid "res_ask_logout_gp"
+msgstr "Vill du logga ut från Google Plus?"
+
+msgid "res_settings"
+msgstr "Inställningar"
+
+msgid "res_achiev14_desc"
+msgstr "Lås upp graden brandmästare"
+
+msgid "res_achiev8_title"
+msgstr "Högste brandbekämpare"
+
+msgid "res_achiev27_desc"
+msgstr "Släck 100 flampojkar."
+
+msgid "res_shop_pet4_title"
+msgstr "Vän ~ varg"
+
+msgid "res_shop_pet4_desc"
+msgstr "En klok varg som följer dig överallt"
+
+msgid "res_shop_pet5_title"
+msgstr "Vän ~ isbjörn"
+
+msgid "res_shop_pet5_desc"
+msgstr "En stark isbjörn som följer dig överallt"
+
+msgid "res_shop_pet6_title"
+msgstr "Vän ~ rådjur"
+
+msgid "res_shop_pet6_desc"
+msgstr "Ett snällt rådjur som följer dig överallt"
+
+msgid "res_shop_pet7_title"
+msgstr "Vän ~ snöräv"
+
+msgid "res_shop_pet7_desc"
+msgstr "Ett klok snöräv som följer dig överallt"
+
+msgid "res_shop_pet8_title"
+msgstr "Vän ~ mammut"
+
+msgid "res_shop_pet8_desc"
+msgstr "En kraftfull mammut som följer dig överallt"
+
+msgid "res_shop_skin3_title"
+msgstr "Skinn ~ eskimå"
+
+msgid "res_shop_skin3_desc"
+msgstr "Lek med det fantastiska eskimåskinnet !"
+
+msgid "res_shop_skin4_title"
+msgstr "Skinn ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Lek med det fantastiska yetiskinnet !"
+
+msgid "res_shop_skin5_title"
+msgstr "Skinn ~ tomten"
+
+msgid "res_shop_skin5_desc"
+msgstr "Lek med det fantastiska tomteskinnet !"
+
+msgid "res_shop_skin6_title"
+msgstr "Skinn ~ joddlande flicka"
+
+msgid "res_shop_skin6_desc"
+msgstr "Lek med det fantastiska skinnet joddlande flickan !"
+
+msgid "res_title_monde3"
+msgstr "Berg"
+
+msgid "res_shop_world3_title"
+msgstr "Berg extra nivåer"
+
+msgid "res_shop_world3_desc"
+msgstr "Lås upp bergets alla hemliga nivåer"
+
+msgid "res_shop_all"
+msgstr "Lås upp allt i affären, tag bort annoser och hjälp oss skapa bättre spel !"
+
+msgid "res_notif_1"
+msgstr "Kom och spela %1s idag!"
+
+msgid "res_notif_2"
+msgstr "Gå med oss och spela %1s idag!"
+
+msgid "res_notif_3"
+msgstr "Du har inte spelat %1s på ett tag!"
+
+msgid "res_notif_4"
+msgstr "För in lite glädje i din dag. Spela %1s nu!"
+
+
+
+
+
+

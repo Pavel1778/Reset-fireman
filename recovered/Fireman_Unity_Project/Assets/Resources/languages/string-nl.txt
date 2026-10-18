@@ -1,0 +1,638 @@
+msgid "app_name"
+msgstr "Brandweerman"
+
+msgid "Share"
+msgstr "Ik hou van spelen %1s ! Ik beveel u deze downloaden : %2s"
+
+msgid "rate the game"
+msgstr "Beoordeel het spel"
+
+msgid "You seem to be enjoying the game"
+msgstr "Je lijkt te genieten van {0} zo veel als we genoten van de ontwikkeling ervan. Dank u. Zou je het erg ons te helpen en neem de tijd om een ​​positieve rating toe te voegen aan het spel pagina?"
+
+msgid "res_harder"
+msgstr "Probeer het spel in de hardere modus!\nBent u klaar om af te spelen...\nalle niveaus?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "Jungle"
+
+msgid "res_achiev12_title"
+msgstr "Hoofdcommandeur"
+
+msgid "res_quit"
+msgstr "Stoppen?"
+
+msgid "res_rank_9"
+msgstr "Brandweercommandant "
+
+msgid "res_shop_xpx2"
+msgstr "XP werd verdubbeld"
+
+msgid "res_achiev5_title"
+msgstr "Brandbestrijder!"
+
+msgid "res_talky_6"
+msgstr "Wandel op de as om zeker te zijn dat de vlammen volledig uit zijn"
+
+msgid "res_inapp10_desc"
+msgstr "Verbubbel al het geld en de XP die je tijdens het spel verdient"
+
+msgid "res_mission"
+msgstr "Missie"
+
+msgid "res_achiev17_title"
+msgstr "10000 liter water"
+
+msgid "res_rank_7"
+msgstr "Kapitein"
+
+msgid "res_achiev3_desc"
+msgstr "Bekijk ook eens onze andere spelletjes"
+
+msgid "res_talky_10"
+msgstr "Met brandkranen kun je je watertank hervullen"
+
+msgid "keywords"
+msgstr "vuur, brandweerman, platformer, spring, obstakels, ontwijken, brandbestrijder, vlammen, brandweerwagen, brandbestrijding, jetpack, monsters"
+
+msgid "res_credits"
+msgstr "Credits"
+
+msgid "res_arrows"
+msgstr "Pijlen"
+
+msgid "res_achiev13_title"
+msgstr "Brandweercommandant "
+
+msgid "res_not_enough_money"
+msgstr "Niet genoeg geld"
+
+msgid "res_talky_15"
+msgstr "Je zult onderweg bewegende platformen tegenkomen die je zullen helpen tijdens je tocht"
+
+msgid "res_achiev7_title"
+msgstr "Hoofdbrandwacht"
+
+msgid "res_skins"
+msgstr "Skins"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Docskin"
+
+msgid "res_inapp1_title"
+msgstr "XP werd verdubbeld"
+
+msgid "res_rank_0"
+msgstr "Nieuweling"
+
+msgid "res_talky_3"
+msgstr "Red de knuffeldieren!"
+
+msgid "res_achiev6_title"
+msgstr "Brandwacht 1ste klas"
+
+msgid "res_achiev26_title"
+msgstr "Vlammenjager"
+
+msgid "res_achiev24_title"
+msgstr "Vinder"
+
+msgid "res_achiev24_desc"
+msgstr "Vind een verloren voorwerp"
+
+msgid "res_achiev19_title"
+msgstr "Lafaard"
+
+msgid "res_inapp9_desc"
+msgstr "Een ongelofelijke trouwe hond die je overal volgt"
+
+msgid "res_achiev22_title"
+msgstr "Wereld 2"
+
+msgid "res_new_rank"
+msgstr "Nieuwe rang"
+
+msgid "res_achiev5_desc"
+msgstr "Speel de brandbestrijderrang vrij"
+
+msgid "res_achiev11_desc"
+msgstr "Speel de rang van kapitein vrij"
+
+msgid "res_congratulations"
+msgstr "Het is je gelukt. Gefeliciteerd! Je hebt elk level van het spel voltooid. Velen zijn nog nooit zo ver geraakt. Goed gedaan. We voegen binnenkort nieuwe werelden toe die je kunt ontdekken met nog meer huisdieren om te redden en verborgen voorwerpen om te vinden. Eventjes geduld. Wil je even de tijd nemen om ons spel een 5-sterrenbeoordeling te geven?"
+
+msgid "res_select"
+msgstr "Selecteer"
+
+msgid "res_achiev6_desc"
+msgstr "Speel de rang van Brandwacht 1ste klas vij"
+
+msgid "res_shop_range"
+msgstr "Bereik van je waterkanon %s"
+
+msgid "res_talky_13"
+msgstr "Er zijn verschillende soorten vijanden... Maar ze zijn allemaal gevaarlijk"
+
+msgid "res_inapp7_title"
+msgstr "Koalavriend"
+
+msgid "res_achiev28_title"
+msgstr "Lavaslijmjager"
+
+msgid "res_shop_piecex2"
+msgstr "Je geld werd verdubbeld"
+
+msgid "res_achiev27_title"
+msgstr "Vlammenjongenjager"
+
+msgid "res_achiev25_title"
+msgstr "Verzamelaar"
+
+msgid "res_achiev28_desc"
+msgstr "Blus 100 lavaslijmen"
+
+msgid "res_inapp8_desc"
+msgstr "Een lieve welp die je overal volgt"
+
+msgid "res_inapp2_desc"
+msgstr "Speel met de geweldige docskin!"
+
+msgid "res_achievements"
+msgstr "Successen"
+
+msgid "res_ask_login_gp"
+msgstr "Wil je inloggen op Google plus."
+
+msgid "res_achiev30_title"
+msgstr "Vlammengooierjager"
+
+msgid "res_achiev22_desc"
+msgstr "Voltooi wereld 2"
+
+msgid "res_shop_pet2"
+msgstr "Huisdier 2"
+
+msgid "res_shop_pet3"
+msgstr "Huisdier 3"
+
+msgid "res_achiev4_title"
+msgstr "Brandweertraining"
+
+msgid "res_shop_pet1"
+msgstr "Huisdier 1"
+
+msgid "res_loading"
+msgstr "Laden..."
+
+msgid "res_achiev8_desc"
+msgstr "Speel de rang van Superbrandbestrijder vrij"
+
+msgid "res_rank_4"
+msgstr "Superbrandbestrijder"
+
+msgid "res_talky_21"
+msgstr "Ik ben Talky, als je hulp nodig hebt, ben ik er voor je"
+
+msgid "res_inapp5_desc"
+msgstr "Speel een extra level in de jungle vrij"
+
+msgid "res_talky_8"
+msgstr "Eens het is geblust, spring je erop om het uit te roeien"
+
+msgid "res_talky_5"
+msgstr "Gebruik de knop op het waterkanon om de vlammen te blussen"
+
+msgid "res_inapp5_title"
+msgstr "Jungle extra level"
+
+msgid "res_achiev21_desc"
+msgstr "Voltooi wereld 1"
+
+msgid "res_inapp4_desc"
+msgstr "Speel met de geweldige docskin!"
+
+msgid "res_talky_12"
+msgstr "Tijdens elk level moet je 3 knuffeldieren redden"
+
+msgid "res_rank_1"
+msgstr "Brandbestrijder"
+
+msgid "res_achiev20_desc"
+msgstr "Voltooi een level zonder levens kwijt te spelen"
+
+msgid "res_inapp7_desc"
+msgstr "Een schattige koala die je overal volgt"
+
+msgid "res_share"
+msgstr "Bekijk %1s eens, dit is echt een fantastisch spel. Je kunt het hier downloaden: %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Bekijk de Magma Mobile Facebook pagina"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Wil je toegang krijgen tot de superprestaties? Schrijf je dan in op de Google Play Services."
+
+msgid "res_achiev14_title"
+msgstr "Brandmeester"
+
+msgid "res_inapp8_title"
+msgstr "Welpenvriend"
+
+msgid "res_inapp6_desc"
+msgstr "Speel een extra level in de woestijn vrij"
+
+msgid "res_talky_7"
+msgstr "Opgelet, het is Vlammenjongen! Blus hem met je waterkanon"
+
+msgid "res_achiev2_desc"
+msgstr "Deel het spel met je vrienden"
+
+msgid "res_inapp3_title"
+msgstr "Skin2"
+
+msgid "res_inapp1_desc"
+msgstr "Verdubbel de XP die je tijdens het spel kunt verdienen"
+
+msgid "res_talky_20"
+msgstr "Hier is je huisdier, het zal je overal volgen"
+
+msgid "res_rangs"
+msgstr "Rangen"
+
+msgid "res_credits_text"
+msgstr "Ontwikkelaar: Clément Slempkes\nGraficus : Sandra Ferragu\n Projectleider : Emmanuel Robles\nProjectmanager : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "Instellingen"
+
+msgid "res_head_quarter"
+msgstr "Hoofdkwartier"
+
+msgid "res_achiev18_title"
+msgstr "Redder"
+
+msgid "res_talky_1"
+msgstr "Druk op de rechterknop om te springen."
+
+msgid "res_achiev15_title"
+msgstr "1000 liter water"
+
+msgid "res_achiev32_title"
+msgstr "Haviksoog"
+
+msgid "res_achiev18_desc"
+msgstr "Red 3 knuffels in één level"
+
+msgid "res_achiev25_desc"
+msgstr "Vind alle verloren voorwerpen in het spel"
+
+msgid "res_achiev16_desc"
+msgstr "Spuit 5000 liter water"
+
+msgid "res_inapp10_title"
+msgstr "Dubbele pack"
+
+msgid "res_achiev7_desc"
+msgstr "Speel de rang van Hoofdbrandwacht vrij"
+
+msgid "res_rank_5"
+msgstr "Hoofdbrandmeester 1e klas"
+
+msgid "res_inapp0_desc"
+msgstr "Verdubbel het geld dat je tijdens het spel verdient"
+
+msgid "res_achiev12_desc"
+msgstr "Speel de rang van Hoofdcommandeur vrij"
+
+msgid "res_achiev16_title"
+msgstr "5000 liter water"
+
+msgid "res_required"
+msgstr "vereist"
+
+msgid "res_no_pets"
+msgstr "Geen huisdieren"
+
+msgid "res_pets"
+msgstr "Huisdieren"
+
+msgid "res_shop_extralevel1"
+msgstr "Jungle extra levels"
+
+msgid "res_talky_23"
+msgstr "Plaats de twee rechterknoppen op elkaar om het jetpack te gebruiken en tegelijkertijd te schieten"
+
+msgid "res_talky_19"
+msgstr "Met XP kan je nieuwe rangen vrijspelen"
+
+msgid "res_achiev32_desc"
+msgstr "Vind een verborgen muur"
+
+msgid "res_achiev29_desc"
+msgstr "Blus 100 bommen voor ze ontploffen"
+
+msgid "res_buy"
+msgstr "Koop"
+
+msgid "res_shop_life"
+msgstr " %s extra levens"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_achiev23_desc"
+msgstr "Voltooi wereld 3"
+
+msgid "res_achiev29_title"
+msgstr "Bommenjager"
+
+msgid "res_title_monde2"
+msgstr "Woestijn"
+
+msgid "res_achiev31_desc"
+msgstr "Blus 100 vuurspinnen"
+
+msgid "res_inapp0_title"
+msgstr "Je geld werd verdubbeld"
+
+msgid "res_sound"
+msgstr "Geluid"
+
+msgid "res_achiev26_desc"
+msgstr "Blus 100 vlammen"
+
+msgid "res_good_job"
+msgstr "Goed gedaan!"
+
+msgid "res_shop"
+msgstr "Winkel"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_achiev21_title"
+msgstr "Wereld 1"
+
+msgid "res_inapp6_title"
+msgstr "Woestijn extra level"
+
+msgid "res_talky_22"
+msgstr "Je bent er klaar voor, je bent nu een echte brandweerman!"
+
+msgid "res_talky_18"
+msgstr "Met geld kun je items en upgrades in de winkel kopen"
+
+msgid "res_level_locked"
+msgstr "Level nog niet vrijgespeeld"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Brandweervrouwskin"
+
+msgid "res_shop_reservoir"
+msgstr "Jetpack volumecapaciteit %s"
+
+msgid "res_talky_17"
+msgstr "Als je teleporteert, ga je naar een andere plaats..."
+
+msgid "res_rank_2"
+msgstr "Brandwacht 1ste klas"
+
+msgid "res_talky_14"
+msgstr "zijn dodelijk"
+
+msgid "res_talky_0"
+msgstr "Gebruik de pijltjes links en rechts om te bewegen."
+
+msgid "res_achiev30_desc"
+msgstr "Blus 100 vlammenwerpers"
+
+msgid "res_restorepurchases"
+msgstr "Aankopen herstellen"
+
+msgid "res_achiev1_title"
+msgstr "Sociaal"
+
+msgid "res_achiev3_title"
+msgstr "Meer spelletjes"
+
+msgid "res_achiev23_title"
+msgstr "Wereld 3"
+
+msgid "res_moregames"
+msgstr "Meer spelletjes"
+
+msgid "res_music"
+msgstr "Muziek"
+
+msgid "res_inapp4_title"
+msgstr "Skin3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Wil je tegen andere spelers van over de hele wereld spelen? Schrijf je dan in op Google Play Services."
+
+msgid "res_talky_2"
+msgstr "Houd de rechterknop ingedrukt om het jetpack te gebruiken."
+
+msgid "res_achiev19_desc"
+msgstr "Voltooi een level zonder een knuffel te redden"
+
+msgid "res_achiev10_title"
+msgstr "Commandeur 1e klas"
+
+msgid "res_rank_10"
+msgstr "Brandmeester"
+
+msgid "res_ask_logout_gp"
+msgstr "Wil je je afmelden op Google plus?"
+
+msgid "res_rank_8"
+msgstr "Hoofdcommandeur"
+
+msgid "res_achiev10_desc"
+msgstr "Speel de rang van Commandeur 1e klas vrij"
+
+msgid "res_achiev17_desc"
+msgstr "Spuit 10000 liter water"
+
+msgid "res_achiev2_title"
+msgstr "Deel"
+
+msgid "res_inapp3_desc"
+msgstr "Speel met de fantastische brandweervrouwskin!"
+
+msgid "res_talky_16"
+msgstr "Houd je ogen open voor geheime doorgangen."
+
+msgid "res_achiev13_desc"
+msgstr "Speel de rang van Brandweercommandant vrij"
+
+msgid "res_inventory"
+msgstr "Hoofdkwartier"
+
+msgid "res_inapp2_title"
+msgstr "Skin 1 "
+
+msgid "res_shop_maxipack"
+msgstr "Verdubbel je geld + XP"
+
+msgid "res_rank_6"
+msgstr "Commandeur 1e klas"
+
+msgid "res_inapp9_title"
+msgstr "Hondenvriend"
+
+msgid "res_achiev4_desc"
+msgstr "Voltooi het oefenspelletje!"
+
+msgid "res_specialitems"
+msgstr "Speciale items"
+
+msgid "res_achiev31_title"
+msgstr "Vuurspinnenjager"
+
+msgid "res_achiev11_title"
+msgstr "Kapitein"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Brandweervrouwskin"
+
+msgid "res_lostfound"
+msgstr "Verloren voorwerpen"
+
+msgid "res_shop_extralevel2"
+msgstr "Woestijn extra levels"
+
+msgid "res_rank_3"
+msgstr "Hoofdbrandwacht"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Wil je de voortgang van je spel opslaan? "
+
+msgid "res_achiev15_desc"
+msgstr "Spuit 1000 liter water"
+
+msgid "res_talky_9"
+msgstr "Vlammen kunnen verschillende lagen hebben"
+
+msgid "res_talky_11"
+msgstr "Brandkranen kunnen ook als checkpoints worden gebruikt als je een leven kwijt bent"
+
+msgid "res_achiev9_title"
+msgstr "Hoofdbrandmeester 1e klas"
+
+msgid "res_achiev20_title"
+msgstr "Ontwijker"
+
+msgid "res_achiev9_desc"
+msgstr "Speel de rang van Hoofdbrandmeester 1e klas vrij"
+
+msgid "res_talky_4"
+msgstr "en ren door de uitgang"
+
+msgid "res_achiev14_desc"
+msgstr "Speel de rang van Brandmeester vrij"
+
+msgid "res_achiev8_title"
+msgstr "Superbrandbestrijder"
+
+msgid "res_achiev27_desc"
+msgstr "Blus 100 vlammenjongens"
+
+msgid "res_pause"
+msgstr "Pauze"
+
+msgid "res_shop_pet4_title"
+msgstr "Vriend ~ Wolf"
+
+msgid "res_shop_pet4_desc"
+msgstr "Een slimme wolf die je overal volgt"
+
+msgid "res_shop_pet5_title"
+msgstr "Vriend ~ IJsbeer"
+
+msgid "res_shop_pet5_desc"
+msgstr "Een sterke ijsbeer die je overal volgt"
+
+msgid "res_shop_pet6_title"
+msgstr "Vriend ~ Rendier"
+
+msgid "res_shop_pet6_desc"
+msgstr "Een leuk rendier dat je overal volgt"
+
+msgid "res_shop_pet7_title"
+msgstr "Vriend ~ Poolvos"
+
+msgid "res_shop_pet7_desc"
+msgstr "Een intelligente poolvos die je overal volgt"
+
+msgid "res_shop_pet8_title"
+msgstr "Vriend ~ Mammoet"
+
+msgid "res_shop_pet8_desc"
+msgstr "Een machtige mammoet die je overal volgt"
+
+msgid "res_shop_skin3_title"
+msgstr "Skin ~ Eskimo"
+
+msgid "res_shop_skin3_desc"
+msgstr "Speel met de geweldige Eskimo skin!"
+
+msgid "res_shop_skin4_title"
+msgstr "Skin ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Speel met de geweldige Yeti skin!"
+
+msgid "res_shop_skin5_title"
+msgstr "Skin ~ Kerstman"
+
+msgid "res_shop_skin5_desc"
+msgstr "Speel met de geweldige Kerstman skin!"
+
+msgid "res_shop_skin6_title"
+msgstr "Skin ~ Jodelend Meisje"
+
+msgid "res_shop_skin6_desc"
+msgstr "Speel met de geweldige Jodelend Meisje skin!"
+
+msgid "res_title_monde3"
+msgstr "Berg"
+
+msgid "res_shop_world3_title"
+msgstr "Berg Extra niveaus"
+
+msgid "res_shop_world3_desc"
+msgstr "Ontgrendel alle geheime niveaus in de Berg"
+
+msgid "res_shop_all"
+msgstr "Ontgrendel alles in de winkel, verwijder advertenties en help ons betere spelletjes te maken!"
+
+msgid "res_notif_1"
+msgstr "Kom en speel nog vandaag %1s !"
+
+msgid "res_notif_2"
+msgstr "Kom en speel nog vandaag %1s met ons!"
+
+msgid "res_notif_3"
+msgstr "Je hebt al een tijdje geen  %1s meet gespeeld!"
+
+msgid "res_notif_4"
+msgstr "Breng een beetje lol in je leven. Speel nu %1s!"
+
+
+
+
+
+

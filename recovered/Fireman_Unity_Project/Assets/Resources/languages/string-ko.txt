@@ -1,0 +1,640 @@
+msgid "app_name"
+msgstr "소방수"
+
+msgid "Share"
+msgstr "정말 재밌어요 %1s 해 보길 강력 추천합니다: %2s"
+
+msgid "rate the game"
+msgstr "이 게임 평가하기"
+
+msgid "You seem to be enjoying the game"
+msgstr "당신만큼 우리가 그것을 개발 즐겼다로 {0}을 즐기는 것 같습니다. 감사합니다. 당신은 게임 페이지에서 긍정적 인 평가를 추가하는 약간의 시간을내어 저희에게 도움이 될까요?"
+
+msgid "res_harder"
+msgstr "더 모드에서 게임을보십시오! \n당신은 재생할 준비가...\n모든 수준?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "정글"
+
+msgid "res_achiev12_title"
+msgstr "수석 캡틴"
+
+msgid "res_quit"
+msgstr "그만두시겠습니까?"
+
+msgid "res_rank_9"
+msgstr "대장"
+
+msgid "res_shop_xpx2"
+msgstr "XP를 두 배로 만들기"
+
+msgid "res_achiev5_title"
+msgstr "소방관!"
+
+msgid "res_talky_6"
+msgstr "불꽃이 완전히 꺼지도록 하기 위해 재 위로 올라 섭니다"
+
+msgid "res_inapp10_desc"
+msgstr "게임을 통해 적립한 돈과 XP를 모두 두 배로 만들기"
+
+msgid "res_mission"
+msgstr "임무 "
+
+msgid "res_achiev17_title"
+msgstr "물 1만 리터"
+
+msgid "res_rank_7"
+msgstr "대령 "
+
+msgid "res_achiev3_desc"
+msgstr "우리의 다른 게임을 확인하기"
+
+msgid "res_talky_10"
+msgstr "소화전에서 당신의 물탱크를 다시 채울 수 있습니다"
+
+msgid "keywords"
+msgstr "화재,소방관,플랫폼 게임,점프,장애물,닷지,소방관,소방차,물,불끄기,제트팩,괴물"
+
+msgid "res_credits"
+msgstr "크레딧\"
+
+msgid "res_arrows"
+msgstr "화살표"
+
+msgid "res_achiev13_title"
+msgstr "대장"
+
+msgid "res_not_enough_money"
+msgstr "돈이 충분치 않음"
+
+msgid "res_talky_15"
+msgstr "당신의 노력에 도움이 되는 이동 플랫폼을 도중에 찾게 될 것입니다"
+
+msgid "res_achiev7_title"
+msgstr "수석 소방관"
+
+msgid "res_skins"
+msgstr "스킨"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doc 스킨"
+
+msgid "res_inapp1_title"
+msgstr "XP를 두 배로 만들기"
+
+msgid "res_rank_0"
+msgstr "신입직원"
+
+msgid "res_talky_3"
+msgstr "박제동물을 구조하세요!"
+
+msgid "res_achiev6_title"
+msgstr "1급 소방관"
+
+msgid "res_achiev26_title"
+msgstr "플레임 헌터"
+
+msgid "res_achiev24_title"
+msgstr "파인더"
+
+msgid "res_achiev24_desc"
+msgstr "잃어버린 물건 찾기"
+
+msgid "res_achiev19_title"
+msgstr "겁쟁이"
+
+msgid "res_inapp9_desc"
+msgstr "당신을 어디라도 따라다니는 매우 충성스러운 개"
+
+msgid "res_achiev22_title"
+msgstr "월드 2"
+
+msgid "res_new_rank"
+msgstr "신규 순위 "
+
+msgid "res_achiev5_desc"
+msgstr "소방관 순위를 잠금 해제"
+
+msgid "res_achiev11_desc"
+msgstr "캡틴 순위를 잠금 해제"
+
+msgid "res_congratulations"
+msgstr "해냈군요. 축하합니다! 당신은 게임의 각 레벨을 완료할 수 있었습니다. 극히 소수만 여기에 도달할 수 있습니다. 잘 하셨어요! 우리는 곧 구조할 더 많은 애완동물과 찾아야 할 더 많은 숨겨진 물건들과 함께 새로운 월드를 추가해 나갈 것입니다. 계속 지켜봐 주시기 바랍니다. 그리고 게임에 대한 평가로 별 5개를 주신다면, 정말로 감사하겠습니다!"
+
+msgid "res_select"
+msgstr "선택"
+
+msgid "res_achiev6_desc"
+msgstr "1급 소방관 순위를 잠금 해제"
+
+msgid "res_shop_range"
+msgstr "물총 범위 레벨 %s"
+
+msgid "res_talky_13"
+msgstr "많은 종류의 적이 있습니다... 그들 모두가 위험해요!"
+
+msgid "res_inapp7_title"
+msgstr "코알라 친구"
+
+msgid "res_achiev28_title"
+msgstr "용암 슬라임 사냥꾼"
+
+msgid "res_shop_piecex2"
+msgstr "돈을 두 배로 만들기"
+
+msgid "res_achiev27_title"
+msgstr "불꽃 소년 사냥꾼"
+
+msgid "res_achiev25_title"
+msgstr "콜렉터 "
+
+msgid "res_achiev28_desc"
+msgstr "100개의 용암 슬라임 불끄기"
+
+msgid "res_inapp8_desc"
+msgstr "당신을 어디라도 따라다니는 귀여운 아기곰"
+
+msgid "res_inapp2_desc"
+msgstr "멋진 Doc 스킨으로 플레이 해 보세요!"
+
+msgid "res_achievements"
+msgstr "업적"
+
+msgid "res_ask_login_gp"
+msgstr "Google Plus에 로그인 하실래요?"
+
+msgid "res_achiev30_title"
+msgstr "화염 방사기 사냥꾼"
+
+msgid "res_achiev22_desc"
+msgstr "월드 2 완료하기"
+
+msgid "res_shop_pet2"
+msgstr "애완동물 2"
+
+msgid "res_shop_pet3"
+msgstr "애완동물 3"
+
+msgid "res_achiev4_title"
+msgstr "소방 훈련"
+
+msgid "res_shop_pet1"
+msgstr "애완동물 1"
+
+msgid "res_loading"
+msgstr "로딩중…"
+
+msgid "res_achiev8_desc"
+msgstr "상등 소방관 순위를 잠금 해제"
+
+msgid "res_rank_4"
+msgstr "상등 소방관"
+
+msgid "res_talky_21"
+msgstr "그건 그렇고, 나는 토키에요. 언제라도 당신을 돕기 위해 곁에 있을 겁니다"
+
+msgid "res_inapp5_desc"
+msgstr "정글 추가 레벨의 잠금을 해제"
+
+msgid "res_talky_8"
+msgstr "불이 꺼지면, 위로 뛰어 올라 완전히 파괴합니다"
+
+msgid "res_talky_5"
+msgstr "물총 버튼을 이용하여 불꽃을 끕니다"
+
+msgid "res_inapp5_title"
+msgstr "정글 추가 레벨"
+
+msgid "res_achiev21_desc"
+msgstr "월드 1 완료하기"
+
+msgid "res_inapp4_desc"
+msgstr "멋진 Doc 스킨으로 플레이 해 보세요!"
+
+msgid "res_talky_12"
+msgstr "각 레벨에는 구조할 3개의 박제동물이 있습니다"
+
+msgid "res_rank_1"
+msgstr "소방관"
+
+msgid "res_achiev20_desc"
+msgstr "생명을 잃지 않고 레벨을 완료하기"
+
+msgid "res_inapp7_desc"
+msgstr "당신을 어디라도 따라다니는 사랑스러운 코알라"
+
+msgid "res_share"
+msgstr "%1s(을)를 확인해 보세요. 정말 멋진 게임입니다! 여기에서 다운로드 할 수 있습니다: %2s."
+
+msgid "res_achiev1_desc"
+msgstr "마그마 모바일 페이스북 팬페이지 확인하기"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "최고 업적에 대한 접근을 원하시나요? Google Play 서비스에 로그인 하면 됩니다"
+
+msgid "res_achiev14_title"
+msgstr "원사"
+
+msgid "res_inapp8_title"
+msgstr "아기곰 친구"
+
+msgid "res_inapp6_desc"
+msgstr "사막 추가 레벨의 잠금을 해제"
+
+msgid "res_talky_7"
+msgstr "불꽃 소년을 조심하세요! 물총으로 불을 끄세요"
+
+msgid "res_achiev2_desc"
+msgstr "친구와 게임 공유"
+
+msgid "res_inapp3_title"
+msgstr "스킨 2"
+
+msgid "res_inapp1_desc"
+msgstr "게임을 통해 적립한 XP를 두 배로 만들기"
+
+msgid "res_talky_20"
+msgstr "여기에 어디서나 당신을 따라 다닐 당신의 애완동물이 있습니다"
+
+msgid "res_rangs"
+msgstr "순위"
+
+msgid "res_credits_text"
+msgstr "Developer : Clément Slempkes\nGraphist : Sandra Ferragu\n Project Leader : Emmanuel Robles\nProject Manager : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "설정"
+
+msgid "res_head_quarter"
+msgstr "본부"
+
+msgid "res_achiev18_title"
+msgstr "구조자"
+
+msgid "res_talky_1"
+msgstr "오른쪽 버튼을 눌러서 점프합니다."
+
+msgid "res_achiev15_title"
+msgstr "물 1천 리터"
+
+msgid "res_achiev32_title"
+msgstr "호크 아이"
+
+msgid "res_achiev18_desc"
+msgstr "하나의 레벨에서 3개의 박제동물을 구조하기"
+
+msgid "res_achiev25_desc"
+msgstr "게임에서 잃어버린 모든 물건 찾기"
+
+msgid "res_achiev16_desc"
+msgstr "물 5천 리터 발사하기"
+
+msgid "res_inapp10_title"
+msgstr "더블 팩"
+
+msgid "res_achiev7_desc"
+msgstr "수석 소방관 순위를 잠금 해제"
+
+msgid "res_rank_5"
+msgstr "소방 공무원"
+
+msgid "res_inapp0_desc"
+msgstr "게임을 통해 적립한 돈을 두 배로 만들기"
+
+msgid "res_achiev12_desc"
+msgstr "수석 캡틴 순위를 잠금 해제"
+
+msgid "res_achiev16_title"
+msgstr "물 5천 리터"
+
+msgid "res_required"
+msgstr "필요함 "
+
+msgid "res_no_pets"
+msgstr "애완동물 없음"
+
+msgid "res_pets"
+msgstr "애완동물"
+
+msgid "res_shop_extralevel1"
+msgstr "정글 추가 레벨"
+
+msgid "res_talky_23"
+msgstr "두 개의 오른쪽 버튼을 위치시켜서 제트팩을 사용하고 동시에 발사합니다"
+
+msgid "res_talky_19"
+msgstr "XP로 새로운 순위를 얻을 수 있습니다"
+
+msgid "res_achiev32_desc"
+msgstr "숨겨진 벽 찾기"
+
+msgid "res_achiev29_desc"
+msgstr "100대의 폭격기를 폭발하기 전에 불끄기"
+
+msgid "res_buy"
+msgstr "구입하기 "
+
+msgid "res_shop_life"
+msgstr "%s 추가 생명"
+
+msgid "res_joystick"
+msgstr "조이스틱"
+
+msgid "res_achiev23_desc"
+msgstr "월드 3 완료하기"
+
+msgid "res_achiev29_title"
+msgstr "폭격기 사냥꾼"
+
+msgid "res_title_monde2"
+msgstr "사막 "
+
+msgid "res_achiev31_desc"
+msgstr "100마리의 불거미를 불끄기"
+
+msgid "res_inapp0_title"
+msgstr "돈을 두 배로 만들기"
+
+msgid "res_sound"
+msgstr "소리"
+
+msgid "res_achiev26_desc"
+msgstr "100개의 불꽃 불끄기"
+
+msgid "res_good_job"
+msgstr "잘했습니다!"
+
+msgid "res_shop"
+msgstr "스토어"
+
+msgid "res_jetpack"
+msgstr "제트팩 "
+
+msgid "res_achiev21_title"
+msgstr "월드 1"
+
+msgid "res_inapp6_title"
+msgstr "사막 추가 레벨"
+
+msgid "res_talky_22"
+msgstr "이제 준비가 되었습니다. 이제 당신은 제대로 된 소방관입니다!"
+
+msgid "res_talky_18"
+msgstr "돈으로 샵에서 아이템과 업그레이더를 구입할 수 있습니다"
+
+msgid "res_level_locked"
+msgstr "레벨 잠김"
+
+msgid "res_shop_fireman_skin3"
+msgstr "파이어걸 스킨"
+
+msgid "res_shop_reservoir"
+msgstr "제트팩 탱크 용량 레벨 %s"
+
+msgid "res_talky_17"
+msgstr "텔레포트는 당신을 다른 곳으로 이동시킬 것입니다..."
+
+msgid "res_rank_2"
+msgstr "1급 소방관"
+
+msgid "res_talky_14"
+msgstr "종유석은 치명적입니다!"
+
+msgid "res_talky_0"
+msgstr "왼쪽과 오른쪽 화살표를 사용하여 이동합니다."
+
+msgid "res_achiev30_desc"
+msgstr "100개의 화염 방사기 불끄기"
+
+msgid "res_restorepurchases"
+msgstr "구입을 복원하기"
+
+msgid "res_achiev1_title"
+msgstr "소셜"
+
+msgid "res_achiev3_title"
+msgstr "더 많은 게임"
+
+msgid "res_achiev23_title"
+msgstr "월드 3"
+
+msgid "res_moregames"
+msgstr "더 많은 게임"
+
+msgid "res_music"
+msgstr "음악 "
+
+msgid "res_inapp4_title"
+msgstr "스킨 3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "전세계에 있는 다른 플레이어들과 경쟁하고 싶으세요? Google Play 서비스에 로그인 하면 됩니다"
+
+msgid "res_talky_2"
+msgstr "제트팩을 사용하려면 오른쪽 버튼을 유지합니다."
+
+msgid "res_achiev19_desc"
+msgstr "박제 동물을 구하지 않고 레벨을 완료하기"
+
+msgid "res_achiev10_title"
+msgstr "중위"
+
+msgid "res_rank_10"
+msgstr "원사"
+
+msgid "res_ask_logout_gp"
+msgstr "Google Plus에서 로그아웃 하실래요?"
+
+msgid "res_rank_8"
+msgstr "수석 캡틴"
+
+msgid "res_achiev10_desc"
+msgstr "중위 순위를 잠금 해제"
+
+msgid "res_achiev17_desc"
+msgstr "물 1만 리터 발사하기"
+
+msgid "res_achiev2_title"
+msgstr "%1$s 공유하기"
+
+msgid "res_inapp3_desc"
+msgstr "멋진 파이어걸 스킨으로 플레이 해 보세요!"
+
+msgid "res_talky_16"
+msgstr "비밀 통로를 찾으려면 눈은 활짝 뜨세요..."
+
+msgid "res_achiev13_desc"
+msgstr "대장 순위를 잠금 해제"
+
+msgid "res_inventory"
+msgstr "HQ"
+
+msgid "res_inapp2_title"
+msgstr "스킨 1"
+
+msgid "res_shop_maxipack"
+msgstr "돈 + XP를 두 배로 만들기"
+
+msgid "res_rank_6"
+msgstr "중위"
+
+msgid "res_inapp9_title"
+msgstr "개 친구"
+
+msgid "res_achiev4_desc"
+msgstr "튜토리얼을 완료하기"
+
+msgid "res_specialitems"
+msgstr "특별 아이템"
+
+msgid "res_achiev31_title"
+msgstr "불거미 사냥꾼"
+
+msgid "res_achiev11_title"
+msgstr "대령 "
+
+msgid "res_shop_fireman_skin2"
+msgstr "파이어걸 스킨"
+
+msgid "res_lostfound"
+msgstr "분실물"
+
+msgid "res_shop_extralevel2"
+msgstr "사막 추가 레벨"
+
+msgid "res_rank_3"
+msgstr "수석 소방관"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "당신의 게임 진행 상황을 저장하실래요? Google Play 서비스에 로그인 하면 됩니다"
+
+msgid "res_achiev15_desc"
+msgstr "물 1천 리터 발사하기"
+
+msgid "res_talky_9"
+msgstr "불꽃에는 여러 층이 있을 수 있습니다"
+
+msgid "res_talky_11"
+msgstr "생명을 잃을 경우, 소화전을 체크 포인트로 이용할 수 있습니다"
+
+msgid "res_achiev9_title"
+msgstr "소방 공무원"
+
+msgid "res_achiev20_title"
+msgstr "닷지"
+
+msgid "res_achiev9_desc"
+msgstr "소방 공무원 순위를 잠금 해제"
+
+msgid "res_talky_4"
+msgstr "그리고 출구를 향해 뛰어!"
+
+msgid "res_achiev14_desc"
+msgstr "원사 순위를 잠금 해제"
+
+msgid "res_achiev8_title"
+msgstr "상등 소방관"
+
+msgid "res_achiev27_desc"
+msgstr "100명의 불꽃 소년을 불끄기"
+
+msgid "res_pause"
+msgstr "중지"
+
+msgid "res_shop_pet4_title"
+msgstr "친구 ~ 늑대"
+
+msgid "res_shop_pet4_desc"
+msgstr "어디에서나 나를 따라다니는 영리한 늑대"
+
+msgid "res_shop_pet5_title"
+msgstr "친구 ~ 북극곰"
+
+msgid "res_shop_pet5_desc"
+msgstr "어디에서나 나를 따라다니는 강한 북극곰"
+
+msgid "res_shop_pet6_title"
+msgstr "친구 ~ 순록"
+
+msgid "res_shop_pet6_desc"
+msgstr "어디에서나 나를 따라다니는 멋진 순록"
+
+msgid "res_shop_pet7_title"
+msgstr "친구 ~ 눈 여우"
+
+msgid "res_shop_pet7_desc"
+msgstr "어디에서나 나를 따라다니는 영리한 눈 여우"
+
+msgid "res_shop_pet8_title"
+msgstr "친구 ~ 맘모스"
+
+msgid "res_shop_pet8_desc"
+msgstr "어디에서나 나를 따라다니는 강력한 맘모스"
+
+msgid "res_shop_skin3_title"
+msgstr "스킨 ~ 에스키모"
+
+msgid "res_shop_skin3_desc"
+msgstr "놀라운 에스키모의 스킨으로 플레이!"
+
+msgid "res_shop_skin4_title"
+msgstr "스킨 ~ 설인"
+
+msgid "res_shop_skin4_desc"
+msgstr "놀라운 설인의 스킨으로 플레이!"
+
+msgid "res_shop_skin5_title"
+msgstr "스킨 ~ 산타"
+
+msgid "res_shop_skin5_desc"
+msgstr "놀라운 산타의 스킨으로 플레이!"
+
+msgid "res_shop_skin6_title"
+msgstr "스킨 ~ 요들 소녀"
+
+msgid "res_shop_skin6_desc"
+msgstr "놀라운 요들 소녀의 스킨으로 플레이!"
+
+msgid "res_title_monde3"
+msgstr "산"
+
+msgid "res_shop_world3_title"
+msgstr "산 엑스트라 레벨"
+
+msgid "res_shop_world3_desc"
+msgstr "산의 모든 비밀 레벨 잠금을 해제"
+
+msgid "res_shop_all"
+msgstr "상점의 모든 것을 잠금 해제하고, 광고를 없애며, 더 나은 게임을 만들도록 도와주세요!"
+
+msgid "res_notif_1"
+msgstr "지금 %1s 을(를) 플레이하세요!"
+
+msgid "res_notif_2"
+msgstr "지금 함께 %1s 을(를) 플레이하세요!"
+
+msgid "res_notif_3"
+msgstr "한 동안 %1s 을(를) 플레이하지 않으셨습니다!"
+
+msgid "res_notif_4"
+msgstr "작은 즐거움을 느껴 보세요. 지금 %1s을(를) 플레이해보세요!"
+
+
+
+
+
+
+
+

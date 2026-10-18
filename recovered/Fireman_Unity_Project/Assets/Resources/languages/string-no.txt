@@ -1,0 +1,637 @@
+msgid "app_name"
+msgstr "Brannmann"
+
+msgid "Share"
+msgstr "Jeg liker veldig godt å spille %1s . Jeg kan virkelig anbefale deg å laste det : %2s"
+
+msgid "rate the game"
+msgstr "Bedøm spillet"
+
+msgid "You seem to be enjoying the game"
+msgstr "Det ser ut som at du liker {0} like mye som oss når vi laget det. Takk skal du ha. Kan du hjelpe oss bringe nye funksjoner til programmene ved å ta litt tid å legge en positiv vurdering ?"
+
+msgid "res_harder"
+msgstr "Prøv spillet i hardere modus!\nEr du klar til å spille...\nalle nivåer?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_title_monde1"
+msgstr "Jungel"
+
+msgid "res_achiev12_title"
+msgstr "Senior kaptein"
+
+msgid "res_quit"
+msgstr "Lukk?"
+
+msgid "res_rank_9"
+msgstr "Leder"
+
+msgid "res_shop_xpx2"
+msgstr "Dobbel XP"
+
+msgid "res_achiev5_title"
+msgstr "Brannmann!"
+
+msgid "res_talky_6"
+msgstr "Gå på asken for å være sikker på at flammene er helt slukket"
+
+msgid "res_inapp10_desc"
+msgstr "Doble både penger og XP du tjener gjennom spillet"
+
+msgid "res_mission"
+msgstr "Oppdrag"
+
+msgid "res_achiev17_title"
+msgstr "10 000 liter vann"
+
+msgid "res_rank_7"
+msgstr "Kaptein"
+
+msgid "res_achiev3_desc"
+msgstr "Sjekk de andre spillene våre"
+
+msgid "res_talky_10"
+msgstr "Brannhydranter gjør at du kan fylle vanntanken din igjen"
+
+msgid "keywords"
+msgstr "brann,brannmann,hopp,hindringer,vik unna,brannmann,brannbil,vann,brannslukking,jetransel,monstre"
+
+msgid "res_credits"
+msgstr "Kreditter"
+
+msgid "res_arrows"
+msgstr "Piler"
+
+msgid "res_achiev13_title"
+msgstr "Leder"
+
+msgid "res_not_enough_money"
+msgstr "Ikke nok panger"
+
+msgid "res_talky_15"
+msgstr "Du finner bevegelige platformer underveis for å hjelpe deg i forsøket ditt "
+
+msgid "res_achiev7_title"
+msgstr "Senior brannmann"
+
+msgid "res_skins"
+msgstr "Hud"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Doc-hud"
+
+msgid "res_inapp1_title"
+msgstr "Dobbel XP"
+
+msgid "res_rank_0"
+msgstr "Nybegynner "
+
+msgid "res_talky_3"
+msgstr "Redd mykdyrene!"
+
+msgid "res_achiev6_title"
+msgstr "Første klasses brannmann"
+
+msgid "res_achiev26_title"
+msgstr "Flammejeger"
+
+msgid "res_achiev24_title"
+msgstr "Finner"
+
+msgid "res_achiev24_desc"
+msgstr "Finn en gjenstand du har mistet"
+
+msgid "res_achiev19_title"
+msgstr "Feiging"
+
+msgid "res_inapp9_desc"
+msgstr "En superlojal hund som følger deg overalt"
+
+msgid "res_achiev22_title"
+msgstr "World 2"
+
+msgid "res_new_rank"
+msgstr "Ny rang"
+
+msgid "res_achiev5_desc"
+msgstr "Lås opp brannmannrangen"
+
+msgid "res_achiev11_desc"
+msgstr "Lås opp kapteinrangen"
+
+msgid "res_congratulations"
+msgstr "Du klarte det. Gratulerer! Du klarte å bli ferdig med alle nivålene i spillet. Det er velfig få som kommer så langt, Godt gjort! VI skal snart legge til nye verdener hvor du kan oppdage flere kjæledyr og finne flere skulte gjenstander. Hold deg her. Vi vil sette veldig pris på om du kan gi spillet en 5-stjerners vurdering!  "
+
+msgid "res_select"
+msgstr "Velg"
+
+msgid "res_achiev6_desc"
+msgstr "Lås opp første klasse brannmannrang"
+
+msgid "res_shop_range"
+msgstr "Vannpistolens rekkeviddenivå %s"
+
+msgid "res_talky_13"
+msgstr "Det er mange forskjellige fiender... De er alle farlige!"
+
+msgid "res_inapp7_title"
+msgstr "Koalavenn"
+
+msgid "res_achiev28_title"
+msgstr "Lavagjørme-jeger"
+
+msgid "res_shop_piecex2"
+msgstr "Doble penger"
+
+msgid "res_achiev27_title"
+msgstr "Flammegutt-jeger"
+
+msgid "res_achiev25_title"
+msgstr "Samler"
+
+msgid "res_achiev28_desc"
+msgstr "Slukk 100 Lavaleire"
+
+msgid "res_inapp8_desc"
+msgstr "En nydelig bjørnunge som følger etter deg overalt"
+
+msgid "res_inapp2_desc"
+msgstr "Spill med den fantastiske Doc-huden!"
+
+msgid "res_achievements"
+msgstr "Bragder"
+
+msgid "res_ask_login_gp"
+msgstr "Vil du loge inn på Google Plus?"
+
+msgid "res_achiev30_title"
+msgstr "Flammekaster.jeger"
+
+msgid "res_achiev22_desc"
+msgstr "Komplett verden 2"
+
+msgid "res_shop_pet2"
+msgstr "Kjæledyr 2"
+
+msgid "res_shop_pet3"
+msgstr "Kjæledyr 3"
+
+msgid "res_achiev4_title"
+msgstr "Brannmanntrening"
+
+msgid "res_shop_pet1"
+msgstr "Kjæledyr 1"
+
+msgid "res_loading"
+msgstr "Laster..."
+
+msgid "res_achiev8_desc"
+msgstr "Lås opp leder-brannmannrangen"
+
+msgid "res_rank_4"
+msgstr "Lederbrannmann"
+
+msgid "res_talky_21"
+msgstr "Forrsten, jeg er Talky, jeg vil alltid være her og hjelpe deg"
+
+msgid "res_inapp5_desc"
+msgstr "Lås opp et ekstra nivå i jungelen"
+
+msgid "res_talky_8"
+msgstr "Når den er slukket, hopp på den for å fjerne den"
+
+msgid "res_talky_5"
+msgstr "Bruk vannpistol-knappen til å slukke flammene"
+
+msgid "res_inapp5_title"
+msgstr "Jungel ekstranivå"
+
+msgid "res_achiev21_desc"
+msgstr "Fullfør verden 1"
+
+msgid "res_inapp4_desc"
+msgstr "Spill med den fantastiske Doc-huden!"
+
+msgid "res_talky_12"
+msgstr "Det er 3 mykdyr som skal reddes på hvert nivå"
+
+msgid "res_rank_1"
+msgstr "Brannmann"
+
+msgid "res_achiev20_desc"
+msgstr "Fullfør et nivå uten å miste liv"
+
+msgid "res_inapp7_desc"
+msgstr "En søt koala som følger deg overalt"
+
+msgid "res_share"
+msgstr "Sjekk %1s, det er virkelig et halt fantastisk spill! Du kan laste det ned her: %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Sjekk Facebooksiden til  Magma Mobile"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Ønsker du å få tilgang til superprestasjoner? Det kan du gjøre ved å registrere deg på Google Play Services"
+
+msgid "res_achiev14_title"
+msgstr "Øverste sjef"
+
+msgid "res_inapp8_title"
+msgstr "Bjørnungevenn"
+
+msgid "res_inapp6_desc"
+msgstr "Lås opp et ekstra nivå i jungelen"
+
+msgid "res_talky_7"
+msgstr "Pass på, det er Flammegutt! Slukk den med vannpistolen din"
+
+msgid "res_achiev2_desc"
+msgstr "Del spillet med vennene dine"
+
+msgid "res_inapp3_title"
+msgstr "Hud2"
+
+msgid "res_inapp1_desc"
+msgstr "Doble XP-en du tjener gjennom hele spillet"
+
+msgid "res_talky_20"
+msgstr "Her er kjæledyret ditt, det vil følge deg overalt"
+
+msgid "res_rangs"
+msgstr "Rang"
+
+msgid "res_credits_text"
+msgstr "Utvikler:  Clément Slempkes\nGrafiker : Sandra Ferragu\n Prosjektleder : Emmanuel Robles\nProsjektleder : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "Innstillinger"
+
+msgid "res_head_quarter"
+msgstr "Hovedkvarter"
+
+msgid "res_achiev18_title"
+msgstr "Redningsmann"
+
+msgid "res_talky_1"
+msgstr "Trykk høyre knapp for å hoppe."
+
+msgid "res_achiev15_title"
+msgstr "1000 liter vann"
+
+msgid "res_achiev32_title"
+msgstr "Haukøye"
+
+msgid "res_achiev18_desc"
+msgstr "Redd tre mykdyr i ett enkelt nivå"
+
+msgid "res_achiev25_desc"
+msgstr "Finn alle gjenstandene du har mistet i spillet"
+
+msgid "res_achiev16_desc"
+msgstr "Skyt 5000 liter vann"
+
+msgid "res_inapp10_title"
+msgstr "Dobbel oppakking"
+
+msgid "res_achiev7_desc"
+msgstr "Lås opp Senior brannslukkerrangen"
+
+msgid "res_rank_5"
+msgstr "Brannmann"
+
+msgid "res_inapp0_desc"
+msgstr "Doble pengen du har tjent gjennom hele spillet"
+
+msgid "res_achiev12_desc"
+msgstr "Lås opp Senior kapteinsrangen"
+
+msgid "res_achiev16_title"
+msgstr "5000 liter"
+
+msgid "res_required"
+msgstr "påkrevet"
+
+msgid "res_no_pets"
+msgstr "Ingen kjæledyr"
+
+msgid "res_pets"
+msgstr "Kjæledyr"
+
+msgid "res_shop_extralevel1"
+msgstr "Jungel ekstranivåer"
+
+msgid "res_talky_23"
+msgstr "Sett de to knappene oppå hverandre for å bruke jetranselen og skyte samtidig"
+
+msgid "res_talky_19"
+msgstr "XP gjør at du kan få nye ranger"
+
+msgid "res_achiev32_desc"
+msgstr "Finn en skult vegg"
+
+msgid "res_achiev29_desc"
+msgstr "Slukk 100 bomber før de eksploderer"
+
+msgid "res_buy"
+msgstr "Kjøp"
+
+msgid "res_shop_life"
+msgstr "%s Extra bonus"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_achiev23_desc"
+msgstr "Fullfør verden 3"
+
+msgid "res_achiev29_title"
+msgstr "Bombejeger"
+
+msgid "res_title_monde2"
+msgstr "Ørken"
+
+msgid "res_achiev31_desc"
+msgstr "Slukk 100 brannedderkopper"
+
+msgid "res_inapp0_title"
+msgstr "Doble penger"
+
+msgid "res_sound"
+msgstr "Lyd"
+
+msgid "res_achiev26_desc"
+msgstr "Slukk hundre flammer"
+
+msgid "res_good_job"
+msgstr "Godt jobbet!"
+
+msgid "res_shop"
+msgstr "Butikk"
+
+msgid "res_jetpack"
+msgstr "Jetransel"
+
+msgid "res_achiev21_title"
+msgstr "Verden 1"
+
+msgid "res_inapp6_title"
+msgstr "Forlat ekstranivå"
+
+msgid "res_talky_22"
+msgstr "Nå er du klar, nå er du en skikkelig brannmann!"
+
+msgid "res_talky_18"
+msgstr "Penger gjlr at du kan kjøpe elementer og oppgradere i butikken"
+
+msgid "res_level_locked"
+msgstr "Nivå lukket"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Brannjente-hud"
+
+msgid "res_shop_reservoir"
+msgstr "Jetranselens kapasitetsnivå %s"
+
+msgid "res_talky_17"
+msgstr "Teleporter vil ta deg til en annen plass..."
+
+msgid "res_rank_2"
+msgstr "Første klasses brannmann"
+
+msgid "res_talky_14"
+msgstr "Stalakitter er dødlige!"
+
+msgid "res_talky_0"
+msgstr "Bruke høyre- og venstrepåilene for å flytte."
+
+msgid "res_achiev30_desc"
+msgstr "Slukk 100 flammekstere"
+
+msgid "res_restorepurchases"
+msgstr "Gjenopprett anskaffelser"
+
+msgid "res_achiev1_title"
+msgstr "Sosial"
+
+msgid "res_achiev3_title"
+msgstr "Flere spill"
+
+msgid "res_achiev23_title"
+msgstr "Verden 3"
+
+msgid "res_moregames"
+msgstr "Flere spill"
+
+msgid "res_music"
+msgstr "Musikk"
+
+msgid "res_inapp4_title"
+msgstr "Hud3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Ønsker du å konkurrere mot andre spillere over hele verden? Det kan du gjøre ved å redistrere deg på Google Play Services"
+
+msgid "res_talky_2"
+msgstr "Oppretthold høyre knapp for å bruke jetranselen."
+
+msgid "res_achiev19_desc"
+msgstr "Fullfør et nivå uten å lagre noen mykdyr"
+
+msgid "res_achiev10_title"
+msgstr "Løyntnant"
+
+msgid "res_rank_10"
+msgstr "Øverste sjef"
+
+msgid "res_ask_logout_gp"
+msgstr "Ønsker du å logge ut fra Google Plus?"
+
+msgid "res_rank_8"
+msgstr "Senior kaptein"
+
+msgid "res_achiev10_desc"
+msgstr "Lås opp løyntnantrangen"
+
+msgid "res_achiev17_desc"
+msgstr "Skyt 10 000 liter vann"
+
+msgid "res_achiev2_title"
+msgstr "Del"
+
+msgid "res_inapp3_desc"
+msgstr "Lek med den fenomenale brannjentehuden!"
+
+msgid "res_talky_16"
+msgstr "Hold øynene vidåpne... for hemmelige ganger"
+
+msgid "res_achiev13_desc"
+msgstr "Lås opp Lederrangen"
+
+msgid "res_inventory"
+msgstr "HK"
+
+msgid "res_inapp2_title"
+msgstr "Hus 1"
+
+msgid "res_shop_maxipack"
+msgstr "Doble penger + XP"
+
+msgid "res_rank_6"
+msgstr "Løyntnant"
+
+msgid "res_inapp9_title"
+msgstr "Hundevenn"
+
+msgid "res_achiev4_desc"
+msgstr "Fullfør veiledningen"
+
+msgid "res_specialitems"
+msgstr "Spesielle gjenstander"
+
+msgid "res_achiev31_title"
+msgstr "Brannedderkopp-jeger"
+
+msgid "res_achiev11_title"
+msgstr "Kaptein"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Brannjente-hud"
+
+msgid "res_lostfound"
+msgstr "Mistet og funnet"
+
+msgid "res_shop_extralevel2"
+msgstr "Overgi ekstranivåer"
+
+msgid "res_rank_3"
+msgstr "Senior brannmann"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Ønsker fu å lagre spillfremgangen din? Det kan du gjøre ved å registrere deg på Google Play Services"
+
+msgid "res_achiev15_desc"
+msgstr "Skyt 1000 liter vann"
+
+msgid "res_talky_9"
+msgstr "Flammer kan ha forskjellige lag"
+
+msgid "res_talky_11"
+msgstr "Brannhydranter kan også brukes som kontrollpunkter hvis du mister et liv"
+
+msgid "res_achiev9_title"
+msgstr "Brannmann"
+
+msgid "res_achiev20_title"
+msgstr "Unnasluntrer"
+
+msgid "res_achiev9_desc"
+msgstr "Lås opp Brannmannrangen"
+
+msgid "res_talky_4"
+msgstr "Og løp ut gjennom utgangen!"
+
+msgid "res_achiev14_desc"
+msgstr "Lås opp topplederrangen"
+
+msgid "res_achiev8_title"
+msgstr "Lederbrannmann"
+
+msgid "res_achiev27_desc"
+msgstr "Slukk 100 flammegutter"
+
+msgid "res_pause"
+msgstr "Pause"
+
+msgid "res_shop_pet4_title"
+msgstr "Venn ~ ulv"
+
+msgid "res_shop_pet4_desc"
+msgstr "En klok ulv som følger deg overalt"
+
+msgid "res_shop_pet5_title"
+msgstr "Venn ~ Isbjørn"
+
+msgid "res_shop_pet5_desc"
+msgstr "En sterk isbjørn som følger deg overalt"
+
+msgid "res_shop_pet6_title"
+msgstr "Venn ~ rådyr"
+
+msgid "res_shop_pet6_desc"
+msgstr "Et vennlig rådyr som følger deg overalt"
+
+msgid "res_shop_pet7_title"
+msgstr "Venn ~ snørev"
+
+msgid "res_shop_pet7_desc"
+msgstr "En klok snørev som følger deg overalt"
+
+msgid "res_shop_pet8_title"
+msgstr "Ven ~ mammut"
+
+msgid "res_shop_pet8_desc"
+msgstr "En kraftfull mammut som følger deg overalt"
+
+msgid "res_shop_skin3_title"
+msgstr "Skinn ~ eskimo"
+
+msgid "res_shop_skin3_desc"
+msgstr "Lek med det fantastiske eskimoskinnet!"
+
+msgid "res_shop_skin4_title"
+msgstr "Skinn ~ Yeti"
+
+msgid "res_shop_skin4_desc"
+msgstr "Lek med det fantastiske Yeti-skinnet!"
+
+msgid "res_shop_skin5_title"
+msgstr "Skinb ~ julenissen"
+
+msgid "res_shop_skin5_desc"
+msgstr "Lek med det fantastiske julenisseskinnet!"
+
+msgid "res_shop_skin6_title"
+msgstr "Skinn ~ jodlende jente"
+
+msgid "res_shop_skin6_desc"
+msgstr "Lek med det fantastiske skinnet til den jodlende jente!"
+
+msgid "res_title_monde3"
+msgstr "Fjell"
+
+msgid "res_shop_world3_title"
+msgstr "Fjell ekstra nivåer"
+
+msgid "res_shop_world3_desc"
+msgstr "Lås opp alle hemmelige nivåer i fjellet"
+
+msgid "res_shop_all"
+msgstr "Lås opp alt i butikken, ta bort annonser og hjelp oss å skape bedre spill!"
+
+msgid "res_notif_1"
+msgstr "Bli med å spille %1s i dag!"
+
+msgid "res_notif_2"
+msgstr "Registrer deg og spill %1s med oss i dag!"
+
+msgid "res_notif_3"
+msgstr "Du har ikke spilt %1s på en stund!"
+
+msgid "res_notif_4"
+msgstr "Få litt glede i hverdagen. Spill %1s nå!"
+
+
+
+
+

@@ -1,0 +1,570 @@
+msgid "app_name"
+msgstr "Feuerwehr"
+
+msgid "Share"
+msgstr "Ich liebe es %1s zu spielen ! Empfehlung von mir, lade es jetzt herunter: %2s"
+
+msgid "rate the game"
+msgstr "Spiel bewerten"
+
+msgid "You seem to be enjoying the game"
+msgstr "Sie scheinen es zu genießen {0} so viel wie entwickeln wir es genossen. Vielen Dank. Hätten Sie etwas dagegen hilft uns, indem sie einige Zeit, um eine positive Bewertung im Spiel Seite hinzufügen?"
+
+msgid "res_title_monde1"
+msgstr "Dschungel"
+
+msgid "res_achiev12_title"
+msgstr "Senior Kapitän"
+
+msgid "res_quit"
+msgstr "Beenden?"
+
+msgid "res_rank_9"
+msgstr "Chef"
+
+msgid "res_shop_xpx2"
+msgstr "Doppel XP"
+
+msgid "res_achiev5_title"
+msgstr "Feuerwehrmann!"
+
+msgid "res_talky_6"
+msgstr "Gehe überdie Flammen, um sicher zu gehen, dass die Flammen wirklich gelöscht sind"
+
+msgid "res_inapp10_desc"
+msgstr "Verdopple das Geld und das XP, verdienst du auch durch das ganze Spiel"
+
+msgid "res_mission"
+msgstr "Auftrag"
+
+msgid "res_achiev17_title"
+msgstr "10.000 Liter Wasser"
+
+msgid "res_rank_7"
+msgstr "Kapitän"
+
+msgid "res_achiev3_desc"
+msgstr "Schau mal unsere anderen Spiele an!"
+
+msgid "res_talky_10"
+msgstr "Hydranten ermöglichen Dir den Tank aufzufüllen"
+
+msgid "keywords"
+msgstr "Feuer,Feuerwehrmann,Platformer,springen,Hindernisse"
+
+msgid "res_credits"
+msgstr "Kreditstand"
+
+msgid "res_arrows"
+msgstr "Pfeile"
+
+msgid "res_achiev13_title"
+msgstr "Chef"
+
+msgid "res_not_enough_money"
+msgstr "Nicht genug Geld"
+
+msgid "res_talky_15"
+msgstr "Du wirst bewegende Platformen entlang dem Weg die dir helfen in deinem Bestreben"
+
+msgid "res_achiev7_title"
+msgstr "Senior Feuerwehrmann"
+
+msgid "res_skins"
+msgstr "Aussehen"
+
+msgid "res_shop_fireman_skin1"
+msgstr "Hundehaut"
+
+msgid "res_inapp1_title"
+msgstr "Doppel XP"
+
+msgid "res_rank_0"
+msgstr "Neuling"
+
+msgid "res_talky_3"
+msgstr "Sichere die Stofftiere!"
+
+msgid "res_achiev6_title"
+msgstr "1st Class Feuerwehrmann"
+
+msgid "res_achiev26_title"
+msgstr "Flammen Jäger"
+
+msgid "res_achiev24_title"
+msgstr "Der Sucher"
+
+msgid "res_achiev24_desc"
+msgstr "Finde ein verlorenes Objekt"
+
+msgid "res_achiev19_title"
+msgstr "Feigling"
+
+msgid "res_inapp9_desc"
+msgstr "Ein super loyaler Hund der Folgt dir überall hin"
+
+msgid "res_achiev22_title"
+msgstr "Welt 2"
+
+msgid "res_new_rank"
+msgstr "Neuer rang"
+
+msgid "res_achiev5_desc"
+msgstr "Entperre den Feuerwehrmann Rang"
+
+msgid "res_achiev11_desc"
+msgstr "Entsperre den Kapitäns Rang"
+
+msgid "res_congratulations"
+msgstr "Du haste es geschafft! Gratuliere! Du hast alle Levels des Spiels geschafft. Nur wenige schaffen es soweit. Gut gemacht! Wier werden bald neue Welten hinzufügen um mehr Haustiere zu retten und mehr Versteckte Objekte zu sammeln. Bleib dran! In der Zwischenzeit, würden wir Dich bitten uns eine 5-Sterne-Bewertung abzugeben!"
+
+msgid "res_select"
+msgstr "Auswählen"
+
+msgid "res_achiev6_desc"
+msgstr "Entsperre den Feuerwehrmann Ersten Ranges"
+
+msgid "res_shop_range"
+msgstr "Wasserwerfer Reichweite %s"
+
+msgid "res_talky_13"
+msgstr "Es gibt viele Arten von Gegnern... Alle sind gefährlich ! "
+
+msgid "res_inapp7_title"
+msgstr "Koala Freund"
+
+msgid "res_achiev28_title"
+msgstr "Lavaflußjäger"
+
+msgid "res_shop_piecex2"
+msgstr "Doppeltes Geld"
+
+msgid "res_achiev27_title"
+msgstr "Flammenjungen Jäger"
+
+msgid "res_achiev25_title"
+msgstr "Sammler"
+
+msgid "res_achiev28_desc"
+msgstr "Lösche 100 Lava Flüsse"
+
+msgid "res_inapp8_desc"
+msgstr "Ein prachtvoller Jungbär der  dir überallhin folgt"
+
+msgid "res_inapp2_desc"
+msgstr "Spiele mit dem erstaunlichen Doc Aussehen !"
+
+msgid "res_achievements"
+msgstr "Erfolge"
+
+msgid "res_ask_login_gp"
+msgstr "Möchtest du nach Google+ einloggen?"
+
+msgid "res_achiev30_title"
+msgstr "Flammenwerferjäger"
+
+msgid "res_achiev22_desc"
+msgstr "Beende Welt 2"
+
+msgid "res_shop_pet2"
+msgstr "Haustier 2"
+
+msgid "res_shop_pet3"
+msgstr "Tier 3"
+
+msgid "res_achiev4_title"
+msgstr "Feuerwehrmann Training"
+
+msgid "res_shop_pet1"
+msgstr "Tier 1"
+
+msgid "res_loading"
+msgstr "Lade.."
+
+msgid "res_achiev8_desc"
+msgstr "Entsperre den Feuerwehrhauptmann Rang"
+
+msgid "res_rank_4"
+msgstr "Feuerwehrhauptmann"
+
+msgid "res_talky_21"
+msgstr "Übrigens, ich bin 'Talky', ich werde immer da sein, um Dir zu helfen"
+
+msgid "res_inapp5_desc"
+msgstr "Entsperre einen extra Level im Dschungel"
+
+msgid "res_talky_8"
+msgstr "Wenn es gelöscht ist, springe drauf um es zu tilgen"
+
+msgid "res_talky_5"
+msgstr "Benutze die Wasserpistolen Taste um die Flammen zu löschen"
+
+msgid "res_inapp5_title"
+msgstr "Dschungel Extra Level"
+
+msgid "res_achiev21_desc"
+msgstr "Beende Welt 1"
+
+msgid "res_inapp4_desc"
+msgstr "Spiele mit dem erstaunlichen Doc Aussehen !"
+
+msgid "res_talky_12"
+msgstr "Es sind 3 Stofftiere in jedem Level zu sichern"
+
+msgid "res_rank_1"
+msgstr "Feuerwehrmann"
+
+msgid "res_achiev20_desc"
+msgstr "Beende ein Level ohne ein Leben zu verlieren"
+
+msgid "res_inapp7_desc"
+msgstr "Ein süßer Koala der Dir überall hin folgt"
+
+msgid "res_share"
+msgstr "Sieh dir %1s an, ein aufregendes Spiel! Du kannst es hier herunterladen : %2s."
+
+msgid "res_achiev1_desc"
+msgstr "Besuch die Magma Mobile Facebook Seite"
+
+msgid "res_askforgoogleplay_achievement"
+msgstr "Möchtest du Zugriff auf die Super Errungenschaften haben? "
+
+msgid "res_achiev14_title"
+msgstr "Hauptmann"
+
+msgid "res_inapp8_title"
+msgstr "Jungbär Freund"
+
+msgid "res_inapp6_desc"
+msgstr "Entsperre ein extra Level in der Wüste"
+
+msgid "res_talky_7"
+msgstr "Vorsicht, es ist der Flammenjunge! Lösche es mit deiner Wasserspritze"
+
+msgid "res_achiev2_desc"
+msgstr "Teile das Spiel mit deinen Freunden"
+
+msgid "res_inapp3_title"
+msgstr "Aussehen 2"
+
+msgid "res_inapp1_desc"
+msgstr "Verdoppelt die XP's die du durchs Spiel hindurch erwirbst"
+
+msgid "res_talky_20"
+msgstr "Hier ist dein Haustier, es wird dir jetzt überall hin folgen"
+
+msgid "res_rangs"
+msgstr "Ränge"
+
+msgid "res_credits_text"
+msgstr "Entwickler : Clément Slempkes\nGrafik : Sandra Ferragu\n Projektleiter : Emmanuel Roblès\nProjektmanager : Loïc Kempf"
+
+msgid "res_settings"
+msgstr "Einstellungen"
+
+msgid "res_head_quarter"
+msgstr "Hauptquartier"
+
+msgid "res_achiev18_title"
+msgstr "Erlöser"
+
+msgid "res_talky_1"
+msgstr "Drücke die rechte Taste zum springen."
+
+msgid "res_achiev15_title"
+msgstr "1000 Liter Wasser"
+
+msgid "res_achiev32_title"
+msgstr "Falkenauge"
+
+msgid "res_achiev18_desc"
+msgstr "3 Kuscheltiere in einem Level gesichert"
+
+msgid "res_achiev25_desc"
+msgstr "Finde alle verlorenen Objecte im Spiel"
+
+msgid "res_achiev16_desc"
+msgstr "Schieße 5000 Liter Wasser"
+
+msgid "res_inapp10_title"
+msgstr "Doppelpack"
+
+msgid "res_achiev7_desc"
+msgstr "Entsperre den Senior Firefighter Rang"
+
+msgid "res_rank_5"
+msgstr "Feuerwehr Offizier"
+
+msgid "res_inapp0_desc"
+msgstr "Verdopple das Geld welches Du im Ganzen Spiel verdienst"
+
+msgid "res_achiev12_desc"
+msgstr "Entsperre den Senior Kapitän Rang"
+
+msgid "res_achiev16_title"
+msgstr "5000 Liter Wasser"
+
+msgid "res_required"
+msgstr "erforderlich"
+
+msgid "res_no_pets"
+msgstr "Keine Tiere"
+
+msgid "res_pets"
+msgstr "Haustiere"
+
+msgid "res_shop_extralevel1"
+msgstr "Dschungel extra Levels"
+
+msgid "res_talky_23"
+msgstr "Plaziere die zwei Tasten übereinander und benutze den Jetpack und schieße auf beide gleichzeitig"
+
+msgid "res_talky_19"
+msgstr "XP erlaubt dir neue Ränge zu erreichen"
+
+msgid "res_achiev32_desc"
+msgstr "Finde eine versteckte Wand"
+
+msgid "res_achiev29_desc"
+msgstr "Lösche 100 Bomben bevor sie explodieren"
+
+msgid "res_buy"
+msgstr "Kaufen"
+
+msgid "res_shop_life"
+msgstr "%s Extra Leben"
+
+msgid "res_joystick"
+msgstr "Joystick"
+
+msgid "res_achiev23_desc"
+msgstr "Beende Welt 3"
+
+msgid "res_achiev29_title"
+msgstr "Bombenjäger"
+
+msgid "res_title_monde2"
+msgstr "Wüste"
+
+msgid "res_achiev31_desc"
+msgstr "Lösche 100 Feuerkreuze"
+
+msgid "res_inapp0_title"
+msgstr "Doppeltes Geld"
+
+msgid "res_sound"
+msgstr "Ton"
+
+msgid "res_achiev26_desc"
+msgstr "Lösche 100 Flammen"
+
+msgid "res_good_job"
+msgstr "Gute Arbeit !"
+
+msgid "res_shop"
+msgstr "Shop"
+
+msgid "res_jetpack"
+msgstr "Jetpack"
+
+msgid "res_achiev21_title"
+msgstr "Welt 1"
+
+msgid "res_inapp6_title"
+msgstr "Wüsten Extra Level"
+
+msgid "res_talky_22"
+msgstr "Du bist jetzt fertig, Du bist jetzt ein richtiger Feuerwehrmann!"
+
+msgid "res_talky_18"
+msgstr "Geld erlaubt dir Objekte und Upgrades im Shop zu kaufen"
+
+msgid "res_level_locked"
+msgstr "Level gesperrt"
+
+msgid "res_shop_fireman_skin3"
+msgstr "Feuerwehrfrau Aussehen"
+
+msgid "res_shop_reservoir"
+msgstr "Jetpack Tank Füllstand %s"
+
+msgid "res_talky_17"
+msgstr "Teleporter transportieren dich wo anders hin..."
+
+msgid "res_rank_2"
+msgstr "1st Class Feuerwehrmann"
+
+msgid "res_talky_14"
+msgstr "Stalaktiten sind tötlich !"
+
+msgid "res_talky_0"
+msgstr "Benutze Pfeile rechts und links zum bewegen."
+
+msgid "res_achiev30_desc"
+msgstr "Lösche 100 Flammenwerfer"
+
+msgid "res_restorepurchases"
+msgstr "Käufe zurücksetzen"
+
+msgid "res_achiev1_title"
+msgstr "Sozial"
+
+msgid "res_achiev3_title"
+msgstr "Weitere Spiele"
+
+msgid "res_achiev23_title"
+msgstr "Welt 3"
+
+msgid "res_moregames"
+msgstr "Weitere Spiele"
+
+msgid "res_music"
+msgstr "Musik"
+
+msgid "res_inapp4_title"
+msgstr "Aussehen 3"
+
+msgid "res_askforgoogleplay_leaderbord"
+msgstr "Möchtest Du gegen andere Spieler weltweit spielen? Das kannst du machen in dem du dich bei Google Play Services anmeldest"
+
+msgid "res_talky_2"
+msgstr "Rechte Taste festhalten um das Jetpack zu benutzen."
+
+msgid "res_achiev19_desc"
+msgstr "Beende ein Level ohne ein Stofftier zu sichern"
+
+msgid "res_achiev10_title"
+msgstr "Leutnant"
+
+msgid "res_rank_10"
+msgstr "Hauptmann"
+
+msgid "res_ask_logout_gp"
+msgstr "Möchtest Du von GooglePlus ausloggen?"
+
+msgid "res_rank_8"
+msgstr "Senior Kapitän"
+
+msgid "res_achiev10_desc"
+msgstr "Entsperre den Leutnant Rang"
+
+msgid "res_achiev17_desc"
+msgstr "Schiesse 10.000 Liter Wasser"
+
+msgid "res_achiev2_title"
+msgstr "Teile"
+
+msgid "res_inapp3_desc"
+msgstr "Spiele mit dem erstaunlichen Feuermädchen Haut!"
+
+msgid "res_talky_16"
+msgstr "Halte deine Augen offen... für eine sichere Passage"
+
+msgid "res_achiev13_desc"
+msgstr "Entsperre den Chef Rang"
+
+msgid "res_inventory"
+msgstr "Hauptquartier"
+
+msgid "res_inapp2_title"
+msgstr "Aussehen 1"
+
+msgid "res_shop_maxipack"
+msgstr "Doppelt Geld + XP"
+
+msgid "res_rank_6"
+msgstr "Leutnant"
+
+msgid "res_inapp9_title"
+msgstr "Hundefreund"
+
+msgid "res_achiev4_desc"
+msgstr "Beende das Turtorial"
+
+msgid "res_specialitems"
+msgstr "Spezielle Gegenstände"
+
+msgid "res_achiev31_title"
+msgstr "Feuerspinnen Jäger"
+
+msgid "res_achiev11_title"
+msgstr "Kapitän"
+
+msgid "res_shop_fireman_skin2"
+msgstr "Feuerwehrfrau Aussehen"
+
+msgid "res_lostfound"
+msgstr "Verlorenes und Gefundenes"
+
+msgid "res_shop_extralevel2"
+msgstr "Wüsten extra Levels"
+
+msgid "res_rank_3"
+msgstr "Senior Feuerwehrmann"
+
+msgid "res_askforgoogleplay_cloud"
+msgstr "Möchtest du Dein Spielfortschritt speichern? "
+
+msgid "res_achiev15_desc"
+msgstr "Schieße 1000 Liter Wasser"
+
+msgid "res_talky_9"
+msgstr "Flammen können mehrere Schichten haben"
+
+msgid "res_talky_11"
+msgstr "Hydranten können auch als Speicherpunkt genutzt werden, wenn Du ein Leben verloren hast"
+
+msgid "res_achiev9_title"
+msgstr "Feuerwehr Offizier"
+
+msgid "res_achiev20_title"
+msgstr "Schwindler"
+
+msgid "res_achiev9_desc"
+msgstr "Entsperre den Feuer Offizier Rang"
+
+msgid "res_talky_4"
+msgstr "Und laufe durch den Ausgang!"
+
+msgid "res_achiev14_desc"
+msgstr "Entsperre den Hauptmann Rang"
+
+msgid "res_achiev8_title"
+msgstr "Feuerwehrhauptmann"
+
+msgid "res_achiev27_desc"
+msgstr "Lösche 100 Flammenjungs"
+
+msgid "res_pause"
+msgstr "Pause"
+
+msgid "res_harder"
+msgstr "Probieren Sie das Spiel härter in Mode! \nSind Sie bereit, zu wiederholen ... auf allen Ebenen?"
+
+msgid "res_difficulty"
+msgstr "Difficulty"
+
+msgid "res_difficulty_normal"
+msgstr "Normal"
+
+msgid "res_difficulty_hardcore"
+msgstr "Hardcore"
+
+msgid "res_difficulty_extreme"
+msgstr "Extreme"
+
+msgid "res_notif_1"
+msgstr "Spiel heute noch %1s!"
+
+msgid "res_notif_2"
+msgstr "Spiele heute noch %1s mit uns!"
+
+msgid "res_notif_3"
+msgstr "Du hast %1s schon eine Weile nicht mehr gespielt!"
+
+msgid "res_notif_4"
+msgstr "Bringe etwas Freude in deinen Tag. Spiele jetzt %1s!"
+
+
+
+

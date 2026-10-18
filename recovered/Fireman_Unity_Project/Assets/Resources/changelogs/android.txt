@@ -1,0 +1,43 @@
+[FFDC00]2016-10-26 - v1.0.9[FFFFFF]
+    - Android 7 Compatibility
+
+[FF8000]2015-05-29 - v1.0.8[FFFFFF]
+    - Fixed crash on some devices
+
+[FF8000]2015-05-06 - v1.0.7[FFFFFF]
+    - Minor bugs fixed (Google TV)
+
+[FF8000]2015-01-13 - v1.0.6[FFFFFF]
+    - Minor bugs fixed
+
+[FF8000]2014-10-13 - v1.0.5[FFFFFF]	
+    [32a5db]- 25 Brand New Levels[FFFFFF]
+    - New friends and skins
+    - More fun !
+    - Also Translated in :
+      . Hungarian
+      . Polish
+      . Slovak
+      . Swedish
+      . Vietnamese
+
+[FF8000]2014-02-26 - v1.0.4[FFFFFF]
+    - Fixed crash on Android 2 !
+    - New Immersive Full-Screen Mode
+      For Android 4.4 Only
+
+[FF8000]2014-01-31 - v1.0.3[FFFFFF]
+    - Fixed crash on some devices !
+
+[FF8000]2013-12-06 - v1.0.2[FFFFFF]
+    - Now Compatible With Rockship Devices !
+    - Translated in :
+      . German
+      . Italian
+      . Portugese (Brazil)
+
+[FF8000]2013-11-23 - v1.0.1[FFFFFF]
+    - Minor Bugs fixes
+
+[FF8000]2013-11-20 - v1.0.0[FFFFFF]
+    - First Release
