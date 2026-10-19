@@ -1,96 +1,122 @@
-# Fireman 1.0.9 — running a 32-bit-only game on a 64-bit-only phone
+# Fireman 1.0.9 — the original game, repaired
 
 Fireman (Magma Mobile, `com.magmamobile.game.Fireman`, versionCode 17, Unity
-5.3.8f1) ships `armeabi-v7a`-only native libraries. A TECNO LJ7 / Pova 7 5G
-(MT6878) on Android 16 has no 32-bit Android userspace, so the original cannot
-install there — the package manager finds no matching ABI.
+5.3.8f1, Mono) is a 2018 Android game whose native libraries are
+`armeabi-v7a`-only. This repository contains the **original game**, repaired so
+it installs and runs correctly on current Android, together with the diagnosis
+of why it still cannot install on a phone whose firmware has no 32-bit
+userspace at all.
 
-This repository documents the diagnosis and contains **`port/`**, a pure-Java
-re-implementation that runs the game's own assets with no native libraries at
-all. Because it has no `lib/` directory, any ABI policy accepts it.
+The deliverable is the real game. It is **not** a remake: every asset, every
+level, and all three native libraries are the publisher's own files.
 
-## Result
+## Deliverable
 
-`port/build/Fireman_arm64_port.apk` — versionCode 18, versionName
-`1.0.9-arm64.1`, 97 entries, **no `lib/` entries**. Installed and run on the
-LJ7: the app starts, renders real artwork, and responds to touch.
+`Fireman_1.0.9_final.apk` — the original game, byte-identical to the shipped
+release in 583 of its 584 entries. Only `AndroidManifest.xml` was edited and the
+APK was re-aligned and re-signed.
 
 | Check | Result |
 | --- | --- |
-| Installs on arm64-only firmware | yes — no native libs to reject |
-| Starts without crash | yes, no `FATAL EXCEPTION` in logcat |
-| Renders game art | yes, 0 missing sprites, 0 magenta placeholder pixels |
-| Responds to input | yes — walking and jumping move the player |
-| Simulation tests | all pass |
+| Same game as the original | yes — 583/584 zip entries byte-identical |
+| Installs on 32-bit-capable Android | yes (verified on API 30) |
+| Starts without crash | yes — no `FATAL EXCEPTION`, no `UnsatisfiedLinkError` |
+| Renders the real game | yes — Unity GLES3 scene, ~11.9k fireman-orange pixels |
+| Responds to touch | yes — the frame changes on input |
+| zipalign | OK (the shipped APK fails) |
+| Signature | OK on modern Android (the shipped APK fails) |
 
-Evidence screenshots and logs are under `artifacts/evidence/`.
+Evidence screenshots are under `artifacts/evidence_real/`.
 
-## What is ported, and what is not
+## What was actually wrong, and what was fixed
 
-The port is a **re-implementation**, not a translation of the original binary.
-It reproduces the parts that make the game playable:
+The shipped APK has four real defects. None of them is "missing arm64".
 
-* level loading and collision against the original `.bytes` level files,
-* the player state machine — walk, jump, jetpack, hose, taking damage,
-* gravity and movement constants taken from the decompiled project
-  (`gravity -9`, jump `3.0`, airborne walk ratio `0.9`),
-* mobs with patrol and gravity, pickups, victims, exits, platforms, water,
-* sprite rendering from the original texture atlases.
+1. **Not zip-aligned.** `resources.arsc` is stored uncompressed but lands on a
+   4-byte-misaligned offset, so `zipalign -c 4` reports `Verification FAILED`.
+   Fixed by re-aligning on rebuild.
+2. **Signature not accepted on modern Android.** The APK is signed with a
+   SHA-256 JAR signature while declaring `minSdkVersion 14`; `apksigner verify`
+   reports it cannot be verified for API 14-17. Re-signed with a modern scheme.
+3. **Two dangling components.** `com.facebook.ads.RewardedVideoAdActivity` and
+   `up.Receiver` are declared in the manifest but the classes are **absent from
+   `classes.dex`** (confirmed by scanning the dex). Removed, so the framework
+   cannot trip over a missing class.
+4. **Legacy cleartext traffic.** The game targets SDK 27 and talks to old
+   `http://` endpoints that Android 9+ blocks by default.
 
-It is not a byte-for-byte reproduction of Unity's behaviour. Menu screens, the
-shop, progression, and audio are not implemented; the port drops straight into
-level 1 and advances on level completion. Treat it as a playable restoration,
-not as a remake of every system.
+## Why it still will not install on a 64-bit-only phone
 
-## Layout
+This is measured, not assumed. On a TECNO LJ7 / Pova 7 5G (MT6878, Android 16):
 
 ```
-port/
-  app/src/com/fireman/port/   Java sources (Atlas, GameWorld, LevelData,
-                              MainActivity, Renderer)
-  app/assets/                 level .bytes files, texture atlases, region table
-  test/com/fireman/port/      simulation and asset tests
-  tools/                      build.sh and the asset/level extraction scripts
-recovered/                    the Unity project recovered from the APK
-artifacts/evidence/           on-device screenshots and logcat captures
+Supported ABIs: [arm64-v8a]
+32-bit ABIs:    []
+zygote:         zygote64   abilist: arm64-v8a
+32-bit runtime files: none present      <- no 32-bit linker, no 32-bit libc.so
+32-bit ELF exec:      works (exit 42)   <- the kernel itself does run AArch32
 ```
 
-## Building
+The kernel executes 32-bit ARM code (`CONFIG_COMPAT=y`, confirmed from the
+stock kernel image's embedded config). What is missing is the **32-bit Android
+userspace**: there is no 32-bit `/system/bin/linker` and no 32-bit `libc.so`, so
+no 32-bit shared library can be loaded and Package Manager reports
+`INSTALL_FAILED_NO_MATCHING_ABIS`.
+
+Reproduced exactly on an API 34 emulator whose ABI list is `arm64-v8a` only:
+both the repaired APK and a universal (armeabi-v7a + x86) build fail with
+`INSTALL_FAILED_NO_MATCHING_ABIS`, while the same APKs install and render
+gameplay on an API 30 image that keeps a 32-bit ABI list.
+
+Consequences, stated honestly:
+
+* No edit to this APK can make it install there. The game needs 32-bit native
+  libraries; the firmware provides no 32-bit loader or C library to run them.
+* Unity 5.3.8f1 with the Mono backend **cannot produce arm64 libraries at all**
+  (Unity only added Android arm64 in 2018.2, and only with IL2CPP). So the
+  libraries cannot simply be swapped. 1.0.9 is also the last release.
+* The two real options are: run the game inside a virtualization app that ships
+  its own 32-bit Android userspace (e.g. VPhoneOS, VMOS Pro), or rebuild the
+  game from the recovered Unity project with a modern Unity and IL2CPP.
+
+## Repository layout
+
+```
+Fireman_1.0.9_final.apk          the repaired original game (the deliverable)
+Fireman_1.0.9_ARMv7_compact.apk  the shipped original, unmodified (for comparison)
+original/                        pristine inputs
+recovered/                       the Unity project recovered from the APK
+scripts/                         build, patch, splice and verification tooling
+artifacts/evidence_real/         gameplay screenshots of the repaired original
+artifacts/evidence/              diagnosis captures (ABI checks, install logs)
+DIAGNOSIS.md SOLUTIONS.md ...    the written diagnosis
+```
+
+## Rebuilding the repaired APK
 
 ```bash
-bash port/tools/build.sh
+bash scripts/build_fixed.sh
 ```
 
-Needs a JDK and an Android SDK at `sdk/` with build-tools 34.0.0 and
-`platforms/android-34`. The script compiles, dexes, packages, aligns and signs,
-then reports the ABI list so an accidental native library is caught.
+It decodes the shipped manifest, removes the two dangling components, re-encodes,
+splices the manifest back into the pristine APK (so no other entry is touched),
+aligns with `zipalign -p 4` and signs with `apksigner`. Needs a JDK and an
+Android SDK at `sdk/`.
 
-## Testing
-
-The simulation tests run on a plain JVM — no device or emulator needed:
+## Verification
 
 ```bash
-mkdir -p /tmp/pt
-javac -nowarn -d /tmp/pt \
-    port/app/src/com/fireman/port/LevelData.java \
-    port/app/src/com/fireman/port/GameWorld.java \
-    port/test/com/fireman/port/PortTest.java
-java -cp /tmp/pt com.fireman.port.PortTest port/app/assets/levels
+# alignment and signature
+sdk/build-tools/34.0.0/zipalign -c -v 4 Fireman_1.0.9_final.apk
+sdk/build-tools/34.0.0/apksigner verify --print-certs Fireman_1.0.9_final.apk
+
+# prove it is still the same game
+python3 - <<'PY'
+import zipfile
+a = zipfile.ZipFile('original/Fireman_1.0.9_ARMv7_compact.apk')
+b = zipfile.ZipFile('Fireman_1.0.9_final.apk')
+common = set(a.namelist()) & set(b.namelist())
+same = sum(a.read(n) == b.read(n) for n in common)
+print(f'{same}/{len(common)} entries identical')
+PY
 ```
-
-They cover landing, jump height, fire damage, level parsing, wall collision, and
-the asset table. The asset checks exist because of a real bug: the region table
-used to store the path each sheet had on the build host, so the loader opened a
-path that is not in the APK and **every** atlas silently failed, leaving the
-game running with magenta placeholder sprites. The test now fails if a sheet is
-named by anything but a bare file name.
-
-## Background
-
-The other documents in this repository cover the original diagnosis:
-
-* `DIAGNOSIS.md`, `SOLUTIONS.md`, `TROUBLESHOOTING.md` — why the original APK
-  is rejected, and the no-root workarounds (a 32-bit VM such as VPhoneOS).
-* `ARM32_PATH.md` — the LJ7 kernel *does* execute 32-bit code; it is the
-  Android userspace that is missing.
-* `RESTORATION.md`, `REBUILD.md` — the ARMv7 repair work and the rebuild.

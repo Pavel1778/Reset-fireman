@@ -1,5 +1,21 @@
 # Fireman 1.0.9 (Magma Mobile) — restoration notes
 
+## Current deliverable (settled)
+- The deliverable is the **repaired original APK**, `Fireman_1.0.9_final.apk`:
+  the publisher's own game, byte-identical in 583/584 zip entries, with only
+  `AndroidManifest.xml` edited plus a fresh alignment and signature.
+- A pure-Java re-implementation once lived in `port/`. It was **rejected by the
+  user** ("doesn't resemble the original game, completely broken") and has been
+  deleted. Do not reintroduce it. The user wants the original game fixed, not a
+  remake.
+- Verified gameplay of the repaired APK: installed on an API 30 emulator (which
+  keeps a 32-bit ABI list), launched, rendered a Unity GLES3 scene, ~11.9k
+  fireman-orange pixels, frames change on input, no `FATAL EXCEPTION` and no
+  `UnsatisfiedLinkError`. Screenshots in `artifacts/evidence_real/`.
+- Reproduced the LJ7's ABI block on an API 34 emulator (`abilist32` empty):
+  both the repaired APK and a universal armeabi-v7a+x86 build fail with
+  `INSTALL_FAILED_NO_MATCHING_ABIS`. The same APKs install fine on API 30.
+
 ## What the app is
 - Package `com.magmamobile.game.Fireman`, versionCode 17, versionName 1.0.9, minSdk 14, targetSdk 27.
 - Unity game with the **Mono** scripting backend (not IL2CPP). Code lives in
