@@ -1,0 +1,67 @@
+On-device output of Fireman_ARM32_Exec_Test.apk (versionCode 2, targetSdk 28)
+TECNO LJ7 / Pova 7 5G (MT6878), Android 16 (API 36), HiOS
+Captured 2026-10 from the app's own screen.
+
+ARM32 EXECUTION TEST
+====================
+
+Android 16 (API 36)
+Device: TECNO TECNO LJ7
+Supported ABIs: [arm64-v8a]
+32-bit ABIs: []
+64-bit ABIs: [arm64-v8a]
+
+targetSdk of this app: 28   (28 = allowed to exec its own files)
+SELinux domain: u:r:untrusted_app_27:s0:c96,c258,c512,c768   (expect untrusted_app_27 at targetSdk 28)
+zygote: zygote64   abilist: arm64-v8a
+dataDir: /data/user/0/com.fireman.exectest
+nativeLibraryDir: /data/app/~~h29Epa21W2lmjRtjd4iLhQ==/com.fireman.exectest-jCVQusNJo7EPsM_9TPOiDA==/lib/arm64
+
+
+32-bit runtime files:
+  none present
+
+64-bit runtime files:
+  /system/bin/linker64  ELF64/AArch64
+  /system/lib64/libc.so  ELF64/AArch64
+  /apex/com.android.runtime/lib64/bionic/libc.so  ELF64/AArch64
+
+
+/proc/config.gz:
+  present but not readable by apps (expected)
+
+
+32-bit (ELF32/ARM, exit 42):
+  exit code: 42   <- expected, execution worked
+  mode=executable
+
+64-bit control (ELF64/AArch64, exit 43):
+  exit code: 43   <- expected, execution worked
+  mode=executable
+
+
+VERDICT
+-------
+KERNEL RUNS 32-BIT CODE.
+
+
+INTERPRETATION
+--------------
+Exit code 42 came from the ELF32/ARM probe, so a 32-bit process started and ran
+to completion. A kernel without AArch32 support fails execve with ENOEXEC and
+returns no exit code at all, so 42 is a real execution and not a fallback. The
+64-bit probe returning 43 shows the launch mechanism itself is sound.
+
+SELinux domain is untrusted_app_27, confirming targetSdk 28 selected the legacy
+domain that is granted app_data_file:file execute_no_trans. The earlier run's
+"error=13, Permission denied" came from building the test at targetSdk 34, which
+selects a domain with no such rule.
+
+The firmware carries no 32-bit linker or libc.so, and ro.zygote is zygote64 with
+abilist arm64-v8a. That is why Package Manager reports no 32-bit ABI and refuses
+to install the game's armeabi-v7a libraries. It is a userspace restriction only;
+the kernel underneath executes AArch32 natively.
+
+Consequence: a virtualisation app that supplies its own 32-bit Android userspace
+(VMOS Pro with a 32-bit ROM, VPhoneOS, F1 VM) can run Fireman 1.0.9 on this phone
+on the same cores, with no CPU emulation.
