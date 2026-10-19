@@ -40,14 +40,31 @@ Fixes 1 and 2 alone make the APK installable; fix 3 removes dead declarations.
   rebuilt APK runs (orange fireman palette `rgb(255,186,8)`).
 
 ## Toolchain used (rebuilt after the sandbox was reset)
-- JDK 21 (`openjdk-21-jdk-headless`), apktool 2.7.0, Android cmdline-tools +
-  build-tools 34.0.0 (`zipalign`, `apksigner`, `aapt2`) under `sdk/`.
+
+Run `scripts/install_apk_tools.sh` to restore everything. It installs into
+`~/apktools/bin` (not `/opt`, which is not writable here) and adds that to
+`~/.bashrc`.
+
+- `sdk/build-tools/34.0.0/`: `aapt2`, `apksigner`, `zipalign`, `d8`, `dexdump`,
+  `aapt`. Present in-repo, nothing to install.
+- JDK 17 at `$JAVA_HOME` (`apksigner` silently no-ops without a JDK, which once
+  made signature checks look like they had run when they had not).
+- `apktool` 2.11.1 — decode and rebuild APKs.
+- `jadx` 1.5.1 — decompile to Java, for checking what an APK actually does.
+- Python: `lief` (ELF parsing), `capstone` (disassembly), `androguard` (dex).
+  Use these instead of hand-rolled `struct` parsing when validating ELFs.
+- No cross-compiler and no `qemu-user`, so target code is built byte-by-byte or
+  not at all; validate with `capstone`/`lief` before shipping.
 - Keystore: `work/fireman-release.keystore` (not committed). Password is supplied via the `FIREMAN_KS_PASS` environment variable.
 
 ## Scripts
+- `scripts/install_apk_tools.sh` — restore apktool/jadx/lief/capstone/androguard.
 - `scripts/splice_manifest.py` — rebuild APK with only the manifest replaced.
 - `scripts/build_universal.sh` — fat APK (armeabi-v7a + x86) builder.
 - `scripts/png_analyze.py` — screenshot colour analysis (render verification).
+- `scripts/make_probe_elfs.py` — hand-build the ARM32/ARM64 exec probe ELFs
+  (no cross-compiler here). Rebuilds the assets for the exec test.
+- `scripts/build_exectest.sh` — build `Fireman_ARM32_Exec_Test.apk`.
 - `scripts/run_game.sh`, `scripts/watch_render.sh` — launch/observe helpers.
 
 ## Emulator gotchas
