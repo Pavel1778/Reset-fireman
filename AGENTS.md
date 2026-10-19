@@ -125,8 +125,42 @@ Run `scripts/install_apk_tools.sh` to restore everything. It installs into
 - On-device confirmation is `Fireman_ARM32_Exec_Test.apk` (no native libs, so it
   always installs): ships `armprobe32.bin` (ELF32/ARM, `exit_group(42)`) and
   `armprobe64.bin` (ELF64/AArch64, `exit_group(43)`) as assets, runs both, and
-  prints exit codes plus `/proc/config.gz` lines. Read 42+43 as "kernel runs
-  32-bit", which is what the config already says.
+  prints exit codes, the SELinux domain, and `/proc/config.gz` lines. Read 42+43
+  as "kernel runs 32-bit", which is what the config already says.
+
+## targetSdk 28 is required for exec, and it is not a mistake
+
+The first build of the exec test used targetSdk 34 and both probes failed with
+`IOException: ... error=13, Permission denied` while the file was mode 0755.
+That is SELinux, not a missing exec bit and not the kernel.
+
+`seapp_contexts` assigns an app's domain from its targetSdk:
+
+```
+minTargetSdkVersion=34 -> untrusted_app
+minTargetSdkVersion=29 -> untrusted_app_29
+minTargetSdkVersion=28 -> untrusted_app_27
+```
+
+Only the legacy domains may exec a file in the app's own home directory:
+
+```
+untrusted_app_27.te:  allow untrusted_app_27 app_data_file:file execute_no_trans;
+untrusted_app_all.te: allow untrusted_app_all app_data_file:file { r_file_perms execute };
+```
+
+`untrusted_app_29` and above get `execute` (mmap, for shared libraries) but not
+`execute_no_trans`, and starting a process needs `execute_no_trans`. Hence EACCES
+at targetSdk 34. Termux targets 28 for exactly this reason. Verified against the
+`android16-release` branch, matching the LJ7, and `MIN_INSTALLABLE_TARGET_SDK`
+is 24, so a targetSdk 28 APK still installs on Android 16.
+
+Do not "fix" this by raising targetSdk, and do not look for a writable directory
+that allows exec: `nativeLibraryDir` sits on `apk_data_file`, and no domain has
+`execute_no_trans` on it either. Exec of app-owned files works only through the
+legacy domain, so targetSdk 28 is the whole trick. The app prints
+`/proc/self/attr/current` so the domain is visible on screen as proof.
+
 - The probe ELFs are hand-built by `scripts/make_probe_elfs.py` because no
   cross-compiler exists in this sandbox. Validate any edit with `readelf -a` and
   by decoding the three instructions (`mov r7,#248; mov r0,#42; svc #0` on ARM;

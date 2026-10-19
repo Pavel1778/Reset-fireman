@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  targetSdkVersion MUST stay at 28. SELinux selects an app's domain from
+  targetSdk (seapp_contexts), and only untrusted_app_25 / untrusted_app_27 -
+  used for targetSdk <= 28 - are granted
+  "allow untrusted_app_27 app_data_file:file execute_no_trans".
+  At targetSdk 29 and above there is no such rule, so exec of a binary from the
+  app's own data directory fails with EACCES even at mode 0755, which is exactly
+  the error this test hit before. This is why Termux targets 28 too.
+-->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.fireman.exectest">
-    <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="34" />
+    <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="28" />
     <application android:label="@string/app_name" android:theme="@android:style/Theme.Material.Light">
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>

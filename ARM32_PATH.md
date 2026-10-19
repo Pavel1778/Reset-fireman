@@ -135,7 +135,53 @@ APK копирует их в свой каталог, ставит бит вып
 |---|---|---|
 | 42 | 43 | ядро исполняет 32-бит → решение A сработает |
 | ошибка | 43 | ядро отказывает в 32-бит → только решение B |
-| ошибка | ошибка | exec из каталога приложения закрыт SELinux, вопрос открыт |
+| ошибка | ошибка | exec закрыт и на targetSdk 28 — политика вендора, пришлите экран |
+
+Первый прогон на вашем аппарате вернул `error=13, Permission denied` при
+`mode=executable` — это была моя ошибка в сборке, а не отказ ядра. Причина
+разобрана ниже, тест пересобран.
+
+### 6.1. Первая сборка дала `error=13` — и это была моя ошибка, а не ядра
+
+Первый прогон вернул:
+
+```
+could not run: IOException: Cannot run program
+".../files/probe/armprobe32.bin": error=13, Permission denied
+note: ; mode=executable
+```
+
+Бит выполнения стоял, файл читался, но `execve` вернул `EACCES`. Причина — в
+SELinux, и она точная.
+
+Домен приложения Android выбирает **по `targetSdk`** (файл `seapp_contexts`):
+
+```
+minTargetSdkVersion=34 → untrusted_app
+minTargetSdkVersion=29 → untrusted_app_29
+minTargetSdkVersion=28 → untrusted_app_27
+```
+
+Право на запуск своего файла есть только у «старых» доменов:
+
+```
+untrusted_app_27.te:  allow untrusted_app_27 app_data_file:file execute_no_trans;
+untrusted_app_all.te: allow untrusted_app_all app_data_file:file { r_file_perms execute };
+```
+
+То есть `untrusted_app_29` и выше получают лишь `execute` без `execute_no_trans`,
+а для запуска процесса нужен именно `execute_no_trans`. Отсюда отказ при
+`targetSdk 34`, с которым был собран первый вариант.
+
+Я пересобрал тест с `targetSdk 28` (ровно так же поступает Termux, который
+запускает свои бинарники именно поэтому). Проверил на ветке `android16-release` —
+версии, соответствующей вашему аппарату:
+
+- `targetSdk 28` → `untrusted_app_27` → правило `execute_no_trans` **есть**;
+- `MIN_INSTALLABLE_TARGET_SDK = 24`, значит установка при `targetSdk 28`
+  **не блокируется** (порог Android 16 — API 24, а не 28).
+
+Сборка: `minSdk 24`, `targetSdk 28`, `versionCode 2`, без `lib/`, подпись v2+v3.
 
 Файлы я собрал вручную на Python (скрипт `scripts/make_probe_elfs.py`), потому что
 кросс-компилятора в этой среде нет. Корректность проверена `readelf` и разбором

@@ -32,12 +32,19 @@ echo "[2/6] aapt2 compile resources"
 "$BT/aapt2" compile --dir "$SRC/res" -o "$SRC/obj/res.zip"
 
 echo "[3/6] aapt2 link"
+# targetSdk 28 is deliberate, not an oversight. SELinux derives an app's domain
+# from targetSdk (seapp_contexts), and only untrusted_app_25 / untrusted_app_27
+# (targetSdk <= 28) are granted app_data_file:file execute_no_trans. At 29+ that
+# rule is absent, so exec from the app's own directory fails with EACCES at mode
+# 0755 - which is exactly the failure this APK hit when built at targetSdk 34.
+# Termux targets 28 for the same reason.
 "$BT/aapt2" link \
   -o "$SRC/obj/base.apk" \
   -I "$PLATFORM" \
   --manifest "$SRC/AndroidManifest.xml" \
   --java "$SRC/gen" \
-  --min-sdk-version 24 --target-sdk-version 34 \
+  --min-sdk-version 24 --target-sdk-version 28 \
+  --version-code 2 --version-name 2 \
   -A "$SRC/assets" \
   "$SRC/obj/res.zip"
 
