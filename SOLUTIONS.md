@@ -2,8 +2,8 @@
 
 ## Short version
 
-The APK is correct. Your phone almost certainly **cannot run 32-bit apps at all**,
-and no change to the APK can fix that. Two things are needed:
+The APK is correct. Your phone has **no 32-bit Android userspace**, so it offers
+no 32-bit ABI and no change to the APK can fix that. Two things are needed:
 
 1. **Find out for sure** — install `Fireman_ABI_Check.apk` (in this release). It
    installs on any phone and tells you in one line whether 32-bit apps are
@@ -13,7 +13,21 @@ and no change to the APK can fix that. Two things are needed:
    32-bit (`armeabi-v7a`) apps, even on 64-bit-only devices. This is the only
    no-root method that is known to work.
 
-Details for both are below.
+### It is the userspace, not the kernel
+
+Worth stating precisely, because it is what makes step 2 work. On a TECNO LJ7 the
+**kernel executes 32-bit code fine** — `CONFIG_COMPAT=y`, confirmed by running a
+32-bit binary on the device itself (exit code 42, see `ARM32_PATH.md` and
+`LJ7_exec_test_output.txt`). What is missing is the 32-bit *Android runtime*: no
+32-bit `linker`, no 32-bit `libc.so`, `ro.zygote` is `zygote64`. Package Manager
+therefore reports no 32-bit ABI and refuses the game's `armeabi-v7a` libraries.
+
+That distinction is the whole reason a VM helps: a virtual machine brings its own
+32-bit Android, and the shared kernel underneath runs it natively, with no CPU
+emulation. A phone whose *kernel* refused 32-bit code would not be helped by any
+VM.
+
+Details for both steps are below.
 
 ## Step 1 — Diagnose your phone
 
@@ -61,10 +75,10 @@ whether an APK can be installed. `Fireman_ABI_Check.apk` reads the correct value
 Android 7.1.2 system inside a container on your phone, and that virtual system
 **includes a 32-bit userspace**, so 32-bit apps run inside it.
 
-It is the only mainstream VM that does this. Independent testing found that
-VMOS Pro, X8 Sandbox and Virtual Master **cannot** run `armeabi-v7a` apps on a
-64-bit-only host, while VPhoneOS can — demonstrated running a 32-bit app on a
-Pixel 8 Pro.
+It advertises 32-bit app support directly, and it is the one mainstream VM with
+reports of running `armeabi-v7a` apps on a 64-bit-only host (including a
+demonstration on a Pixel 8 Pro). Reports about the alternatives are mixed, so
+start here.
 
 Steps:
 
@@ -78,8 +92,11 @@ Steps:
 5. Inside the VM, import `Fireman_1.0.9_final.apk` (the app can import an APK from
    your storage) and install it.
 
-Expect it to be **slower than native** — the 32-bit code runs under emulation.
-That is the trade-off for making a 32-bit-only game run on a 64-bit-only phone.
+Expect it to be **slower than a native app**, since it runs a whole second Android
+system, but the 32-bit code itself is **not** CPU-emulated: the guest shares your
+kernel, and that kernel executes AArch32 natively (proved on this device — see
+`ARM32_PATH.md`). The overhead is the container and the extra system, not
+instruction translation.
 
 Note: the Play Store build of VPhoneOS may not include the root/Magisk options,
 but those are **not needed** to run a 32-bit app. Do not use "modded" builds from
