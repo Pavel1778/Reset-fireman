@@ -12,13 +12,14 @@ level, and all three native libraries are the publisher's own files.
 
 ## Deliverable
 
-`Fireman_1.0.9_final.apk` — the original game, byte-identical to the shipped
-release in 583 of its 584 entries. Only `AndroidManifest.xml` was edited and the
-APK was re-aligned and re-signed.
+`Fireman_1.0.9_final.apk` — the original game, built from the **full** release
+(the one that ships both `armeabi-v7a` and `x86` libraries, ~32 MB).
+Byte-identical to it in 585 of its 587 entries. Only `AndroidManifest.xml` was
+edited and the APK was re-aligned and re-signed.
 
 | Check | Result |
 | --- | --- |
-| Same game as the original | yes — 583/584 zip entries byte-identical |
+| Same game as the original | yes — 585/587 zip entries byte-identical, `armeabi-v7a` + `x86` |
 | Installs on 32-bit-capable Android | yes (verified on API 30) |
 | Starts without crash | yes — no `FATAL EXCEPTION`, no `UnsatisfiedLinkError` |
 | Renders the real game | yes — Unity GLES3 scene, ~11.9k fireman-orange pixels |
@@ -98,10 +99,11 @@ DIAGNOSIS.md SOLUTIONS.md ...    the written diagnosis
 bash scripts/build_fixed.sh
 ```
 
-It decodes the shipped manifest, removes the two dangling components, re-encodes,
-splices the manifest back into the pristine APK (so no other entry is touched),
-aligns with `zipalign -p 4` and signs with `apksigner`. Needs a JDK and an
-Android SDK at `sdk/`.
+It decodes the manifest, removes the two dangling components, re-encodes,
+splices the manifest back into the pristine full APK (so no other entry is
+touched), aligns with `zipalign -p 4` and signs with `apksigner`. Needs a JDK,
+apktool and an Android SDK at `sdk/`. Override the input with `FIREMAN_SRC=` if
+you want to build from a different copy.
 
 ## Verification
 
@@ -113,7 +115,7 @@ sdk/build-tools/34.0.0/apksigner verify --print-certs Fireman_1.0.9_final.apk
 # prove it is still the same game
 python3 - <<'PY'
 import zipfile
-a = zipfile.ZipFile('original/Fireman_1.0.9_ARMv7_compact.apk')
+a = zipfile.ZipFile('Fireman_1.0.9_full_original.apk')
 b = zipfile.ZipFile('Fireman_1.0.9_final.apk')
 common = set(a.namelist()) & set(b.namelist())
 same = sum(a.read(n) == b.read(n) for n in common)
