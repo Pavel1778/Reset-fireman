@@ -98,10 +98,13 @@ Run `scripts/install_apk_tools.sh` to restore everything. It installs into
 - MT6878 (Cortex-A78 + A55, ARMv8.2-A) does support AArch32 in hardware, so any
   limitation would be userspace (zygote/abilist), not silicon.
 - On Pixel 7 the 32-bit libraries were present in firmware, so flipping
-  `zygote64_32` + `abilist` re-enabled 32-bit apps. Whether LJ7 ships those
-  libraries is unknown and must be measured on the device.
+  `zygote64_32` + `abilist` re-enabled 32-bit apps. On the LJ7 the equivalent
+  probe now shows the opposite for libraries: **no 32-bit `linker` or `libc.so`
+  at all**, so there is nothing to flip. Only the kernel side is capable.
 
 ## The kernel question is now ANSWERED (settled 2026-10)
+
+Confirmed twice over: by the kernel config, and by a real run on the LJ7.
 
 - The stock LJ7 kernel image was fetched from `device_tecno_LJ7-kernel`
   (branch `lineage-23.2`, `Image.gz`) and its **embedded config extracted** via
@@ -127,6 +130,24 @@ Run `scripts/install_apk_tools.sh` to restore everything. It installs into
   `armprobe64.bin` (ELF64/AArch64, `exit_group(43)`) as assets, runs both, and
   prints exit codes, the SELinux domain, and `/proc/config.gz` lines. Read 42+43
   as "kernel runs 32-bit", which is what the config already says.
+
+### Measured on the LJ7 (2026-10), so stop treating this as inference
+
+```
+targetSdk of this app: 28
+SELinux domain: u:r:untrusted_app_27:s0:c96,c258,c512,c768
+32-bit (ELF32/ARM, exit 42):             exit code: 42   <- execution worked
+64-bit control (ELF64/AArch64, exit 43): exit code: 43   <- execution worked
+32-bit runtime files: none present
+64-bit runtime files: /system/bin/linker64, /system/lib64/libc.so, ...
+zygote: zygote64   abilist: arm64-v8a
+```
+
+Exit 42 is the 32-bit ELF running to completion. Had the kernel lacked AArch32,
+`execve` would have failed with `ENOEXEC` and there would be no exit code at all,
+so this is not a fallback or a misread. The same screen shows no 32-bit `linker`
+or `libc.so` in the firmware, which is the whole userspace reason Package Manager
+reports no 32-bit ABI. Do not describe the device as unable to run 32-bit code.
 
 ## targetSdk 28 is required for exec, and it is not a mistake
 
