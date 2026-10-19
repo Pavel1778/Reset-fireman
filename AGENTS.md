@@ -83,3 +83,51 @@ Fixes 1 and 2 alone make the APK installable; fix 3 removes dead declarations.
 - On Pixel 7 the 32-bit libraries were present in firmware, so flipping
   `zygote64_32` + `abilist` re-enabled 32-bit apps. Whether LJ7 ships those
   libraries is unknown and must be measured on the device.
+
+## The kernel question is now ANSWERED (settled 2026-10)
+
+- The stock LJ7 kernel image was fetched from `device_tecno_LJ7-kernel`
+  (branch `lineage-23.2`, `Image.gz`) and its **embedded config extracted** via
+  the `IKCFG_ST` marker (`CONFIG_IKCONFIG_PROC=y`). Saved as
+  `evidence_kernel/lj7_kernel.config`, and uploaded to the release.
+- Kernel build id in that image is `6.1.115-android14-11-g6b18f0b574ab-ab12901745`
+  which **matches the LJ7 in Device Info HW**, so the config is the real one.
+- Decisive options: `CONFIG_COMPAT=y`, `CONFIG_COMPAT_BINFMT_ELF=y`,
+  `CONFIG_KUSER_HELPERS=y`, `CONFIG_COMPAT_VDSO=y`, `CONFIG_ARM64_4K_PAGES=y`,
+  `CONFIG_ARM64_VA_BITS=39`.
+- **So the kernel executes AArch32 natively.** The install failure is a
+  *userspace* policy only (no 32-bit zygote / no 32-bit system libs), which is
+  why Package Manager reports no matching ABI. Do not describe the device as
+  unable to run 32-bit code.
+- The 4K page size matches the game's libs (`p_align=4096`), so no 16K-page
+  alignment problem either.
+- Consequence: a virtualization app that ships its **own 32-bit Android
+  userspace** can run the game natively, on the same cores, with no CPU
+  emulation. VPhoneOS advertises 32-bit app support; VMOS Pro ships ARM 32-bit
+  guest ROMs (e.g. LineageOS 14.1 ARM).
+- On-device confirmation is `Fireman_ARM32_Exec_Test.apk` (no native libs, so it
+  always installs): ships `armprobe32.bin` (ELF32/ARM, `exit_group(42)`) and
+  `armprobe64.bin` (ELF64/AArch64, `exit_group(43)`) as assets, runs both, and
+  prints exit codes plus `/proc/config.gz` lines. Read 42+43 as "kernel runs
+  32-bit", which is what the config already says.
+- The probe ELFs are hand-built by `scripts/make_probe_elfs.py` because no
+  cross-compiler exists in this sandbox. Validate any edit with `readelf -a` and
+  by decoding the three instructions (`mov r7,#248; mov r0,#42; svc #0` on ARM;
+  `movz x0,#42; movz x8,#94; svc #0` on AArch64). `exit_group` is 248 on ARM,
+  94 on AArch64; `exit` is 1 and 93.
+
+## Two real paths, and their honest costs
+
+- **Path A (no rebuild):** install a virtualization app with a 32-bit guest
+  Android and run `Fireman_1.0.9_full_original.apk` inside it. Cheap, depends on
+  the app's own limits on Android 16 (untested here).
+- **Path B (rebuild):** Unity **2017.4.16 LTS** or **2018.2+**, scripting backend
+  **IL2CPP**, Target Architectures **ARM64**. Unity 5.3.8f1 Mono cannot produce
+  arm64, so 2017.4.16 is the minimum. The recovered project is in the release
+  (`Fireman_Unity_Project_recovered.zip`). Expect work: NGUI is 130 recovered
+  scripts, fonts/materials from AssetRipper need hand-fixing, and the
+  third-party SDKs (Advertisements, Google Analytics) should be dropped.
+- Repairing the APK (signing, alignment, manifest, dex) is a dead end for
+  installation: it never adds `arm64-v8a`, and without a 32-bit linker even a
+  forced install cannot load the libs.
+
