@@ -12,39 +12,51 @@ level, and all three native libraries are the publisher's own files.
 
 ## Deliverable
 
-`Fireman_1.0.9_final.apk` — the original game, built from the **full** release
-(the one that ships both `armeabi-v7a` and `x86` libraries, ~32 MB).
-Byte-identical to it in 585 of its 587 entries. Only `AndroidManifest.xml` was
-edited and the APK was re-aligned and re-signed.
+`Fireman_1.0.9_final.apk` — the original game, taken from the **full** release
+(the one that ships both `armeabi-v7a` and `x86` libraries, ~32 MB) and re-signed
+with a modern signature scheme. **No content is modified**: 586 of its 587
+content entries are byte-identical to the original, and the only difference is
+`META-INF/MANIFEST.MF`, which `apksigner` rewrites when it re-signs. The
+`AndroidManifest.xml` is exactly as Magma Mobile shipped it.
 
 | Check | Result |
 | --- | --- |
-| Same game as the original | yes — 585/587 zip entries byte-identical, `armeabi-v7a` + `x86` |
+| Same game as the original | yes — 586/587 entries byte-identical, `armeabi-v7a` + `x86` |
 | Installs on 32-bit-capable Android | yes (verified on API 30) |
 | Starts without crash | yes — no `FATAL EXCEPTION`, no `UnsatisfiedLinkError` |
-| Renders the real game | yes — Unity GLES3 scene, ~11.9k fireman-orange pixels |
+| Renders the real game | yes — Unity GLES3 scene, ~135k fireman-orange pixels |
 | Responds to touch | yes — the frame changes on input |
-| zipalign | OK (the shipped APK fails) |
-| Signature | OK on modern Android (the shipped APK fails) |
+| zipalign | OK (already OK in the original) |
+| Signature | v1 + v2 + v3 (the original is v1-only) |
 
 Evidence screenshots are under `artifacts/evidence_real/`.
 
 ## What was actually wrong, and what was fixed
 
-The shipped APK has four real defects. None of them is "missing arm64".
+The honest answer: **almost nothing was wrong with the full original APK**, and
+none of it is "missing arm64".
 
-1. **Not zip-aligned.** `resources.arsc` is stored uncompressed but lands on a
-   4-byte-misaligned offset, so `zipalign -c 4` reports `Verification FAILED`.
-   Fixed by re-aligning on rebuild.
-2. **Signature not accepted on modern Android.** The APK is signed with a
-   SHA-256 JAR signature while declaring `minSdkVersion 14`; `apksigner verify`
-   reports it cannot be verified for API 14-17. Re-signed with a modern scheme.
-3. **Two dangling components.** `com.facebook.ads.RewardedVideoAdActivity` and
-   `up.Receiver` are declared in the manifest but the classes are **absent from
-   `classes.dex`** (confirmed by scanning the dex). Removed, so the framework
-   cannot trip over a missing class.
-4. **Legacy cleartext traffic.** The game targets SDK 27 and talks to old
-   `http://` endpoints that Android 9+ blocks by default.
+The full original already passes `zipalign -c 4`, already installs, already
+launches and already renders gameplay on any device that still supports 32-bit
+apps. The single real defect is that it is signed **v1-only** with a SHA-256 JAR
+signature while declaring `minSdkVersion 14`, so `apksigner verify` reports it
+cannot be verified for API 14-17. `Fireman_1.0.9_final.apk` fixes exactly that by
+re-signing with v1 + v2 + v3, and touches nothing else.
+
+An earlier revision of this repository went further: it round-tripped the
+manifest through `apktool`, deleted two manifest components and added
+`usesCleartextTraffic`. That was a mistake and has been reverted, because:
+
+* The two components (`com.facebook.ads.RewardedVideoAdActivity`, `up.Receiver`)
+  are absent from `classes.dex`, but Android does not fail to install or launch
+  an app because the manifest declares a class the dex lacks — they are only
+  touched if the (absent) ad SDK or the retired Market billing broadcasts fire.
+  Removing them changed nothing that could be observed.
+* `usesCleartextTraffic` is irrelevant: the app targets SDK 27, and Android only
+  blocks cleartext by default from targetSdk 28 up.
+* The `apktool` round-trip **introduced** a regression — it rewrote the two Play
+  Games `APP_ID` meta-data values from `640341620909` to `" 640341620909"`, with
+  a leading space. Re-signing the untouched APK avoids that entirely.
 
 ## Why it still will not install on a 64-bit-only phone
 
@@ -84,14 +96,23 @@ Consequences, stated honestly:
 
 ```
 Fireman_1.0.9_final.apk          the repaired original game (the deliverable)
-Fireman_1.0.9_ARMv7_compact.apk  the shipped original, unmodified (for comparison)
+artifacts/Fireman_1.0.9_full_original.apk
+                                 the pristine full original, untouched (the input)
+Fireman_1.0.9_ARMv7_compact.apk  a v7a-only, 23.5 MB APK (NOT the original — see below)
 original/                        pristine inputs
 recovered/                       the Unity project recovered from the APK
-scripts/                         build, patch, splice and verification tooling
+scripts/                         build and verification tooling
 artifacts/evidence_real/         gameplay screenshots of the repaired original
 artifacts/evidence/              diagnosis captures (ABI checks, install logs)
 DIAGNOSIS.md SOLUTIONS.md ...    the written diagnosis
 ```
+
+Note on `Fireman_1.0.9_ARMv7_compact.apk`: it is 23.5 MB, contains only
+`armeabi-v7a`, fails `zipalign -c 4`, and is signed with a certificate whose DN
+is `FIREMAN`, **not** Magma Mobile. Its `armeabi-v7a` libraries are byte-identical
+to the full original's, but the packaging is not the publisher's. It is kept only
+as a comparison point; the deliverable is built from
+`artifacts/Fireman_1.0.9_full_original.apk`.
 
 ## Rebuilding the repaired APK
 
@@ -99,11 +120,9 @@ DIAGNOSIS.md SOLUTIONS.md ...    the written diagnosis
 bash scripts/build_fixed.sh
 ```
 
-It decodes the manifest, removes the two dangling components, re-encodes,
-splices the manifest back into the pristine full APK (so no other entry is
-touched), aligns with `zipalign -p 4` and signs with `apksigner`. Needs a JDK,
-apktool and an Android SDK at `sdk/`. Override the input with `FIREMAN_SRC=` if
-you want to build from a different copy.
+It strips the old signature, aligns with `zipalign -p 4` and signs with
+`apksigner` (v1 + v2 + v3). It needs a JDK and an Android SDK at `sdk/`.
+Override the input with `FIREMAN_SRC=` to build from a different copy.
 
 ## Verification
 

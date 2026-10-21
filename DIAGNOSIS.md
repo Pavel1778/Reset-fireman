@@ -175,41 +175,47 @@ $ zipalign -c 4 Fireman_1.0.9_final.apk        -> ALIGNED OK
 
 ### 2.5. Исправленный APK сохранил оригинальные ресурсы
 
-Сравнил содержимое по SHA-256 для каждого файла:
+Сравнил содержимое по каждому файлу:
 
 ```
-original entries: 586      final entries: 583
-names only in original: lib/x86/libmain.so, lib/x86/libmono.so, lib/x86/libunity.so
+original entries: 589      final entries: 589
+content entries identical: 586 из 587
+names only in original: (нет)
 names only in final   : (нет)
-common names with DIFFERENT content: 1  -> AndroidManifest.xml
+common names with DIFFERENT content: 1  -> META-INF/MANIFEST.MF
+                                          (его перезаписывает apksigner)
+AndroidManifest.xml: идентичен оригиналу
+lib/x86/*: присутствуют, как в оригинале
 assets/ файлов: original 366, final 366
 assets/ с другим содержимым: 0
 assets/ отсутствующих в final: 0
 ```
 
-**Все 366 игровых ресурсов в `assets/` побайтово идентичны оригиналу.** Удалены
-только 3 x86-библиотеки. Семантический diff манифеста пуст (те же
-`uses-feature`, `uses-permission`, `minSdk 14`, `targetSdk 27`) — изменились лишь
-служебные поля `compileSdkVersion`. Требование не удалять единственную копию
-ресурсов выполнено: оригинал лежит отдельно как `Fireman_1.0.9_full_original.apk`.
+**Все 366 игровых ресурсов в `assets/` побайтово идентичны оригиналу.** x86- и
+armeabi-v7a библиотеки на месте. `AndroidManifest.xml` не изменялся вообще.
+Требование не удалять единственную копию ресурсов выполнено: оригинал лежит
+отдельно как `Fireman_1.0.9_full_original.apk`.
 
 ### 2.6. Ограничения окружения — что я НЕ смог проверить
 
 Это важно, и я не выдаю одно за другое.
 
-- **Эмулятор запустить не удалось.** `/dev/kvm` отсутствует, а на этом хосте
-  (x86_64) x86_64-образы требуют аппаратного ускорения. ARM64-образ я скачал
-  (android-36, 4.3 ГБ), но эмулятор отказывается:
+- **Эмулятор работает, но без KVM.** `/dev/kvm` отсутствует, поэтому ARM64-образ
+  запустить нельзя:
   `Avd's CPU Architecture 'arm64' is not supported by the QEMU2 emulator on x86_64 host`.
+  Однако x86_64-образы **API 30** (с `armeabi-v7a` через `ndk_translation`) и
+  **API 34** (только 64-бит) запускаются, и на них получены все результаты ниже.
 - **ADB к вашему телефону недоступен.** Значит, текста ошибки установки именно
   с TECNO LJ7 у меня нет.
-- **Более ранние тесты шли на x86_64-эмуляторе с `ndk_translation`**, а не на
-  ARM-железе. Лог это подтверждает: `ndk_translation: Initialized NDK
-  translation (armv7l)`, `Unexpected CPU variant for X86`. Тот тест доказывает
-  механизм отказа (`NO_MATCHING_ABIS`), но это **не** тест на вашем телефоне.
+- **Тесты шли на x86_64-эмуляторах с `ndk_translation`**, а не на ARM-железе. Лог
+  это подтверждает: `ndk_translation: Initialized NDK translation (armv7l)`,
+  `Unexpected CPU variant for X86`. Эти тесты доказывают механизм отказа
+  (`NO_MATCHING_ABIS` на 64-бит-only образе) и работоспособность игры на образах
+  с 32-битным ABI, но это **не** тест на вашем телефоне.
 
-Поэтому: причина доказана на уровне конфигурации устройства и структуры APK.
-Остаётся подтвердить её прямо на телефоне — одним тестом, см. раздел 4.
+Поэтому: причина доказана на уровне конфигурации устройства и структуры APK, а
+также воспроизведена на эмуляторе с `abilist32=[]`. Остаётся подтвердить её прямо
+на телефоне — одним тестом, см. раздел 4.
 
 ---
 

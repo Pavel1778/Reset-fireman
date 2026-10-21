@@ -2,19 +2,38 @@
 
 ## Current deliverable (settled)
 - The deliverable is the **repaired original APK**, `Fireman_1.0.9_final.apk`:
-  the publisher's own game, byte-identical in 583/584 zip entries, with only
-  `AndroidManifest.xml` edited plus a fresh alignment and signature.
+  the publisher's own game, taken from `artifacts/Fireman_1.0.9_full_original.apk`
+  and **re-signed v1+v2+v3 with no content change**. 586/587 content entries are
+  byte-identical to the original; the only difference is `META-INF/MANIFEST.MF`,
+  which `apksigner` rewrites. `AndroidManifest.xml` is untouched.
+- SHA-256 `e8656604513405b9d4d60e8bc17208e894cc32425d98c530fff0180e7676de21`,
+  32,090,949 bytes.
 - A pure-Java re-implementation once lived in `port/`. It was **rejected by the
   user** ("doesn't resemble the original game, completely broken") and has been
   deleted. Do not reintroduce it. The user wants the original game fixed, not a
   remake.
-- Verified gameplay of the repaired APK: installed on an API 30 emulator (which
-  keeps a 32-bit ABI list), launched, rendered a Unity GLES3 scene, ~11.9k
-  fireman-orange pixels, frames change on input, no `FATAL EXCEPTION` and no
-  `UnsatisfiedLinkError`. Screenshots in `artifacts/evidence_real/`.
-- Reproduced the LJ7's ABI block on an API 34 emulator (`abilist32` empty):
-  both the repaired APK and a universal armeabi-v7a+x86 build fail with
+- Verified gameplay: installed on an API 30 emulator (which keeps a 32-bit ABI
+  list), launched, rendered a Unity GLES3 scene, ~135k fireman-orange pixels per
+  frame, frames change on input, no `FATAL EXCEPTION` and no
+  `UnsatisfiedLinkError`. The untouched original was A/B-tested the same way and
+  behaves identically. Screenshots in `artifacts/evidence_real/`.
+- Reproduced the 64-bit-only block on an API 34 emulator (`abilist32` empty):
+  both the repaired APK and the untouched original fail with
   `INSTALL_FAILED_NO_MATCHING_ABIS`. The same APKs install fine on API 30.
+
+## Do not re-introduce these (reverted mistakes)
+An earlier revision round-tripped the manifest through `apktool` to delete two
+components and add `usesCleartextTraffic`. That was wrong:
+- It **introduced a regression**: `apktool` rewrote the Play Games `APP_ID`
+  values from `640341620909` to `" 640341620909"` (leading space), breaking the
+  Games sign-in path.
+- Android does not refuse to install or launch an app because the manifest
+  declares a class absent from `classes.dex`, so deleting the two components
+  changed nothing observable.
+- `usesCleartextTraffic` is moot at targetSdk 27; Android blocks cleartext by
+  default only from targetSdk 28.
+`scripts/build_fixed.sh` now re-signs the pristine APK and touches no content.
+Keep it that way. See `AUDIT.md`.
 
 ## What the app is
 - Package `com.magmamobile.game.Fireman`, versionCode 17, versionName 1.0.9, minSdk 14, targetSdk 27.
@@ -26,18 +45,28 @@
   managed assemblies are portable, but `libunity.so`/`libmono.so` would have to
   come from an arm64 Unity build of the same engine version. Not reproducible.
 
-## Why the shipped APK is broken
-The APK in `Reset-fireman/Fireman_1.0.9_ARMv7_compact.apk` cannot be installed as-is:
+## What was actually wrong (measured)
+The **full original** (`artifacts/Fireman_1.0.9_full_original.apk`) is in much
+better shape than earlier notes claimed. It already passes `zipalign -c 4`,
+already installs on API 30 and API 34, and already renders gameplay. Its one real
+defect is that it is signed **v1-only with SHA-256**, which `apksigner` flags as
+unsupported for the declared API 14-17. Re-signing with v1+v2+v3 fixes exactly
+that.
 
-1. `resources.arsc` is stored **uncompressed but misaligned** (offset % 4 == 3).
-   Android 11+ requires uncompressed entries to be 4-byte aligned.
-2. It is signed with the **v1 scheme only**, and the JAR signature uses SHA-256,
-   which `apksigner` flags as unsupported for API 14–17 (the declared minSdk).
-3. The manifest declares two components whose classes are absent from
-   `classes.dex`: `com.facebook.ads.RewardedVideoAdActivity` and `up.Receiver`
-   (verified: zero smali references).
+The separate file `Fireman_1.0.9_ARMv7_compact.apk` (23,598,505 bytes) **is not
+the publisher's original**. It is `armeabi-v7a`-only, fails `zipalign -c 4`, and
+is signed with a certificate whose DN is `FIREMAN`, not `CN=Magma Mobile`. Its
+three `armeabi-v7a` libraries are byte-identical to the full original's. Earlier
+notes confused this locally produced file with the real release, which is how
+"not zip-aligned" and "would not install" entered the docs. `FULL_VS_COMPACT.md`
+had already recorded the correction; treat the compact file as a comparison
+artifact only.
 
-Fixes 1 and 2 alone make the APK installable; fix 3 removes dead declarations.
+Manifest-declared components whose classes are absent from `classes.dex`
+(`com.facebook.ads.RewardedVideoAdActivity`, `up.Receiver`) do **not** prevent
+install or launch on modern Android. Removing them is optional and was reverted
+because the `apktool` round-trip needed to do it corrupted the Play Games
+`APP_ID` values.
 
 ## Device reality (TECNO Pova 7 5G / LJ7)
 - SoC MT6878 (Dimensity 7300 Ultra), kernel 6.1.115, ships Android 15, HiOS 15.
@@ -47,13 +76,18 @@ Fixes 1 and 2 alone make the APK installable; fix 3 removes dead declarations.
   limitation is userspace (zygote/abilist), not hardware.
 
 ## Artifacts
-- `artifacts/Fireman_1.0.9_final.apk` — **primary deliverable.** Byte-identical to
-  the original except `AndroidManifest.xml` (patched) and the signature files.
-  zipalign-corrected, signed v1+v2+v3.
-- `artifacts/Fireman_1.0.9_fixed.apk` — same but with the manifest untouched:
-  pure zipalign + re-sign of the original.
-- `artifacts/evidence/renders_gameplay_v3.png` — gameplay frame proving the
-  rebuilt APK runs (orange fireman palette `rgb(255,186,8)`).
+- `artifacts/Fireman_1.0.9_final.apk` — **primary deliverable.** The pristine full
+  original, re-signed v1+v2+v3. No content changed; only `META-INF/MANIFEST.MF`
+  differs. Built by `scripts/build_fixed.sh`.
+- `artifacts/Fireman_1.0.9_full_original.apk` — the untouched original (Magma
+  Mobile certificate intact), the input to the build and the right file to use if
+  you need signature compatibility with an installed Play copy.
+- `artifacts/Fireman_1.0.9_universal_fixed.apk` — content-identical to the
+  deliverable, produced by the same re-sign-only method; kept for continuity.
+- `Fireman_1.0.9_ARMv7_compact.apk` (repo root) — v7a-only local artifact, **not**
+  the publisher's release. Comparison only.
+- `artifacts/evidence_real/` — gameplay screenshots of the deliverable and of the
+  untouched original (A/B).
 
 ## Toolchain used (rebuilt after the sandbox was reset)
 
